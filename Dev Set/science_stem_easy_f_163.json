@@ -1,0 +1,3446 @@
+[
+    {
+        "q_no": 1,
+        "subject": "science",
+        "category": "stem",
+        "question": "සියලුම ජීවින්ට පොදු ලක්ෂණයක් නොවන්නේ,",
+        "choices": [
+            "ප්‍රජනනය",
+            "වර්ධනය",
+            "ශ්වසනය",
+            "ප්‍රභාසංස්ලේෂණය"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/southern-province-20232024-grade-06-science-3rd-term-test-paper/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 2,
+        "subject": "science",
+        "category": "stem",
+        "question": "ජලයේ සිටින ක්ෂුද්‍ර ජීවීන් පැහැදිලිව නිරීක්ෂණයට වඩාත් සුදුසු උපකරණය කුමක්ද?",
+        "choices": [
+            "දුරේක්ෂය",
+            "සංයුක්ත අණ්වීක්ෂය",
+            "අත්කාචය",
+            "ඉහත සියල්ලම"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/southern-province-20232024-grade-06-science-3rd-term-test-paper/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 3,
+        "subject": "science",
+        "category": "stem",
+        "question": "එක් ආහාර වර්ගයක් මත පමණක් යැපීම නිසා වඳවී යාමේ තර්ජනයට මුහුණපා සිටින සත්වයෙකි.",
+        "choices": [
+            "සිංහයා",
+            "ජිරාෆ්",
+            "පැන්ඩා",
+            "දිවියා"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/southern-province-20232024-grade-06-science-3rd-term-test-paper/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 4,
+        "subject": "science",
+        "category": "stem",
+        "question": "වඩාත් කාර්යක්ෂම විදුලි බුබුළු වර්ගය මින් කුමක්ද?",
+        "choices": [
+            "සුත්‍රිකා බල්බ",
+            "ප්‍රතිදීප්ත පහන්",
+            "CFL බල්බ",
+            "LED බල්බ"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/southern-province-20232024-grade-06-science-3rd-term-test-paper/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 5,
+        "subject": "science",
+        "category": "stem",
+        "question": "ළඳරු සූප්පු, අත් ආවරණ සෑදීමට රබර් යොදා ගනී. ඊට හේතු වන්නේ රබර් සතු කවර ගුණයද?",
+        "choices": [
+            "භංගුරතාවය",
+            "ප්‍රත්‍යස්ථ ගුණය",
+            "ආහන්‍ය ගුණය",
+            "මෘදු බව"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/southern-province-20232024-grade-06-science-3rd-term-test-paper/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 6,
+        "subject": "science",
+        "category": "stem",
+        "question": "පෘථිවියේ පවතින පරිභෝජනයට ගත හැකි ජලය ප්‍රතිශතය",
+        "choices": [
+            "1% පමණි.",
+            "10% පමණි.",
+            "0. 01% පමණි.",
+            "0. 1% පමණි."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/southern-province-20232024-grade-06-science-3rd-term-test-paper/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 7,
+        "subject": "science",
+        "category": "stem",
+        "question": "උෂ්ණත්වය මැනීමේ අන්තර් ජාතික සම්මත ඒකකය,",
+        "choices": [
+            "°C",
+            "K",
+            "°F",
+            "J"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/southern-province-20232024-grade-06-science-3rd-term-test-paper/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 8,
+        "subject": "science",
+        "category": "stem",
+        "question": "අසත්‍ය ප්‍රකාශය තෝරන්න,",
+        "choices": [
+            "ආහාර දාම කිහිපයක් එකිනෙක සම්බන්ධ වීමෙන් ආහාර ජාලයක් ගොඩ නැඟී ඇත.",
+            "ආහාර දාමයක පළමු පුරුක නිෂ්පාදකයා ලෙස හඳුන්වයි.",
+            "ආහාර දාමයක දෙවන පුරුක අනිවාර්යයෙන්ම ශාක භක්ෂකයෙකි.",
+            "ආහාර දාමයක තුන්වන පුරුක මාංශ හෝ සර්ව භක්ෂකයෙක් විය හැකිය."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/southern-province-20232024-grade-06-science-3rd-term-test-paper/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 9,
+        "subject": "science",
+        "category": "stem",
+        "question": "පරිසර උෂ්ණත්වයට අනුව ශරීර උෂ්ණත්වය වෙනස් කර නොගන්නා සත්වයා වන්නේ,",
+        "choices": [
+            "කිඹුලා",
+            "පිඹුරා",
+            "ගෙම්බා",
+            "කටුස්සා"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/southern-province-20232024-grade-06-science-3rd-term-test-paper/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 10,
+        "subject": "science",
+        "category": "stem",
+        "question": "චුම්භක සතුවන ලක්ෂණ කිහිපයක් පහත දැක්වේ.\n(A) චුම්භකය පුරාම ඒකාකාරව චුම්භක ගුණ පැතිරී ඇත.\n(B) චුම්බකයේ ධ්‍රැව දෙකෙහි චුම්භක ගුණ වැඩිපුර ඇත.\n(C) විජාතිය චුම්බක ධ්‍රැව ආකර්ශනය කරයි.\nමින් සත්‍ය වන්නේ,",
+        "choices": [
+            "A පමණක් සත්‍ය වේ.",
+            "B පමණක් සත්‍ය වේ.",
+            "B හා C සත්‍ය වේ.",
+            "A, B හා C සියල්ල සත්‍ය වේ."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/southern-province-20232024-grade-06-science-3rd-term-test-paper/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 11,
+        "subject": "science",
+        "category": "stem",
+        "question": "තමා විසින් ම ආලෝකය නිකුත් කරන වස්තු හැඳින්වෙන්නේ",
+        "choices": [
+            "දීප්ත වස්තු ලෙසය.",
+            "අදීප්ත වස්තු ලෙසය.",
+            "ආලෝක ප්‍රභව ලෙසය.",
+            "පාරදෘශ්‍ය වස්තු ලෙසය."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/southern-province-20232024-grade-06-science-3rd-term-test-paper/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 12,
+        "subject": "science",
+        "category": "stem",
+        "question": "නොරොචෝලේ පිහිටා ඇති විදුලි බලාගාරය ක්‍රියාත්මක කිරීමට ශක්තිය ලබා ගන්නේ පහත කුමන ක්‍රමයෙන්ද?",
+        "choices": [
+            "ගලායන ජලයේ ශක්තිය",
+            "ඩීසල්",
+            "ගල් අඟුරු",
+            "සූර්ය ශක්තිය"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/southern-province-20232024-grade-06-science-3rd-term-test-paper/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 13,
+        "subject": "science",
+        "category": "stem",
+        "question": "කාලගුණ වාර්තාවක 12.5mm ලෙස දක්වා ඇත්තේ,",
+        "choices": [
+            "උෂ්ණත්වය",
+            "ආර්ද්‍රතාවය",
+            "සුළගේ වේගය",
+            "වර්ෂාපතනය"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/southern-province-20232024-grade-06-science-3rd-term-test-paper/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 14,
+        "subject": "science",
+        "category": "stem",
+        "question": "අබ ඇට ස්වල්පයක් රබානක් මතුපිටට දමා රබානට සෙම්න් තට්ටු කරන විට අබ ඇට ඔබ මොබ චලනය වනු දැකිය හැක. මෙයින් නිගමනය කල හැක්කේ,",
+        "choices": [
+            "අබ ඇට සුළඟට කම්පනය වන බව",
+            "ධ්වනිය නිපදවන පටලය කම්පනය වන බව",
+            "අබ ඇට කම්පනය වී හඬ නිපදවන බව",
+            "අබ ඇට කම්පනය වීම නිසා පටලය ද කම්පනය වේ."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/southern-province-20232024-grade-06-science-3rd-term-test-paper/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 15,
+        "subject": "science",
+        "category": "stem",
+        "question": "යම් වස්තුවක අඩංගු පදාර්ථ ප්‍රමාණය හැඳින්වෙන්නේ,",
+        "choices": [
+            "ස්කන්ධය ලෙස",
+            "බර ලෙස",
+            "පරිමාව ලෙස",
+            "ඝනත්වය ලෙස"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/southern-province-20232024-grade-06-science-3rd-term-test-paper/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 16,
+        "subject": "science",
+        "category": "stem",
+        "question": "පහත ශක්ති ප්‍රභව අතරින් වඩාත් පරිසර හිතකාමී ශක්ති ප්‍රභවය වන්නේ,",
+        "choices": [
+            "ජෛව ස්කන්ධ",
+            "ගල් අඟුරු",
+            "න්‍යෂ්ටික ශක්තිය",
+            "ජල විදුලිය"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/southern-province-20232024-grade-06-science-3rd-term-test-paper/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 17,
+        "subject": "science",
+        "category": "stem",
+        "question": "ශ්වසනයේ දී පිටවන කාබන්ඩයොක්සයිඩ් වායුව හඳුනා ගන්නා පරීක්ෂාව වන්නේ,",
+        "choices": [
+            "හුණු දියර කිරි පාට වීම.",
+            "සබන් දියර කිරි පාට වීම",
+            "අවර්ණ හුණු දියර කිරි පාට වීම",
+            "අවර්ණ සබන් දියර කිරි පාට වීම"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/southern-province-20232024-grade-06-science-3rd-term-test-paper/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 18,
+        "subject": "science",
+        "category": "stem",
+        "question": "ශක්ති ප්‍රභවවල තිරසාර භාවිතයට නිදසුනක් වන්නේ,",
+        "choices": [
+            "පාපැදි භාවිතය",
+            "පෞද්ගලික වාහන භාවිතය",
+            "අධිකෝපභෝගී වාහන භාවිතය",
+            "පොදු ප්‍රවාහන සේවා භාවිතය"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/southern-province-20232024-grade-06-science-3rd-term-test-paper/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 19,
+        "subject": "science",
+        "category": "stem",
+        "question": "ශාක ආහාර නිපදවීමේ දී වායුගෝලයෙන් ලබා ගන්නා වායුව කුමක්ද? \n",
+        "choices": [
+            "ඔක්සිජන්",
+            "නයිට්‍රජන්",
+            "හයිඩ්‍රජන්",
+            "කාබන්ඩයොක්සයිඩ්"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-06-science-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 20,
+        "subject": "science",
+        "category": "stem",
+        "question": " ශාක තුළ පමණක් සිදුවන ජීව ක්‍රියාවලිය වන්නේ,",
+        "choices": [
+            "චලනය",
+            "ප්‍රජනනය",
+            "වර්ධනය",
+            "ප්‍රභාසංස්ලේෂණය"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-06-science-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 21,
+        "subject": "science",
+        "category": "stem",
+        "question": "පිළිවෙලින් තත්, පටල, වායු කඳක් කම්පනය වන උපකරණ අඩංගු නිවැරදි පිළිතුරු වන්නේ,",
+        "choices": [
+            "වයලීනය, තම්මැට්ටම, සර්පිනාව",
+            "ගිටාරය, බෙරය, උඩැක්කිය",
+            "වීනාව, නළාව, උඩැක්කිය",
+            "වයලීනය, රබාන, තම්මැට්ටම"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-06-science-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 22,
+        "subject": "science",
+        "category": "stem",
+        "question": "දීප්ත වස්තු පමණක් අඩංගු පිළිතුරු තෝරන්න.",
+        "choices": [
+            "සූර්යයා, කණාමැදිරියා",
+            "සූර්යයා, රෑබදුල්ලාගේ එළිය",
+            "චන්ද්‍රයා, ආලෝකය විහිදුවන හතු",
+            "ග්‍රහලෝක, රෑබදුල්ලා"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-06-science-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 23,
+        "subject": "science",
+        "category": "stem",
+        "question": "මුහුදු ජලයේ වැඩිපුරම අඩංගු ලවණය කුමක්ද?",
+        "choices": [
+            "කැල්සියම් කාබනේට්",
+            "සෝඩියම් කාබනේට්",
+            "සෝඩියම් ක්ලෝරයිඩ්",
+            "කැල්සියම් ක්ලෝරයිඩ්"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-06-science-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 24,
+        "subject": "science",
+        "category": "stem",
+        "question": "ස්කන්ධයක් රහිත, අවකාශයේ ඉඩක් අත්කර නොගන්නා ද්‍රව්‍ය,",
+        "choices": [
+            "ඝන ද්‍රව්‍ය වේ.",
+            "ශක්ති වේ.",
+            "වායු වේ.",
+            "පදාර්ථ වේ."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-06-science-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 25,
+        "subject": "science",
+        "category": "stem",
+        "question": "ෆොසිල ඉන්ධන සම්බන්ධ වැරදි ප්‍රකාශය කුමක්ද?",
+        "choices": [
+            "පොළොව අභ්‍යන්තරයෙන් ලබා ගනී.",
+            "ජෛව ස්කන්ධ දහනය වීමෙන් හටගනී.",
+            "ඒවායේ සූර්යයාගේ ශක්තිය අන්තර්ගත වී ඇත",
+            "දිනෙන් දින ක්ෂය වෙමින් පවතී."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-06-science-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 26,
+        "subject": "science",
+        "category": "stem",
+        "question": "භාවිතයෙන් ඉවත් කළ CFL බල්බ පරිසරයට එකතු වීම අහිතකර කර වීමට වඩාත්ම බලපාන හේතුව වන්නේ,",
+        "choices": [
+            "එහි වීදුරු අන්තර්ගත වීමයි.",
+            "ඒවායේ අහිතකර වායු අන්තර්ගත වීමයි.",
+            "ඒවායේ රසදිය අන්තර්ගත වීමයි.",
+            "එහි පිනෝල හා නැප්තලීන් වැනි සංයෝග අන්තර්ගත වීමයි."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-06-science-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 27,
+        "subject": "science",
+        "category": "stem",
+        "question": "විදුලි අනතුරු වැලකීම සඳහා ගෘහ විද්‍යුත් පරිපථයක අනිවාර්යයෙන්ම තිබිය යුතු උපාංගය වන්නේ,",
+        "choices": [
+            "ප්‍රධාන ස්විචය",
+            "විදුලි මීටරය",
+            "පැන්නුම් ස්විචය",
+            "භූගත කම්බිය"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-06-science-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 28,
+        "subject": "science",
+        "category": "stem",
+        "question": "ද්‍රව → ඝන අවස්ථා විපර්යාසය සඳහා උදාහරණයක් වන්නේ,",
+        "choices": [
+            "තුෂාර ඇති වීම",
+            "යකඩ ද්‍රව වීම",
+            "අයිස් කැට දියවීම",
+            "අයිස් කැට සෑදීම"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-06-science-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 29,
+        "subject": "science",
+        "category": "stem",
+        "question": "විදුලි පරිපථයක් තුළින් විදුලි ධාරාවක් එක් දිශාවකට පමණක් ගමන් කිරීමට සලසන උපාංගය වන්නේ,",
+        "choices": [
+            "ඩයෝඩය",
+            "ධාරිත්‍රකය",
+            "ස්විචය",
+            "ආලෝක සංවේදී ප්‍රතිරෝධක"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-06-science-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 30,
+        "subject": "science",
+        "category": "stem",
+        "question": "භංගුර, ආහත්‍ය සහ තන්‍ය යන ලක්ෂණ සහිත ද්‍රව්‍ය පිළිවෙළින් අඩංගු පිළිතුර තෝරන්න.",
+        "choices": [
+            "වීදුරු, යකඩ, රබර්",
+            "වීදුරු, රත්රන්, ඉලාස්ටික්",
+            "අඟුරු, රබර්, තඹ",
+            "අඟුරු, තඹ, ඇලුමිනියම්"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-06-science-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 31,
+        "subject": "science",
+        "category": "stem",
+        "question": "එන්ජිමක් මගින් ඩයිනමෝවක් කරකවා විදුලිය ලබා ගන්නා විදුලි බලාගාරය වන්නේ,",
+        "choices": [
+            "කැළණිතිස්ස",
+            "රන්ටැඹේ",
+            "නොරොචෝලය",
+            "වික්ටෝරියා"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-06-science-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 32,
+        "subject": "science",
+        "category": "stem",
+        "question": "පහත ප්‍රකාශ අතුරින් නිවැරදි ප්‍රකාශය තෝරන්න.",
+        "choices": [
+            "ශාකවල වර්ධනය යම් කාලයකට පසු නවතී.",
+            "හරිතප්‍රද වර්ණකය නැති වුවත් සතුන් ආහාර නිෂ්පාදනය කරයි.",
+            "සතුන්ගේ වර්ධනය ජීවිත කාලය පුරාම සිදු වේ.",
+            "දෙබෙදුම් සුචි වල දී යම් ලක්ෂණයක් ඇති නැති බව අනුව වර්ග කරයි."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-06-science-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 33,
+        "subject": "science",
+        "category": "stem",
+        "question": "නාය යෑම් හා සම්බන්ධ අසත්‍ය ප්‍රකාශය වන්නේ,",
+        "choices": [
+            "ලංකාවේ වැඩිපුර සිදුවන්නේ නුවර එළිය, රත්නපුර ප්‍රදේශ වලයි.",
+            "ඉහළින් පිහිටි පස්, ගල්, ගස් වැලි පහළ ප්‍රදේශයකට ලිස්සා යාමක් මෙහි දී සිදු වේ.",
+            "නායයෑම් සඳහා පෘථිවියේ ගුරුත්ව බලය හේතු නොවේ.",
+            "කඳු බෑවුම් නාය යෑම් වලට මිනිසාගේ අයපත් ක්‍රියාවන් වැඩිපුර හේතු වේ."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-06-science-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 34,
+        "subject": "science",
+        "category": "stem",
+        "question": "ශාක මත වක්‍රව යැපෙන විෂමපෝෂී ජීවියෙකි.",
+        "choices": [
+            "ගිරවා",
+            "ගවයා",
+            "සමනළයා",
+            "සිංහයා"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-science-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 35,
+        "subject": "science",
+        "category": "stem",
+        "question": "ප්‍රභාසංස්ලේෂණ ක්‍රියාවලියට අවශ්‍ය සාධකයක් නොවන්නේ,",
+        "choices": [
+            "කාබන්ඩයොක්සයිඩ් වායුව",
+            "ඔක්සිජන් වායුව",
+            "ජලය",
+            "හරිතප්‍රද"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-science-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 36,
+        "subject": "science",
+        "category": "stem",
+        "question": "ජීවීන්ගේ ශ්වසනයට වැයවන වායුව හා ශ්වසනයෙන් නිපදවන වායුව වන්නේ පිළිවෙලින්,",
+        "choices": [
+            "ඔක්සිජන් හා කාබන්ඩයොක්සයිඩ්",
+            "කාබන්ඩයොක්සයිඩ් හා ඔක්සිජන්",
+            "ඔක්සිජන් හා නයිට්‍රජන්",
+            "නයිට්‍රජන් හා කාබන්ඩයොක්සයිඩ්"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-science-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 37,
+        "subject": "science",
+        "category": "stem",
+        "question": "කාමර උෂ්ණත්වයේදී ඝන හා ද්‍රව අවස්ථාවේ පවතින ද්‍රව්‍ය වන්නේ පිළිවෙලින්,",
+        "choices": [
+            "රසදිය, යකඩ",
+            "යකඩ, රසදිය",
+            "පෙට්‍රල්, ඇලුමිනියම්",
+            "රසදිය, පොල්තෙල්"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-science-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 38,
+        "subject": "science",
+        "category": "stem",
+        "question": "කිවුල් දිය ඇති අවස්ථාවකට උදාහරණයකි.",
+        "choices": [
+            "මුහුදු ජලය",
+            "සාගර ජලය",
+            "කලපු ජලය",
+            "ගංගා ජලය"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-science-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 39,
+        "subject": "science",
+        "category": "stem",
+        "question": "ජලයට ද්‍රව්‍ය එකතු වීම පිළිබඳව ප්‍රකාශ තුනක් පහත දැක්වේ.\nA - පොලිතීන් හා ප්ලාස්ටික් එකතුවීමෙන් ජලය දූෂණය වේ.\nB - මතුපිට ජලය දූෂණය වීම භූගත ජලය දූෂණයට හේතු වේ.\nC - ජලය දූෂණය වීමෙන් පරිභෝජනයට ගත හැකි ජලය සීමිත වේ.\nමින් සත්‍ය වන්නේ,",
+        "choices": [
+            "A හා B",
+            "B හා C",
+            "A හා C",
+            "A, B, C සියල්ල"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-science-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 40,
+        "subject": "science",
+        "category": "stem",
+        "question": "ෆොසිල ඉන්ධන යටතට ගැනෙන ද්‍රව්‍ය පමණක් අඩංගු පිළිතුර තෝරන්න.",
+        "choices": [
+            "ගල් අගුරු, ලී කුඩු, දර",
+            "පෙට්‍රෝලියම් තෙල්, දර, පෙට්‍රෝලියම් වායුව",
+            "ගල් අගුරු, පොල්කටු අඟුරු, පෙට්‍රෝලියම් වායුව",
+            "ගල් අගුරු, පෙට්‍රෝලියම් තෙල්, පෙට්‍රෝලියම් වායුව"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-science-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 41,
+        "subject": "science",
+        "category": "stem",
+        "question": "යම් වස්තුවක අඩංගු පදාර්ථ ප්‍රමාණය හැඳින්වෙන්නේ,\n",
+        "choices": [
+            "ස්කන්ධය ලෙසය",
+            "පරිමාව ලෙසය",
+            "බර ලෙසය",
+            "ශක්තිය ලෙසය"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-science-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 42,
+        "subject": "science",
+        "category": "stem",
+        "question": "ආලෝකය සම්බන්ධ ප්‍රකාශ තුනක් පහත දැක්වේ.\nA - ආලෝකය ශක්ති විශේෂයකි.\nB - ආලෝකය සරල රේඛීය මාර්ගයක ගමන් කරයි.\nC - ආලෝකය ගමන් කරන ඉතාමත් පටු ගමන් මාර්ගයක් ආලෝක කදම්බයක් නම් වේ.\nමින් සත්‍ය වන්නේ,\n",
+        "choices": [
+            "A හා B",
+            "B හා C",
+            "A හා C",
+            "A, B, C සියල්ල"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-science-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 43,
+        "subject": "science",
+        "category": "stem",
+        "question": "එකම ආකාරයට ශබ්දය නිපදවන සංගීත භාණ්ඩ යුගලය වන්නේ,",
+        "choices": [
+            "රබාන හා වයලීනය",
+            "ගිටාරය හා බටනලාව",
+            "වයලීනය හා ගිටාරය",
+            "රබාන හා බටනලාව"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-science-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 44,
+        "subject": "science",
+        "category": "stem",
+        "question": "ශබ්දය හා ඇසීම පිළිබඳ වැරදි වගන්තිය වන්නේ,",
+        "choices": [
+            "ධ්වනිය නිපදවන්නේ යමක් කම්පනය වීමෙනි.",
+            "සංගීතයේදී රිද්මයකට අනුව ගැයීම හා වැයීම සිදු වේ.",
+            "සංගීත නාදවල ඉතා අධික ශබ්ද පීඩාකාරී නොවේ.",
+            "ඝෝෂාවකදී රිද්මයානුකූල නොවන අවිධිමත් ශබ්ද ඇති වේ."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-science-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 45,
+        "subject": "science",
+        "category": "stem",
+        "question": "දණ්ඩ චුම්බකයක් නූලකින් එල්ලා නිශ්චල වීමට තැබූ විට,",
+        "choices": [
+            "එහි ධ්‍රැව සෑම විටම නැගෙනහිර - බටහිර දිශා වලට යොමු වේ.",
+            "එහි ධ්‍රැව සෑම විටම උතුරු - දකුණු දිශාවලට යොමු වේ.",
+            "නිශ්චල විට උතුරු දිශාවට චුම්භක දකුණ යොමු වේ.",
+            "නිශ්චිත දිශාවක් ගැන කිව නොහැක."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-science-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 46,
+        "subject": "science",
+        "category": "stem",
+        "question": "ඔබට චුම්බකයක් ලබා දී ඇත්නම් පහත ද්‍රව්‍ය යුගල වලින් එකක් පමණක් වෙන්කර ගත හැකි අවස්ථාව කුමක්ද?",
+        "choices": [
+            "වැලි හා යකඩ කුඩු",
+            "ලුණු හා වැලි",
+            "ඇලුමිනියම් කැබලි හා තඹ කැබලි",
+            "යකඩ අල්පෙනෙති හා ඉඳිකටු"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-science-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 47,
+        "subject": "science",
+        "category": "stem",
+        "question": "වකුගඩු රෝගය වර්තමානයේ මිනිසුන් අතර බහුලව දැකිය හැකි රෝගයකි. ඒ සඳහා බලපාන හේතු විය හැක්කේ,",
+        "choices": [
+            "කෘෂි කර්මාන්තය සඳහා බහුල ලෙස කෘෂි රසායනික ද්‍රව්‍ය භාවිතය.",
+            "කර්මාන්ත ශාලා වලින් බැහැර කරන අපද්‍රව්‍ය ජලාශ වලට මුදා හැරීම.",
+            "අවශ්‍ය ප්‍රමාණයට ජලය පානය නොකිරීම.",
+            "ඉහත සියල්ලම."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-science-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 48,
+        "subject": "science",
+        "category": "stem",
+        "question": "පහත ශාක අතරින් ආලග්න මුල් සහිත ශාකය කුමක්ද?",
+        "choices": [
+            "ඕකිඩ්",
+            "බතල",
+            "බුලත්",
+            "රම්පේ"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_WP",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/western-province-20232024-grade-07-science-3rd-term-test-paper/"
+        }
+    },
+    {
+        "q_no": 49,
+        "subject": "science",
+        "category": "stem",
+        "question": "රසායනික ක්‍රියාවලියක් මගින් විදුලිය නිපදවනුයේ,",
+        "choices": [
+            "සූර්ය කෝෂ මගිනි.",
+            "ඩයිනමෝවක් මගිනි.",
+            "ඇමීටරයක් මගිනි.",
+            "සරල කෝෂයක් මගිනි."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_WP",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/western-province-20232024-grade-07-science-3rd-term-test-paper/"
+        }
+    },
+    {
+        "q_no": 50,
+        "subject": "science",
+        "category": "stem",
+        "question": "අම්ල හමුවේ pH කඩදාසි මගින් ලබාදෙන වර්ණයක් වන්නේ පහත කවරක්ද?",
+        "choices": [
+            "කොළ",
+            "තැඹිලි",
+            "නිල්",
+            "දම්"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_WP",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/western-province-20232024-grade-07-science-3rd-term-test-paper/"
+        }
+    },
+    {
+        "q_no": 51,
+        "subject": "science",
+        "category": "stem",
+        "question": "පහත පිළිතුරු අතුරින් පෘෂ්ඨවංශී සතුන් යුගලය තෝරන්න.",
+        "choices": [
+            "මකුළුවා, ඉස්සා",
+            "මැඬියා, කූඩැල්ලා",
+            "වවුලා, කැස්බෑවා",
+            "පිඹුරා, කකුළුවා"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_WP",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/western-province-20232024-grade-07-science-3rd-term-test-paper/"
+        }
+    },
+    {
+        "q_no": 52,
+        "subject": "science",
+        "category": "stem",
+        "question": "X වෙනසක් නිසා හෝ Y වෙනස්වීමක් නිසා හෝ වස්තුවක ගබඩා වන ශක්තිය විභව ශක්තිය යි.\nමෙම වගන්තියේ X හා Y හිස්තැන්වලට ගැලපෙන පිළිතුරු යුගලය පහත කවරක්ද?",
+        "choices": [
+            "පිහිටීමේ හා හැඩයේ",
+            "පිහිටීමේ හා චලනයේ",
+            "හැඩයේ හා පරිමාවේ",
+            "ස්කන්ධයේ හා පරිමාවේ"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_WP",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/western-province-20232024-grade-07-science-3rd-term-test-paper/"
+        }
+    },
+    {
+        "q_no": 53,
+        "subject": "science",
+        "category": "stem",
+        "question": "පහත පිළිතුරු කාණ්ඩ අතුරින් සුළඟින්, ජලයෙන් සහ සතුන් මගින් ව්‍යාප්තවන ඵල හා බීජ පිළිවෙලින් ඇතුළත් පිළිතුර තෝරන්න.",
+        "choices": [
+            "හොර, පැපොල්, මිරිස්",
+            "වරා, පොල්, එඬරු",
+            "නෙළුම්, පුවක්, කොට්ටම්බා",
+            "තක්කාලි, හොර, නාගදරණ"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_WP",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/western-province-20232024-grade-07-science-3rd-term-test-paper/"
+        }
+    },
+    {
+        "q_no": 54,
+        "subject": "science",
+        "category": "stem",
+        "question": "මාළුවා සහ ගොළුබෙල්ලා වෙන්කර දැක්වීමට දෙබෙදුම් සුචියක ඇතුළත් කළ නොහැකි ලක්ෂණයක් වන්නේ,",
+        "choices": [
+            "බාහිර කවචයක් ඇති/ නැති බව යි.",
+            "සමේ කොරල ඇති/ නැති බව යි.",
+            "ශ්වසනයට කරමල් ඇති/ නැති බව යි.",
+            "සංචරණයට පාද ඇති/ නැති බව යි."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_WP",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/western-province-20232024-grade-07-science-3rd-term-test-paper/"
+        }
+    },
+    {
+        "q_no": 55,
+        "subject": "science",
+        "category": "stem",
+        "question": "අණ්වීක්ෂයක ඇතුළත් කොටස් අතුරින් සීරුමාරු කළ නොහැක්කේ පහත කවරක්ද?",
+        "choices": [
+            "දේහ නළය",
+            "පාදය",
+            "දර්පණය",
+            "අවනෙත් කාච"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_WP",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/western-province-20232024-grade-07-science-3rd-term-test-paper/"
+        }
+    },
+    {
+        "q_no": 56,
+        "subject": "science",
+        "category": "stem",
+        "question": "පහත සඳහන් සංගීත භාණ්ඩ පිළිබඳව විමසා බලන්න.\nතබ්ලාව, වයලීනය, උඩැක්කිය, බටනළාව, ගැටබෙරය, මැන්ඩලීනය, හොරණෑව\nමෙම සංගීත භාණ්ඩ ලයිස්තුවේ වැඩිපුරම ඇත්තේ,",
+        "choices": [
+            "දඬු කම්පනයෙන් හඬ නිපදවන භාණ්ඩ වේ.",
+            "වාතය කම්පනයෙන් හඬ නිපදවන භාණ්ඩ වේ.",
+            "පටල කම්පනයෙන් හඬ නිපදවන භාණ්ඩ වේ.",
+            "තන්තු කම්පනයෙන් හඬ නිපදවන භාණ්ඩ වේ."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_WP",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/western-province-20232024-grade-07-science-3rd-term-test-paper/"
+        }
+    },
+    {
+        "q_no": 57,
+        "subject": "science",
+        "category": "stem",
+        "question": "මිනිසාගේ ආහාර ජීරණ පද්ධතියේ පෝෂක අවශෝෂණය වැඩි වශයෙන් සිදුකරණ අවයවය වන්නේ,",
+        "choices": [
+            "මහා අන්ත්‍රය යි.",
+            "ගුද මාර්ගය යි.",
+            "අන්නස්‍රෝතය යි.",
+            "ක්ෂුද්‍රාන්ත්‍රය යි."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_WP",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/western-province-20232024-grade-07-science-3rd-term-test-paper/"
+        }
+    },
+    {
+        "q_no": 58,
+        "subject": "science",
+        "category": "stem",
+        "question": "බයිසිකල් ඩයිනමෝවක් තුළ දැකිය හැකි අංග පමණක් ඇතුළත් පිළිතුර තෝරන්න.",
+        "choices": [
+            "කම්බි දඟරය, ස්ථිර චුම්බකය, ලෝහ දණ්ඩ",
+            "කම්බි දඟරය, විද්‍යුත් චුම්බකය, ප්ලාස්ටික් දණ්ඩ",
+            "ලෝහ දණ්ඩ, කැරකෙන රෝදය, තඹ තහඩුව",
+            "සින්ක් තහඩුව, ස්ථිර චුම්බකය, ලෝහ දණ්ඩ"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_WP",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/western-province-20232024-grade-07-science-3rd-term-test-paper/"
+        }
+    },
+    {
+        "q_no": 59,
+        "subject": "science",
+        "category": "stem",
+        "question": "පහත වගන්ති අතරින් නිවැරදි වන්නේ කවරක්ද?",
+        "choices": [
+            "මධ්‍යම කඳුකරයේ දී වායු ගෝලීය පීඩනය වැඩි අගයක් ගනී.",
+            "වායු ගෝලීය පීඩනය මැනීමට මිලිබාර් නම් ඒකකය භාවිත වේ.",
+            "පෘථිවි වායුගෝලය මගින් අපට ලැබෙන ප්‍රයෝජන ඉතා අල්පය.",
+            "පෘථිවි වායුගෝලයට අයත් ස්තරවල මායිම් පැහැදිලිව හඳුනාගත හැක"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_WP",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/western-province-20232024-grade-07-science-3rd-term-test-paper/"
+        }
+    },
+    {
+        "q_no": 60,
+        "subject": "science",
+        "category": "stem",
+        "question": "හොඳින් තාපය සන්නයනය කරන ද්‍රව්‍යයක් හා තාප කුසන්නායක ද්‍රව්‍යයක් පිළිවෙලින් ඇතුළත් පිළිතුර තෝරන්න.",
+        "choices": [
+            "කඩදාසි, වාතය",
+            "රෙදි, යකඩ",
+            "තඹ, ප්ලාස්ටික්",
+            "රිදී, ඇලුමීනියම්"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_WP",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/western-province-20232024-grade-07-science-3rd-term-test-paper/"
+        }
+    },
+    {
+        "q_no": 61,
+        "subject": "science",
+        "category": "stem",
+        "question": "ශාකයක ප්‍රරෝහ පද්ධතියට අයත්වන අවයවයක් නොවන්නේ පහත කවරක්ද?",
+        "choices": [
+            "කඳ",
+            "පත්‍ර",
+            "ඵල",
+            "මුල්"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_WP",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/western-province-20232024-grade-07-science-3rd-term-test-paper/"
+        }
+    },
+    {
+        "q_no": 62,
+        "subject": "science",
+        "category": "stem",
+        "question": "තන්තු සහිත ආහාර බහුලව ගැනීමෙන් අපට ඇතිවන වාසියකි,",
+        "choices": [
+            "බෝවන රෝග වැළඳීම අවම වීම.",
+            "මල බද්ධය වළක්වා ගත හැකි වීම.",
+            "ආහාරයේ ඇති සීනි අවශෝෂණය වැඩි වීම.",
+            "ආහාරයේ ඇති මේදය අවශෝෂණය වැඩි වීම."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_WP",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/western-province-20232024-grade-07-science-3rd-term-test-paper/"
+        }
+    },
+    {
+        "q_no": 63,
+        "subject": "science",
+        "category": "stem",
+        "question": "ගිනි කඳු වලින් පිටතට පැමිණෙන මැග්මා සිසිල් වීමෙන් තැනෙනුයේ,",
+        "choices": [
+            "අවසාදිත පාෂාණයි.",
+            "විපරිත පාෂාණ යි.",
+            "ආග්නේය පාෂාණයි.",
+            "වටපිඬු පාෂාණයි."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_WP",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/western-province-20232024-grade-07-science-3rd-term-test-paper/"
+        }
+    },
+    {
+        "q_no": 64,
+        "subject": "science",
+        "category": "stem",
+        "question": "තම සංචරණය කාර්යක්ෂම කිරීම සඳහා අනාකූල හැඩය ප්‍රයෝජනයට ගෙන ඇති සත්ත්වයෙකි.",
+        "choices": [
+            "අශ්වයා",
+            "බල්ලා",
+            "බලයා",
+            "පේර කොළයා"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-07-science-3rd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 65,
+        "subject": "science",
+        "category": "stem",
+        "question": "පාෂාණ ආම්ලික වර්ෂා ජලය සමඟ ප්‍රතික්‍රියා කිරීමෙන් රසායනික ජීර්ණයට ලක් වේ. ඊට බලපාන ප්‍රධාන වායුව වන්නේ,",
+        "choices": [
+            "ඔක්සිජන් ය.",
+            "හයිඩ්‍රජන් ය.",
+            "මීතේන් ය.",
+            "සල්ෆර් ඩයොක්සයිඩ් ය."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-07-science-3rd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 66,
+        "subject": "science",
+        "category": "stem",
+        "question": "විද්‍යුත් පරිපථයක් තුළින් ගලා යන ධාරාවේ දිශාව සොයා ගැනීමට භාවිතා කරන උපාංගය කුමක්ද?",
+        "choices": [
+            "ඇමීටරය",
+            "වෝල්ට් මීටරය",
+            "බහු මීටරය",
+            "මැද බිංදු ඇමීටරය"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-07-science-3rd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 67,
+        "subject": "science",
+        "category": "stem",
+        "question": "යම් ද්‍රව්‍යයක් රත් කරන විට, එක්තරා අවස්ථාවකදී එය වායුවක් බවට පත්වේ. ද්‍රව්‍යයක් වායු අවස්ථාවට පත්වන මෙම නිශ්චිත උෂ්ණත්වය එම ද්‍රව්‍යයේ,",
+        "choices": [
+            "ද්‍රවාංකය යි.",
+            "තාපාංකය යි.",
+            "හිමාංකය යි.",
+            "උෂ්ණත්වය යි."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-07-science-3rd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 68,
+        "subject": "science",
+        "category": "stem",
+        "question": "A හා B යනු විද්‍යාගාරයේ දී භාවිතයට ගන්නා ද්‍රාවණ දෙකකි.\nA - නිල් ලිට්මස් රතු පැහැයට හරවයි.\nB - අවර්ණ පිනොප්තැලීන් රෝස පැහැයට හරවයි.\nA හා B ද්‍රාවණ විය හැක්කේ පිළිවෙලින්,",
+        "choices": [
+            "හයිඩ්‍රොක්ලෝරික් අම්ලය හා සෝඩා වතුර",
+            "නයිට්‍රික් අම්ලය හා සෝඩියම් ක්ලෝරයිඩ්",
+            "සල්ෆියුරික් අම්ලය හා සෝඩියම් හයිඩ්‍රොක්සයිඩ් ද්‍රාවණය",
+            "සෝඩියම් හයිඩ්‍රොක්සයිඩ් ද්‍රාවණය හා හුණුදියර"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-07-science-3rd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 69,
+        "subject": "science",
+        "category": "stem",
+        "question": "ඉලෙක්ට්‍රෝන අණ්වීක්ෂය භාවිතා වන අවස්ථාවක් / අවස්ථා වේ.",
+        "choices": [
+            "සෛලයක අභ්‍යන්තර ව්‍යුහය සවිස්තරාත්මකව අධ්‍යයනය කිරීමට",
+            "විවිධ රෝගකාරක ජීවීන්ගේ ක්‍රියාකාරීත්වය නිරීක්ෂණයට",
+            "ජාන විද්‍යාත්මක පර්යේෂණ කටයුතු වලට",
+            "ඉහත දැක්වූ සියලු කටයුතු වලට"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-07-science-3rd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 70,
+        "subject": "science",
+        "category": "stem",
+        "question": "ජාත්‍යන්තර අභ්‍යවකාශ මධ්‍යස්ථානය පිහිටා ඇති වායුගෝලීය ස්ථරය වන්නේ,",
+        "choices": [
+            "පරිවර්තී ගෝලය යි.",
+            "ස්ථර ගෝලය යි.",
+            "තාප ගෝලය යි.",
+            "බහිර් ගෝලය යි."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-07-science-3rd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 71,
+        "subject": "science",
+        "category": "stem",
+        "question": "ශක්තිය විවිධ ආකාර වලින් පවතී. ඒ අනුව, ගසක ඇති පොල් ගෙඩියක ගබඩා වී ඇත්තේ, පහත සඳහන් කුමන ශක්ති ආකාරය ද?",
+        "choices": [
+            "චාලක ශක්තිය",
+            "විභව ශක්තිය",
+            "රසායනික ශක්තිය",
+            "ධ්වනි ශක්තිය"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-07-science-3rd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 72,
+        "subject": "science",
+        "category": "stem",
+        "question": "තිරය මත බෝලයේ පැහැදිලි ඡායාවක් ලබා ගැනීම සඳහා විදුලි පන්දමක් හා බෝලයක් අතර තැබිය යුතු වන්නේ,\n",
+        "choices": [
+            "විනිවිද පෙනෙන වීදුරු තහඩුවක් ය.",
+            "මල් වීදුරු තහඩුවක් ය.",
+            "කාඩ්බෝඩ් තහඩුවක් ය.",
+            "ලෝහ තහඩුවක් ය"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-07-science-3rd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 73,
+        "subject": "science",
+        "category": "stem",
+        "question": "වංගුවකින් හරවන වාහන දැක ගැනීමට මාර්ගයේ සවිකළ හැක්කේ,",
+        "choices": [
+            "තල දර්පණ හෝ අවතල දර්පණ යි.",
+            "තල දර්පණ හෝ උත්තල දර්පණ යි.",
+            "උත්තල දර්පණ හෝ අවතල දර්පණ යි.",
+            "අවතල දර්පණ හෝ පරාවලයික දර්පණ යි."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-07-science-3rd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 74,
+        "subject": "science",
+        "category": "stem",
+        "question": "ජලය තුළ වෙසෙන අයෙකුට, ඩොල්ෆින් මසුන් ජලය තුළදී නඟන හඬ ඉතා උස් හඬක් (තීව්‍ර හඬක්) ලෙස ඇසුන ද ජලයෙන් පිටතට ආවිට, එම හඬ සිහින් කෙඳිරිලි හඬක් ලෙස ඇසේ. මෙයට හේතුව වන්නේ,",
+        "choices": [
+            "ජලය තුළ දී මිනිසාගේ කන් හොඳින් ඇසීමයි.",
+            "ඝන ද්‍රව්‍ය තුළින් ද්‍රව තුළ දී ට වඩා වැඩි වේගයකින් ධ්වනිය ගමන් කිරීමයි.",
+            "ජලය තුළ දී වාතයට වඩා වැඩි වේගයකින් ධ්වනිය ගමන් කිරීමයි.",
+            "ඝන, ද්‍රව සහ වායු තුළින් එකම වේගයකින් ධ්වනිය ගමන් කිරීමයි."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-07-science-3rd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 75,
+        "subject": "science",
+        "category": "stem",
+        "question": "ශ්‍රී ලංකාවට ප්‍රබල භූ කම්පන බල නොපෑමට හේතුව වන්නේ,",
+        "choices": [
+            "ශ්‍රී ලංකාව දූපතක් වීම යි.",
+            "ශ්‍රී ලංකාව ඉන්දියන් සාගරයේ පිහිටීම යි.",
+            "ශ්‍රී ලංකාව භූ තැටි මායිමක් අසල පිහිටා නොතිබීම යි.",
+            "ශ්‍රී ලංකාව සමකයට ආසන්න රටක් වීම යි."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-07-science-3rd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 76,
+        "subject": "science",
+        "category": "stem",
+        "question": "ග්ලූකෝස් ද්‍රාවණයකට බෙනඩික්ට් ද්‍රාවණය, සම පරිමාණයෙන් එකතු කළ විට ලැබෙන ද්‍රාවණය, ජල තාපකයක බහා රත්කරන විට දක්නට ලැබුණු වර්ණ විපර්යාසය පහත දැක්වෙන ආකාරයට ඉදිරිපත් කරන ලදී.\nනිල් → A → B → C → ගඩොල් රතු අවක්ෂේපය\nමෙහි A, B හා C සඳහා නියමිත වර්ණයන් පිළිවෙලින් දක්වා ඇත්තේ පහත දැක්වෙන කුමන පිළිතුරේ ද?",
+        "choices": [
+            "කහ, කොළ, තැඹිලි",
+            "තැඹිලි, කොළ, කහ",
+            "තැඹිලි, කහ, කොළ",
+            "කොළ, කහ, තැඹිලි"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-07-science-3rd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 77,
+        "subject": "science",
+        "category": "stem",
+        "question": "කොවිඩ් රෝගයෙන් ආරක්ෂා වීම සඳහා ගත හැකි වඩාත් උචිත ක්‍රියාමාර්ගය වන්නේ,",
+        "choices": [
+            "හැකි සෑමවිට ම මීටරයක දුරස්ථභාවය පවත්වා ගැනීම යි.",
+            "නිතර සබන් යොදා දෑත් සේදීම යි.",
+            "මුව ආවරණය පැළඳීම යි.",
+            "එන්නත්කරණයට ලක්වීම යි."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-07-science-3rd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 78,
+        "subject": "science",
+        "category": "stem",
+        "question": "පුෂ්පයක ජායාංගයට අයත් කොටස් නිවැරදිව දක්වා ඇත්තේ කුමන පිළිතුරේ ද?",
+        "choices": [
+            "වෘන්තය, මණිපත්‍ර, දල",
+            "පරාගධානිය, සුත්‍රිකාව",
+            "රේණුව, දල",
+            "කලංකය, කීලය, ඩිම්බ කෝෂය"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-07-science-3rd-term-test-paper-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 79,
+        "subject": "science",
+        "category": "stem",
+        "question": "බයිසිකල් ඩයිනමෝවෙන් නිපදවනු ලබන ධාරාව පහත කුමන ආකාර වේද?",
+        "choices": [
+            "සරල ධාරාවකි.",
+            "ප්‍රත්‍යාවර්තන ධාරාවකි.",
+            "රේඛිය ධාරාවකි.",
+            "සංයුක්ත ධාරාවකි."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-07-science-3rd-term-test-paper-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 80,
+        "subject": "science",
+        "category": "stem",
+        "question": "කරකැවීම හෝ චලනය කිරීම මගින් විදුලිය නිපදවන විද්‍යුත් ප්‍රභවයක් වන්නේ,",
+        "choices": [
+            "සූර්ය කෝෂය",
+            "LED බල්බය",
+            "වියලි කෝෂය",
+            "බයිසිකල් ඩයිනමෝව"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-07-science-3rd-term-test-paper-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 81,
+        "subject": "science",
+        "category": "stem",
+        "question": "ජලයේ සිසිලන කාරක ගුණය ප්‍රයෝජනයට ගන්නා අවස්ථාවක් වන්නේ,",
+        "choices": [
+            "මීරා වල ඇති ජලය කොටසක් වාෂ්ප කර පැණි ලබා ගැනීම.",
+            "වාහන එන්ජින්වල විකිරක (Radiator) වල.",
+            "සිරුරේ සෛල තුල නිපදවෙන බාහිස්‍රාවී ද්‍රව්‍ය බැහැර කිරීම.",
+            "ආහාර රසවත්කර ගැනීමට ලුණු ජලයේ දියකර ගැනීම"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-07-science-3rd-term-test-paper-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 82,
+        "subject": "science",
+        "category": "stem",
+        "question": "පහත ජලීය ද්‍රාවණ වලින් ආම්ලික ද්‍රාවණයක් නොවන්නේ,",
+        "choices": [
+            "දෙහි යුෂ",
+            "විනාකිරි",
+            "සබන් දියර",
+            "සෝඩා වතුර"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-07-science-3rd-term-test-paper-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 83,
+        "subject": "science",
+        "category": "stem",
+        "question": "ශරීරයේ වර්ණය පරිසරයේ වර්ණය සමග ගැලපීම නිසා සත්ත්වයින් පහසුවෙන් පරිසරයෙන් වෙන්කර ගැනීම අපහසුවීමේ සංසිද්ධිය හඳුන්වනු ලබන විද්‍යාත්මක වචනය,",
+        "choices": [
+            "පර්යටනය",
+            "වේෂාන්තරණය",
+            "විලෝපීයතාව",
+            "අනාකුල බව"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-07-science-3rd-term-test-paper-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 84,
+        "subject": "science",
+        "category": "stem",
+        "question": "සූර්ය කෝෂයක් මගින් විදුලිය නිපදවීමේ දී සිදුවන ශක්තිය පරිණාමණය වන්නේ,\n",
+        "choices": [
+            "තාප ශක්තිය → විද්‍යුත් ශක්තිය",
+            "රසායනික ශක්තිය → විද්‍යුත් ශක්තිය",
+            "විභව ශක්තිය → විද්‍යුත් ශක්තිය",
+            "ආලෝක ශක්තිය → විද්‍යුත් ශක්තිය"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-07-science-3rd-term-test-paper-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 85,
+        "subject": "science",
+        "category": "stem",
+        "question": "පහත ප්‍රකාශ අනුව කියැවෙන පෘථිවියේ කොටස කුමක්ද?\n- ඝන පාෂාණ සහ ද්‍රව පාෂාණ වලින් යුක්තයි.\n- ඔක්සිජන් සිලිකන් අයත් මුල ද්‍රව්‍ය බහුලව අඩංගු වේ.",
+        "choices": [
+            "කබොල",
+            "භූ තැටි මායිම",
+            "හරය",
+            "ප්‍රාවරණය"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-07-science-3rd-term-test-paper-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 86,
+        "subject": "science",
+        "category": "stem",
+        "question": "අවතල දර්පනයක් මතට සමාන්තර ආලෝක කදම්බයක් වැටෙන්නට සැලැස්වීමෙන් පසුව සිදුවන්නේ,",
+        "choices": [
+            "ආලෝකය අපසාරී වීමය",
+            "ආලෝකය අභිසාරී වීමයි",
+            "ආලෝකය සමාන්තර වීමයි.",
+            "ආලෝකය විහිදියාමයි"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-07-science-3rd-term-test-paper-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 87,
+        "subject": "science",
+        "category": "stem",
+        "question": " ආලෝක අන්වීක්ෂයක නිදර්ශකය වෙත ලඟාවන ආලෝක ප්‍රමාණය පාලනය කරන අන්වීක්ෂයේ කොටස වන්නේ,",
+        "choices": [
+            "දළ සීරුමාරුව යි",
+            "අවනෙත යි",
+            "උපනෙත යි",
+            "ප්‍රාචිරය යි"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-07-science-3rd-term-test-paper-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 88,
+        "subject": "science",
+        "category": "stem",
+        "question": "මානව ආහාර ජීරණ පද්ධතියේ ජලය අවශෝෂණය ප්‍රධාන වශයෙන් සිදුවන අවයවය කුමක්ද?",
+        "choices": [
+            "කුඩා අන්ත්‍රය",
+            "ආමාශය",
+            "මහාන්ත්‍රකය",
+            "අන්තශ්‍රොතය"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-07-science-3rd-term-test-paper-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 89,
+        "subject": "science",
+        "category": "stem",
+        "question": "සූර්යයාගේ සිට හානිකර විකිරණ පෘථිවිය මතට පැමිණීම ඕසෝන් ස්තරය මගින් වලක්වයි. ඕසෝන් ස්තරය පිහිටන්නේ,\n",
+        "choices": [
+            "ස්තරය ගෝලය තුලයි.",
+            "පරිවර්තී ගෝලය තුලයි.",
+            "මධ්‍ය ගෝලය තුලයි.",
+            "තාප ගෝලය තුලයි."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-07-science-3rd-term-test-paper-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 90,
+        "subject": "science",
+        "category": "stem",
+        "question": " සංවහන ධාරා ඇතිවන අවස්ථාවක් නොවන්නේ පහත කුමන සිද්ධියේ දී ද?",
+        "choices": [
+            "ගොඩ සුලං ඇතිවීම",
+            "මුහුදු සුලං ඇතිවීම",
+            "ගිනිගොඩකට ඉහළින් ඇති වාතය ඉහළට ගමන් කිරීම",
+            "ලෝහ හැන්දක් ලිපේ ඇති ආහාර බඳුනට දමා ඇතිවිට ලෝහ හැන්දේ කෙළවර රත්වීම."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-07-science-3rd-term-test-paper-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 91,
+        "subject": "science",
+        "category": "stem",
+        "question": "විශාලත්වය සහ නිශ්චිත දිශාවක් සහිත මිනුම් පමණක් අඩංගු පිළිතුරු වන්නේ,",
+        "choices": [
+            "විස්ථාපනය, දුර",
+            "බලය, දුර",
+            "විස්ථාපනය, බලය",
+            "ස්කන්ධය, බලය"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-07-science-3rd-term-test-paper-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 92,
+        "subject": "science",
+        "category": "stem",
+        "question": "පාංශු ජලයේ කාර්යයක් නොවන්නේ කුමක්ද?",
+        "choices": [
+            "පාංශු ජීවින්ට හා ශාක වලට ජීවිතය පවත්වා ගැනීමට උදව් වීම.",
+            "පසෙහි උෂ්ණත්වය පාලනය කිරීම.",
+            "ශාක ප්‍රභාසංස්ලේෂණයේ අමුද්‍රව්‍යයක් වීම.",
+            "පසෙහි සවිවර බව ඇතිවීම."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-07-science-3rd-term-test-paper-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 93,
+        "subject": "science",
+        "category": "stem",
+        "question": "වායු දූෂණය අවම කිරීමට ගතහැකි ක්‍රියාමාර්ගයක් නොවන්නේ,",
+        "choices": [
+            "වාහන එන්ජිම සුසර කිරීම.",
+            "පරිසර හිතකර බලශක්තිය භාවිතය",
+            "වනාන්තර ආරක්ෂා කිරීම.",
+            "කැලිකසල පිලිස්සීම."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-07-science-3rd-term-test-paper-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 94,
+        "subject": "science",
+        "category": "stem",
+        "question": "කාර්යය කිරීමට ඇති හැකියාව ශක්තියයි . ශක්තිය මැනීමේ අන්තර් ජාතික ඒකකයේ සංකේතය කුමක්ද ?",
+        "choices": [
+            "N",
+            "J",
+            "A",
+            "W"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=75827&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 95,
+        "subject": "science",
+        "category": "stem",
+        "question": "අලංකරණ කටයුතු වලදී විවිධ හැඩැති අවර්ණ වීදුරු බදුන් තුලට වර්ණ කළ ජලය පුරවා තබන්නේ ජලය සතු කුමන ලක්ෂණයක් නිසාද ?",
+        "choices": [
+            "ද්‍රාවකයක් වීම",
+            "පරිවාරකයක් වීම",
+            "මාධ්‍යයක් වීම",
+            "සිසිලනකාරකයක් වීම"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=75827&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 96,
+        "subject": "science",
+        "category": "stem",
+        "question": "වේශාන්තරන හැකියාව නිසා සතුන්ට ලැබී ඇති වාසියක් නොවන්නේ ,",
+        "choices": [
+            "පහසුවෙන් ආහාර සොයා ගත හැකි වීම .",
+            "විලෝපිකයන්ගෙන් ආරක්‍ෂා වීමට හැකි වීම .",
+            "සංවරණය පහසුවෙන් සිදුකර ගත හැකි වීම .",
+            "පරිසරයේ සිදු වන වෙනස්කම් අනුව එම පරිසරය තුළ නොනැසී සිටීමට උපකාර වීම ."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=75827&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 97,
+        "subject": "science",
+        "category": "stem",
+        "question": "නිවසේ දී හමුවන උදාසීන ද්‍රව්‍ය යුගලයකි .",
+        "choices": [
+            "ජලය හා භූමිතෙල්",
+            "හුණු හා අළු",
+            "ලුණු හා සබන්",
+            "දෙහි හා ග්ලූකෝස්"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=75827&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 98,
+        "subject": "science",
+        "category": "stem",
+        "question": "නුග ශාක වල අතු වලට ආධාරකයක් ලෙස ක්‍රියාකරන මුල් විශේෂය කුමක් ද ?",
+        "choices": [
+            "වායව මුල්",
+            "වායුධර මුල්",
+            "කරු මුල්",
+            "කයිරු මුල්"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=75827&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 99,
+        "subject": "science",
+        "category": "stem",
+        "question": "සංයුක්ත පත්‍ර දරන ශාකයකි .",
+        "choices": [
+            "දෙල්",
+            "මඤ්ඤොක්කා",
+            "කරපිංචා",
+            "ගස්ලබු"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=75827&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 100,
+        "subject": "science",
+        "category": "stem",
+        "question": " ශ්‍රී ලංකාව පිහිටා ඇත්තේ පහත සඳහන් කුමන භූ තැටියේ ද ?",
+        "choices": [
+            "පැසිෆික්",
+            "අප්‍රිකා",
+            "පිලිපීන",
+            "ඕස්ට්‍රේලියන් - ඉන්දියන්"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=75827&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 101,
+        "subject": "science",
+        "category": "stem",
+        "question": "උරග වර්ගයට අයත් නොවන සත්ත්වයා තෝරන්න .",
+        "choices": [
+            "කිඹුලා",
+            "සලමන්දරා",
+            "නයා",
+            "කටුස්සා"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=75827&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 102,
+        "subject": "science",
+        "category": "stem",
+        "question": " භාවිතයේ දී පරිසර දූෂණය අඩුවෙන්ම සිදුවන ශක්ති ප්‍රභව ඇතුලත් පිළිතුර තෝරන්න .",
+        "choices": [
+            "න්‍යෂ්ටික ශක්තිය , ගල් අඟුරු",
+            "භූ තාපය , ජෛව ස්කන්ධ",
+            "සුළඟ , සූර්ය ශක්තිය",
+            "ඛනිජ තෙල් , ස්වභාවික වායු"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=75827&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 103,
+        "subject": "science",
+        "category": "stem",
+        "question": "අපෘෂ්ඨ වංශීන් පමණක් ඇතුළත් පිළිතුර තෝරන්න .",
+        "choices": [
+            "මුහුදු අශ්වයා , පිඹුරා , පසැඟිල්ලා",
+            "සමනලයා , තාපස කකුළුවා , ගැඩවිලා",
+            "කැස්බෑවා , පසැඟිල්ලා , මැඩියා",
+            "ගොළුබෙල්ලා , මත්ස්‍යයා , සමනලයා"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=75827&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 104,
+        "subject": "science",
+        "category": "stem",
+        "question": "සරල ආහාර + ඔක්සිජන් → ශක්තිය + කාබන්ඩයොක්සයිඩ් + ජල වාෂ්ප\nඉහතින් දැක්වෙන්නේ මිනිසකුගේ ශ්වසන ක්‍රියාවලියයි . ඒ සඳහා අවශ්‍ය ඔක්සිජන් සපයා දෙන ක්‍රියාවලිය කුමක්ද ?",
+        "choices": [
+            "දහනය",
+            "ශ්වසනය",
+            "ආශ්වාසය",
+            "ප්‍රශ්වාසය"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=75827&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 105,
+        "subject": "science",
+        "category": "stem",
+        "question": "ලුණු ද්‍රාවණ ස්වල්පයක් ටින් පියනක් මත තබා රත් කළවිට දක්නට ලැඛෙන නිරීක්ෂණය කුමක්ද ?",
+        "choices": [
+            "ටින් පියනේ කළු කුඩක් ඉතිරි වේ .",
+            "ටින් පියන මත ද්‍රාවණය එලෙසම පවතී",
+            "ටින් පියනේ කිසිවක් ඉතිරි නොවේ .",
+            "ටින් පියන මත සුදු කුඩක් ඉතිරි වේ ."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=75827&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 106,
+        "subject": "science",
+        "category": "stem",
+        "question": "මිනිසාගේ වෘක්ක යුගලය අයත් වන පද්ධතිය කුමක්ද ?",
+        "choices": [
+            "ආහාර ජීර්ණ පද්ධතිය",
+            "රුධිර සංසරණ පද්ධතිය",
+            "ශ්වසන පද්ධතිය",
+            "බහිස්ස්‍රාවී පද්ධතිය"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=75827&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 107,
+        "subject": "science",
+        "category": "stem",
+        "question": "ඒක සෛලික ජීවීන් පමණක් ඇතුලත් වන පිළිතුර තෝරන්න .",
+        "choices": [
+            "ඇමීබා , මුහුදු මල",
+            "ඇමීබා , පැරමිසියම්",
+            "පැරමිසියම් , මුහුදු මල",
+            "එවුග්ලිනා , තිලාපියා"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=75827&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 108,
+        "subject": "science",
+        "category": "stem",
+        "question": "තල දර්පණවල භාවිත අවස්ථාවක් නොවේ ,",
+        "choices": [
+            "පරීක්ෂය",
+            "බහුරූපේක්ෂය",
+            "සරල අන්වීක්ෂය",
+            "මුහුණ බැලීමට"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=75827&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 109,
+        "subject": "science",
+        "category": "stem",
+        "question": "සංයුක්ත ආලෝක අන්වීක්‍ෂයේ කොටසක් වන දල සීරුමාරුවේ කාර්යය කුමක්ද ?",
+        "choices": [
+            "නිදර්ශකය නිරීක්ෂණයට දේහ නළය සීරුමාරු කිරීම .",
+            "ප්‍රභවයකින් ලැබෙන ආලෝකය ප්‍රාචිරය වෙත යොමු කිරීම .",
+            "නිදර්ශනයට ලැබෙන ආලෝක ප්‍රමාණය පාලනය කිරීම .",
+            "නිදර්ශකය පැහැදිලිව දැක ගැනීමට දේහ නළය වඩාත් සියුම්ව සීරු මාරු කිරීම"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=75827&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 110,
+        "subject": "science",
+        "category": "stem",
+        "question": "බහිස්‍රාවී ඵලයක් ලෙස කාබන්ඩයොක්සයිඩ් වායුව පිටකරන ඉන්ද්‍රිය වන්නේ,",
+        "choices": [
+            "මුඛය",
+            "සම",
+            "පෙනහළු",
+            "වකුගඩු"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-08-science-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 111,
+        "subject": "science",
+        "category": "stem",
+        "question": "ගිටාරයක සංඛ්‍යාතය වැඩිකර ගැනීමට එහි තන්තු,",
+        "choices": [
+            "දිගින් වැඩි කළ යුතුය.",
+            "මහත් විය යුතුය.",
+            "හොඳින් ඇඳී තිබිය යුතුය.",
+            "සිහින් හා මහත කම්බි දෙවර්ගයම යෙදිය යුතුය."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-08-science-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 112,
+        "subject": "science",
+        "category": "stem",
+        "question": "මිනිසාගේ කපාල ස්නායු හා සුෂුම්නා ස්නායු සංඛ්‍යාව පිළිවෙලින් දැක්වෙන්නේ,",
+        "choices": [
+            "12 හා 30",
+            "12 හා 31",
+            "31 හා 21",
+            "30 හා 12"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-08-science-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 113,
+        "subject": "science",
+        "category": "stem",
+        "question": "කොදු ඇට පෙළ සහිත සතුන් පමණක් අඩංගු පිළිතුර වන්නේ,",
+        "choices": [
+            "නයා, මඩුවා, පණු ගෙම්බා",
+            "බූවල්ලා, පත්තෑ පණුවා, පොළගා",
+            "හංසයා, කිඹුලා, සමනලයා",
+            "ඉස්සා, ගෙම්බා, වවුලා"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-08-science-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 114,
+        "subject": "science",
+        "category": "stem",
+        "question": "චුම්බක සම්බන්ධ අසත්‍ය ප්‍රකාශය වන්නේ,",
+        "choices": [
+            "චුම්බක ක්ෂේත්‍රයක දිශාව උත්තර ධ්‍රැවයේ සිට දක්‍ෂිණ ධ්‍රැවය දක්වා වෙයි.",
+            "මාලිමාව මගින් පෙන්වන්නේ චුම්බක උතුරයි.",
+            "චුම්බකයක් වටා චුම්බක බලපැම පවතින ප්‍රදේශය චුම්බක ක්ෂේත්‍රයයි.",
+            "ස්ථිර චුම්බක සෑදිම සඳහා මෘදු යකඩ යොදා ගනී."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-08-science-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 115,
+        "subject": "science",
+        "category": "stem",
+        "question": "පියවි ඇසට පෙනෙන ග්‍රහලෝක අඩංගු පිළිතුර වන්නේ,",
+        "choices": [
+            "බුධ, සිකුරු, බ්‍රහස්පති, යුරේනස්",
+            "බුධ, සිකුරු, අඟහරු, නෙප්චූන්",
+            "බුධ, බ්‍රහස්පති, යුරේනස්, පෘථිවිය",
+            "බුධ, සිකුරු, අඟහරු, සෙනසුරු"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-08-science-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 116,
+        "subject": "science",
+        "category": "stem",
+        "question": "අකුණු ගැසීමක දී වලාකුළු ඇතුළත හෝ වලාකුළු දෙකක් අතර හෝ සිදුවන විසර්ජන,",
+        "choices": [
+            "වා අකුණු වේ.",
+            "පෘථිවි අකුණු වේ.",
+            "වලා අකුණු වේ.",
+            "ආරෝපණ වේ."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-08-science-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 117,
+        "subject": "science",
+        "category": "stem",
+        "question": "ශ්‍රී ලංකාවේ නියඟ ඇතිවීමට බලපාන ස්වභාවික හේතුවක් නොවන්නේ,",
+        "choices": [
+            "මෝසම් සුළං නියමිත කාලයට නොලැබීම.",
+            "අක්‍රමවත් ලෙස බෝග වගා කිරීම.",
+            "වියලි සුළං ප්‍රවාහ තත්ව",
+            "එල්නිනෝ සංසිද්ධිය"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-08-science-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 118,
+        "subject": "science",
+        "category": "stem",
+        "question": "කොපර් සල්ෆේට් ද්‍රාවණයකට යකඩ ඇණයක් දැමූ විට ඇතිවන නිරීක්ෂණයක් නොවන්නේ,",
+        "choices": [
+            "යකඩ ඇණය දිය වී යයි.",
+            "උෂ්ණත්වය ඉහළ යයි.",
+            "ද්‍රාවණයේ පාට ක්‍රමයෙන් අඩු වේ.",
+            "දුඹුරු පාට අවක්ෂේපයක් ඇති වේ."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-08-science-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 119,
+        "subject": "science",
+        "category": "stem",
+        "question": "උත්ස්වේදනය වලක්වා ගැනීමට ශාක විවිධ අනුවර්තන දරයි. පහත දැක්වෙන පිළිතුරු අතරින් අනුවර්තනය හා නිදසුන වැරදි ලෙස දක්වෙන පිළිතුර කුමක් ද?",
+        "choices": [
+            "මාංසල පත්‍ර - කෝමාරිකා",
+            "පත්‍ර ප්‍රමාණයෙන් කුඩා - නවහන්දි",
+            "වියලි කාලවල පත්‍ර හැලීම - රබර්",
+            "පත්‍ර කටු බවට විකරණය වීම - රෝස"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-08-science-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 120,
+        "subject": "science",
+        "category": "stem",
+        "question": "විද්‍යුත් ධාරාවක් ගලා යන සන්නායකයක, ධාරාවේ ප්‍රමාණය ක්‍රමයෙන් අඩු කළ විට සන්නායකය නිසා හටගන්නා චුම්භක ක්ෂේත්‍රයේ",
+        "choices": [
+            "ප්‍රබලතාව අඩු වේ.",
+            "ප්‍රබලතාව වැඩි වේ.",
+            "ප්‍රබලතාව වෙනස් නොවේ.",
+            "කිසිවක් සිදු නොවේ."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-08-science-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 121,
+        "subject": "science",
+        "category": "stem",
+        "question": "ශ්වසන වේගය සිතා මතා පාලනය නොවන අනිච්ඡානුග ක්‍රියාවකි. එය පාලනය කරනුයේ,",
+        "choices": [
+            "මස්තිෂ්කය මගිනි.",
+            "අනුමස්තිෂ්කය මගිනි.",
+            "සුෂුම්නාව මගිනි.",
+            "සුෂුම්නා ශීර්ෂකය මගිනි."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-08-science-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 122,
+        "subject": "science",
+        "category": "stem",
+        "question": "මුත්‍රගල් ඇතිවීම කෙරෙහි සෘජුවම බලපාන සාධකයක් නොවන්නේ,",
+        "choices": [
+            "දුම් හා මත්පැන් පානය",
+            "ජලය අඩුවෙන් පානය කිරීම",
+            "අධික ලවණ අඩංගු ආහාර ගැනීම",
+            "මුත්‍රා පහ කිරීම ප්‍රමාද කිරීම."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-08-science-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 123,
+        "subject": "science",
+        "category": "stem",
+        "question": "පහත සඳහන් ප්‍රකාශ වලින් නිවැරදි ප්‍රකාශය වන්නේ,",
+        "choices": [
+            "සන්නායකයක ප්‍රතිරෝධ වැඩි වන විට ගලන ධාරාව ද වැඩි වේ.",
+            "පරිපථයක ගලන ධාරාව වෙනස් කිරීමට ප්‍රතිරෝධක යොදාගනී.",
+            "ධාරාව ගලන සම්මත දිශාව සෘණ අග්‍රයේ සිට ධන අග්‍රය වෙතයි.",
+            "විදුලි ධාරාව ගලා යනුයේ විද්‍යුත් විභවය අඩු තැන සිට වැඩි ස්ථානයටයි."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-08-science-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 124,
+        "subject": "science",
+        "category": "stem",
+        "question": "නිවසේ විදුලි බිලට දැරිය යුතු වියදම අවම කිරීම සඳහා ගත හැකි ක්‍රියාමාර්ග ලෙස 8 ශ්‍රේණියේ සිසුවෙක් ඉදිරිපත් කර තිබූ කරුණු කිහිපයක් පහත දැක්වේ.\n\nA - නිවසේ විදුලි බල අවශ්‍යතා සූර්ය ශක්තිය මගින් ලබා ගැනීම.\nB - රාත්‍රී 7.00 - 10.00 අතර ශීතකරණය විසන්ධි කිරීම.\nC - සිවිලින් විදුලි පංකා භාවිත කිරීම.\nD - නිවස ආලෝකමත් කිරීම සඳහා LED පහන් භාවිතය.\n\nඉහත ක්‍රියා මාර්ග වලින් විදුලි බිල අවම කිරීමට දායක වන්නේ,",
+        "choices": [
+            "A හා D පමණි",
+            "A, B හා C පමණි",
+            "A, B හා D පමණි",
+            "ඉහත සියල්ලම."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-08-science-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 125,
+        "subject": "science",
+        "category": "stem",
+        "question": "x → තණකොළ පෙත්තා → කටුස්සා\nමෙම ආහාර දාමයේ x ස්ථානයට ගැළපෙන ජීවියා තෝරන්න.",
+        "choices": [
+            "ගෙම්බා",
+            "ජලජ ශාක",
+            "මුහුදු ශාක",
+            "තණකොළ"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-science-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 126,
+        "subject": "science",
+        "category": "stem",
+        "question": "ආකන්දි මුලක් නොවන්නේ,",
+        "choices": [
+            "අර්තාපල්",
+            "කැරට්",
+            "බතල",
+            "රාබු"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-science-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 127,
+        "subject": "science",
+        "category": "stem",
+        "question": "ක්ෂුද්‍ර ජීවීන් සම්බන්ධ අසත්‍ය ප්‍රකාශය කුමක් ද?",
+        "choices": [
+            "තනි තනිව ගත් කල පියවි ඇසට නොපෙනෙයි",
+            "තනි සෛලයකින් හෝ සෛල කිහිපයකින් දේහය නිර්මාණය වී ඇත",
+            "ක්ෂුද්‍ර ජීවීන් ඇතැම් ද්‍රව්‍යවල ගුණ වෙනස් කරයි",
+            "ක්ෂුද්‍ර ජීවීන් වැඩිපුරම අහිතකර බලපෑම් ඇති කරයි"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-science-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 128,
+        "subject": "science",
+        "category": "stem",
+        "question": "හැඩය වෙනස් කිරීම නිසා වස්තුවක අන්තර්ගත වන ශක්තිය කුමක්ද?",
+        "choices": [
+            "රසායනික ශක්තිය",
+            "චාලක ශක්තිය",
+            "විභව ශක්තිය",
+            "විකිරණ ශක්තිය"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-science-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 129,
+        "subject": "science",
+        "category": "stem",
+        "question": "සංශුද්ධ ද්‍රව්‍යයක් පිළිබඳ වඩාත් නිවැරදි ප්‍රකාශය කුමක්ද?",
+        "choices": [
+            "තනි පරමාණු වර්ගයකින් සෑදී ඇත",
+            "පරමාණු වර්ග දෙකකින් හෝ වැඩි ගණනකින් සෑදී ඇත",
+            "එකම වර්ගයේ අංශු සමූහයකින් සෑදී ඇත",
+            "ලෝහ හෝ අලෝහ මූලද්‍රව්‍ය එකිනෙක සම්බන්ධ වීමෙන් සෑදී ඇත"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-science-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 130,
+        "subject": "science",
+        "category": "stem",
+        "question": "අහස නිරීක්ෂණයේ යෙදුණු සිසුවෙක් තම ක්ෂේත්‍ර පොතේ පහත සටහන තබන ලදී.\nA. තරුවක පිහිටීම තරු රටාවකට සාපේක්ෂව කාලය සමග වෙනස් නොවන අතර, ග්‍රහ ලොවක පිහිටීම කාලය සමග වෙනස් වේ.\nB. තරු නිරීක්ෂණයට බාහිර ආලෝක ප්‍රභව වලින් බාධාවක් නොමැත\nC. තරු මෙන් ග්‍රහලෝකවල දිදුලන ස්වභාවයක් නොමැත\nඉහත ප්‍රකාශ අතරින් සත්‍ය ප්‍රකාශ මොනවාද?",
+        "choices": [
+            "A හා B",
+            "B හා C",
+            "A හා C",
+            "A, B හා C"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-science-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 131,
+        "subject": "science",
+        "category": "stem",
+        "question": "ගංවතුර ඇති වීම කෙරෙහි මිනිසාගේ සෘජු බලපෑමක් නොමැති හේතුව කුමක්ද?",
+        "choices": [
+            "අධික වර්ෂාපතනය",
+            "අවිධිමත් ගොඩකිරීම්",
+            "වන වැස්ම ඉවත් කිරීම",
+            "අක්‍රමවත් ඉදිකිරීම්"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-science-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 132,
+        "subject": "science",
+        "category": "stem",
+        "question": "විද්‍යුත් ශක්තිය මනින ඒකකය කුමක් ද?",
+        "choices": [
+            "ඇම්පියර්",
+            "වෝල්ට්",
+            "ජූල්",
+            "ඕම්"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-science-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 133,
+        "subject": "science",
+        "category": "stem",
+        "question": "ආහාරයකට ආකලන ද්‍රව්‍ය එකතු කිරීමේ අරමුණු කිහිපයක් පහත දැක්වේ.\nA. ආහාරය නරක් වීමෙන් වළක්වා ගැනීම\nB. ආහාරයේ රසය වැඩි කිරීම\nC. ආහාරය ඔක්සිජන් සමඟ ප්‍රතික්‍රියා කිරීම වැළැක්වීම\nඉහත කරුණු අතරින් නිවැරදි වන්නේ,",
+        "choices": [
+            "A හා B",
+            "B හා C",
+            "A හා C",
+            "A, B හා C"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-science-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 134,
+        "subject": "science",
+        "category": "stem",
+        "question": "ප්‍රභාසංස්ලේෂණය සම්බන්ධව අසත්‍ය ප්‍රකාශය කුමක්ද?",
+        "choices": [
+            "හරිත ශාක තුල සිදුවන ක්‍රියාවලියකි.",
+            "ප්‍රධාන ඵලය ඔක්සිජන් වේ.",
+            "සූර්යාලෝකය ප්‍රභාසංස්ලේෂණය සඳහා අවශ්‍ය බාහිර සාධකයකි.",
+            "ශාකයක ප්‍රභාසංස්ලේෂණය සඳහා විශේෂයෙන් හැඩ ගැසුණු අවයවය පත්‍ර වේ."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-science-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 135,
+        "subject": "science",
+        "category": "stem",
+        "question": "අවශ්‍ය පරිදි ධාරාව පාලනය කල හැකි ධාරා පාලන උපාංගය කවරක් ද?",
+        "choices": [
+            "ස්ථිර ප්‍රතිරෝධකය",
+            "බල්බය",
+            "ධාරා නියාමකය",
+            "ආලෝක සංවේදී ප්‍රතිරෝධකය"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-science-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 136,
+        "subject": "science",
+        "category": "stem",
+        "question": "වකුගඩු සම්බන්ධ අසත්‍ය ප්‍රකාශය කවරක්ද?",
+        "choices": [
+            "වෘක්කීය ධමනිය මගින් වකුගඩු වලට රුධිරය සපයයි",
+            "උදර කුහරය තුළ පිහිටයි",
+            "දකුණු වෘක්ක වම් වෘක්කයට මදක් පහළින් පිහිටයි",
+            "වකුගඩුවල යූරියා නිපද වේ"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-science-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 137,
+        "subject": "science",
+        "category": "stem",
+        "question": "අරිය සමමිතියක් සහිත දේහයක් ඇති සත්වයා වන්නේ,",
+        "choices": [
+            "කූඩැල්ලා",
+            "ගැඩවිලා",
+            "ලෝඩියා",
+            "දෙපියන් බෙල්ලා"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-science-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 138,
+        "subject": "science",
+        "category": "stem",
+        "question": "එක්තරා ද්‍රාවණයකට පිනොප්තලීන් එකතු කළ විට ද්‍රාවණය රෝස පාටට හැරිණි. එයට x නම් ද්‍රාවණයෙන් බිංදු කිහිපයක් දමන විට ද්‍රාවණයේ රෝස පැහැය ක්‍රමයෙන් අඩු වී ගොස් අවර්ණ විය. x පහත ද්‍රව්‍ය අතරින් කුමක් විය හැකිද?",
+        "choices": [
+            "අම්ල ද්‍රාවණයකි.",
+            "භෂ්ම ද්‍රාවණයකි.",
+            "ලවණ ද්‍රාවණයකි.",
+            "ආස්‍රැත ජලය"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-science-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 139,
+        "subject": "science",
+        "category": "stem",
+        "question": "විද්‍යුත් ලෝහාලේපනයේ දී යොදා ගනු ලබන්නේ,",
+        "choices": [
+            "විද්‍යුත් ධාරාවක චුම්බක ඵලය",
+            "විද්‍යුත් ධාරාවක රසායනික ඵලය",
+            "විද්‍යුත් ධාරාවක තාපන ඵලය",
+            "විද්‍යුත් ධාරාවක ප්‍රකාශ ඵලය"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-science-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 140,
+        "subject": "science",
+        "category": "stem",
+        "question": "චුම්බක බලය,\nA. ස්පර්ශ බලයකි.\nB. දුරස්ථ බලයක\nC. ස්පර්ශ බලයක් හෝ දුරස්ථ බලයක් නොවේ",
+        "choices": [
+            "A වේ",
+            "B වේ",
+            "C වේ",
+            "ඉහත කිසිවක් නොවේ"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-science-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 141,
+        "subject": "science",
+        "category": "stem",
+        "question": "රසායනික විපර්යාසයක දී සිදු නොවිය හැක්කේ කුමක්ද?",
+        "choices": [
+            "භෞතික අවස්ථාව පමණක් වෙනස් වීම",
+            "තාපය පිට වීම",
+            "වායු බුබුලු පිටවීම",
+            "වර්ණය වෙනස් වීම"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-science-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 142,
+        "subject": "science",
+        "category": "stem",
+        "question": "බහිස්‍රාවී ඉන්ද්‍රියක් නොවන්නේ කවරක්ද?",
+        "choices": [
+            "සම",
+            "ගුදය",
+            "පෙනහලු",
+            "වකුගඩු"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-science-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 143,
+        "subject": "science",
+        "category": "stem",
+        "question": "සත්‍ය ප්‍රකාශය තෝරන්න",
+        "choices": [
+            "වස්තුවක ඇති වන විධිමත් කම්පන හේතුවෙන් සංගීත නාද උපදියි",
+            "වයලීනයක තන්තුවල දිග අඩු වූ විට අඩු සංඛ්‍යාතයක් ලබා ගත හැකිය",
+            "ගිටාරයක මහතින් වැඩි කම්බිය කම්පනය කළ විට ඇති වන හඬෙහි සංඛ්‍යාතය වැඩිය",
+            "මිනිස් කන ඕනෑම සංඛ්‍යාත පරාසයකට සංවේදී වේ"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-science-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 144,
+        "subject": "science",
+        "category": "stem",
+        "question": "වකුගඩු ආශ්‍රිත රෝග කෙරෙහි බලපාන හේතු හතරක් පහත දැක්වේ.\nA. ප්‍රමාණවත් පරිදි ජලය පානය නොකිරීම\nC. අධික ලවණ සහිත ආහාර නිරතුරුවම ගැනීම\nB. දුම්පානය සහ මත් පැන් පානය\nD. බැර ලෝහ සහ විෂ රසායනික ශරීර ගත වීම\nමේවා අතරින් මුත්‍රා ගල් ඇති වීම කෙරෙහි බලපාන හේතු වන්නේ,",
+        "choices": [
+            "A හා B",
+            "A හා C",
+            "B හා C",
+            "C හා D"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-science-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 145,
+        "subject": "science",
+        "category": "stem",
+        "question": "යීස්ට් අයත් වන ක්ෂුද්‍ර ජීවී කාණ්ඩය කුමක්ද ?\n",
+        "choices": [
+            "බැක්ටීරියා",
+            "ප්‍රොටෝ සෝවා",
+            "වෛරස්",
+            "දිලීර"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29872&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 146,
+        "subject": "science",
+        "category": "stem",
+        "question": "ශ්වසනයට , පෙනහැලි හා තෙත සම යෙදා ගන්නා සතෙකු වන්නේ ,\n",
+        "choices": [
+            "ඉබ්බා ය .",
+            "ගෝරිල්ලා ය .",
+            "ගෙම්බා ය .",
+            "ගැඩවිලා ය ."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29872&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 147,
+        "subject": "science",
+        "category": "stem",
+        "question": "මොලුස්කා කාණ්ඩයටත් ආත්‍රොපෝඩා කාණ්ඩයටත් පොදු ලක්ෂණය වන්නේ ,",
+        "choices": [
+            "ශරීරයට පිටතින් කවචයක් තිබීම .",
+            "ද්විපාර්ශ්වික සමමිතියක් තිබීම .",
+            "පියාපත් දැරීම .",
+            "ශ්ලේෂ්මල වලින් තෙත් වූ සමක් තිබීම ."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29872&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 148,
+        "subject": "science",
+        "category": "stem",
+        "question": "තෙත් පොවන කඩදාසියක් මතට රතු පාට තීන්ත බිංදුවක් තැබූ විට ලැබෙන නිරීක්ෂණය හා හේතුව නිවැරදිව දක්වා ඇත්තේ ,",
+        "choices": [
+            "තීන්ත බිංදුව විසිරී නොයයි , තෙත් පොවන කඩදාසිය අසන්තතික නොවන නිසාය .",
+            "තීන්ත බිංදු විසිරී යයි , තෙත් පොවන කඩදාසිය අසන්තතික නිසාය .",
+            "තීන්ත බිංදුව විසිරී යයි , තෙත් පොවන කඩදාසිය ඝන ද්‍රව්‍යයක් නිසාය .",
+            "තීන්ත බිංදුව නිල් පැහැති වේ , තෙත් පොවන කඩදාසිය අසන්තතික නිසාය ."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29872&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 149,
+        "subject": "science",
+        "category": "stem",
+        "question": "A හා B නම් ද්‍රව්‍ය දෙකක් නිරීක්ෂණය කළ හැකි ලක්ෂණ පහත දැක්වේ .\nA - සම්පීඩනය කළ නොහැකිය / නිශ්චිත පරිමාවක් ඇත .\nB - සම්පීඩනය කළ හැකිය / නිශ්චිත පරිමාවක් නැත .\nA හා B සඳහා උදාහරණ පිළිවෙලින් නිවැරදිව දක්වා ඇති පිළිතුර තෝරන්න .",
+        "choices": [
+            "රසදිය හා ජල වාෂ්ප",
+            "වැලි හා ජලය",
+            "රසදිය හා ජලය",
+            "ජල වාෂ්ප හා වැලි"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29872&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 150,
+        "subject": "science",
+        "category": "stem",
+        "question": "කාලතරණය , ප්‍රචාරණය , ආහාර සංචිත කිරීම යන කෘත්‍යයන් තුනම කිරීමට හැඩ ගැසුණු ශාකයකි .",
+        "choices": [
+            "කහ",
+            "පතොක්",
+            "ගම්මිරිස්",
+            "රාබු"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29872&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 151,
+        "subject": "science",
+        "category": "stem",
+        "question": "භූගත කඳක් සහිත ශාක පමණක් අඩංගු පිළිතුර තෝරන්න .\n",
+        "choices": [
+            "ළූණු , ලීක්ස් , කැරට්",
+            "කෙසෙල් , බතල , ඉඟුරු",
+            "අර්තාපල් , කැරට් , ඉඟුරු",
+            "අර්තාපල් , කෙසෙල් , ඉඟුරු"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29872&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 152,
+        "subject": "science",
+        "category": "stem",
+        "question": "පටල කම්පනය වීමෙන් ශබ්දය නිපදවන භාණ්ඩයකි .",
+        "choices": [
+            "පියානෝව",
+            "හක් ගෙඩිය",
+            "සයිලෆෝනය",
+            "පීකරය"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29872&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 153,
+        "subject": "science",
+        "category": "stem",
+        "question": "චුම්බක ක්ෂේත්‍රයක දිශාව හඳුනා ගැනීමට යොදා ගත හැකි උපකරණයකි .",
+        "choices": [
+            "මල්ටි මීටරය",
+            "ගැල්වනෝමීටරය",
+            "මාලිමාව",
+            "මෝටරය"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29872&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 154,
+        "subject": "science",
+        "category": "stem",
+        "question": "භංගුරතාවය යන භෞතික ගුණය නිරීක්ෂණය කළ හැකි මූල ද්‍රව්‍යකි ",
+        "choices": [
+            "මැග්නීසියම්",
+            "කොපර්",
+            "ඇලුමිනියම්",
+            "සල්ෆර්"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29872&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 155,
+        "subject": "science",
+        "category": "stem",
+        "question": "අර්තාපල් ශාකයට වැළදෙන අංගමාර රෝගයට හේතු කාරකය වන්නේ ,",
+        "choices": [
+            "වෛරසයකි .",
+            "දිලීරයකි .",
+            "බැක්ටීරියාවෙකි .",
+            "ප්‍රොටෝ සෝවාවෙකි ."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29872&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 156,
+        "subject": "science",
+        "category": "stem",
+        "question": "ඇමරිකා එක්සත් ජනපදය විසින් ගුවන්ගත කරන ලද ප්‍රථම කෘත්‍රිම චන්ද්‍රිකාව",
+        "choices": [
+            "ස්පුට්නික් 1 ය .",
+            "එෆ්ලෝරා -1 ය",
+            "ටෙල්ස්ටර් - 1 ය .",
+            "වොස්ටොක් - 1 ය"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29872&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 157,
+        "subject": "science",
+        "category": "stem",
+        "question": "ආහාර පරිරක්ෂණය පිළිබඳ දී ඇති පහත ප්‍රකාශ සලකා බලන්න .\nA - ආහාර පරිරක්ෂණයේ දී අතිරික්ත ආහාර අපතේ යයි .\nB - ආහාර පරිරක්ෂණයේ දී ක්ෂුද්‍ර ජීවීන් මෙන් ම මහා ජීවීන්ගෙන් සිදුවන හානිය ද වළක්වාලයි .\nC - \"විසිරි වියළීම\" ආහාර පරිරක්ෂණය සඳහා යෙදා ගන්නා නවීන ක්‍රමයකි .\nඉහත ප්‍රකාශ අතරින් නිවැරදි ප්‍රකාශ වන්නේ ,",
+        "choices": [
+            "A හා B පමණි .",
+            "A හා C පමණි .",
+            "B හා C පමණි .",
+            "A , B , C සියල්ලමය"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29872&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 158,
+        "subject": "science",
+        "category": "stem",
+        "question": "භූ ස්ථායී චන්ද්‍රිකාවක් පෘථිවියේ සිට නිරීක්ෂණය කළ විට එකම ස්ථානයක පවතින සේ පෙනේ . මෙයට හේතු ලෙස සැලකිය හැක්කේ ,\n",
+        "choices": [
+            "භූ ස්ථායී චන්ද්‍රිකාවේ භ්‍රමණ වේගය පෘථිවියේ භ්‍රමණ වේගයට සමාන වීමය .",
+            "භූ ස්ථායී චන්ද්‍රිකාවේ භ්‍රමණ වේගය පෘථිවියේ පරිභ්‍රමණ වේගයට සමාන වීමය .",
+            "පෘථිවියේ භ්‍රමණ වේගයට වඩා චන්ද්‍රිකාවේ භ්‍රමණ වේගය අඩු වීමය .",
+            "පෘථිවියේ භ්‍රමණ වේගයට වඩා චන්ද්‍රිකාවේ භ්‍රමණ වේගය වැඩි වීමය ."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29872&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 159,
+        "subject": "science",
+        "category": "stem",
+        "question": "ආහාරවලට පරිරක්ෂක ද්‍රව්‍ය එකතු කිරීමෙන් ඇති වන වාසියකි .",
+        "choices": [
+            "සැම විට ම ආහාරයේ ආවේණික රස වෙනස් නොවීමය .",
+            "සමහර ආහාරවල පෝෂණ ගුණය ඉහළ නංවා ගත හැකි වීමය .",
+            "ස්වභාවික ආහාරවලට ඇති රුචිකත්වය අඩු වීමය .",
+            "ප්‍රමිතියෙන් තොර ආකලන ද්‍රව්‍ය එකතු කිරීමට හැකි වීමය ."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29872&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 160,
+        "subject": "science",
+        "category": "stem",
+        "question": "ධ්‍රැව තාරකාව පිළිබඳ ප්‍රකාශ කිහිපයක් පහත දැක්වේ .\nA - පෘථිවි අක්ෂය එල්ලේ පිහිටා තිබීම නිසා අනෙක් තරු මෙන් චලනය වීමක් සිදු වන බව නොපෙනේ .\nB - කුඩා වලසා තරු රටාවට අයත් තාරකාවකි .\nC - දක්ෂිණ අර්ධ ගෝලයේ ක්ෂිතිජයට ඉහළින් දක්නට ලැබේ .\nඉහත ප්‍රකාශ අතරින් නිවැරදි වන්නේ ,",
+        "choices": [
+            "A හා B පමණි .",
+            "A හා C පමණි .",
+            "B හා C පමණි .",
+            "A , B , C සියල්ලමය ."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29872&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 161,
+        "subject": "science",
+        "category": "stem",
+        "question": "අභ්‍යන්තර හා බාහිර ක්‍රියාකාරකම්වලට ජීවී දේහ හැඩ ගැසීමේ ක්‍රියාවලිය",
+        "choices": [
+            "සංවේදනය යි .",
+            "ප්‍රතිග්‍රහණය යි .",
+            "සංයෝජනය යි .",
+            "සමායෝජනය යි ."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29872&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 162,
+        "subject": "science",
+        "category": "stem",
+        "question": "නියඟය ඇති වීමට බලපාන ස්වභාවික හේතුව කුමක් ද ",
+        "choices": [
+            "අධික ජල පරිහරණය .",
+            "වනාන්තර විනාශය .",
+            "මෝසම් සුළං නියමිත කාලයට නොලැබීම .",
+            "ඉන්ධන දහනයෙන් කාබන්ඩයොක්සයිඩ් වායුගෝලයට එකතු වීම ."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29872&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 163,
+        "subject": "science",
+        "category": "stem",
+        "question": "පහත ප්‍රකාශය හා හේතුව සලකා බලන්න .\nප්‍රකාශය : - අකුණු මගින් ස්වභාවික ආපදා ඇති වේ .\nහේතුව : - විද්‍යුත් විසර්ජන නිසා අකුණු ඇති වේ .\nඉහත ප්‍රකාශය හා හේතුවට ගැළපෙන නිවැරදි පිළිතුර තෝරන්න .",
+        "choices": [
+            "ප්‍රකාශය - අසත්‍ය වේ, හේතුව - සත්‍ය වේ",
+            "ප්‍රකාශය - සත්‍ය වේ, හේතුව - අසත්‍ය වේ",
+            "ප්‍රකාශය - සත්‍ය වේ, හේතුව - සත්‍ය වේ",
+            "ප්‍රකාශය - අසත්‍ය වේ, හේතුව - අසත්‍ය වේ"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29872&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 164,
+        "subject": "science",
+        "category": "stem",
+        "question": "නායයෑම් ඇති වීම කෙරේ බලපාන හේතුවක් හෝ හේතු වන්නේ ,\n",
+        "choices": [
+            "අධික වර්ෂාපතනය",
+            "මිනිස් ක්‍රියාකාරකම්",
+            "කඳු සෑදී ඇති පාෂාණවල ස්වභාවය",
+            "ඉහත පිළිතුරු සියල්ලම"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29872&token=&preview=1"
+        }
+    }
+]

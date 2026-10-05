@@ -1,0 +1,3404 @@
+[
+    {
+        "q_no": 1,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "මනු ලොව උපත ලැබීමට ප්‍රථම අප මහා බෝසතාණෝ උපත ලබා සිටියේ,",
+        "choices": [
+            "තුසිත දෙව් ලොවේය.",
+            "බ්‍රහ්ම ලොවේය.",
+            "නාග භවනේය.",
+            "සක්‍ර භවනේය."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-06-buddhism-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 2,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "පංච මහා විලෝකනය හෙවත් පස් මහ බැලුම් වලට අයත් නොවන්නේ,",
+        "choices": [
+            "කාලය.",
+            "ලෝකය.",
+            "දීපය.",
+            "මව."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-06-buddhism-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 3,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "සිදුහත් බෝසතාණෝ \"මව් කුස පිළිසිඳීම පිළිබඳ සිහිනය\" මහාමායා දේවිය දුටුවේ,",
+        "choices": [
+            "වෙසක් පෝය දාකය.",
+            "පොසොන් පෝය දාකය.",
+            "ඇසළ පෝය දාකය.",
+            "දුරුතු පෝය දාකය."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-06-buddhism-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 4,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "\"අග්ගෝ හමස්මි ලෝකස්ස\" මෙහි සරල තේරුම,",
+        "choices": [
+            "මම ලොවට ශ්‍රේෂ්ඨ වෙමි යන්නයි.",
+            "මම ලොවට අග්‍ර වෙමි යන්නයි.",
+            "මම ලොවට තිලක යන්නයි.",
+            "මේ මාගේ අවසන් උපත යන්නයි."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-06-buddhism-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 5,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "මහාමායා දේවිය කලුරිය කළ පසු සිදුහත් කුමරු හදා වඩා ගත්තේ,",
+        "choices": [
+            "සුජාතා සිටු දේවියයි.",
+            "කෝසල දේවියයි.",
+            "මහා ප්‍රජාපති ගෝතමී දේවියයි.",
+            "බන්ධුල මල්ලිකා දේවියයි."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-06-buddhism-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 6,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "පිය රජතුමා සිදුහත් කුමරුට දෙවන වරට වැන්දේ,",
+        "choices": [
+            "අසිත තවුසා කුමරුට වැන්ද අවස්ථාවේදී ය.",
+            "මව කලුරිය කළ අවස්ථාවේ දී ය.",
+            "විවාහ මංගල අවස්ථාවේදී ය.",
+            "වප් මගුල් උත්සව අවස්ථාවේදීය."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-06-buddhism-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 7,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "ගිහි ගෙයින් නික්ම යන විට සිදුහත් කුමරුගේ වයස අවුරුදු,",
+        "choices": [
+            "16 කි.",
+            "20 කි.",
+            "25 කි.",
+            "29 කි."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-06-buddhism-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 8,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "දුෂ්කර ක්‍රියාව අත්හළ බෝධිසත්වයෝ අනුගමනය කළ ප්‍රතිපත්තිය නම්,",
+        "choices": [
+            "දුෂ්කර තපස් ව්‍රත අනුගමනය කිරීම.",
+            "සිරුරට අධිකව සැප ලබා දීම.",
+            "මැඳුම් පිළිවෙත අනුගමනය කිරීම.",
+            "පිඬුසිඟා වැඩීම අත් හැරීම."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-06-buddhism-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 9,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "පන්සලට ගිය පසු වන්දනාමාන කිරීමේ දී දෙවනුව වන්දනා කළ යුත්තේ,",
+        "choices": [
+            "වෙහෙර වහන්සේට ය.",
+            "බෝධීන් වහන්සේට ය.",
+            "පිළිම වහන්සේට ය.",
+            "ජාතක පොත් වහන්සේට ය."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-06-buddhism-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 10,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "ඉතිපි සෝ භගවා අරහං ...... විජ්ජාචරණ යනාදී ගාථා පාඨයෙහි හිස්තැනට නියමිත බුදුගුණය වන්නේ,",
+        "choices": [
+            "සුගතෝ යන්නයි.",
+            "ලෝකවිදු යන්නයි.",
+            "සම්මා සම්බුද්ධෝ යන්නයි.",
+            "අනුත්තරෝ යන්නයි."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-06-buddhism-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 11,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "යස්ස මුලේ නිසින්නෝ............ මෙම ගාථාව සජ්ඣායනා කරමින් වන්දනා කරන්නේ,",
+        "choices": [
+            "බෝධීන් වහන්සේ ය.",
+            "පිළිම වහන්සේය.",
+            "චෛත්‍ය රාජයාණන් වහන්සේ ය.",
+            "සංඝයා වහන්සේය."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-06-buddhism-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 12,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "පැන් පූජා කරන ගාථාවේ මුල් පද පේළිය වන්නේ,",
+        "choices": [
+            "පූජේමි බුද්ධං කුසුමේනනේන යන්නයි",
+            "අධිවාසේතු නෝ භන්තේ යන්නයි",
+            "කායේන වාචා චිත්තේන යන්නයි",
+            "සුගන්ධං සීතලං කප්පං... යන්නයි"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-06-buddhism-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 13,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "බුදු දහම අනුව උපාසකයෙකු වීමේ මූලික පියවර වන්නේ,",
+        "choices": [
+            "බුදුන් සරණ යාම",
+            "දහම් සරණ යාම",
+            "තෙරුවන් සරණ යාම",
+            "සඝ සරණ යාම"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-06-buddhism-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 14,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "දියුණුවේ දොරටු සඳහන් වන්නේ,",
+        "choices": [
+            "අත්ථස්සද්වාර ජාතකයේ ය.",
+            "උම්මග්ග ජාතකයේ ය.",
+            "වෙස්සන්තර ජාතකයේ ය.",
+            "ස්වර්ණ හංස ජාතකයේය."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-06-buddhism-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 15,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "\"නිදාගන්නවා\" යන වචනයට අදාළ ශාසනික වචනය වන්නේ,",
+        "choices": [
+            "වළඳනවා යන්නයි.",
+            "පැන් පහසු වෙනවා යන්නයි.",
+            "වඩිනවා යන්නයි.",
+            "සැතපෙනවා යන්නයි."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-06-buddhism-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 16,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "සීල ශික්ෂාවට අයත් නොවන අංගය තෝරන්න.",
+        "choices": [
+            "සම්මා වාචා",
+            "සම්මා සංකප්ප",
+            "සම්මා ආජීව",
+            "සම්මා කම්මන්ත"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-06-buddhism-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 17,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "ජීවත් වීමේදී අනුගමනය කළ යුතු ජීවන ක්‍රමයක් ලෙස බුදු දහම අනුමත කරන්නේ.",
+        "choices": [
+            "මස් වෙළදාම",
+            "මාලු වෙළදාම",
+            "සුරතල් සතුන් වෙළදාම",
+            "රාජ්‍ය සේවය"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-06-buddhism-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 18,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "නුදුන් දෙයක් සොර සිතින් නොගනිමි ...... මෙහි දැක්වෙන්නේ පන්සිල් වල,",
+        "choices": [
+            "පළමු සිල්පදයයි",
+            "දෙවන සිල්පදයයි",
+            "තෙවන සිල්පදයයි",
+            "සිව්වන සිල්පදයයි"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-06-buddhism-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 19,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "මෙත්තා, කරුණා, මුදිතා, උපේක්ඛා යනු",
+        "choices": [
+            "සතර අගතියයි",
+            "සතර බ්‍රහ්ම විහරණයි",
+            "සතර සති පට්ඨානයයි",
+            "චතුරාර්ය සත්‍යයි"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-06-buddhism-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 20,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "ජාතික කොඩියෙහි සතර බ්‍රහ්ම විහරණ පෙන්නුම් කරන්නේ,",
+        "choices": [
+            "කහපාට සිංහයාගෙනි",
+            "අසිපතිනි",
+            "කහපාට තීරුවෙනි",
+            "බෝපත් සතරෙනි"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-06-buddhism-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 21,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "සිදුහත් බෝසතාණන් වහන්සේට මනුලොව ඉපදීමට ආරාධනා කරන ලද්දේ,",
+        "choices": [
+            "ඝටීකාර බමුණා ය.",
+            "සහම්පති මහා බ්‍රහ්මයාය.",
+            "අසිත තවුසා ය.",
+            "සුද්ධෝදන රජතුමා ය."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-buddhist-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 22,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "සිදුහත් කුමරුට නම් තැබීමේ උළෙල පැවැත්වූයේ කුමරු ඉපදී,",
+        "choices": [
+            "දෙවන දිනයේ දී ය.",
+            "තුන් වන දිනයේ දී ය.",
+            "හතරවන දිනයේ දී ය.",
+            "පස් වන දිනයේ දී ය."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-buddhist-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 23,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "බුදු දහමට අනුව මෙත් වැඩීමේ ආනිසංස,",
+        "choices": [
+            "11 කි.",
+            "12 කි.",
+            "13 කි.",
+            "14 කි."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-buddhist-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 24,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "අත්ථස්සද්වාර ජාතකයේ දියුණුවීම සඳහා ඇති කරුණු හයෙහි \"අලීනතා\" යනු,",
+        "choices": [
+            "නිරෝගී බවයි.",
+            "දැහැමිව ජීවත් වීමයි.",
+            "කම්මැලි නැතිකමයි.",
+            "වැඩිහිටියන්ගේ උපදෙස් ලැබීමයි."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-buddhist-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 25,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "සීලය යනු,",
+        "choices": [
+            "කය හා වචනයේ සංවර බවයි.",
+            "සිත, කය හා වචනයේ සංවර බවයි.",
+            "වචනයේ සංවර බවයි.",
+            "ති දොරේ සංවර බවයි."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-buddhist-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 26,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "ත්‍රී ශික්ෂාවට අයත් නොවන අංගය වන්නේ,",
+        "choices": [
+            "සීලය.",
+            "සමාධිය.",
+            "ප්‍රඥාව.",
+            "භාවනාව"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-buddhist-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 27,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "\"කායේන සංවරෝ සාධු\" යන පාඨයෙන් අර්ථවත් වන්නේ,",
+        "choices": [
+            "කය සංවර කර ගැනීම යහපත්ය.",
+            "වචනය සංවර කර ගැනීම යහපත්ය.",
+            "මනස සංවර කර ගැනීම යහපත්ය.",
+            "තිදොර සංවර කර ගැනීම යහපත්ය."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-buddhist-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 28,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "සිගාලෝවාද සූත්‍රයට අනුව දෙමාපියන් නම් කර ඇති දිශාව වන්නේ,",
+        "choices": [
+            "දකුණු දිශාවටයි.",
+            "උතුරු දිශාවටයි.",
+            "නැගෙනහිර දිශාවටයි.",
+            "බටහිර දිශාවටයි."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-buddhist-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 29,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "සමාජයේ යුතුකම් පිළිබඳ ඇතුළත් සූත්‍ර දේශනාව වන්නේ,",
+        "choices": [
+            "මහා මංගල සූත්‍රයයි.",
+            "සිගාලෝවාද සූත්‍රයයි.",
+            "රතන සූත්‍රයයි.",
+            "දම්සක් පැවතුම් සූත්‍රයයි."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-buddhist-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 30,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "පංච මහා විලෝකනය හඳුන්වන තවත් නමකි,",
+        "choices": [
+            "පංච සීලය.",
+            "පස්මහ බැලුම්.",
+            "පංචතූය භාණ්ඩ.",
+            "පංච නීවරණ"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/grade-06-buddhism-2nd-term-test-paper-with-answers-2023-mathugama-zone/"
+        }
+    },
+    {
+        "q_no": 31,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "\"අග්ගෝ හමස්මි ලෝකස්ස...\" යන ගාථාව,",
+        "choices": [
+            "සිදුහත් කුමරු විසින් පවසන ලදී.",
+            "බුදුරජාණන් වහන්සේ විසින් පවසන ලදී.",
+            "බෝධි සත්වයන් වහන්සේ විසින් පවසන ලදී.",
+            "කිසා ගෝතමිය විසින් පවසන ලදී."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/grade-06-buddhism-2nd-term-test-paper-with-answers-2023-mathugama-zone/"
+        }
+    },
+    {
+        "q_no": 32,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "වප් මගුල් දින සිදුහත් කුමරු විසින් වඩන ලද භාවනාව නම්,",
+        "choices": [
+            "බුදු ගුණ භාවනාව යි.",
+            "සක්මන් භාවනාව යි.",
+            "මෛත්‍රී භාවනාව යි.",
+            "ආනාපාන සති භාවනාව යි."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/grade-06-buddhism-2nd-term-test-paper-with-answers-2023-mathugama-zone/"
+        }
+    },
+    {
+        "q_no": 33,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "සිදුහත් කුමරු ඒකාන්තයෙන්ම බුදුවන බව පවසන ලද්දේ කවුරුන් විසින්ද?",
+        "choices": [
+            "සුද්ධෝදන රජතුමා විසිනි.",
+            "සවමිත්‍ර බමුණු පඬිතුමා විසිනි.",
+            "කොණ්ඩඤ්ඤ බමුණා විසිනි.",
+            "බමුණන් 108 දෙනකු විසිනි."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/grade-06-buddhism-2nd-term-test-paper-with-answers-2023-mathugama-zone/"
+        }
+    },
+    {
+        "q_no": 34,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "නිබ්බුත පද පවසන ලද්දේ,",
+        "choices": [
+            "පටාචාරාව විසිනි.",
+            "කිසා ගෝතමිය විසිනි.",
+            "මහා ප්‍රජාපතී ගෝතමිය විසිනි.",
+            "චිංචි මානවිකාව විසිනි."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/grade-06-buddhism-2nd-term-test-paper-with-answers-2023-mathugama-zone/"
+        }
+    },
+    {
+        "q_no": 35,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "\" රජතුමනි මේ කුමරු ඒකාන්තයෙන් ම බුදු වෙනවා , එබැවින් මම සිනාසුණෙමි . කුමරු බුදුවන්නට පෙර මා මිය යන බැවින් හැඬුවෙමි \" මෙම ප්‍රකාශය සිදු කරන ලද්දේ කවුරුන් විසින් ද ?\n",
+        "choices": [
+            "සුදොවුන් රජු විසිනි .",
+            "කිසා ගෝතමිය විසිනි .",
+            "අසිත තාපසතුමා විසිනි .",
+            "පස්වග තවුසන් විසිනි ."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=43297&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 36,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "සිදුහත් කුමරු අභිනිෂ්ක්‍රමණය කළේ කුමන පොහොය දිනක ද ?",
+        "choices": [
+            "වෙසක් පොහොය දිනක ය .",
+            "ඇසළ පොහොය දිනක ය .",
+            "පොසොන් පොහොය දිනකය .",
+            "උඳුවප් පොහොය දිනකය ."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=43297&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 37,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "පුද්ගලයෙකුගේ මනස සංවර කර ගැනීමට මෙත් වැඩීම මහත්සේ ඉවහල් වේ . මෙත් වැඩීමෙන් ලැබෙන අනුසස් ප්‍රමාණය කොපමණ ද ?",
+        "choices": [
+            "අනුසස් 9 කි .",
+            "අනුසස් 10 කි .",
+            "අනුසස් 11 කි .",
+            "අනුසස් 14 කි ."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=43297&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 38,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "සිදුහත් කුමාරයාගේ මව වූයේ ,",
+        "choices": [
+            "යශෝධරා දේවියයි .",
+            "මහාමායා දේවියයි .",
+            "මහා ප්‍රජාපතී ගෝතමී දේවියයි",
+            "කිසාගෝතමී දේවියයි ."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=22048&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 39,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "යශෝධරා දේවියගේ පියා වූයේ ,",
+        "choices": [
+            "සුද්ධෝදන රජතුමා ය .",
+            "අමිතෝදන රජතුමා ය .",
+            "සුප්‍රබුද්ධ රජතුමා ය .",
+            "කොසොල් රජතුමා ය ."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=22048&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 40,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "සතර පෙරනිමිතිවල දෙවැන්න",
+        "choices": [
+            "මහල්ලෙක් ය .",
+            "රෝගියෙක් ක්ය .",
+            "මළ සිරුරක් ය .",
+            "පැවිදි රුවක් ය ."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=22048&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 41,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "විහාරස්ථානයට ගොස් වන්දනා කරන පිළිවෙළ නිවැරදිව දක්වා ඇති පිළිතුර තෝරන්න .",
+        "choices": [
+            "බෝධීන් වහන්සේ , බුදු පිළිම වහන්සේ , වෙහෙර වහන්සේ .",
+            "වෙහෙර වහන්සේ , බෝධීන් වහන්සේ , බුදු පිළිම වහන්සේ .",
+            "බුදු පිළිම වහන්සේ , වෙහෙර වහන්සේ , බෝධීන් වහන්සේ .",
+            "බුදු පිළිම වහන්සේ , බෝධීන් වහන්සේ , වෙහෙර වහන්සේ ."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=22048&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 42,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "පහත දැක්වෙන වචනවලට භාවිතවන ශාසනික වචන පිළිවෙළට යෙදී ඇති පිළිතුර තෝරන්න .\nවතුර, අතුගානවා, මිදුල",
+        "choices": [
+            "අමදිනවා , මලුව , පැන්",
+            "පැන් , මලුව , අමදිනවා",
+            "පැන් , අමදිනවා , මලුව",
+            "අමදිනවා , පැන් , මලුව"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=22048&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 43,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "මෙයින් අවුරුදු දහසක් ඉකුත් වූ කල බුදු කෙනෙකුන් උපදිනවා යයි දෙවියන් හඬ නඟා කියමින් ඇවිදිනවා . මෙම ප්‍රකාශය ,\n",
+        "choices": [
+            "ධර්ම කෝලාහල යයි",
+            "බුද්ධ කෝලාහල යයි",
+            "සංඝ කෝලාහල යයි",
+            "දේව කෝලාහල යයි"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=22074&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 44,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "සිදුහත් කුමරු සමඟ එකට හැදුණු කුමාරවරුන් වන්නේ ,",
+        "choices": [
+            "නන්ද හා කාළුදායී කුමාරවරුන්ය",
+            "දෙව්දත් හා ඡන්න කුමාරවරුන්ය",
+            "භද්දවග්ගිය කුමාරවරුන්ය",
+            "නන්ද හා පිප්පලී කුමාරවරුන්ය"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=22074&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 45,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "සුද්ධෝදන රජතුමා තම කුමරුට දෙවන වැඳුම සිදු කළේ ,",
+        "choices": [
+            "අසිත තවුසාණන් ඉදිරියේ ය",
+            "වප්මගුල් දිනයේ ය",
+            "සර්වමිත්‍ර බමුණා ඉදිරියේ ය",
+            "කොණ්ඩඤ්ඤ බමුණා ඉදිරියේය"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=22074&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 46,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "පැවිදි වූ සිදුහත් කුමරුට සිවුරු පිරිකර පූජා කළේ ,",
+        "choices": [
+            "ඝටීකාර බ්‍රහ්මයා විසින් ය",
+            "පස්වග තවුසන් විසින් ය",
+            "ඡන්න නම් ඇමතියා විසින් ය",
+            "සතර වරම් දෙවිවරු විසින් ය"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=22074&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 47,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "මේ වැලි දෝතේ වැලි කැට ප්‍රමාණයට මට ගුරුවරුන්ගේ අවවාද ලැබේවායි ' ප්‍රාර්ථනා කළේ ,",
+        "choices": [
+            "සුනීත පොඩි හාමුදුරුවෝය",
+            "ආනන්ද හාමුදුරුවෝය",
+            "රාහුල හාමුදුරුවෝය",
+            "නන්ද හාමුදුරුවෝය"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=22074&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 48,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "සිවුබඹ විහරණයෙන් යුතුව අප කෙරෙහි ලැදිව කටයුතු කරන්නේ ,",
+        "choices": [
+            "ගුරුවරුන්ය",
+            "භික්ෂූන් වහන්සේලාය",
+            "හිත මිතුරන්ය",
+            "දෙමා පියන්ය"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=22074&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 49,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "ජාතියේ ශක්තිය හා චිර පැවැත්ම මූර්තිමත් කරන ජාතික සංකේතය වන්නේ ,",
+        "choices": [
+            "බෝ ගස",
+            "නා ගස",
+            "පොල් ගස",
+            "කොස් ගස"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=22074&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 50,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "රජගහ නුවර මචල ග්‍රාමයෙහි අභියෝගයන්ට මුහුණ දෙමින් කණ්ඩායම් හැගීමෙන් යුතුව කටයුතු කරමින් සිය වගකීම් ඉටු කළ තරුණ පිරිසක් පිළිබඳ කියැවෙන්නේ ,",
+        "choices": [
+            "මඝ මානවක කතාවෙනි",
+            "සුජාතාවගේ කතාවෙනි",
+            "රාහුල හිමිගේ කතාවෙනි",
+            "අස්සජි හිමිගේ කතාවෙනි"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=22074&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 51,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "තමා වැරදි නොකිරීම , අන් අය ලවා වැරදි නොකරවීම , අන් අය කරන වැරදි අනුමත නොකිරීම , දහමෙහි හඳුන්වන්නේ ,",
+        "choices": [
+            "පංච ශීලය නමිනි",
+            "විරමනය හා සමාදානය නමිනි",
+            "ත්‍රිකෝටි පාරිශුද්ධ ශීලය නමිනි",
+            "අෂ්ඨාංග ශීලය නමිනි"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=22074&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 52,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "දෙවන පන්සිල් පදයට අනුව ' ලද දෙයින් සතුටු වන බව දැක්වෙනන කවි පදය කුමක්ද ?",
+        "choices": [
+            "නුදුන් දෙයක් හොර සිතකින් නොගන්නෙමි",
+            "අනුන් ලවා හොරකම් නොකරවන්නෙමි",
+            "හොරෙන් ගැනුම අනුමත නොම කරන්නෙමි",
+            "ලැබෙන්නෙකින් සතුටුව දිවි ගෙවන්නෙමි"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=22074&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 53,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "අර්ධ පර්යංකයෙන් ( පාද පසුපසට නමා ) භාවනාව සඳහා හිඳගන්නේ ,",
+        "choices": [
+            "උපාසකවරුන්ය",
+            "ස්වාමීන් වහන්සේලාය",
+            "උපාසිකාවන්ය",
+            "හිතමිතුරන්ය"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=22074&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 54,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "බුදු දහමට අනුව ' දියුණුව ' පිළිබඳ පහත ප්‍රකාශ වලින් නිවැරදි ප්‍රකාශය තෝරන්න .\n",
+        "choices": [
+            "මිළ මුදල් වැඩියෙන් ඇති තැනැත්තා දියුණු පුද්ගලයෙකි",
+            "දැහැමි , නිරෝගී , සිල්වත් , උගත් තැනැත්තා දියුණු පුද්ගලයෙකි",
+            "ඉහල තනතුරක් දරන්නා දියුණු පුද්ගලයෙකි",
+            "ගේ දොර ඉඩ කඩම් , යාන වාහන ඇති තැනැත්තා දියුණු පුද්ගලයෙකි"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=22074&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 55,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "ධර්මය තම ගුරුවරයා ලෙස තබාගැනීමට බුදුන් වහන්සේ තීරණය කළේ බුදු වීමෙන්,",
+        "choices": [
+            "පළමු සතියේ දී ය.",
+            "තෙවන සතියේ දී ය.",
+            "පස්වන සතියේ දී ය.",
+            "සත්වන සතියේ දී ය."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-07-buddhism-3rd-term-test-paper-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 56,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "බුදු සසුනේ බුදුන් හා දහම් සරණ ගිය ප්‍රථම උපාසකවරු වන්නේ,",
+        "choices": [
+            "උපතිස්ස කෝලිත පිරිවැජියන් ය.",
+            "තපස්සු භල්ලුක සහෝදරයන් ය",
+            "චූලෝදර මහෝදර නා රජුන් ය.",
+            "තුන් බෑ ජටිලයන් ය."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-07-buddhism-3rd-term-test-paper-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 57,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "පස්වග තවුසන් රහත් භාවයට පත් වූ සූත්‍රය වන්නේ,",
+        "choices": [
+            "අනන්ත ලක්ඛන සූත්‍රය.",
+            "දම්සක් පැවතුම් සූත්‍රය.",
+            "ආදිත්ත පරියාය සූත්‍රය.",
+            "දේව දූත සූත්‍රය."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-07-buddhism-3rd-term-test-paper-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 58,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "බුදුරජාණන් වහන්සේ අපේ රටේ මහියංගනයට වැඩම කළේ,",
+        "choices": [
+            "වෙසක් පෝය දා ය.",
+            "බක් මස අමාවක පෝය දාය.",
+            "දුරුතු පෝය දා ය.",
+            "පොසොන් පෝය දා ය."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-07-buddhism-3rd-term-test-paper-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 59,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "බුදු සසුනේ ප්‍රථම වරට පූජා කළ ආරාමය,",
+        "choices": [
+            "නිග්‍රෝධාරාමය.",
+            "වේළුවනාරාමය.",
+            "ජේතවනාරාමය.",
+            "වාලුකාරාමය"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-07-buddhism-3rd-term-test-paper-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 60,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "බුදුරජාණන් වහන්සේ පිළිබඳව විශාල ගෞරවයක් පැහැදීමක් සිත් තුළ උපදවා ගැනීමට උපකාර වන භාවනාව වනුයේ,",
+        "choices": [
+            "ධම්මානුස්සති භාවනාව",
+            "සීලානුස්සති භාවනාව",
+            "බුද්ධානුස්සති භාවනාව",
+            "සංඝානුස්සති භාවනාව"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-07-buddhism-3rd-term-test-paper-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 61,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "ත්‍රිවිධ චෛත්‍යය පිළිවෙලින් වන්දනා කිරීම සැදැහැවත් බෞද්ධයකු ගේ ලක්ෂණයකි. මෙහි ත්‍රිවිධ චෛත්‍යයට අයත් වන කරුණ වන්නේ,",
+        "choices": [
+            "පිළිම වහන්සේය",
+            "මහා පිරුවානා පොත් වහන්සේ ය.",
+            "පන්සිය පනස් ජාතක පොත් වහන්සේය",
+            "දළදා වහන්සේ ය."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-07-buddhism-3rd-term-test-paper-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 62,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "සියලු සත්ත්වයන්ට කරුණාව මෛත්‍රිය වැඩිය යුතු ආකාරය දැක්වෙන සූත්‍රය,",
+        "choices": [
+            "පරාභව සූත්‍රය",
+            "මහා මංගල සූත්‍රය",
+            "කරණීය මෙත්ත සූත්‍රය",
+            "වසල සූත්‍රය"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-07-buddhism-3rd-term-test-paper-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 63,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "අනේපිඬු සිටුතුමා කහවනු පනස් හතර කෝටියක් වියදම් කර ගොඩනැගූ විහාරය වන්නේ,",
+        "choices": [
+            "ජේතවනාරාමය",
+            "පූර්වාරාමය",
+            "වේළුවනාරාමය",
+            "වාලුකාරාමය"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-07-buddhism-3rd-term-test-paper-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 64,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "ගාථා 423 වග්ග 26 ක් ඇතුළත් බෞද්ධයාගේ අත්පොත ලෙස සැලකෙන ධම්ම පදය නම් ග්‍රන්ථය අයත් වන්නේ සූත්‍ර පිටකයේ,",
+        "choices": [
+            "ඛුද්දක නිකායට ය.",
+            "සංයුක්ත නිකායට ය.",
+            "අංගුත්තර නිකායටය.",
+            "දීඝ නිකායට ය."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-07-buddhism-3rd-term-test-paper-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 65,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "සිරිත් විරිත් පිළිබඳ තොරතුරු ඇතුළත් \"සිරිත් මල් දම\" පොතෙහි කතුවරයා වන්නේ.",
+        "choices": [
+            "හික්කඩුවේ ශ්‍රී සුමංගල හිමි ය.",
+            "එස් මහින්ද හිමිය.",
+            "විදාගම මහා මෛත්‍රී හිමි ය.",
+            "ඇල් ඇම් සිල්වා ගුරු මුහන්දිරම් තුමා ය."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-07-buddhism-3rd-term-test-paper-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 66,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "ගිහි බෞද්ධයාගේ නිත්‍ය සීලය වන්නේ,",
+        "choices": [
+            "පංච සීලයයි.",
+            "උපසම්පදා සීලයයි.",
+            "ආජීව අෂ්ටමක සීලයයි.",
+            "දස සීලයයි."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-07-buddhism-3rd-term-test-paper-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 67,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "නිර්වාණගාමී මගට පිවිසීමේදී අත්‍යවශ්‍ය වන ධර්ම සමූහය බුද්ධකාරක ධර්ම ලෙස හඳුන්වයි. එම ධර්ම කරුණු.",
+        "choices": [
+            "දස පාරමිතා ලෙස හඳුන්වයි.",
+            "දස පුණ්‍ය ක්‍රියා ලෙස හඳුන්වයි.",
+            "දස රාජධර්ම ලෙස හඳුන්වයි.",
+            "දස කුසල් ලෙස හඳුන්වයි."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-07-buddhism-3rd-term-test-paper-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 68,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "හිවලා සහ පවුලේ සැමට තම වාසස්ථානය අසලම නවාතැන් දුන් සිංහයෙකු ගැන කියවෙන ජාතක කතාව වන්නේ.",
+        "choices": [
+            "වට්ටක ජාතකය",
+            "සේරිවාණිජ ජාතකය",
+            "තිත්තිර ජාතකය",
+            "ගුණ ජාතකය"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-07-buddhism-3rd-term-test-paper-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 69,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "බුද්ධ කාලීන භාරතයේ විසූ ඇතැම් ශාස්තෘවරුන් දේශනා කර ඇත්තේ \"සියල්ල සිදුවන්නේ සර්ව බලධාරී දෙවියකුගේ මැවීම අනුව බවයි\" මේ අදහස.",
+        "choices": [
+            "ඊශ්වර නිර්මාණවාදය නම් වේ.",
+            "අමරා වික්ඛේපවාදය නම් වේ.",
+            "අකිරියවාදය නම් වේ.",
+            "උච්ඡේද වාදය නම් වේ."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-07-buddhism-3rd-term-test-paper-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 70,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "ගිරිමානන්ද සූත්‍රය අනුව රෝග හට ගන්නා ක්‍රමයක් වන \" සන්නිපාතිකා ආබාධා \" යනු",
+        "choices": [
+            "පිත කිපීමෙන් හටගන්නා ආබාධයන් ය.",
+            "සෘතු විපර්යාස නිසා හටගන්නා ආබාධයන්ය.",
+            "අනුන්ගෙන් බෝ වීම නිසා හටගන්නා ආබාධයන්ය",
+            "කර්ම විපාක නිසා හටගන්නා ආබාධයන් ය."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-07-buddhism-3rd-term-test-paper-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 71,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "බුදුරජාණන් වහන්සේ චතුරාර්ය සත්‍ය පිළිබඳ ප්‍රථමයෙන්ම කරුණු ගෙනහැර දැක් වූ සූත්‍රය වන්නේ,",
+        "choices": [
+            "දම්සක් පැවතුම් සූත්‍රය",
+            "රතන සූත්‍රය",
+            "අනන්ත ලක්ඛන සූත්‍රය",
+            "කුල සූත්‍රය"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-07-buddhism-3rd-term-test-paper-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 72,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "කායානුපස්සනා, චිත්තානුපස්සනා, වේදනානුපස්සනා හා ධම්මානුපස්සනා යන සතර සතිපට්ඨාන භාවනාව වැඩීම ආර්ය අෂ්ටාංගික මාර්ගයේ අයත් වන මාර්ග අංගය වන්නේ.",
+        "choices": [
+            "සම්මා දිට්ඨි",
+            "සම්මා සමාධි",
+            "සම්මා සති",
+            "සම්මා සංකප්ප."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-07-buddhism-3rd-term-test-paper-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 73,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "මාතලේ අලුවිහාරයේ දී පැවැත්වූයේ.",
+        "choices": [
+            "පළමු ධර්ම සංගායනාවයි",
+            "සිව්වන ධර්ම සංගායනාවයි.",
+            "දෙවන ධර්ම සංගායනාවයි",
+            "තුන්වන ධර්ම සංගායනාවයි"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-07-buddhism-3rd-term-test-paper-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 74,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "කුඹුරු වලින් අස්වනු ලබා ගැනීමෙන් අනතුරුව එහි පළමු කොටස ත්‍රිවිධ රත්නයට පූජා කිරීම.",
+        "choices": [
+            "අග්‍රෂ්‍ය දානය යි.",
+            "මී පිඬු දානයයි.",
+            "සාංඝික දානයයි.",
+            "සලාක දානය යි."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-07-buddhism-3rd-term-test-paper-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 75,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "සත් සතිය ගත කිරීමේදී බුද්ධ ශරීරයෙන් බුදුරැස් විහිදෙන්නට පටන් ගත් සතිය වනුයේ,",
+        "choices": [
+            "පළමු සතිය.",
+            "තෙවන සතිය.",
+            "සිව්වන සතිය.",
+            "පස්වන සතිය."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-07-buddhism-3rd-term-test-paper-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 76,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "බුදු සසුනේ දේවාචික උපාසකයන් වූයේ,",
+        "choices": [
+            "අනේපිඬු සිටුතුමා.",
+            "තපස්සු භල්ලුක.",
+            "බිම්බිසාර මහරජු.",
+            "කොසොල් රජු"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-07-buddhism-3rd-term-test-paper-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 77,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "බුදුරජාණන් වහන්සේ වෙත පැමිණ ලෝකයාට ධර්මය දේශනා කරන ලෙස ආරාධනා කළේ,",
+        "choices": [
+            "සහම්පති මහා බ්‍රහ්මයා.",
+            "සොත්ථිය බමුණා.",
+            "සංජය පරිබ්‍රාජකයා.",
+            "කොණ්ඩඤ්ඤ තවුසා."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-07-buddhism-3rd-term-test-paper-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 78,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "යසකුල පුත්‍රයාගේ හොඳම මිතුරෙකි,",
+        "choices": [
+            "ගවම්පති.",
+            "සුනීත.",
+            "භද්දිය.",
+            "උපක."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-07-buddhism-3rd-term-test-paper-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 79,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "බුදුරජාණන් වහන්සේ කළගුණ දැක්වීම වශයෙන් අනිමිස ලෝචන පූජාව සිදුකරන ලද්දේ කී වන සතියේදී ද ?",
+        "choices": [
+            "පළමුවන සතියේ දී ය.",
+            "දෙවන සතියේ දී ය.",
+            "තෙවන සතියේ දී ය .",
+            "පස්වන සතියේ දී ය."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/grade-07-buddhism-2nd-term-test-paper-with-answers-2023-mathugama-zone/"
+        }
+    },
+    {
+        "q_no": 80,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "පෙර භවයක අකුසල කර්‌මයක් හේතුවෙන් මුලු ශරීරයේම කුෂ්ඨ වැළඳීමෙන් දුකට පත් ව බුදු රජාණන් වහන්සේගෙන් පිහිට ලැබූ භික්ෂූන් වහන්සේ නමකි.",
+        "choices": [
+            "ආනන්ද හිමි.",
+            "සැරියුත් හිමි.",
+            "මහා කාශ්‍යප හිමි",
+            "පූතිගත්ත තිස්ස හිමි."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/grade-07-buddhism-2nd-term-test-paper-with-answers-2023-mathugama-zone/"
+        }
+    },
+    {
+        "q_no": 81,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "බුද්ධ රත්නය වන්දනා කරන ගාථාව වන්නේ,",
+        "choices": [
+            "ඉතිපිසෝ පාඨය ය.",
+            "ස්වාක්ඛාතෝ පාඨය ය.",
+            "සුපටිපන්නෝ පාඨය ය.",
+            "කායේන වාචා චිත්තේන පාඨය ය."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/grade-07-buddhism-2nd-term-test-paper-with-answers-2023-mathugama-zone/"
+        }
+    },
+    {
+        "q_no": 82,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "\"ඇඳුමට වැඩි වියදම් නොකරන්නේ...\" යන පද්‍යය ඇතුළත් කෘතිය නම්,",
+        "choices": [
+            "බුදුගුණ අලංකාරය යි.",
+            "ලෝවැඩ සඟරාව යි.",
+            "ගුත්තිල කාව්‍යය යි.",
+            "සිරිත් මල්දම යි."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/grade-07-buddhism-2nd-term-test-paper-with-answers-2023-mathugama-zone/"
+        }
+    },
+    {
+        "q_no": 83,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "කරණිය මෙත්ත සූත්‍රය තුළ ඇතුළත් වන්නේ,",
+        "choices": [
+            "බුදු ගුණ ය.",
+            "මෙත් වඩන්නෙකු තුළ තිබිය යුතු ගුණ ය.",
+            "මංගල කරුණු ය.",
+            "තුන් බිය දුරු කිරීමේ ගුණ ය."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/grade-07-buddhism-2nd-term-test-paper-with-answers-2023-mathugama-zone/"
+        }
+    },
+    {
+        "q_no": 84,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "උපතිස්ස කෝලිත පිරිවැජියන් දෙදෙනා සමඟ බුදු සසුනේ පැවිදි වූ පිරිස,",
+        "choices": [
+            "250 කි.",
+            "1003 කි.",
+            "300 කි.",
+            "500 කි."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_2",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/2023-grade-07-buddhism-2nd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 85,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "බුදු සසුනේ අග්‍රදායකයා හා අග්‍රදායිකාව වන්නේ,",
+        "choices": [
+            "අනේපිඬු සිටුතුමා හා සුජාතාවයි.",
+            "අනේපිඬු සිටුතුමා හා විශාඛාවයි.",
+            "බිම්බිසාර රජු හා විශාඛාවයි.",
+            "අනේපිඬු සිටුතුමා හා සුජාතාවයි."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_2",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/2023-grade-07-buddhism-2nd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 86,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "බුදුරජාණන් වහන්සේ විසින් සිඟාලක ගෘහපතියාට දේශනා කළ සූත්‍රය වන්නේ,",
+        "choices": [
+            "මහා නිදාන සූත්‍රයයි.",
+            "රතන සූත්‍රයයි.",
+            "කරණීයමෙත්ත සූත්‍රයයි.",
+            "සිඟාලෝවාද සූත්‍රයයි."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_2",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/2023-grade-07-buddhism-2nd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 87,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": " ධම්ම සේනාපති තනතුරින් පිදුම් ලැබූ මහ රහතන් වන්නේ,",
+        "choices": [
+            "සැරියුත් මහරහතන් වහන්සේ,",
+            "ආනන්ද මහරහතන් වහන්සේ,",
+            "කාශ්‍යප මහරහතන් වහන්සේ,",
+            "මුගලන් මහරහතන් වහන්සේ,"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_2",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/2023-grade-07-buddhism-2nd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 88,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "මෛත්‍රිය වැඩීම ගැන සඳහන් සූත්‍රය කි.",
+        "choices": [
+            "පරාභව සූත්‍රය",
+            "ව්‍යග්ඝපජ්ජ සූත්‍රය",
+            "කරණීයමෙත්ත සූත්‍රය",
+            "වසළ සූත්‍රය"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-07-buddhism-second-term-test-paper-with-answers-2020/"
+        }
+    },
+    {
+        "q_no": 89,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "බුදුසසුනේ අග්‍ර දායකත්වයට පත්වූයේ,",
+        "choices": [
+            "අනේපිඬු සිටුතුමා ය.",
+            "ආනන්ද තෙරුන් ය.",
+            "අස්සජීතෙරුන්ය.",
+            "අජාසත්ත රජතුමා ය."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-07-buddhism-second-term-test-paper-with-answers-2020/"
+        }
+    },
+    {
+        "q_no": 90,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "බෝසතාණන් වහන්සේට බුද්ධත්වයට පත්වීමට පෙර කිරිපිඬු පූජා කළේ,",
+        "choices": [
+            "යසෝධරා දේවිය යි",
+            "විශාඛා සිටු දියණිය යි.",
+            "සුජාතා සිට දියණිය යි.",
+            "මහා ප්‍රජාපතී ගෝතමිය යි."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-07-buddhism-second-term-test-paper-with-answers-2020/"
+        }
+    },
+    {
+        "q_no": 91,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "බෞද්ධයාගේ නිත්‍ය ශීලය වන්නේ,",
+        "choices": [
+            "අටසිල් ය.",
+            "දසසිල් ය.",
+            "ආජීව අෂ්ටමක සීලයයි.",
+            "පන්සිල් ය."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-07-buddhism-second-term-test-paper-with-answers-2020/"
+        }
+    },
+    {
+        "q_no": 92,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "මිනිසා හා සතුන් අතර වෙනස්කම් දක්නට ලැබේ. වෙනස්කම් අතර මිනිසා සතුන්ගෙන් වෙනස් වන්නේ,",
+        "choices": [
+            "සදාචාර සම්පන්න බව නිසාය.",
+            "සදාචාරයෙන් තොර බව නිසාය.",
+            "අධ්‍යාපනයට යොමු නොවීම නිසා ය.",
+            "දෙමාපියන්ට නොසැළකීම නිසා ය."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-07-buddhism-second-term-test-paper-with-answers-2020/"
+        }
+    },
+    {
+        "q_no": 93,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "ගුරු සිසු සබඳතාව දැක්වෙන දේශනාවක් වන්නේ,",
+        "choices": [
+            "මහා මංගල සූත්‍රය යි.",
+            "කරණීයමෙත්ත සූත්‍රය යි.",
+            "සිගාලෝවාද සූත්‍රය යි.",
+            "චුල්ල රාහුලෝවාද සූත්‍රය යි."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-07-buddhism-second-term-test-paper-with-answers-2020/"
+        }
+    },
+    {
+        "q_no": 94,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "බුදුරජාණන් වහන්සේ පස්වන සතිය ගත කළ ස්ථානය නම් ,",
+        "choices": [
+            "මිදෙල්ල ගස මුල",
+            "අජපාල නුගරුක මුල",
+            "කිරිපලු නුගරුක මුල",
+            "ජය ශ්‍රී මහා බෝධි මූලයෙහිය"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26268&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 95,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "බුදුන් දහම් සරණ ගිය ප්‍රථම දේවාචික උපාසකවරු වන්නේ ,",
+        "choices": [
+            "නදී හා ගයා කාශ්‍යප ය",
+            "කෝලිත හා උපතිස්ස ය",
+            "තපස්සු හා භල්ලුක ය",
+            "ආලාර කාලාම හා උද්දකරාමපුත්ත ය"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26268&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 96,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "විමල , සුභාහු , පුණ්ණජි , ගවම්පතී යන සතර දෙනා ,",
+        "choices": [
+            "යසකුල පුතුගේ මිතුරන් ය",
+            "නදී කාශ්‍යපගේ මිතුරන් ය",
+            "උරුවෙල් කාශ්‍යපගේ මිතුරන් ය",
+            "ගයා කාශ්‍යපගේ මිතුරන් ය"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26268&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 97,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "බුදුරජාණන් වහන්සේ භික්ෂූන් වහන්සේලාට ඕවාද ප්‍රාතිමෝක්ෂය දේශනා කරන ලද්දේ ,",
+        "choices": [
+            "බුද්ධත්වයෙන් වසර දෙකකට පසුය",
+            "බුද්ධත්වයෙන් වසරකට පසුය",
+            "බුද්ධත්වයෙන් සිව් වසරකට පසුය",
+            "බුද්ධත්වයෙන් මාස තුනකට පසුය"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26268&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 98,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "1 . විච්ඡාචරණ සම්පන්න ගුණය ලෙසය                                                                                                                                                                                \n2. අනුත්තරෝ පුරිසදම්ම සාරථී ගුණය ලෙසය\n3. සම්මා සම්බුද්ධ ගුණය ලෙසය                                                                                                                                                                                                                                                                                                                             4. ලෝකවිදූ ගුණය ලෙසය",
+        "choices": [
+            "විච්ඡාචරණ සම්පන්න ගුණය ලෙසය",
+            "අනුත්තරෝ පුරිසදම්ම සාරථී ගුණය ලෙසය",
+            "සම්මා සම්බුද්ධ ගුණය ලෙසය",
+            "ලෝකවිදූ ගුණය ලෙසය"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26268&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 99,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "තුන් සූත්‍රයට අයත් සූත්‍ර දේශනාවන් වන්නේ ,",
+        "choices": [
+            "මහා මංගල සූත්‍රය , සිගාලෝවාද සූත්‍රය , රතන සූත්‍රය",
+            "රතන සූත්‍රය , කරණීය මෙත්ත සූත්‍රය , අණන සූත්‍රය",
+            "මහා මංගල සූත්‍රය , රතන සූත්‍රය , කරණීය මෙත්ත සූත්‍රය",
+            "මහා මංගල සූත්‍රය , රතන සූත්‍රය , දම්සක් පැවතුම් සූත්‍රය"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26268&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 100,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "කරණීය මෙත්ත සූත්‍රයේ මෙත් වැඩිය යුතු සියලු සතුන් අතර , ථාවරා ' යනුවෙන් සඳහන් සතුන් වන්නේ ,\n",
+        "choices": [
+            "තැති නොගන්නා සත්ත්වයෝ ය",
+            "තැති ගන්නා සුළු සත්ත්වයෝ ය",
+            "ඇසට පෙනෙන සත්ත්වයෝ ය",
+            "ඇසට නොපෙනෙන සත්ත්වයෝ ය"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26268&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 101,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "ආනන්ද හිමිගේ මග පෙන්වීම අනුව ආනන්ද බෝධිය රෝපණය කර ඇත්තේ ,",
+        "choices": [
+            "ජේතවනාරාමයේ ය",
+            "වාලුකාරාමයේය",
+            "නිග්‍රෝධාරාමයේ ය",
+            "අශෝකාරාමයේ ය"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26268&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 102,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "බුදු දහම පටිසෝතගාමී ධර්මයක් වේ . එහි තේරුම වන්නේ බුදු දහම ,",
+        "choices": [
+            "උඩුගං බලා යාමට මග පෙන්වන දහමක් බව ය",
+            "යටිගං බලා යාමට මග පෙන්වන දහමක් බව ය",
+            "ඉදිරියට බලා යාමට මග පෙන්වන දහමක් බව ය",
+            "දකුණත බලා යාමට මග පෙන්වන දහමක් බව ය"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26268&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 103,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "නිත්‍ය ශීලය , ගෘහස්ථ ශීලය යන නම් වලින් හැඳින්වෙන්නේ .\n",
+        "choices": [
+            "පංච ශීලයයි",
+            "දස සීලයයි",
+            "අෂ්ටාංග ශීලයයි",
+            "කෝටියක් සංවර ශීලයයි"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26268&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 104,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "පංච ශීලයෙහි ඇති ආජීව අෂ්ටමක ශීලයට අයත් නොවන සිල් පදය වන්නේ ,",
+        "choices": [
+            "පිසුනාවාචා වේරමණි සික්ඛාපදං සමාදියාමි",
+            "ඵරුසාවාචා වේරමණි සික්ඛාපදං සමාදියාමි",
+            "සම්ඵප්පලාපා වේරමණී සික්ඛාපදං සමාදියාමි",
+            "සුරාමේරය මජ්ජපමා දට්ඨානා වේරමණි සික්ඛාපදං සමාදියාමි"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26268&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 105,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "මිච්ඡා ආජීවය යනුවෙන් ධර්මයෙහි සඳහන් වන්නේ ,",
+        "choices": [
+            "නිවැරදි දිවි පැවැත්මයි",
+            "හිස් වචන කතා කිරීමයි",
+            "රළු වචන කතා කිරීමයි",
+            "වැරදි දිවි පැවැත්මයි"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26268&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 106,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "සිගාලෝවාද සූත්‍රයට අනුව අපට රැකවරණය සැලසීම ,\n",
+        "choices": [
+            "ගුරුවරුන්ගෙන් ඉටුවන යුතුකමකි",
+            "දෙමා පියන්ගෙන් ඉටුවන යුතුකමකි",
+            "මිතුරන්ගෙන් ඉටුවන යුතුකමකි",
+            "වැඩිහිටියන්ගෙන් ඉටුවන යුතුකමකි"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26268&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 107,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "අපණ්ණක ජාතකයෙහි අනුවණ සාන්තු නායකයා වශයෙන් ඉපිද බුද්ධ කාලයේ දී විනාශ මුඛයට පැමිණියේ ,",
+        "choices": [
+            "ඡන්න හිමියන්ය",
+            "දෙව්දත් හිමියන්ය",
+            "වක්කලී හිමියන්ය",
+            "සුභද්‍ර හිමියන්ය"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26268&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 108,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "සාලිකේදාර ජාතකයෙන් විස්තර වන්නේ ,",
+        "choices": [
+            "අන්ධ දෙමාපියන්ට සැලකූ පුතෙකුගේ තොරතුරු වේ .",
+            "අන්ධ ස්වාමියාට සැලකූ බිරිදකගේ තොරතුරු වේ .",
+            "දෙමාපියන්ට සැලකූ කුරුළු පැටවකුගේ තොරතුරු වේ .",
+            "වැඩිහිටියන්ට සැලකූ දරුවෙකුගේ තොරතුරු වේ ."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26268&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 109,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "කුඹුරු වලින් ලබාගන්නා අස්වැන්නේ පළමු කොටස ත්‍රිවිධ රත්නයට පූජා කිරීම හැඳින්වෙන්නේ ,",
+        "choices": [
+            "සාංඝික දානය නමිනි",
+            "පේරු දානය නමිනි",
+            "අග්‍ර ශෂ්‍ය දානය නමිනි",
+            "දේව දානය නමිනි"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26268&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 110,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "සිගාලෝවාද සූත්‍රයේ ගුරුවරුන් උපමා කර ඇති දිශාව වන්නේ ,",
+        "choices": [
+            "උතුරු දිසාවය",
+            "බටහිර දිසාවය",
+            "දකුණු දිසාවය",
+            "උඩ දිසාවය"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26268&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 111,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "සිරිත් මල්දම නම් ග්‍රන්ථය රචනා කරන ලද්දේ ,",
+        "choices": [
+            "ඇම් . ඇල් . සිල්වා ගුරු මුහන්දිරම්තුමා විසිනි",
+            "තොටගමුවේ රාහුල හිමිපාණන් විසිනි",
+            "විදාගම මෛත්‍රීය හිමියන් විසිනි",
+            "පණ්ඩිත පරාක්‍රමබාහු රජතුමා විසිනි"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26268&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 112,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "පත්තකම්ම සූත්‍රයේ පංච බලි තුළින් පෙන්වා දෙන්නේ .\n",
+        "choices": [
+            "උපයන ධනය තමාගේ යහපතට පමණක් යොදවා ගත යුතු බවය",
+            "උපයන ධනය පවුලේ යහපතට පමණක් යොදවාගත යුතු බවය",
+            "උපයන ධනය මතු ප්‍රයෝජනය සඳහා රැකගත යුතු බවය",
+            "උපයන ධනය සමාජ යහපතට හේතුවන අයුරින් යොදවා ගත යුතු බවය"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26268&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 113,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "තිලෝගුරු බුදුරජාණන් වහන්සේ මහජන මතයට ගරු කළ අවස්ථාවක් වන්නේ,",
+        "choices": [
+            "දෙමාපිය අවසරයකින් තොරව දරුවන් මහණ නොකිරීමට ශික්ෂා පද පැනවීම.",
+            "චන්න හිමියන්ට බ්‍රහ්ම දණ්ඩනය පැනවීම.",
+            "සුභද්‍රට බුදුරජාණන් වහන්සේ හමුවීමට අවස්ථාව ලබා දීම.",
+            "මාතෘ දිව්‍ය රාජයාට ධර්මය දේශනා කිරීමට දෙව් ලොවට වැඩම කිරීම."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-08-buddhism-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 114,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "පංචවරය ඉදිරිපත් කළේ,",
+        "choices": [
+            "සැරියුත් හිමියන් ය",
+            "දෙව්දත් හිමියන් ය",
+            "මුගලන් හිමියන් ය",
+            "ආනන්ද හිමියන් ය"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-08-buddhism-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 115,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "බුදුරජාණන් වහන්සේ විසින් දේශනා කරන ලද ධර්මය මුල මැද අග යන තුන් තැන්හිම යහපත් වන ගුණය,",
+        "choices": [
+            "සන්දිට්ඨික ගුණය",
+            "අකාලික ගුණය",
+            "ස්වාක්ඛාතෝ ගුණය",
+            "ඒහිපස්සිකෝ ගුණය"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-08-buddhism-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 116,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "මහාසාර බමුණු කුලයෙහි උපන් මොග්ගල්ලාන බැමිණියගේ පුත්‍රයා වන්නේ,",
+        "choices": [
+            "කෝලිත ය",
+            "උපතිස්ස ය",
+            "දේවදත්ත ය",
+            "නන්ද කුමරු ය"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-08-buddhism-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 117,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "භික්ෂූන් වහන්සේලාගේ ප්‍රසාද ජනක පැවැත්ම පිණිස පනවා වදාළ ශික්ෂාපද සමූහය හඳුන්වන්නේ,",
+        "choices": [
+            "පංචශීල ප්‍රතිපදාව යනුවෙනි",
+            "අෂ්ටාංගික ශීලය යනුවෙනි",
+            "දස සීලය යනුවෙනි",
+            "සේඛියා යනුවෙනි"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-08-buddhism-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 118,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "විකාල භෝජනා වේරමණී සික්ඛාපදං සමාදියාමි. මෙහි තේරුම වන්නේ,",
+        "choices": [
+            "මම උස් අසුන් පරිහරණයෙන් වැළකීමේ ශික්ෂා පදය සමාදන් වෙමි යන්නයි.",
+            "මදයට හා ප්‍රමාදයට හේතු වන රහමෙර පානයෙන් වැළකීමේ ශික්ෂා පදය සමාදන් වෙමි යන්නයි.",
+            "මම බොරු කීමෙන් වැළකීමේ ශික්ෂා පදය සමාදන් වෙමි යන්නයි.",
+            "මම නොකල්හි ආහාර වැළඳීමෙන් වැළකීමේ ශික්ෂා පදය සමාදන් වෙමි යන්නයි."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-08-buddhism-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 119,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "සිගාලෝවාද සූත්‍රයේ සම්මාන කිරීම, අවමන් නොකිරීම, වගකීම් පවරා දීම...ආදි යුතුකම් ඇතුළත් වන්නේ,",
+        "choices": [
+            "දෙමාපිය දූ දරු සබඳතාව තුළය.",
+            "අඹු සැමි සබඳතාව තුළ ය.",
+            "හිත මිතුරු සබඳතාව තුළ ය.",
+            "සේව්‍ය සේවක සම්බන්ධතාව තුළය."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-08-buddhism-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 120,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "මහෞෂධ කුමරුගේ ප්‍රඥා මහිමය විදහාපාන ජාතක කතාව,",
+        "choices": [
+            "වට්ටක ජාතකය",
+            "මහා කපි ජාතකය",
+            "උම්මග්ග ජාතකය",
+            "වෙස්සන්තර ජාතකය"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-08-buddhism-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 121,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "බුදු දහමේ උභයක්ඛය මරණය ලෙස හඳුන්වා ඇත්තේ,",
+        "choices": [
+            "ආයුෂ ගෙවී යාම නිසා සිදු වන මරණයයි.",
+            "කර්ම ශක්තිය අවසන් වීම නිසා සිදුවන මරණයයි.",
+            "ආයුෂත් කර්ම ශක්තියත් දෙකම අවසන් වීම නිසා සිදු වන මරණය යි.",
+            "අනතුරු ලෙඩ රෝග නිසා සිදුවන මරණය යි."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-08-buddhism-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 122,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "පංචස්කන්ධයට අයත් නොවන්නේ,",
+        "choices": [
+            "රූප",
+            "ගෝත්‍ර",
+            "වේදනා",
+            "සාඤ්ඤා"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-08-buddhism-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 123,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "බුදු දහමට අනුව විභව තණ්හාව යනු,",
+        "choices": [
+            "පැවැත්මට ඇති ආශාවයි.",
+            "මෙලොව පස්කම් සැප විඳීමට ඇති කැමැත්තයි",
+            "පස්කම් සැපයෙහි ඇලී ඉඳුරන් පිනවීමට ඇති කැමැත්තයි",
+            "මරණින් පසු දෙව් ලොව ඉපදීමට ඇති කැමැත්තයි"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-08-buddhism-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 124,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "කර්මයක් ලෙස දහමෙහි විස්තර කර ඇත්තේ,",
+        "choices": [
+            "ක්‍රියා මාත්‍රයය.",
+            "ඉබේ සිදුවන ක්‍රියාවන් ය.",
+            "සිතා මතා කරනු ලබන ක්‍රියාවන් ය.",
+            "ආකස්මික ව සිදුවන ක්‍රියාවන්ය."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-08-buddhism-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 125,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "˝ලෝකයේ සතරාකාර පුද්ගලයින් වෙතියි˝ බුදුරජාණන් වහන්සේ පැහැදිලි කර ඇත. මින් ආත්මාර්ථකාමී පුද්ගලයා අයත් වන පිළිතුර තෝරන්න.",
+        "choices": [
+            "තම සැපත යහපත ගැන පමණක් සිතා කටයුතු කරන්නෝ",
+            "අනුන්ගේ සැපත යහපත ගැන පමණක් සිතා කටයුතු කරන්නෝ",
+            "දෙපක්ෂයේම සැපත යහපත ගැන සිතා කටයුතු කරන්නෝ",
+            "දෙපක්ෂයේම සැපත යහපත ගැන සිතා කටයුතු නොකරන්නෝ"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-08-buddhism-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 126,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "බුදුරජාණන් වහන්සේ දම්සක් පැවතුම් සූත්‍රය නම් මංගල ධර්ම දේශනාව පැවැත් වූයේ,",
+        "choices": [
+            "බරණැස ඉසිපතනයේ මිගදායේ දී ය.",
+            "ඉච්ඡානංගල බමුණුගම වන පියසක දී ය",
+            "අචිරවතී නදී තෙරදී ය",
+            "කලන්දක නිවාප යේදී ය"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-08-buddhism-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 127,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "පළමු ධර්ම සංගායනාවේදී ආනන්ද තෙරණුවන් ප්‍රධාන ශිෂ්‍ය පරම්පරාවට පවත්වාගෙන යාමට භාර වූයේ,",
+        "choices": [
+            "දීඝ නිකාය",
+            "මජ්ඣිම නිකාය",
+            "සංයුක්ත නිකාය",
+            "අංගුත්තර නිකාය"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-08-buddhism-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 128,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "දළදා වහන්සේ සඳහා කාර්තික මංගල්‍යය නම් පහන් පූජාව සිදු කරනු ලබන්නේ,",
+        "choices": [
+            "දුරුතු පෝය දා ය",
+            "උඳුවප් පෝය දා ය.",
+            "වෙසක් පෝය දා ය",
+            "ඉල් පෝය දා ය."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-08-buddhism-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 129,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "බුදු දහමට අනුව දැහැමි රැකියාවක් නොවන්නේ,",
+        "choices": [
+            "කෘෂිකර්මාන්තය",
+            "ගව පාලනය",
+            "රාජ්‍ය සේවය",
+            "සත්ත්ව වෙළෙඳාම"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-08-buddhism-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 130,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "වැරදි දැකීම හෙවත් මිත්‍යා දෘෂ්ටිය,",
+        "choices": [
+            "කයින් සිදුවන අකුසල කර්මයකි",
+            "සිතින් සිදුවන කුසල කර්මයකි",
+            "වචනයෙන් සිදුවන අකුසල කර්මයකි",
+            "සිතින් සිදුවන අකුසල කර්මයකි"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-08-buddhism-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 131,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "රාජ පූජිත සෝණදණ්ඩ නම් බමුණාගේ ප්‍රකාශය අනුව බුදු රජාණන් වහන්සේ \" සම්මෝදකය ”, එනම්",
+        "choices": [
+            "සතුටු සාමීචි කතා ඇත්තෙකි.",
+            "විවෘත කතා බහ ඇත්තෙකි.",
+            "පළමුවෙන්ම කථා කරන්නෙකි.",
+            "කනට සුව එළවන කථා බහ ඇත්තෙකි."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-buddhism-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 132,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "ගුරු බස සැබෑමය '' යන පද්‍යය ඇතුළත් වන්නේ,",
+        "choices": [
+            "සුභාෂිතයේ ය.",
+            "සිරිත් මල්දමේය.",
+            "ගුත්තිල කාව්‍යයේ ය.",
+            "ලෝවැඩ සඟරාවේය."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-buddhism-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 133,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "බුදු රජාණන් වහන්සේගෙන් පසුව බුදු සසුනේ ශාස්තෘවරයා ලෙස සැළකෙන්නේ,",
+        "choices": [
+            "ආනන්ද හිමියන්ය.",
+            "මහා කාශ්‍යප හිමියන් ය.",
+            "සැරියුත් හිමියන්ය.",
+            "ධර්ම හා විනය යි."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-buddhism-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 134,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "තෙරුවන් ගුණ ඇතුළත් ගාථා සිහිපත් කරමින් මහමඟ ගමන් කරමින් සිටින විට සොරු කණ්ඩායමක් විසින් ඔහු මරණයට පත් කළත්, මරණින් පසු දෙව්ලොව ඉපදුණේ,",
+        "choices": [
+            "සුනීතය.",
+            "මට්ඨකුණ්ඩලීය.",
+            "සෝපාකය.",
+            "ඡත්ත මානවකයා ය."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-buddhism-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 135,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "සැරියුත් තෙරණුවෝ රහත් වූයේ බුදුරජාණන් වහන්සේ විසින් \" දීඝනක \" පිරිවැජියාට දේශනා කළ සූත්‍රයක් ඇසීමෙනි. එම සූත්‍රය නම්,",
+        "choices": [
+            "කරණිය මෙත්ත සූත්‍රය යි.",
+            "මහා මංගල සූත්‍රය යි.",
+            "වේදනා පරිග්ගහ සූත්‍රය යි.",
+            "අනත්ත ලක්ඛණ සූත්‍රය යි."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-buddhism-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 136,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "ආනන්තර්ය පාප කර්මයට අයත් වන්නේ,",
+        "choices": [
+            "සතුන් මැරීමය.",
+            "පියා මැරීමය.",
+            "කාමය වරදවා හැසිරීමය.",
+            "සුරාපානය කිරීමය."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-buddhism-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 137,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "චණ්ඩාශෝක රජතුමා ධර්මාශෝක මහ අධිරාජයාණන් බවට පරිවර්තනය කළේ කුඩා සාමණේරයන් වහන්සේ නමකගේ ඇවතුම් පැවතුම්ය. උන්වහන්සේ නම්,",
+        "choices": [
+            "නිග්‍රෝධ සාමණේරයන් ය.",
+            "සුමන සාමණේරයන් ය.",
+            "සෝපාක සාමණේරයන්ය.",
+            "ධර්මරාම හිමියන් ය."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-buddhism-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 138,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "˝ධම්මං චරේ සුචරිතං - දුස්චරිතං න තං චරේ\nධම්මචාරී සුඛං සේති - අස්මිං ලෝකේ පරම්හි ච˝ යන ගාථාවෙන් කියවෙන්නේ,",
+        "choices": [
+            "පිනෙන් සතුටු වීම ගැනය.",
+            "නොපිනෙන් දුක් වීම ගැනය.",
+            "බොරු කීම ගැනය.",
+            "කේළාම් කීම ගැනය."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-buddhism-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 139,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "ජාතක කථා පන්සිය හතලිස් හතක් ඇතුළත් ග්‍රන්ථය වන පන්සිය පනස් ජාතක පොත් වහන්සේ ලියවුණේ,",
+        "choices": [
+            "අනුරාධපුර යුගයේ ය.",
+            "කුරුණෑගල යුගයේය.",
+            "දඹදෙණි යුගයේ ය.",
+            "ගම්පළ යුගයේ ය."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-buddhism-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 140,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "කෝට්ටේ යුගයේ ලියවුණු කාව්‍යශේඛරය නම් මහා කාව්‍ය ග්‍රන්ථය රචනා කරන ලද්දේ,",
+        "choices": [
+            "තොටගමුවේ ශ්‍රී රාහුල හිමියන්ය.",
+            "වීදාගම මෛත්‍රී හිමියන් ය.",
+            "වෑත්තෑවේ හිමියන් ය.",
+            "අලගියවන්න මුකවැටි තුමාය."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-buddhism-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 141,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "දුක්ඛ සමුදය ආර්ය සත්‍යය යනු,",
+        "choices": [
+            "දුක හඳුනා ගැනීමයි.",
+            "දුක නැති කිරීමයි.",
+            "දුක නැති කිරීමේ මාර්ගය යි.",
+            "දුක ඇති වීමට හේතුවයි."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-buddhism-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 142,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "බුදු රජාණන් වහන්සේට වෛර කිරීමේ විපාක ලෙස බුදුන්වහන්සේ ජීවමානව සිටියදීම අවීචි මහානරකයට ගියේ,",
+        "choices": [
+            "මාගන්දියා ය.",
+            "විඤ්චි මානවිකාව.",
+            "දෙව්දත් තෙරුන් ය.",
+            "අක්කෝස හාරද්වාජ බමුණාය."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-buddhism-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 143,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "සතර සංග්‍රහ වස්තු හෙවත් සිව් සඟරාවත් වලට මේවායින් අයත් වන්නේ,",
+        "choices": [
+            "සිලය යි.",
+            "ප්‍රිය වචනය යි",
+            "භාවනාව යි.",
+            "පිං දීම යි."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-buddhism-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 144,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "බුදුරජාණන් වහන්සේ සියලු සංස්කාර ධර්මයන්ගේ අනිත්‍යතාව තම ජීවිතයෙන් පෙන්වා දෙමින් පිරිනිවන් පා වදාළේ,",
+        "choices": [
+            "මල්ල රජ දරුවන්ගේ උපවර්තන නම් සල් උයනේදී ය.",
+            "ලුම්බිණි නම් සල් උයනේදී ය.",
+            "අනුපිය නම් අඹ වනයේදී ය.",
+            "සීත වනයේදීය."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-buddhism-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 145,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "පළමු ධර්ම සංගායනාවට සහභාගී වූ භික්ෂුන් වහන්සේලා ගණන වන්නේ,",
+        "choices": [
+            "පන්සිය නමකි.",
+            "දහස් නමකි.",
+            "හත්සිය නමකි.",
+            "එක් දහස් දෙසිය නමකි."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-buddhism-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 146,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "දළදා වහන්සේ පිළිබඳව ලියවුණ පැරණිම ග්‍රන්ථය වන්නේ,",
+        "choices": [
+            "පාලි දාඨා වංශය යි.",
+            "දළදා සිරිතයි.",
+            "දළදා පුජාවලිය යි.",
+            "දළදා වරුණයි."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-buddhism-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 147,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "නිතර නිතර රැස්වීම, සමඟව රැස්ව, සමඟිව සාකච්ඡා කොට, සමගිව විසිරයාම වැනි කරුණු ඇතුළත් රාජ්‍ය පාලන ප්‍රතිපත්තිය වන්නේ,",
+        "choices": [
+            "දස සක්විති වත්ය.",
+            "දසරාජ ධර්මය.",
+            "සප්ත අපරිහානිය ධර්මය.",
+            "සිව්බඹ විහරණය."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-buddhism-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 148,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "බුදු රජාණන් වහන්සේ, ගිහියන් විසින් උපදවා ගත යුතු සැප හතරක් ගැන දක්වන අනණ සූත්‍රය දේශනා කළේ,",
+        "choices": [
+            "කොසොල් මහ රජතුමාට ය.",
+            "බිම්බිසාර මහා රජතුමාට ය.",
+            "බරණැස් සිටුතුමාටය.",
+            "අනේ පිඬු සිටුතුමාට ය."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-buddhism-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 149,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "කාන්තාවන්ට පළමුවෙන්ම පැවිද්ද ලබා දීමට ඉදිරිපත් වූ හිමි නමකි .",
+        "choices": [
+            "මහා කාශ්‍යප හිමි .",
+            "ආනන්ද හිමි .",
+            "දේවදත්ත හිමි .",
+            "මුගලන් හිමි ."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=75980&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 150,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "\" ගුරු බස සැබෑ ම ය එය පිළිගැනුම යුතු ම ය ... \" මෙම පද්‍යය ඇතුළත් කෘතිය වන්නේ ,",
+        "choices": [
+            "සිරිත් මල්දම ය .",
+            "ලෝවැඩ සඟරාව ය .",
+            "කාව්‍ය ශේඛරය ය .",
+            "බුදුගුණ අලංකාරය ය ."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=75980&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 151,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "ධර්ම රත්නයේ ගුණ ඇතුළත් පාඨයෙහි කරුණු කීයක් සඳහන්වේ ද ?",
+        "choices": [
+            "කරුණු 6 කි .",
+            "කරුණු 8 කි .",
+            "කරුණු 9 කි .",
+            "කරුණු 12 කි ."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=75980&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 152,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "බුදු ගුණ ඇතුළත් මංගල අෂ්ඨක ගායනය සිදු කරනු ලබන්නේ ,",
+        "choices": [
+            "උපන්දින උත්සවවල දී ය .",
+            "මංගල උත්සවවල දී ය .",
+            "අවමංගල උත්සවවල දී ය .",
+            "ගෘහ ප්‍රවේශ මංගල්‍යය වල දී ය ."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=75980&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 153,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "සම්මා සම්බුද්ධ , විජ්ජාචරණ සම්පන්න , ලෝක විදූ , සුගත යන මෙම ගුණ ඇතුළත් වන්නේ ,",
+        "choices": [
+            "බුද්ධ රත්නය තුළ ය .",
+            "ධර්ම රත්නය තුළ ය .",
+            "සංඝ රත්නය තුළ ය .",
+            "මංගල සූත්‍රය තුළ ය ."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=75980&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 154,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "කෝලිත , උපතිස්ස යන දෙදෙනාව ශාසනයට ඇතුළත් වූ පසුව හඳුන්වනු ලැබුවේ ,",
+        "choices": [
+            "අගසව් දෙනම ලෙස ය .",
+            "දේවාචික උපාසකවරු ලෙස ය .",
+            "ඡබ්බග්ගිය භික්ෂූන් ලෙස ය .",
+            "තේවාචික උපාසකවරු ලෙස ය ."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=75980&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 155,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "\" මුසාවාදා වේරමණි සික්ඛාපදං සමාදියාමි \" යන ශික්ෂා පදයෙහි අර්ථය වන්නේ ,",
+        "choices": [
+            "සුරා පානයෙන් වැළකීම ය .",
+            "බොරු කීමෙන් වැළකීම ය .",
+            "කේලාම් කීමෙන් වැලකීම ය .",
+            "වැරදි කාම සේවනයෙන් වැළකීම ය ."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=75980&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 156,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "භික්ෂූන් වහන්සේලා උදෙසා බුදුරදුන් විසින් පනවා ඇති සේඛියා ධර්ම රාශියකි.මෙහි \" සේඛියා \" ලෙස හඳුන්වනු ලබන්නේ ,",
+        "choices": [
+            "පන්සිල් ය .",
+            "දසසිල් ය .",
+            "ශික්ෂා පදය .",
+            "ඇඳුම් අඳින පිළිවෙළ ය ."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=75980&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 157,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "සිගාලෝවාද සූත්‍රයට අනුව සම්මාන කිරීම අවමන් නොකිරීම යන යුතුකම් ඉටු කරනු ලබන්නේ ,",
+        "choices": [
+            "භාර්යාව විසින් සැමියාට ය .",
+            "දරුවන් විසින් දෙමව්පියන්ට ය .",
+            "සැමියා විසින් භාර්යාවට ය .",
+            "සිසුන් විසින් ගුරුවරුන්ට ය ."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=75980&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 158,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "සිදුහත් බෝසතුන් ප්‍රඥාවෙන් අග තැන්පත් බව දැක්වෙන ජාතක කතාවකි .",
+        "choices": [
+            "මඛාදේව ජාතකය .",
+            "උම්මග්ග ජාතකය .",
+            "සස ජාතකය .",
+            "වෙස්සන්තර ජාතකය ."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=75980&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 159,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "අරියවංශ දේශනාව යනු ,",
+        "choices": [
+            "බෞද්ධයින් විසින් සිදු කරන ආගමික චාරිත්‍රයකි . .",
+            "හින්දු ආගමික චාරිත්‍රයකි .",
+            "මුස්ලිම් ආගමික චාරිත්‍රයකි",
+            "පැරැණි ලාංකේය උත්සවයකි ."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=75980&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 160,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "දම්සක් පැවතුම් සූත්‍රයට අනුව චතුරාර්ය සත්‍ය තුළ ඇතුළත් පළමු ආර්ය සත්‍ය වන්නේ ,\n",
+        "choices": [
+            "සමුදය ආර්ය සත්‍යය යි .",
+            "දුක්ඛ ආර්ය සත්‍යයය යි .",
+            "නිරෝධ ගාමිණී පටිපදාර්ය සත්‍යය යි .",
+            "නිරෝධ ආර්ය සත්‍යය යි ."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=75980&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 161,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "කාම , භව , විභව යනුවෙන් හඳුන් වන්නේ ,",
+        "choices": [
+            "ත්‍රිවිධ පුණ්‍ය ක්‍රියාය .",
+            "ත්‍රිවිධ තෘෂ්ණාවයි .",
+            "ත්‍රි ශික්ෂාව යි .",
+            "ත්‍රිවිධ බෝධිය යි ."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=75980&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 162,
+        "subject": "Buddhism",
+        "category": "humanities",
+        "question": "පුද්ගලයාගේ මරණය සිදුවන ආකාර හතරක් බුදු දහමේ පෙන්වා දෙයි . එයින් ආයුෂ ගෙවීමෙන් සිදුවන මරණය හඳුන්වනු ලබන්නේ ,",
+        "choices": [
+            "කම්මක්ඛය මරණය ලෙස ය .",
+            "උපච්ඡේදක මරණය ලෙස ය .",
+            "උභයක්ඛය මරණය ලෙස ය .",
+            "ආයුක්ඛය මරණය ලෙස ය ."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "බුද්ධ ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=75980&token=&preview=1"
+        }
+    }
+]

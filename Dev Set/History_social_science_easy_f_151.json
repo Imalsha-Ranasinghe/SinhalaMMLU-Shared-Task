@@ -1,0 +1,3173 @@
+[
+    {
+        "q_no": 1,
+        "subject": "History",
+        "category": "humanities",
+        "question": "මුස්ලිම් වරු තමන්ගේ ආගමික උත්සව පැවැත් වීමේ දී කාලය මැනීමට භාවිතා කරන වර්ෂ ක්‍රමය වන්නේ,",
+        "choices": [
+            "ක්‍රිස්තු වර්ශ",
+            "හිජ්රි වර්ෂ",
+            "ක්‍රිස්තු පූර්ව",
+            "බුද්ධ වර්ෂ"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-06-history-3rd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 2,
+        "subject": "History",
+        "category": "humanities",
+        "question": "අනුරාධපුර යුගයේ දී නගරයේ කම්මල් වැඩ කළ අය ඇදහූ දෙවියන් වන්නේ,",
+        "choices": [
+            "ස්කන්ධ කුමාර",
+            "සුමන සමන්",
+            "කම්මාරදේව",
+            "විභීෂණ"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-06-history-3rd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 3,
+        "subject": "History",
+        "category": "humanities",
+        "question": "මහා හිම යුගයේ ජීවත් වූ සත්ත්වයෙකි,",
+        "choices": [
+            "උරඟයන්",
+            "මැමත්",
+            "ක්ෂීරපායින්",
+            "බැටලුවන්"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-06-history-3rd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 4,
+        "subject": "History",
+        "category": "humanities",
+        "question": "දේවානම් පියතිස්ස රජුගේ රාජ්‍ය පාලන සමයේ ඉන්දියාවේ පාලකයා වූයේ,",
+        "choices": [
+            "බිම්බිසාර රජ",
+            "අජාසත්ත රජු",
+            "ධර්මාශෝක රජු",
+            "සුද්ධෝදන රජු"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-06-history-3rd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 5,
+        "subject": "History",
+        "category": "humanities",
+        "question": "දුටුගැමුණු රජතුමා බලයට පත්වීමට ප්‍රථම අනුරාධපුරය පාලනය කළ පාලකයා,",
+        "choices": [
+            "එළාර රජු",
+            "කාවන්තිස්ස රජු",
+            "සද්ධාතිස්ස රජු",
+            "වසභ රජු"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-06-history-3rd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 6,
+        "subject": "History",
+        "category": "humanities",
+        "question": "මහා හිම යුගයේ සිදු වූ වැදගත්ම සිදු වීම කුමක්ද ?",
+        "choices": [
+            "මැමත් අලි ගහනය වැඩි විම.",
+            "මිනිසා බිහි වීම.",
+            "ධාන්‍ය වගාව ආරම්භ වීම.",
+            "චිම්පන්සි නම් වානරයා බිහිවීම."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-06-history-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 7,
+        "subject": "History",
+        "category": "humanities",
+        "question": "වර්තමානයේ දක්නට ලැබෙන නවීන උපකරණ නිපදවීමට මිනිසාට හැකියාව ලැබුණේ,",
+        "choices": [
+            "ගින්දර සොයා ගැනීම නිසාය.",
+            "සරළ මෙවලම් තැනීම නිසා ය.",
+            "කටු මැටි නිවාස තනා ගැනීම නිසාය.",
+            "යකඩ නිපදවා ගැනීම නිසාය."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-06-history-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 8,
+        "subject": "History",
+        "category": "humanities",
+        "question": "පොළොන්නරුවේ ගල් විහාර ප්‍රතිමා නිර්මාණය කළ රජතුමා",
+        "choices": [
+            "පළමුවන පරාක්‍රමබාහු රජතුමා",
+            "දෙවන පරාක්‍රමබාහු රජතුමා",
+            "නිශ්ශංකමල්ල රජතුමා",
+            "දුටුගැමුණු රජතුමා"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-06-history-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 9,
+        "subject": "History",
+        "category": "humanities",
+        "question": "විජය කුමරු ඇතුළු පිරිස මෙරටට ගොඩබට ස්ථානය ලෙස හැඳින්වෙන්නේ,",
+        "choices": [
+            "මහාතිත්ථ වරාය",
+            "දඹකොළ පටුන",
+            "තම්බපණ්ණිය",
+            "ගෝකණ්ණ තිත්ථ"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-06-history-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 10,
+        "subject": "History",
+        "category": "humanities",
+        "question": "\" මින්නේරි දෙවියන් \" නමින් හැඳින් වූයේ,",
+        "choices": [
+            "මහා පරාක්‍රමබාහු රජතුමා",
+            "වළගම්බා රජතුමා",
+            "වසභ රජතුමා",
+            "මහසෙන් රජතුමා"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-06-history-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 11,
+        "subject": "History",
+        "category": "humanities",
+        "question": "මිනිසා බිහි වීමට නැඹුරුවක් සහිත ලොව බිහි වූ පැරණිම ඇවිදයාමේ හැකියාව සහිත මානවයා හදුන්වන්නේ කුමන නමකින්ද?",
+        "choices": [
+            "චිම්පන්සියා",
+            "ඔස්ට්‍රලොපිතිකස්",
+            "නියැන්ඩතාලන්යින්",
+            "ඔස්ට්‍රලොයිඩ්"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-history-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 12,
+        "subject": "History",
+        "category": "humanities",
+        "question": "අතීත මිනිසාගේ සංස්කෘතික දියුණුව සිදු වූ ප්‍රධාන අවධි කීයක් හදුනාගෙන තිබේද?",
+        "choices": [
+            "03",
+            "04",
+            "05",
+            "06"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-history-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 13,
+        "subject": "History",
+        "category": "humanities",
+        "question": "විජය කුමරු ලංකාවට පැමිණෙන විට මෙරට යක්ෂ නමින් හැදින්වෙන ගෝත්‍රික ජන ‌ කොටසක් ජීවත් වූ බවට සදහන් වන්නේ,",
+        "choices": [
+            "චූල වංශයේ ය.",
+            "දීප වංශයේ ය.",
+            "බෝධි වංශයේ ය.",
+            "මහා වංශයේ ය."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-history-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 14,
+        "subject": "History",
+        "category": "humanities",
+        "question": "දඩයම් යුගයේ ජීවත් වූ මෙරට ජනයාගේ ආහාරයක් ලෙස නොගත්තේ පහත ඒවායෙන් කුමක්ද?",
+        "choices": [
+            "සතුන්ගේ මස්",
+            "අල වර්ග",
+            "වගාකර ගත් ධානය",
+            "ගොළුබෙල්ලන්"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-history-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 15,
+        "subject": "History",
+        "category": "humanities",
+        "question": "දඩයම් යුගයේ මිය ගිය මිනිසුන්ගේ ඇට සැකිලි වල රතුපාට ආලේපයක් ආලේප කර ඇති බව සොයාගෙන ඇත. එසේ ආලේපකර ඇත්තේ මොනවාද?",
+        "choices": [
+            "රතු ගුරු ගල්",
+            "රතු පොසෝලා පස",
+            "රතුපාට සායම් වර්ගයක්",
+            "ගස් වලින් ලබාගන්නා රතුපාට යුෂ"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-history-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 16,
+        "subject": "History",
+        "category": "humanities",
+        "question": "ලංකාවේ නගරයක් අසල පළමුවරට වැවක් ඉදිකරන ලද්දේ,",
+        "choices": [
+            "වසභ රජතුමා",
+            "ධාතුසේන රජතුමා",
+            "පණ්ඩුකාභය රජතුමා",
+            "දේවානම් පියතිස්ස රජතුමා"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-history-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 17,
+        "subject": "History",
+        "category": "humanities",
+        "question": "අනුරාධපුරයේ පිහිටා ඇති අභයගිරි දාගැබ ඉදිකරවන ලද්දේ කුමන රජතුමා විසින්ද?",
+        "choices": [
+            "දුටුගැමුණු රජතුමාය.",
+            "දේවානම් පියතිස්ස රජතුමාය.",
+            "වසභ රජතුමාය.",
+            "වලගම්බා රජතුමාය."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-history-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 18,
+        "subject": "History",
+        "category": "humanities",
+        "question": "'වල්ලිපුරම් රන්පත් ඉරුව'' යන ලේඛනයේ ලියා ඇත්තේ කුමක් ගැනද?",
+        "choices": [
+            "සිත්නරුබිම් බුදල්නා ගැනය.",
+            "ඉසිගිරිය ඇමතිවරයා විහාරයක් ඉදි කල බවය.",
+            "ලම්භකරණ රජ වංශය ගැනය.",
+            "මහසෙන් රජතුමා වැව් දහසක් ඉදිකළ බවය."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-history-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 19,
+        "subject": "History",
+        "category": "humanities",
+        "question": "මිනිසා විසින් පළමු වරට ගින්දර භාවිතා කළ බවට සාධක හමු වී ඇත්තේ මින් කවර ස්ථානයකින්ද?",
+        "choices": [
+            "කැනඩාව",
+            "අප්‍රිකාව",
+            "ඊශ්‍රායලය",
+            "චීනය"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-history-3rd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 20,
+        "subject": "History",
+        "category": "humanities",
+        "question": "පුරාණ කාලයේ දාගැබක ආරක්ෂාව සඳහා ඉදි කරන ලද ගොඩනැඟිල්ලක් හැඳින්වීමට යොදා ගත් නම වූයේ,",
+        "choices": [
+            "ආසනඝරය යි.",
+            "පඨමාඝරය යි.",
+            "වටදාගෙය යි.",
+            "ධාතු මන්දිරයයි."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-history-3rd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 21,
+        "subject": "History",
+        "category": "humanities",
+        "question": "අනුරාධගාම, පුරයක් බවට පත් කරමින් අනුරාධපුර රාජධානිය බිහි කළ රජතුමා මින් කවරෙක් ද?",
+        "choices": [
+            "පණ්ඩුකාභය රජු",
+            "දේවානම්පියතිස්ස රජු",
+            "මුටසීව රජු",
+            "දුටුගැමුණු රජු"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-history-3rd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 22,
+        "subject": "History",
+        "category": "humanities",
+        "question": "සංඝමිත්තා තෙරණින් වහන්සේ ශ්‍රී ලංකාවට ජය ශ්‍රී මහා බෝ සමිඳු රැගෙන වැඩිය වරාය වන්නේ මින් කුමක්ද?",
+        "choices": [
+            "මහාතිත්ථ වරාය යි.",
+            "දඹකොළ පටුන වරාය යි.",
+            "ගෝකණ්ණ වරාය යි.",
+            "ලංකා පටුන වරාය යි."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-history-3rd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 23,
+        "subject": "History",
+        "category": "humanities",
+        "question": "ත්‍රිපිටකය ග්‍රන්ථාරූඪ කරනු ලැබුවේ,",
+        "choices": [
+            "අභයගිරි විහාරයේය.",
+            "මහා විහාරයේ ය.",
+            "මාතලේ අලු විහාරයේය.",
+            "ජේතවන විහාරයේ ය."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-history-3rd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 24,
+        "subject": "History",
+        "category": "humanities",
+        "question": "මිනිසකු වීමට නැඹුරුවක් ඇති කළ පැරණිතම වානරයා වන්නේ,",
+        "choices": [
+            "හෝමෝ සාපියන් ය.",
+            "හෝමෝ හැබිලිස් ය.",
+            "ඔස්ට්‍රලෝපිතිකස් ය.",
+            "හෝමෝ ඉරෙක්ටස් ය."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_2",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/2023-grade-06-history-2nd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 25,
+        "subject": "History",
+        "category": "humanities",
+        "question": "මුලින් ම දුනු ඊතල භාවිත කරමින් දඩයම් කිරීම් ආරම්භ වූ යුගය කුමක්ද?",
+        "choices": [
+            "හොලෝසීන යුගය",
+            "පූර්ව ශිලා යුගය",
+            "මධ්‍ය ශිලා යුගය",
+            "නව ශිලා යුගය"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_2",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/2023-grade-06-history-2nd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 26,
+        "subject": "History",
+        "category": "humanities",
+        "question": "පණ්ඩුකාභය රජුගේ පියා කවුරුන්ද?",
+        "choices": [
+            "පණ්ඩුවාසදේව",
+            "දීඝගාමිණී",
+            "විජය",
+            "පණ්ඩුල"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_2",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/2023-grade-06-history-2nd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 27,
+        "subject": "History",
+        "category": "humanities",
+        "question": "පහත සඳහන් වැව් අතරින් පණ්ඩුකාභය රජතුමා විසින් කරවන ලද වැව කුමක්ද?",
+        "choices": [
+            "තිසා වැව",
+            "කලා වැව",
+            "නුවර වැව",
+            "අභය වැව"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_2",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/2023-grade-06-history-2nd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 28,
+        "subject": "History",
+        "category": "humanities",
+        "question": "ඉතිහාසය ගැන අපට දැනුම ලබා ගැනීමට උපයෝගී වන සෑම දෙයක්ම හැඳින්විමට යොදන පොදු නම,",
+        "choices": [
+            "පොත්පත්",
+            "නටඹුන්",
+            "මූලාශ්‍රය",
+            "මෙවලම්"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-06-history-second-term-test-paper-with-answers-2020/"
+        }
+    },
+    {
+        "q_no": 29,
+        "subject": "History",
+        "category": "humanities",
+        "question": "අපේ රටේ ඉතිහාසය ඉගෙන ගැනීමට ඇති පැරණිම මූලාශ්‍රය,",
+        "choices": [
+            "දීප වංසය",
+            "චූල වංසය",
+            "මහාවංසය",
+            "නිකාය සංග්‍රහය"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-06-history-second-term-test-paper-with-answers-2020/"
+        }
+    },
+    {
+        "q_no": 30,
+        "subject": "History",
+        "category": "humanities",
+        "question": "මහා වංසය රචනා කරන ලද හිමියන් කවුරුන්ද",
+        "choices": [
+            "දික්සද පිරිවෙන් වාසි මහානාම හිමි",
+            "බුද්ධගෝෂ හිමි",
+            "ධර්මසේන හිමි",
+            "ගුරුළුගෝමි පඬිවරයා"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-06-history-second-term-test-paper-with-answers-2020/"
+        }
+    },
+    {
+        "q_no": 31,
+        "subject": "History",
+        "category": "humanities",
+        "question": "බුදුන් වහන්සේගේ උප්පත්තිය මුල් කරගෙන ආරම්භ වන වර්ෂ ක්‍රමය,",
+        "choices": [
+            "ක්‍රිස්තු වර්ෂ",
+            "බුද්ධ වර්ෂ",
+            "ශක වර්ෂ",
+            "හිජ්රි වර්ෂ"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-06-history-second-term-test-paper-with-answers-2020/"
+        }
+    },
+    {
+        "q_no": 32,
+        "subject": "History",
+        "category": "humanities",
+        "question": "පළමු වරට ගොඩබිම පහළ වූයේ,",
+        "choices": [
+            "සතුන්ය.",
+            "ගස්වැල් ය.",
+            "මැමත් අලින් ය.",
+            "බැක්ටීරියාව ය."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-06-history-second-term-test-paper-with-answers-2020/"
+        }
+    },
+    {
+        "q_no": 33,
+        "subject": "History",
+        "category": "humanities",
+        "question": "වඩා සාරවත් දේ නිපද වූ මානවයා හැදින්වුයේ,",
+        "choices": [
+            "හෝමෝ සාපියන්",
+            "හෝමෝ ඉරක්ටස්",
+            "පිකිං මානවයා",
+            "හෝමෝ හැබිලස්"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-06-history-second-term-test-paper-with-answers-2020/"
+        }
+    },
+    {
+        "q_no": 34,
+        "subject": "History",
+        "category": "humanities",
+        "question": "වානරයෙකු බිහිවීමේ ක්‍රියාවලිය හඳුන්වන්නේ,",
+        "choices": [
+            "ඉතිහාසයේ විකාශනය යනුවෙනි",
+            "මානව විකාශනය යනුවෙනි",
+            "සත්ත්ව පරිණාමය යනුවෙනි",
+            "මානව පරිණාමය යනුවෙනි"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-06-history-second-term-test-paper-with-answers-2020/"
+        }
+    },
+    {
+        "q_no": 35,
+        "subject": "History",
+        "category": "humanities",
+        "question": "මිනිසා තමන්ගේ මළගිය ඥාතීන් වෙනුවෙන් අවමංගල චාරිත්‍ර පැවැත්වීමට පුරුදු වූයේ කුමන සංස්කෘතික අවධියේ ද ?",
+        "choices": [
+            "පූර්ව ශිලා යුගය",
+            "මධ්‍ය ශිලා යුගය",
+            "නව ශිලා යුගය",
+            "සිළුරියන් යුගය"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=22951&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 36,
+        "subject": "History",
+        "category": "humanities",
+        "question": "වානරයෙකුව සිට තම ශක්තීන් දියුණු කරගෙන බුද්ධිමත් මිනිසා ලෙස නම් ලද මානවයා කවුද ?",
+        "choices": [
+            "හෝමෝ හැබිලස්",
+            "හෝමෝ ඉරෙක්ටස්",
+            "හෝමෝ සාපියන්",
+            "හෝමෝ නියැන්ඩර් තාලෙන්සීස්"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=22951&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 37,
+        "subject": "History",
+        "category": "humanities",
+        "question": "ඊජිප්තු ශිෂ්ටාචාරය බිහිවූයේ මින් කුමන ගංගා නිම්නය මුල්කරගෙනද ?",
+        "choices": [
+            "හොවැංහෝ ගංගාව",
+            "සිංදු ගඟ",
+            "නයිල් නිම්නය",
+            "යුප්‍රටීස් ටයිග්‍රීස් ගංගා නිම්නය"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=22951&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 38,
+        "subject": "History",
+        "category": "humanities",
+        "question": "නගරයක් අසල පළමු වරට වැවක් ඉදිකළ රජතුමා පහත රජවරුන් අතරින් තෝරන්න .",
+        "choices": [
+            "දේවානම් පියතිස්ස රජතුමා",
+            "පණ්ඩුකාභය රජතුමා",
+            "දුටුගැමුණු රජතුමා",
+            "ධාතුසේන රජතුමා"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=22951&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 39,
+        "subject": "History",
+        "category": "humanities",
+        "question": "දේවානම් පියතිස්ස රජතුමා විසින් භික්ෂූන් වහන්සේලාට දානය වැළඳීම සඳහා සකස් කළ ගොඩනැගිල්ල මින් කුමක්ද ?\n",
+        "choices": [
+            "මහ බෝගේ",
+            "ලහබත්ගේ",
+            "වටදාගේ",
+            "ප්‍රතිමාගේ"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=22951&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 40,
+        "subject": "History",
+        "category": "humanities",
+        "question": "පෘථිවියේ බිහි වූ ජීවයක් සහිත පළමු බැක්ටීරියාව හඳුන්වන්නේ ,",
+        "choices": [
+            "ඔපබීනීයා",
+            "ප්‍රොකායෝට්",
+            "නිහාරිකාව",
+            "ඔස්ට්‍රලෝපිතස්"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=22951&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 41,
+        "subject": "History",
+        "category": "humanities",
+        "question": "වෙඩි බෙහෙත් , කඩදාසි හා මුද්‍රණ යන්ත්‍රය ආදිය ලොවට හඳුන්වා දුන්නේ ,",
+        "choices": [
+            "ඉන්දු නිම්න ශිෂ්ටාචාරයයි .",
+            "චීන ශිෂ්ටාචාරයයි .",
+            "මෙසපොතේමියානු ශිෂ්ටාචාරයයි .",
+            "ඊජිප්තු ශිෂ්ටාචාරයයි ."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=22951&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 42,
+        "subject": "History",
+        "category": "humanities",
+        "question": "පරිනාමයට පත් වූ මානවයන්ගේ ස්ථිර වාසස්ථාන සහිත ගම්මාන බිහි වන්නේ ,",
+        "choices": [
+            "මහා හිම යුගයේ ය .",
+            "නව ශිලා යුගයේ ය .",
+            "සිලුරියන් යුගයේ ය .",
+            "මධ්‍ය ශිලා යුගයේ ය ."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=22951&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 43,
+        "subject": "History",
+        "category": "humanities",
+        "question": "නිවාසවල භාවිත කළ දියුණු ජල නල පද්ධතියක් හමු වී ඇත්තේ ,",
+        "choices": [
+            "මෙසපොතේමියානු ශිෂ්ටාචාරයෙනි .",
+            "ඊජිප්තු ශිෂ්ටාචාරයෙනි .",
+            "ඉන්දු නිම්න ශිෂ්ටාචාරයෙනි .",
+            "චීන ශිෂ්ටාචාරයෙනි ."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=22951&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 44,
+        "subject": "History",
+        "category": "humanities",
+        "question": "පහත මූලාශ්‍ර අතරින් ඔබේ පාසලේ ඉතිහාසය හැදෑරීමට උදව්කරගත හැකි වඩාත් උචිත ලිඛිත මූලාශ්‍රය කුමක්ද ?",
+        "choices": [
+            "නාමලේඛනය",
+            "ලොග් පොත",
+            "පාසල් සඟරා",
+            "ඇතුළත් කිරීමේ ලේඛනය"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_1",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=22939&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 45,
+        "subject": "History",
+        "category": "humanities",
+        "question": "ක්‍රිස්තු වර්ෂ 2019 වර්ෂය බුද්ධ වර්ෂ වලින් දැක් වු විට ලැබෙන නිවැරදි පිළිතුර පහත දැක්වෙන පිළිතුරු අතරින් තෝරන්න .",
+        "choices": [
+            "බුද්ධ වර්ෂ 2500",
+            "බුද්ධ වර්ෂ 2560",
+            "බුද්ධ වර්ෂ. 2562",
+            "බුද්ධ වර්ෂ 2563"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_1",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=22939&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 46,
+        "subject": "History",
+        "category": "humanities",
+        "question": "මානව පරිණාමයේදී හැකි මිනිසා ලෙස විරුදාවලිය ලද මානවයා කවුද ?",
+        "choices": [
+            "හෝමෝ ඉරෙක්ටස්",
+            "හෝමෝ හැබිලස්",
+            "හෝමෝ සේපියන්",
+            "හෝමෝ නියැන්ඩර්තාලෙන්සීස්"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_1",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=22939&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 47,
+        "subject": "History",
+        "category": "humanities",
+        "question": "නීග්‍රොයිඩ් යනුවෙන් හැදින්වූයේ ලෝකයේ කුමන ප්‍රදේශ වලට ව්‍යාප්ත වු හෝමෝ සේපියන් වරුද ?",
+        "choices": [
+            "අප්‍රිකාවට",
+            "ආසියාවට",
+            "චීනයට",
+            "ජපානයට"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_1",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=22939&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 48,
+        "subject": "History",
+        "category": "humanities",
+        "question": " මහා හිම යුගය පිළිබඳව වඩාත් නිවැරදි ප්‍රකාශය තෝරන්න .",
+        "choices": [
+            "මිනිසා බිහිවීම",
+            "සතුන් බිහිවීම",
+            "ශාක බිහිවීම",
+            "කෙටි උණුසුම් කාලය"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_1",
+            "year": 2018,
+            "source": "https://pastpapers.wiki/grade-06-history-1st-term-test-paper-2018-north-western-province/"
+        }
+    },
+    {
+        "q_no": 49,
+        "subject": "History",
+        "category": "humanities",
+        "question": "විශාල සතුන්ගේ ඇටකටු භාවිතා කරමින් නිවාස ඉදිකළ මානව වර්ගය වන්නේ මින් කවරෙක් ද ?",
+        "choices": [
+            "හෝමෝ නියැන්ඩතාලෙන්සීස්",
+            "හෝමෝ ඉරෙක්ටස්",
+            "ඔස්ට්‍රලෝපිතිකස්",
+            "හෝමෝ හැබිලස්"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_1",
+            "year": 2018,
+            "source": "https://pastpapers.wiki/grade-06-history-1st-term-test-paper-2018-north-western-province/"
+        }
+    },
+    {
+        "q_no": 50,
+        "subject": "History",
+        "category": "humanities",
+        "question": "අතීතයේ අපේ රටේ සිටි ජනතාව ප්‍රධාන ජීවන වෘත්තිය ලෙස තෝරා ගත්තේ මින් කුමක්ද?",
+        "choices": [
+            "ධීවර කටයුතු",
+            "කෘෂිකර්මාන්තය",
+            "වෙළෙඳාම",
+            "කර්මාන්ත"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_WP",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/western-province-20232024-grade-07-history-3rd-term-test-paper/"
+        }
+    },
+    {
+        "q_no": 51,
+        "subject": "History",
+        "category": "humanities",
+        "question": "ගිරි නම් ජනපදයේ සහෝදරයින් පස් දෙනෙකු උඳු වැපිරිමට හේනක් සකස් කර ගැනීම පිළිබඳ කතා පුවතක් සඳහන් වන මුලාශ්‍රය වන්නේ\n",
+        "choices": [
+            "මහාවංසය යි.",
+            "උම්මග්ග ජාතකය යි.",
+            "දීපවංසය යි.",
+            "සද්ධර්මාලංකාරයයි."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_WP",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/western-province-20232024-grade-07-history-3rd-term-test-paper/"
+        }
+    },
+    {
+        "q_no": 52,
+        "subject": "History",
+        "category": "humanities",
+        "question": "වාරි කර්මාන්තයට කළ විශිෂ්ට සේවය නිසා මින්නේරි දෙවියන් ලෙස ප්‍රචලිත වු රජතුමා කවුරුන්ද?",
+        "choices": [
+            "කාවන්තිස්ස",
+            "දුටුගැමුණු",
+            "මහසෙන්",
+            "භාතිකාභය"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_WP",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/western-province-20232024-grade-07-history-3rd-term-test-paper/"
+        }
+    },
+    {
+        "q_no": 53,
+        "subject": "History",
+        "category": "humanities",
+        "question": "සකපෝරුව භාවිත කරන ලද්දේ මින් කුමන කර්මාන්තයක් සඳහාද?",
+        "choices": [
+            "ලෝහ කර්මාන්තය",
+            "පේෂ කර්මාන්තය",
+            "උක් කර්මාන්තය",
+            "මැටි කර්මාන්තය"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_WP",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/western-province-20232024-grade-07-history-3rd-term-test-paper/"
+        }
+    },
+    {
+        "q_no": 54,
+        "subject": "History",
+        "category": "humanities",
+        "question": "පළමුවන සේන රජුගේ කාලයේ දී ශ්‍රී ලංකාවට ආක්‍රමණයක් එල්ල කළ පාණ්ඩ්‍ය රජු කවුරුන්ද?",
+        "choices": [
+            "දෙවන වරගුණවර්මන්",
+            "රාජ රාජ",
+            "ශ්‍රී මාර ශ්‍රී වල්ලභ",
+            "පළමුවන රාජේන්ද්‍ර"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_WP",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/western-province-20232024-grade-07-history-3rd-term-test-paper/"
+        }
+    },
+    {
+        "q_no": 55,
+        "subject": "History",
+        "category": "humanities",
+        "question": "වැඩිමහල් සහෝදරයාගෙන් පසු බාල සහෝදරයාට රජකම උරුම වීමේ සම්ප්‍රදාය අනුව රාජ්‍යත්වයට පත් රජවරු ඇතුළත් පිළිතුර තෝරන්න.",
+        "choices": [
+            "පණ්ඩුකාභය රජුගෙන් මුටසීව රජු ට",
+            "දෙවන දප්පුල රජුගෙන් නවවන අග්ගබෝධි රජු ට",
+            "පළමුවන සේන රජුගෙන් දෙවන සේන රජු ට",
+            "දුටුගැමුණු රජුගෙන් සද්ධාතිස්ස රජු ට"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_WP",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/western-province-20232024-grade-07-history-3rd-term-test-paper/"
+        }
+    },
+    {
+        "q_no": 56,
+        "subject": "History",
+        "category": "humanities",
+        "question": "දුඹුටුලු වැව හා තෝපා වැව යන වැව් ඒකාබද්ධ කිරීමෙන් බිහි වු විශිෂ්ට ම වාරි නිර්මාණය වන්නේ මින් කුමක්ද?",
+        "choices": [
+            "මින්නේරිය වැව",
+            "පරාක්‍රම සමුද්‍රය",
+            "කලා වැව",
+            "තිසා වැව"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_WP",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/western-province-20232024-grade-07-history-3rd-term-test-paper/"
+        }
+    },
+    {
+        "q_no": 57,
+        "subject": "History",
+        "category": "humanities",
+        "question": "මහා විජයබාහු රජුට ළමා කාලයේ සිටම උපකාර කළ ප්‍රභූවරයා පහත පිළිතුරු අතරින් තෝරන්න.",
+        "choices": [
+            "බුද්ධරාජ",
+            "නගරගිරි කිත්ති",
+            "දේවපතිරාජ",
+            "ජගත් විජය"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_WP",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/western-province-20232024-grade-07-history-3rd-term-test-paper/"
+        }
+    },
+    {
+        "q_no": 58,
+        "subject": "History",
+        "category": "humanities",
+        "question": "- දක්ඛිණ දේශයේ පාලකයා වීම\n- පරාක්‍රමපුරය යනුවෙන් අලුත් නගරයක් ඉදිකිරීම\nඉහත කාර්යයන්ට අදාල රජතුමා කවුරුන්ද?        ",
+        "choices": [
+            "මානවම්ම රජු",
+            "අටවන අග්ගබෝධි රජු",
+            "මහා පරාක්‍රමබාහු රජු",
+            "හතරවන පරාක්‍රමබාහු රජු"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_WP",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/western-province-20232024-grade-07-history-3rd-term-test-paper/"
+        }
+    },
+    {
+        "q_no": 59,
+        "subject": "History",
+        "category": "humanities",
+        "question": "යුනෙස්කෝ සංවිධානය ලෝක උරුමයක් ලෙස නම් කොට ඇති මොහෙන්ජොදාරෝ නගරය පිහිටා ඇත්තේ කුමන රටේද?",
+        "choices": [
+            "පකිස්ථානයේ",
+            "ඉන්දියාවේ",
+            "චීනයේ",
+            "ඇෆ්ගනිස්ථානයේ"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_WP",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/western-province-20232024-grade-07-history-3rd-term-test-paper/"
+        }
+    },
+    {
+        "q_no": 60,
+        "subject": "History",
+        "category": "humanities",
+        "question": "ඉබන් බතූතා නම් අරාබි සංචාරකයා ශ්‍රී ලංකාවට පැමිණියේ කුමන රාජධානි සමයේ ද?",
+        "choices": [
+            "යාපහුව",
+            "කුරුණෑගල",
+            "ගම්පොළ",
+            "යාපනය"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_WP",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/western-province-20232024-grade-07-history-3rd-term-test-paper/"
+        }
+    },
+    {
+        "q_no": 61,
+        "subject": "History",
+        "category": "humanities",
+        "question": "ගම්පොළ රාජධානියේ අවසාන කාලයේ ශ්‍රී ලංකාව ආක්‍රමණය කළ චීන සෙන්පතියා කවුරුන්ද?",
+        "choices": [
+            "කාලිංග මාඝ",
+            "වෞහෝ",
+            "චන්ද්‍රභානු",
+            "යුංලෝ"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_WP",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/western-province-20232024-grade-07-history-3rd-term-test-paper/"
+        }
+    },
+    {
+        "q_no": 62,
+        "subject": "History",
+        "category": "humanities",
+        "question": "- රටේ අධ්‍යාපන ප්‍රබෝධයක් ඇති වීම\n- උගත් පඬිවරු බිහිවීම\n- විශිෂ්ට සාහිත්‍ය කෘති රචනා වීම\nඉහත දක්වන ලද තොරතුරුවලට අදාල රාජධානි යුගය පහත පිළිතුරු අතරින් තෝරන්න.",
+        "choices": [
+            "පොළොන්නරුව",
+            "දඹදෙනිය",
+            "යාපහුව",
+            "කෝට්ටේ"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_WP",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/western-province-20232024-grade-07-history-3rd-term-test-paper/"
+        }
+    },
+    {
+        "q_no": 63,
+        "subject": "History",
+        "category": "humanities",
+        "question": "බටහිර වෛද්‍ය විද්‍යාවේ පියා ලෙස සැලකෙන්නේ මින් කවුරුන්ද?",
+        "choices": [
+            "ප්ලේටෝ",
+            "ඇරිස්ටෝටල්",
+            "හිපොක්‍රටීස්",
+            "ආකිමිඩීස්"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_WP",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/western-province-20232024-grade-07-history-3rd-term-test-paper/"
+        }
+    },
+    {
+        "q_no": 64,
+        "subject": "History",
+        "category": "humanities",
+        "question": "රෝම ගෘහ නිර්මාණයේ විශිෂ්ටත්වය පිළිබිඹු කරන විශාල ඉදිකිරීමක් ලෙස සැලකෙන්නේ",
+        "choices": [
+            "පැරණි එළ මහන් රංග පීඨය",
+            "පැන්තියන් දේවස්ථානය",
+            "පාතිනන් දෙව් මැදුර",
+            "මහා නාන තටාකය"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_WP",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/western-province-20232024-grade-07-history-3rd-term-test-paper/"
+        }
+    },
+    {
+        "q_no": 65,
+        "subject": "History",
+        "category": "humanities",
+        "question": "පුරාණ කුඹුරු ගොවිතැනේ දී \"පිට දඩහස\" ලෙස හඳුන්වා ඇති වගා කන්නය වනුයේ,",
+        "choices": [
+            "මහ කන්නය",
+            "මැද කන්නය",
+            "යළ කන්නය",
+            "යළමහ දෙකන්නය"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-07-history-3rd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 66,
+        "subject": "History",
+        "category": "humanities",
+        "question": "මෙරට පැවති ...................... පුරාණයේ වලඤ්ජියාර් ලෙස හඳුන්වා දී තිබේ.",
+        "choices": [
+            "වෙළඳගම්",
+            "දේශීය වෙළඳ ශ්‍රේණි",
+            "විදේශීය වෙළඳ ශ්‍රේණි",
+            "පැරණි වෙළඳ සංවිධාන"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-07-history-3rd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 67,
+        "subject": "History",
+        "category": "humanities",
+        "question": "ගම් දහයකට එක වෛද්‍යවරයෙකු බැගින් පත්කළ රජතුමා ලෙස ප්‍රසිද්ධව ඇත්තේ ...................... රජතුමාය.",
+        "choices": [
+            "1. වන උපතිස්ස",
+            "බුද්ධදාස",
+            "4. වන කාශ්‍යප",
+            "v මිහිඳු"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-07-history-3rd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 68,
+        "subject": "History",
+        "category": "humanities",
+        "question": "මොහෙන්ජොදාරෝ නම් පැරණි දියුණු නගරයක් හමු වූ ශිෂ්ටාචාරය අයත් රට,",
+        "choices": [
+            "ඇෆ්ගනිස්ථානය",
+            "ඉන්දියාව",
+            "පකිස්ථානය",
+            "චීනය"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-07-history-3rd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 69,
+        "subject": "History",
+        "category": "humanities",
+        "question": "..................................... රාජධානිය ලංකාවේ අවසානම රාජධානියයි.",
+        "choices": [
+            "මහනුවර",
+            "කෝට්ටේ",
+            "ගම්පොළ",
+            "යාපනය"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-07-history-3rd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 70,
+        "subject": "History",
+        "category": "humanities",
+        "question": "මහා වංශයේ සඳහන් වන පරිදි පණ්ඩුකාභය කුමාරයා ළමා කාලය ගත කර ඇත්තේ",
+        "choices": [
+            "අනුරාධපුරයේයි.",
+            "මාගමයි.",
+            "දොරමඬලාවයි.",
+            "පොළොන්නරුවයි."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-07-history-3rd-term-test-paper-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 71,
+        "subject": "History",
+        "category": "humanities",
+        "question": "ශ්‍රි ලංකාව තැප්‍රොබේන් නමින් හැඳින් වූ ශිෂ්ඨාචාරය කුමක්ද?",
+        "choices": [
+            "ග්‍රීක් ශිෂ්ටාචාරය.",
+            "රෝම ශිෂ්ටාචාරය.",
+            "මොසපොතේමියානු ශිෂ්ඨාචාරය.",
+            "ඉන්දු නිම්න ශිෂ්ටාචාරය."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-07-history-3rd-term-test-paper-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 72,
+        "subject": "History",
+        "category": "humanities",
+        "question": "\"මින්නේරි දෙවියන්\" ලෙස හඳුන්වන ලද රජතුමා වන්නේ,",
+        "choices": [
+            "වසභ රජුය.",
+            "මහසෙන් රජුය.",
+            "ධාතුසේන රජුය.",
+            "කාශ්‍යප රජුය."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-07-history-3rd-term-test-paper-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 73,
+        "subject": "History",
+        "category": "humanities",
+        "question": "දකුණු ඉන්දියාවේ පිහිටි පල්ලව රාජධානියේ අගනගරය වන්නේ,",
+        "choices": [
+            "මදුරා පුරයයි.",
+            "තන්ජෝරය.",
+            "දිල්ලිය.",
+            "කාංචිපුරය."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-07-history-3rd-term-test-paper-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 74,
+        "subject": "History",
+        "category": "humanities",
+        "question": "කලිකාල සාහිත්‍ය සර්වඥ පණ්ඩිත යන උපාධි නාමයෙන් පිදුම් ලැබූ රජතුමා වන්නේ,",
+        "choices": [
+            "තුන්වන විජය බාහු රජුය.",
+            "දෙවන පරාක්‍රමබාහු රජුය.",
+            "දෙවන බුවනෙකබාහු රජුය.",
+            "හයවන පරාක්‍රමබාහු රජුය."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-07-history-3rd-term-test-paper-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 75,
+        "subject": "History",
+        "category": "humanities",
+        "question": "අතීත ජනතාවගේ විවිධ අවශ්‍යතා සඳහා කර්මාන්ත බිහි විය. ඒ අනුව ලෝහ කර්‌මාන්තයට අයත් නොවන්නේ පහත සඳහන් කුමන කර්මාන්තයද ?",
+        "choices": [
+            "යකඩ",
+            "මැණික්",
+            "රන්",
+            "තඹ"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/grade-07-history-2nd-term-test-paper-with-answers-2023-mathugama-zone/"
+        }
+    },
+    {
+        "q_no": 76,
+        "subject": "History",
+        "category": "humanities",
+        "question": "පැරණි සමාජයේ මැටි කර්මාන්තයේ නියැලුණ ශිල්පින් හඳුන්වන නාමය කුමක්ද?",
+        "choices": [
+            "කුම්බකාර",
+            "පෙහෙකාර",
+            "මණිකර",
+            "තොපෂ"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/grade-07-history-2nd-term-test-paper-with-answers-2023-mathugama-zone/"
+        }
+    },
+    {
+        "q_no": 77,
+        "subject": "History",
+        "category": "humanities",
+        "question": "අතීතයේ බිහි වූ වෙළඳ නගරයකි,",
+        "choices": [
+            "කැළණිය",
+            "කොළඹ",
+            "යාපනය",
+            "මාගම"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/grade-07-history-2nd-term-test-paper-with-answers-2023-mathugama-zone/"
+        }
+    },
+    {
+        "q_no": 78,
+        "subject": "History",
+        "category": "humanities",
+        "question": "බදුලු ටැම් ලිපිය පිහිටුවන ලද රජතුමා වන්නේ,",
+        "choices": [
+            "නිශ්ශංකමල්ල රජු",
+            "පස්වන මිහිඳු රජු",
+            "හතරවන උදය රජු",
+            "කාශ්‍යප රජු"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/grade-07-history-2nd-term-test-paper-with-answers-2023-mathugama-zone/"
+        }
+    },
+    {
+        "q_no": 79,
+        "subject": "History",
+        "category": "humanities",
+        "question": "අතීතයේ සූප ශ්‍රාස්ත්‍රයෙහි දක්ෂ කාන්තාවන් හැඳින් වූයේ,",
+        "choices": [
+            "මධූපාචිකා",
+            "මධූ භාෂිණි",
+            "නානා දේසි",
+            "ස්වර්ණකාර"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/grade-07-history-2nd-term-test-paper-with-answers-2023-mathugama-zone/"
+        }
+    },
+    {
+        "q_no": 80,
+        "subject": "History",
+        "category": "humanities",
+        "question": "පහත කොටස් නිවැරදිව ගැලපූ විට නිවැරදි පිළිතුර වන්නේ,\n\n1) වෙළඳ සංවිධාන,  2) පේෂ කර්මාන්තය, 3) වරායන් ආශ්‍රිතව කටයුතු කිරීම, 4) ගවයන්ගේ පිටේ බඩු ගෙනයාම\nA රෙදිපිළි, B තවලම්, C සුංක, D රේගු නිලධාරීන්",
+        "choices": [
+            "ABCD",
+            "DEBA",
+            "BADC",
+            "CADB"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/grade-07-history-2nd-term-test-paper-with-answers-2023-mathugama-zone/"
+        }
+    },
+    {
+        "q_no": 81,
+        "subject": "History",
+        "category": "humanities",
+        "question": "පහත කොටස් නිවැරදිව ගැලපූ විට නිවැරදි පිළිතුර වන්නේ,\n1) සල්ලි , 2) කටුසර බෝග, 3) කිරි ලබා ගැනීමට යොදාගත් දෙනුන්, 4) හේන් ගොවිතැන                                                                                                                                                                                                                                                                                                               A කුරක්කන්, B කිරිගෙරි, C ගොඩගොවිතැන, D ඇල් වී",
+        "choices": [
+            "DBAC",
+            "BACB",
+            "BCAD",
+            "DABC"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/grade-07-history-2nd-term-test-paper-with-answers-2023-mathugama-zone/"
+        }
+    },
+    {
+        "q_no": 82,
+        "subject": "History",
+        "category": "humanities",
+        "question": "පහත කොටස් නිවැරදිව ගැලපූ විට නිවැරදි පිළිතුර වන්නේ,\n1 ) මානවම්ම කුමරුට හමුදාවක් ලබා දීම, 2) රෝමය සමඟ සබඳතා පැවැත්වීම, 3) ලම්භකර්ණ පෙළපතට අයත් පාලකයෙකි, 4) ලංකාව ආක්‍රමණය කළ පාණ්ඩ්‍ය රජෙකි                                                                                                                                                                                                                               A ශ්‍රීමාර ශ්‍රී වල්ලභ, B වසභ රජු, C පළමුවන නරසිංහ වර්මන්, D භාතිකාභය රජු",
+        "choices": [
+            "ADCB",
+            "CDBA",
+            "BCAD",
+            "CABD"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/grade-07-history-2nd-term-test-paper-with-answers-2023-mathugama-zone/"
+        }
+    },
+    {
+        "q_no": 83,
+        "subject": "History",
+        "category": "humanities",
+        "question": "පහත කොටස් නිවැරදිව ගැලපූ විට නිවැරදි පිළිතුර වන්නේ,\n1) සෑම ගම් දහයකටම එක් වෛද්‍යවරයෙකු පත් කිරීම, 2) අන්ධයන් හා රෝගීන්ට ආරෝග්‍යශාලා පිහිටුවීම, 3) පොළොන්නරුවේ ආරෝග්‍යශාලා පිහිටු වීම,4) වසංගත රෝගින්ට ආරෝග්‍යශාලා පිහිටු වීම                                                                                                                                                                                                                                                             A පළමුවන උපතිස්ස රජු, B පළමුවන උදය රජු, C බුද්ධදාස රජු, D පස්වන කස්සප රජු",
+        "choices": [
+            "CABD",
+            "ABCD",
+            "BCDA",
+            "CDBA"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/grade-07-history-2nd-term-test-paper-with-answers-2023-mathugama-zone/"
+        }
+    },
+    {
+        "q_no": 84,
+        "subject": "History",
+        "category": "humanities",
+        "question": "පහත කොටස් නිවැරදිව ගැලපූ විට නිවැරදි පිළිතුර වන්නේ,\n1) පල්ලව රාජ්‍යයේ අගනුවර ය, 2) පාණ්ඩ්‍ය රාජ්‍යයේ අගනුවර ය,  3) චෝල රාජ්‍යයේ අගනුවර ය, 4) භාරතීය රාජ්‍යයකි                                                                                                                                                                                                                                                        A මධුරාපුරය, B කාංචිපුරය, C රාෂ්ට්‍රකූට, D තන්ජෝරය",
+        "choices": [
+            "BADC",
+            "CDAB",
+            "DCAB",
+            "BDAC"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/grade-07-history-2nd-term-test-paper-with-answers-2023-mathugama-zone/"
+        }
+    },
+    {
+        "q_no": 85,
+        "subject": "History",
+        "category": "humanities",
+        "question": "අනුරාධපුර යුගයේ පැවති නීතීරීති ගැන මහජනතාවට දැනගැනීම සඳහා පිහිටවූ සෙල්ලිපියකි.",
+        "choices": [
+            "අඹගමුව ශිලා ලිපිය",
+            "තෝනිගල ශිලා ලිපිය",
+            "වේවැල් කැටිය ශිලා ලිපිය",
+            "මිහින්තලා පුවරු ලිපිය"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/grade-07-history-2nd-term-test-paper-with-answers-2023-mathugama-zone/"
+        }
+    },
+    {
+        "q_no": 86,
+        "subject": "History",
+        "category": "humanities",
+        "question": "චෝල පාලනයෙන් රජරට නිදහස් කරගෙන හෙළයේ අභිමානය නැවත ගොඩ නැගූ රජතුමා වන්නේ,",
+        "choices": [
+            "පණ්ඩුකාභය රජු",
+            "විජය රජතුමා",
+            "නිශ්ශංකමල්ල රජු",
+            "පළමුවන විජයබාහු රජු"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/grade-07-history-2nd-term-test-paper-with-answers-2023-mathugama-zone/"
+        }
+    },
+    {
+        "q_no": 87,
+        "subject": "History",
+        "category": "humanities",
+        "question": "පරාක්‍රමබාහු කුමරා උපන් ස්ථානය ලෙස හඳුනාගෙන ඇත්තේ,",
+        "choices": [
+            "මාගම",
+            "පඬුවස් නුවර",
+            "දැදිගම කොට වෙහෙර",
+            "පනාකඩුව නම් ගමේ"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/grade-07-history-2nd-term-test-paper-with-answers-2023-mathugama-zone/"
+        }
+    },
+    {
+        "q_no": 88,
+        "subject": "History",
+        "category": "humanities",
+        "question": "පොළොන්නරුවේ ගල්පොත ශිලා ලිපිය පිහිටුවන ලද රජු ලෙස සඳහන් වන්නේ,",
+        "choices": [
+            "සුගලා බිසව",
+            "පරාක්‍රමබාහු රජතුමා",
+            "පළමුවන විජයබාහු රජතුමා",
+            "නිශ්ශංකමල්ල රජතුමා"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/grade-07-history-2nd-term-test-paper-with-answers-2023-mathugama-zone/"
+        }
+    },
+    {
+        "q_no": 89,
+        "subject": "History",
+        "category": "humanities",
+        "question": "ලෝක උරුමයක් වූ මොහෙන්ජොදාරෝ නගරය පිහිටි රට වන්නේ,",
+        "choices": [
+            "ඉන්දියාවයි",
+            "බංගලාදේශයයි",
+            "පකිස්ථාන යයි",
+            "තායිලන්තයයි."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/grade-07-history-2nd-term-test-paper-with-answers-2023-mathugama-zone/"
+        }
+    },
+    {
+        "q_no": 90,
+        "subject": "History",
+        "category": "humanities",
+        "question": "කුඩාවට ගොඩනඟා තිබූ ගාලු කොටුව ආරක්ෂක බලකොටුවක් ලෙස ශක්තිමත්ව ගොඩනඟන ලද්දේ;",
+        "choices": [
+            "පෘතුගීසි ජාතිකයන් ය",
+            "ලන්දේසි ජාතිකයන් ය",
+            "ප්‍රංශ ජාතිකයන් ය",
+            "ඉංග්‍රීසි ජාතිකයන් ය"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/grade-07-history-2nd-term-test-paper-with-answers-2023-mathugama-zone/"
+        }
+    },
+    {
+        "q_no": 91,
+        "subject": "History",
+        "category": "humanities",
+        "question": "පැරණි සිරිත් විරිත් පිළිබඳ හින්දු පොත්පත් වල සඳහන් අන්දමට උපතේ දී සිදු කළ යුතු සිරිත් විරිත් හඳුවන්නේ,",
+        "choices": [
+            "ජාත කර්ම නමිනි",
+            "කර්ණවේදන නමිනි",
+            "විද්‍යාරම්භ නමිනි",
+            "නාමකරණ නමිනි"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/grade-07-history-2nd-term-test-paper-with-answers-2023-mathugama-zone/"
+        }
+    },
+    {
+        "q_no": 92,
+        "subject": "History",
+        "category": "humanities",
+        "question": "ලංකාවේ වෙස්මුහුණු නිර්මාණ කලාවට ප්‍රසිද්ධ ප්‍රදේශය වන්නේ,",
+        "choices": [
+            "කඩුගන්නාව හා පිළිමතලාව",
+            "මාතලේ හා දිගන",
+            "දුම්බර හා හේවාහැට",
+            "අම්බලන්ගොඩ හා උඩුපිල"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/grade-07-history-2nd-term-test-paper-with-answers-2023-mathugama-zone/"
+        }
+    },
+    {
+        "q_no": 93,
+        "subject": "History",
+        "category": "humanities",
+        "question": "නිශ්ශංකමල්ල රජතුමා විසින් දළදා වහන්සේ තැන්පත් කිරීම සඳහා ඉදිකරන ලද නිර්මාණය හඳුන්වන්නේ,",
+        "choices": [
+            "හැටදාගෙය නමිනි",
+            "වටදාගෙය නමිනි",
+            "නිශ්ශංකලතා මණ්ඩපය නමිනි",
+            "අටදාගෙය නමිනි"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/grade-07-history-2nd-term-test-paper-with-answers-2023-mathugama-zone/"
+        }
+    },
+    {
+        "q_no": 94,
+        "subject": "History",
+        "category": "humanities",
+        "question": "රුහුණේ නිසොල් පිටිය ගමේ සොයුරන් පස්දෙනෙකු උඳු වැපිරීමට හේනක් සැකසූ බව සදහන් වන්නේ ,",
+        "choices": [
+            "දීපවංසය",
+            "ථුපවංසය",
+            "නිකාය සංග්‍රහය",
+            "මහාවංසය"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=43388&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 95,
+        "subject": "History",
+        "category": "humanities",
+        "question": "ලෝකයේ පැරණිම ගොවිතැන් ක්‍රමය වූයේ ,",
+        "choices": [
+            "හේන් වගාව",
+            "කුඹුරු ගොවිතැන",
+            "සත්ත්ව පාලනය",
+            "වී වගාව"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=43388&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 96,
+        "subject": "History",
+        "category": "humanities",
+        "question": "සෙල්ලිපිවල හේන් හඳුන්වන්නේ ,",
+        "choices": [
+            "හේන්",
+            "සේන්",
+            "පිටිබිම්",
+            "සෙහෙන්"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=43388&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 97,
+        "subject": "History",
+        "category": "humanities",
+        "question": "මින්නේරිය දෙවියන් ලෙස හඳුන්වන්නේ ,",
+        "choices": [
+            "ධාතුසේන රජු",
+            "මහසෙන් රජු",
+            "දුටුගැමුණු රජු",
+            "පළමු වන අග්බෝ රජු"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=43388&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 98,
+        "subject": "History",
+        "category": "humanities",
+        "question": "මහාවංසයේ සඳහන් පරිදි පණ්ඩුකාභය කුමරු ළමා කාලය ගත කරන ලද්දේ ,",
+        "choices": [
+            "ගිරි ජනපදය",
+            "ගොපලු ගමේ ය",
+            "කුම්භකාර ගමේ ය",
+            "දොරමඩලා ගමේ ය"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=43388&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 99,
+        "subject": "History",
+        "category": "humanities",
+        "question": "ක්‍රි.ව පලමුවන සියවස වනවිට මෙරට කාසි භාවිතය ප්‍රචලිතව තිබු බව කුමන ප්‍රදේශයෙන් හෙලි වන්නේද ",
+        "choices": [
+            "අම්පාර ප්‍රදේශය",
+            "පොළොන්නරු ප්‍රදේශය",
+            "කුරුණෑගල ප්‍රදේශය",
+            "යාපනය ප්‍රදේශය"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=43388&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 100,
+        "subject": "History",
+        "category": "humanities",
+        "question": "අතිතයේ මෙරට පැවති වෙළඳ නගර මුලාශ්‍රවල හඳුන්වා ඇත්තේ ,",
+        "choices": [
+            "නිගම",
+            "නියම් ගම්",
+            "පුගය",
+            "නගර"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=43388&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 101,
+        "subject": "History",
+        "category": "humanities",
+        "question": "\"මෙම දිවයිනේ වැස්සෙන් ලැබෙන ජලය මඳකුත් ලෝකෝපකාරයෙන් තොරව මුහුදට නොයේවා” යැයි ප්‍රකාශ කලේ,",
+        "choices": [
+            "පණ්ඩුකාභය රජතුමා ය.",
+            "ධාතුසේන රජතුමා ය.",
+            "මහා පැරකුම් රජතුමා ය.",
+            "පළමු උපතිස්ස රජතුමා ය."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/20232024-grade-08-history-3rd-term-test-paper-north-western-province/"
+        }
+    },
+    {
+        "q_no": 102,
+        "subject": "History",
+        "category": "humanities",
+        "question": "අතීතයේ දී ශ්‍රී ලංකාවේ බෙලෙක් භාණ්ඩ නිශ්පාදන කර්මාන්තයේ යෙදුන ශිල්පීන් හඳුන්වා ඇත්තේ කෙසේද?",
+        "choices": [
+            "කබර",
+            "තූලධර",
+            "තොපෂ",
+            "තඹර"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/20232024-grade-08-history-3rd-term-test-paper-north-western-province/"
+        }
+    },
+    {
+        "q_no": 103,
+        "subject": "History",
+        "category": "humanities",
+        "question": "පහත සඳහන් දාගැබ් අතරින් මහසෙන් රජු විසින් ඉදිකරවන ලද්දේ,",
+        "choices": [
+            "මිරිසවැටිය යි.",
+            "අභයගිරිය යි.",
+            "ථුපාරාමය යි.",
+            "පේතවනාරාමය යි."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/20232024-grade-08-history-3rd-term-test-paper-north-western-province/"
+        }
+    },
+    {
+        "q_no": 104,
+        "subject": "History",
+        "category": "humanities",
+        "question": "ඉන්දියාවේ පොච්චේරි ප්‍රදේශයේ වෙළෙද ගබඩාවක් පිහිටුවා ගනු ලැබූවේ කවුරුන් විසින් ද?",
+        "choices": [
+            "ඉංග්‍රීසීන්",
+            "ප්‍රංශ ජාතිකයන්",
+            "ස්පාඤ්ඤවරුන්",
+            "අරාබි ජාතිකයන්"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/20232024-grade-08-history-3rd-term-test-paper-north-western-province/"
+        }
+    },
+    {
+        "q_no": 105,
+        "subject": "History",
+        "category": "humanities",
+        "question": "පෘතුගීසීන් ශ්‍රී ලංකාව හඳුන්වනු ලැබුවේ,",
+        "choices": [
+            "සෙයිලන් නමිනි.",
+            "තම්බපණ්ණි නමිනි.",
+            "සෙරන්ඩිබ් නමිනි.",
+            "පාරසමුද්‍ර නමිනි."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/20232024-grade-08-history-3rd-term-test-paper-north-western-province/"
+        }
+    },
+    {
+        "q_no": 106,
+        "subject": "History",
+        "category": "humanities",
+        "question": "අනුරාධපුරයේ පිහිටා ඇති තිසා වැව ඉදිකර ඇත්තේ,",
+        "choices": [
+            "වසභ රජු",
+            "පණ්ඩුකාභය රජු",
+            "දේවානාම්පියතිස්ස රජු",
+            "විජය රජු"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-08-history-3rd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 107,
+        "subject": "History",
+        "category": "humanities",
+        "question": "ස්වාභාවික සුළං ආධාරයෙන් යකඩ නිස්සාරණය කල බවට සාක්ෂි හමුවන්නේ.",
+        "choices": [
+            "අළකොළ වැව",
+            "සමනළ වැව",
+            "දෙහි ගහ ඇළකන්ද",
+            "අනුරාධපුරය"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-08-history-3rd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 108,
+        "subject": "History",
+        "category": "humanities",
+        "question": "අනුරාධපුර යුගයට අයත් කලාත්මක සඳකඩ පහණ හමුවන්නේ,",
+        "choices": [
+            "පොළොන්නරුව",
+            "අභයගිරි විහාරය",
+            "ථුපාරාමය",
+            "ජේතවනාරාමය"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-08-history-3rd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 109,
+        "subject": "History",
+        "category": "humanities",
+        "question": "දළඳා මාලිගාවේ පත්තිරුප්පුව ඉදිකරන ලද්දේ",
+        "choices": [
+            "පළවන විමලධර්මසූරිය",
+            "රාජසිංහ රජු",
+            "කීර්ති ශ්‍රී රාජසිංහ රජු",
+            "ශ්‍රී වික්‍රම රාජසිංහ රජු"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-08-history-3rd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 110,
+        "subject": "History",
+        "category": "humanities",
+        "question": "ඉන්දියාවේ කැලිකට් වරායට ගොඩ බසින ලද පෘතුග්‍රීසි ජාතිකයා,",
+        "choices": [
+            "ක්‍රිස්ට්‍රෝපර් කොලොම්බස්",
+            "වස්කෝද ගාමා",
+            "මැගලන්",
+            "වෙස්පුචි"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-08-history-3rd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 111,
+        "subject": "History",
+        "category": "humanities",
+        "question": " මහමෙව්නා උයන මිහිඳු මාහිමියන් ඇතුළු මහා සංඝයා වහන්සේට පූජා කරන ලද්දේ කුමන රජු විසින්ද?",
+        "choices": [
+            "දේවානම් පියතිස්ස රජු",
+            "දුටු ගැමුණු රජු",
+            "වසභ රජු",
+            "මුටසීව රජු"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_SP",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-08-history-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 112,
+        "subject": "History",
+        "category": "humanities",
+        "question": "අතීත ශ්‍රී ලංකාවේ මැටි භාණ්ඩ තැනීමේ කලාවේ පුළුල් පරිවර්තනයක් ඇති කිරීමට හේතු වූයේ,",
+        "choices": [
+            "ඒ සඳහා සුදුසු මැටි වර්ග සොයා ගැනීම",
+            "සකපෝරුව සොයා ගැනීම",
+            "ගින්දර සොයා ගැනීම",
+            "මැටි භාණ්ඩ ශිල්පීන් ඉන්දියාවෙන් පැමිණීම"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_SP",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-08-history-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 113,
+        "subject": "History",
+        "category": "humanities",
+        "question": "යකඩ කර්මාන්තයේ නිරත වූ තැනැත්තන් සෙල්ලිපි වල හඳුන්වා ඇත්තේ කෙසේද?",
+        "choices": [
+            "තඹර",
+            "තොපෂ",
+            "කබර",
+            "තුලධර"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_SP",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-08-history-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 114,
+        "subject": "History",
+        "category": "humanities",
+        "question": "ලෙන් විහාර පිළිමගේ සම්ප්‍රදායේ ලක්‍ෂණයක් වන්නේ මින් කුමක්ද?",
+        "choices": [
+            "බිත්ති හා පියස්ස සම්පූර්ණයෙන් ම ගලින් නිම කිරීම.",
+            "ජනතාවට හොඳින් ප්‍රතිමාව දැකබලා ගැනීමට තැන වූ කොටස මණ්ඩපය ලෙස හැඳින්වීම.",
+            "ප්‍රතිමාව තැන්පත් කල කොටස ගර්භ ගෘහය ලෙස හැඳින්වීම.",
+            "ප්‍රධාන ප්‍රතිමාව සැතපෙන ඉරියව්වෙන් නිර්මාණය කිරීම."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_SP",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-08-history-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 115,
+        "subject": "History",
+        "category": "humanities",
+        "question": "පහත සඳහන් වන බෝධිසත්ව ප්‍රතිමා අතරින් දකුණු පළාතේ පිහිටා ඇති ප්‍රතිමාව කුමක්ද?",
+        "choices": [
+            "දඹේගොඩ ප්‍රතිමාව",
+            "බුදුරුවාගල ප්‍රතිමාව",
+            "කුෂ්ඨරාජගල ප්‍රතිමාව",
+            "යටාල වෙහෙර ප්‍රතිමාව"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_SP",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-08-history-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 116,
+        "subject": "History",
+        "category": "humanities",
+        "question": "සාහිත්‍ය මූලාශ්‍ර වලට අනුව ශ්‍රී ලංකාවේ මුල්ම දාගැබ වන ථූපාරාමය ඉදිකරන ලද්දේ,",
+        "choices": [
+            "වලගම්බා රජුය",
+            "මහසෙන් රජුය",
+            "දේවානම් පියතිස්ස රජුය.",
+            "දුටුගැමුණු රජුය"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-history-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 117,
+        "subject": "History",
+        "category": "humanities",
+        "question": "කෙත්වල ජලය ලබා ගැනීම සඳහා ඇළ දොළ හරස් කර බදින ලද \"ආවරණ\" බැම්ම හදුන්වනනේ,",
+        "choices": [
+            "වේල්ලකි",
+            "අමුණයි",
+            "සොරොව්ව",
+            "පිටවාන"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-history-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 118,
+        "subject": "History",
+        "category": "humanities",
+        "question": "වර්තමානයේ මහනුවර යුගයේ චිත්‍ර දැකිය හැකි ස්ථානයක් නොවන්නේ,",
+        "choices": [
+            "මුල් කිරි ගල",
+            "දඹුල්ල",
+            "දෙගල්දොරුව",
+            "මහියංගනය"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-history-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 119,
+        "subject": "History",
+        "category": "humanities",
+        "question": "ශ්‍රී වික්‍රම රාජසිංහ රජතුමාගේ රාජ්‍ය කාලය වන්නේ,",
+        "choices": [
+            "1798 - 1815",
+            "1782 - 1798",
+            "1782 - 1815",
+            "1747 - 1782"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-history-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 120,
+        "subject": "History",
+        "category": "humanities",
+        "question": "පුනරුද සමයේ කලා කටයුතු වලට අත දුන් \"මෙඩිසි\" පවුල් සිටි නගරය කුමක්ද?",
+        "choices": [
+            "වැනීසිය",
+            "ප්ලෝරන්ස්",
+            "ජිනෝවා",
+            "කොන්ස්තන්තිනෝපලය"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-history-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 121,
+        "subject": "History",
+        "category": "humanities",
+        "question": "14 හා 16 වන සියවස් වලට බිහි වූ ගත් කතුවරුන් වන ඩාන්ටේ, විලියම් ෂේක්ස්පියර්, ඉරාමස් ජීවත් වූ රටවල් අනුපිළිවෙලින් දැක්වෙන්නේ,",
+        "choices": [
+            "එංගලන්තය, ඉතාලිය, ප්‍රංශය",
+            "එංගලන්තය, ප්‍රංශය, ඉතාලිය",
+            "ඉතාලිය, ප්‍රංශය, එංගලන්තය",
+            "ඉතාලිය, එංගලන්තය, ප්‍රංශය"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-history-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 122,
+        "subject": "History",
+        "category": "humanities",
+        "question": "16 වන සියවසේ ලන්දේසීන්ගේ පෙරදිග මූලස්ථානය නිවැරදිව දැක්වෙන්නේ,",
+        "choices": [
+            "පොන්ඩිචෙරි",
+            "මධුරාසිය",
+            "බතාවිය",
+            "කැලිකට්"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-history-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 123,
+        "subject": "History",
+        "category": "humanities",
+        "question": "දේශ ගවේශන කටයුතු වලදී උතුරු ඇමරිකාවේ ශාන්ත ලෝරන්ස් ප්‍රදේශය සොයාගත් පුද්ගලයා කවුරුන්ද?",
+        "choices": [
+            "ජැක්විස් කාටියර්",
+            "ෆර්ඩිනැන්ඩෝ කෝටේස්",
+            "හෙන්රි හඩ්සන්",
+            "කැබේ සහෝදරයෝ"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-history-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 124,
+        "subject": "History",
+        "category": "humanities",
+        "question": "මහනුවර රාජධානි සමයේ පෘතුග්‍රීසීන් යටතේ දොන් ජුවන් නමින් බෞතීෂ්ම ලැබූ පුද්ගලයා කවරෙක්ද?",
+        "choices": [
+            "ධර්මපාල කුමරු",
+            "කොනප්පු බණ්ඩාර",
+            "වීර සුන්දර බණ්ඩාර",
+            "යමසිංහ බණ්ඩාර"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-history-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 125,
+        "subject": "History",
+        "category": "humanities",
+        "question": "අනුරාධපුර යුගයේ මහායාන අදහස් ප්‍රචලිත කිරීම සඳහා ඉදිකළ බෝධිසත්ව ප්‍රතිමාව තිබෙන ස්ථානය වන්නේ,",
+        "choices": [
+            "යටාල වෙහෙර",
+            "උත්තරාරාමය",
+            "කඹරගල",
+            "වෙහෙරගල"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-history-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 126,
+        "subject": "History",
+        "category": "humanities",
+        "question": "සීගිරි චිත්‍ර වල ස්ත්‍රී රූප පැළද සිටින අනුමාන මල් වර්ග මොනවාද?",
+        "choices": [
+            "ඕලු, නෙළුම්, මානෙල්",
+            "මානෙල්, උපුල්, කඩුපුල්",
+            "නෙළුම්, උපුල්, සපු",
+            "උපුල්, නෙළුම්, කඩුපුල්"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-history-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 127,
+        "subject": "History",
+        "category": "humanities",
+        "question": "පොළොන්නරු අවධියේ සදකඩ පහනින් ඉවත් වූ සත්ව රූපය කුමක්ද?",
+        "choices": [
+            "සිංහයා",
+            "හස්තියා",
+            "අශ්වයා",
+            "වෘෂභ"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-history-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 128,
+        "subject": "History",
+        "category": "humanities",
+        "question": "පැරණි ගෘහ නිර්මාණ අතර ආගමික ගොඩනැගිල්ලක් නොවන්නේ,",
+        "choices": [
+            "රජ මාලිගා",
+            "දේවාල",
+            "දැගැබ්",
+            "දාන ශාලා"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-history-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 129,
+        "subject": "History",
+        "category": "humanities",
+        "question": "මධ්‍යම නුවර ගම් පළාතේ ගල් කඩවල ප්‍රදේශය ප්‍රසිද්ධ වන්නේ,",
+        "choices": [
+            "දෙමළ සෑය ඇති බැවිනි",
+            "රන් කැබලි හමු වූ බැවිනි",
+            "ගඩොල් පෝරණුවක් තිබූ බැවිනි",
+            "යකඩ නිස්සාරණ කළ බැවිනි"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-history-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 130,
+        "subject": "History",
+        "category": "humanities",
+        "question": "වැලිවිට සරණංකර හිමියන්ට සංඝරාජ පදවිය පිරිනමන ලද රජු වන්නේ,",
+        "choices": [
+            "ශ්‍රී විජය රාජසිංහ රජු",
+            "කීර්ති ශ්‍රී රාජසිංහ රජු",
+            "රාජාධිරාජ සිංහ රජු",
+            "ශ්‍රී වික්‍රම රාජසිංහ රජු"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-history-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 131,
+        "subject": "History",
+        "category": "humanities",
+        "question": "\"විජය බා කොල්ලය\" නමින් හඳුන්වන දේශපාලන සිදුවීම ඇති වූ වර්ෂය වන්නේ,",
+        "choices": [
+            "1505 දී",
+            "1514 දී",
+            "1518 දී",
+            "1521 දී"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-history-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 132,
+        "subject": "History",
+        "category": "humanities",
+        "question": "දහඅට වන සියවසේ මුල් කාලයේ උඩරට රාජධානියට යටත්ව තිබූ ප්‍රදේශ නිවැරදිව දැක්වෙන්නේ,",
+        "choices": [
+            "මාතලේ, තමන්කඩුව, ත්‍රිකුණාමලය",
+            "සෙංකඩගල, සීතාවක, රයිගම",
+            "මාතලේ, රයිගම, සීතාවක",
+            "සෙංකඩගල, කෝට්ටේ, සීතාවක"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-history-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 133,
+        "subject": "History",
+        "category": "humanities",
+        "question": "කුඩා ප්‍රමාණයේ දාගැබක් ආවරණය කිරීමට සකස් කළ ගර්භය හඳුන්වන්නේ,",
+        "choices": [
+            "බෝධිසරය",
+            "පිළිම ගෙවල්",
+            "චේතිය ඝර",
+            "ලෙන්"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-history-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 134,
+        "subject": "History",
+        "category": "humanities",
+        "question": "පළමුවන අග්ගබෝධි රජු මහවැලි ගඟේ සිට ජලය ගෙන යාමට තැනූ ඇළ කුමක්ද?",
+        "choices": [
+            "ඇළහැර ඇළ",
+            "තල්වතු ඇළ",
+            "යෝධ ඇළ",
+            "මිනිපේ ඇළ"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-history-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 135,
+        "subject": "History",
+        "category": "humanities",
+        "question": "වගා කටයුතුවලට හා පරිභොජනයට අවශා ජලය රැස්කර තබා ගැනීමේ අවශ්‍යතාවය නිසා ඇති වූවකි,",
+        "choices": [
+            "වැව්‌ තැනවීම",
+            "ජනාවාස ඉදිකිරීම",
+            "ගොචිබිම්‌ ඇතිවීම",
+            "විහාර කර්මාන්තය"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=75977&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 136,
+        "subject": "History",
+        "category": "humanities",
+        "question": "පැරණි අභය වැව ලෙස හැඳින්වූ වැව නූතන වාවහාරයෙහි යෙදෙන්නේ,",
+        "choices": [
+            "තිසා වැව ලෙසයි",
+            "බසවක්කුලම වැව ලෙසයි",
+            "මහකනදරා වැව ලෙසයි",
+            "ජය වැව ලෙසයි"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=75977&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 137,
+        "subject": "History",
+        "category": "humanities",
+        "question": "අනුරාධපුර යුගයේ දේවානම්පියතිස්ස රජතුමා ඉඳිකළ වැවක්‌ ලෙස සැලකෙන්නේ ,",
+        "choices": [
+            "බසවක්කුලම වැවයි",
+            "නිසා වැවයි",
+            "ජය වැවයි",
+            "ගාමිණී වැවයි."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=75977&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 138,
+        "subject": "History",
+        "category": "humanities",
+        "question": "A - මහා වැව් තැනවීම ආරම්භ කිරීම.\nB - නූතන මානන්කට්ටිය නැමති වැව ඉදිකිරීම.\nA හා B වගන්ති සමඟ වඩාත්‌ හොඳින්‌ ගැලපෙන රජතුමා වන්නෙ,",
+        "choices": [
+            "දේවානම්පියතිස්ස රජු",
+            "පණ්ඩුකාභය රජු",
+            "වසහ රජු",
+            "මහසෙන්‌ රජු"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=75977&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 139,
+        "subject": "History",
+        "category": "humanities",
+        "question": "පැරණි රජවරුන්‌ වැවක්‌ නිර්මාණය කිරීමේ දී මුහුණ දුන්‌ ප්‍රධාන අභියෝගයකි,\n",
+        "choices": [
+            "අවශ්‍ය ශ්‍රමය සපයා ගැනීම",
+            "ආහාර සපයා ගැනීම",
+            "සුදුසු භූමියක්‌ තොරා ගැනීම",
+            "ජලය ගබඩා කිරීම"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=75977&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 140,
+        "subject": "History",
+        "category": "humanities",
+        "question": "A - මෙය ලාංකික චාරි ශිල්පීන්‌ ගේ නිර්මාණයක්‌ ලෙස සැළකේ.\nB - වැවේ ජලය මනා පාලනයකින්‌ යුතුව පිටතට ගැනීම.\nC - මෙය සොරොව්වේ ම අංගයක්‌ වන අතර විශාල වැච්චල ඒවා එකකට වඩා පවතී.\nඉහත A, B, C වගන්නිවලින්‌ විස්තර වන වැවේ අංගය නම්‌ කරන්න.",
+        "choices": [
+            "බිසෝ කොටුව",
+            "ගොඩ සොරොව්ව",
+            "මඩ සොරොච්ච",
+            "වැව්‌ බැම්ම"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=75977&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 141,
+        "subject": "History",
+        "category": "humanities",
+        "question": "වැවක පිටවානෙන් සිදු කෙරෙන කාර්යයකි .",
+        "choices": [
+            "වැවේ අතිරික්ත ජලය පිට කිරීම",
+            "වැවේ ජලය බෙදාහැරීම",
+            "වැවේ රොන්මඩ ඉවත් කිරීම",
+            "වැව් ඉහත්තාව ආරක්ෂා කිරීම ."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=75977&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 142,
+        "subject": "History",
+        "category": "humanities",
+        "question": "ලක්දිව පොකුණු තැනවීමේ තාක්ෂණය ඉතා දුරාතීතයක තිබූ බවට සාක්ෂියකි ,\n",
+        "choices": [
+            "විජය කුමරු මෙරටට ගොඩබසින විට කුවේණිය පොකුණක් අසල කපු කටිමින් සිටීම",
+            "වසභ රජු නගරයේ අලංකාරය සඳහා පොකුණු තැනවීම",
+            "අභයගිරි විහාරයේ ඇත් පොකුණ තැනවීම",
+            "අනුරාධපුරයේ රන්මසු උයනේ තනා ඇති පොකුණු"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=75977&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 143,
+        "subject": "History",
+        "category": "humanities",
+        "question": "එක් ප්‍රදේශයක ළඟ ළඟ පොකුණු තනවා ජලය රැස්කර තබා ගැනීමෙන් අදහස් කරන ලද්දේ ,\n",
+        "choices": [
+            "පරිසරය සිසිල්ව තබාගැනීමයි",
+            "පොකුණු ජලය ගොවිබිම් වලට යැවීමයි",
+            "පරිසරයේ අලංකාර යයි",
+            "වැසි ජලය ක්‍රමානුකූලව රැස්කර ගැනීමයි"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=75977&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 144,
+        "subject": "History",
+        "category": "humanities",
+        "question": "මැටි බඳුන් තැනීමේ කාර්යය පුළුල් පරිවර්තනයක් ඇති කිරීමට අදාළව තුඩුදුන් කරුණක් වූයේ ,",
+        "choices": [
+            "සකපෝරුව සොයා ගැනීම",
+            "මැටි නිර්මාණ ආශ්‍රිතව නිර්මාණ කිරීමය",
+            "විවිධ ප්‍රමාණයේ මැටි භාජන තැනීම",
+            "මැටි රූප මුද්‍රා හමුවීම"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=75977&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 145,
+        "subject": "History",
+        "category": "humanities",
+        "question": "A හා B අක්ෂර නිවැරදිව ගළපන්න .\n\nA\nI ) ථූපාරාමය\nII ) රුවන්වැලි සෑය\nIII ) අභයගිරිය\nIV ) ජේතවනය\n\nB\nA මහසෙන් රජු\nB වලගම්බා රජු\nC දුටුගැමුණු රජු\nD දේවානම්පියතිස්ස රජු",
+        "choices": [
+            "DCBA",
+            "DBCA",
+            "DCAB",
+            "DBCA"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=75977&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 146,
+        "subject": "History",
+        "category": "humanities",
+        "question": "ගෙවල් නිර්මාණය කිරීමේ පැරණිම සම්ප්‍රදාය හැඳින්වූයේ ,",
+        "choices": [
+            "ගෙඩිගේ සම්ප්‍රදාය",
+            "ලෙන් විහාර සම්ප්‍රදාය",
+            "ගන්ධ කුටි සම්ප්‍රදාය",
+            "පල්ලව සම්ප්‍රදාය"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=75977&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 147,
+        "subject": "History",
+        "category": "humanities",
+        "question": "A - දෙවන විමලධර්මසූරිය රජුගෙන් පසු රජකමට පත් විය .\nB - මෙතුමාගේ කාලයේ උඩරට ප්‍රභූ පන්තියේ බලය වර්ධනය විය .\nC - උඩරට දුර්වල පාලකයකු ලෙස ද සැලකේ .\nඉහත වගන්ති වලින් විස්තර වන රජතුමා වන්නේ ,",
+        "choices": [
+            "ශ්‍රී විජය රාජසිංහ රජු",
+            "කීර්ති ශ්‍රී රාජසිංහ රජු",
+            "ශ්‍රී වීර පරාක්‍රම නරේන්ද්‍රසිංහ රජු",
+            "දෙවන රාජසිංහ රජු"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=75977&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 148,
+        "subject": "History",
+        "category": "humanities",
+        "question": "ශ්‍රී වික්‍රම රාජසිංහ රජුගේ සමයේ උඩරට දළදා මාලිගාව සම්බන්ධයෙන් සිදු වූ විශේෂ සිදුවීමක් වන්නේ ,",
+        "choices": [
+            "දළදා මාලිගාව ඉදිරිපිට කිරි මුහුද නම් වැව තැනවීම .",
+            "වාර්ෂිකව දළදා පෙරහැර පැවැත්වීම .",
+            "දළදා මාලිගාවට චිත්තාකර්ශනීය පත්තිරිප්පුව එක් කිරීම .",
+            "දළදා මාලිගාව ප්‍රතිසංස්කරණය කර වීම ."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=75977&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 149,
+        "subject": "History",
+        "category": "humanities",
+        "question": "යුරෝපයේ මධ්‍යතන යුගය අවසානයේ දී අධ්‍යාපනය ආගම හැදෑරීමකට පමණක් සීමා නොවී මිනිසා හා ජන ජීවිතයේ පිළිබඳ හැදෑරීමක් බවට පත්වූයේ ,\n",
+        "choices": [
+            "දේව වරම් වාදය ඉස්මතු වීම තුළිනි",
+            "ලෞකිකත්වයට මූලිකත්වය දීම තුළිනි",
+            "මානව වාදය ඉස්මතු වීම තුළිනි",
+            "නව උගතුන් බිහි වීම තුළිනි ."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=75977&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 150,
+        "subject": "History",
+        "category": "humanities",
+        "question": "ලියනාඩෝ ඩාවින් චි පිළිබඳ වැරදි ප්‍රකාශය තෝරන්න .",
+        "choices": [
+            "ඔහු ඉතාලි ජාතිකයෙකි .",
+            "ඔහු චිත්‍ර ශිල්පියෙකි / ගෘහ නිර්මාණ ශිල්පියෙකි / ඉංජිනේරු ශිල්පියෙකි .",
+            "\"අන්තිම රාත්‍රී භෝජනය \" චිත්‍රය මොහු අතින් නිර්මාණය වූවකි .",
+            "\"අවසාන විනිශ්චය \" ඔහුගේ තවත් සුවිශේෂී නිර්මාණයකි ."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=75977&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 151,
+        "subject": "History",
+        "category": "humanities",
+        "question": "බයිබලයේ ඉගැන්වීම් වලට පටහැනිව රෙපරමාදු ප්‍රොතෙස්තන්ත්‍ර ව්‍යාපාරය බිහි කිරීමේ මූලිකත්වය ගත්තේ ,",
+        "choices": [
+            "මාටින් ලුතර් කින්ය .",
+            "ජොහැන්නස් කෙප්ලර් ය",
+            "ජෝන් කැල්වින් ය",
+            "මයිකල් සටෙස් ය"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "ඉතිහාසය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=75977&token=&preview=1"
+        }
+    }
+]

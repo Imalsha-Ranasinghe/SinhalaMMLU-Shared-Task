@@ -1,0 +1,2270 @@
+[
+    {
+        "q_no": 1,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "නම්‍යතා අභ්‍යාස ප්‍රගුණ කිරීමෙන් සිරුරේ,",
+        "choices": [
+            "සමබරතාවය රැක ගැනීමට උපකාරී වේ.",
+            "දරා ගැනීමේ ශක්ති වර්ධනය වේ.",
+            "නිවැරදි ඉරියව් පවත්වා ගැනීමට හැකි වේ.",
+            "ඉහත කරුණු සියල්ලම ඉටු වේ."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-06-dancing-3rd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 2,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "උඩරට නර්තනය හදාරන ආධුනික ශිල්පියෙකු තම අත් හා පාද හුරුකර ගැනීම සඳහා කරනු ලබන මූලික අභ්‍යාස වන්නේ,",
+        "choices": [
+            "ගොඩ සරඹ, පා සරඹ",
+            "පා සරඹ, මණ්ඩි පද",
+            "ඉලංගම් සරඹ, දොඹින පද",
+            "දොඹින පද, මණ්ඩි පද"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-06-dancing-3rd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 3,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "සාමූහික විනෝදාස්වාදය සඳහා කරන නැටුමකි.",
+        "choices": [
+            "වන්නම්",
+            "ගොඩ සරඹ",
+            "පා සරඹ",
+            "ලී කෙළි"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-06-dancing-3rd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 4,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "මාත්‍රා දෙක තනි තිතට නටන වන්නමකි.",
+        "choices": [
+            "වෛරාඩි",
+            "තුරාගා",
+            "හනුමා",
+            "කිරලා"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-06-dancing-3rd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 5,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "උඩරට ගොඩ සරඹ නර්තනයේ දී 1 හා 2 ගොඩ සරඹ නාමයන් මෙසේ හඳුන්වයි.\n",
+        "choices": [
+            "තුන් අඩිය, දැඩිය",
+            "අඩිය, තුන් අඩිය",
+            "අඩිය, දැඩිය",
+            "අඩිය, සිව් අඩිය"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-06-dancing-3rd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 6,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "පෙරහැරක පළමු චාරිත්‍රය වන්නේ",
+        "choices": [
+            "කුඹල් පෙරහැර",
+            "නානුමුර මංගල්‍යය",
+            "කප් සිටුවීම.",
+            "තොට පේ කිරීම."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-06-dancing-3rd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 7,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "\" මතින් උඩඟු සිත ගතින් වැඩිව පෙර \" යන කවි පදයේ ඉතිරි කොටස වන්නේ,",
+        "choices": [
+            "මෙවන් වරුණ හනුමා",
+            "පිටින් බියැති බැලුමා",
+            "ඉතින් නැතෙයි හනුමා",
+            "පැතුම් විලස දැරු මා"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-06-dancing-3rd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 8,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "තෛපොංගල් උත්සවය පවත්වනු ලබන්නේ,",
+        "choices": [
+            "පෙබරවාරි මාසයේ දී ය.",
+            "ජනවාරි මාසයේ දී ය.",
+            "මැයි මාසයේ දී ය.",
+            "ජූනි මාසයේ දී ය."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-06-dancing-3rd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 9,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "' චරිත නිරූපණයේ දී හා නර්තනයේ දී සිරුර............. වශයෙන් බෙදේ.\n",
+        "choices": [
+            "සමගුණ, දෙගුණ, සිව්ගුණ",
+            "තාල, තිත්, දෙතිත්",
+            "අංග, ප්‍රභංග, උපාංග",
+            "කඳ, හිස, පාද"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-06-dancing-3rd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 10,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "පැරණි ලී කෙළි නැටුමක නිදර්ශකයක් දැකිය හැකි වන්නේ,\n",
+        "choices": [
+            "දළදා මාළිගාවේ ලී බාල්කයේ",
+            "ඇම්බැක්කේ කතරගම දේවාලයේ ලී බාල්කයේ ය",
+            "දෙවුන්දර උපුල්වන් දේවාලයේ ගල් උලුවස්සේය",
+            "කතරගම දේවාළ පෙරහැරේදීය"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NCP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-dance-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 11,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "උඩරට හනුමා වන්නම සඳහා උචිත තාල රූපය වන්නේ,",
+        "choices": [
+            "මාත්‍රා 2 + 2 තනි තිතයි",
+            "මාත්‍රා 3 + 3 තනි තිතයි",
+            "මාත්‍රා 2 + 3 දෙතිතයි",
+            "මාත්‍රා 2 + 4 දෙතිතයි"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NCP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-dance-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 12,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "ඔවා ද සිප්ප දානේන' මෙය,",
+        "choices": [
+            "මාපිය චන්දනා කවියකි.",
+            "ගැමි ගායනයකි.",
+            "ගුරු නමස්කාරයකි.",
+            "කළගෙඩි කවි ගායනයකි."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-dancing-3rd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 13,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "උඩරට සම්ප්‍රදායේ ගොඩසරඹ චල දෙවන සරඹයේ කස්තිරම චන්නේ,",
+        "choices": [
+            "තත්‌ ජිත්‌ තොං නමි තා",
+            "තත්‌ ජිත්‌ තක ජිත්‌ තත්‌ ජිත්‌ තොං නං තා",
+            "තරිකිට ජිත්‌ තරිකිට දොමිකිට තා",
+            "තෙයි තෙයි තත්‌ තත්‌ තාම්"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-dancing-3rd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 14,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "මගේ පොඩි යාලු.'............................... මෙම ගීතය රචනා කළේ,",
+        "choices": [
+            "හර්ෂණ දිසානායක",
+            "බෙනඞික්‌ ප්‍රනාන්දු",
+            "ආනන්ද සමරකෝන්‌",
+            "මහාචාර්ය සුනිල්‌ ආරියරත්න"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-dancing-3rd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 15,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "පා සරඹ / දණ්ඩියමේ සරඹ නැටීමෙන් පසු නටනුයේ,",
+        "choices": [
+            "හමාර පදය",
+            "ඉරට්ටිය",
+            "කලාසම",
+            "අඩව්ව"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/grade-06-dancing-2nd-term-test-paper-with-answers-2023-mathugama-zone/?swcfpc=1#google_vignette"
+        }
+    },
+    {
+        "q_no": 16,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "නර්තනයට ගැලපෙන හස්ත හා පාද චලන සකසා ගැනීමට සිදු කරනු ලබන අභ්‍යාසයක් නොවනුයේ,",
+        "choices": [
+            "නම්‍යතා අභ්‍යාස",
+            "ගොඩ සරඹ",
+            "ඉලංගම් සරඹ",
+            "දොඹින පද"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/grade-06-dancing-2nd-term-test-paper-with-answers-2023-mathugama-zone/?swcfpc=1#google_vignette"
+        }
+    },
+    {
+        "q_no": 17,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "හිරු දෙවියන් පිදීම සදහා හින්දු භක්තිකයින් විසින් පවත්වනු ලබන උත්සවයකි.",
+        "choices": [
+            "රාමසාන්",
+            "තෛපොංගල්",
+            "නත්තල",
+            "වෙසක්"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/grade-06-dancing-2nd-term-test-paper-with-answers-2023-mathugama-zone/?swcfpc=1#google_vignette"
+        }
+    },
+    {
+        "q_no": 18,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "නර්තනයක් ආරම්භයට පෙර සම්ප්‍රදායන් තුනෙහිම සිදු කරනුයේ,",
+        "choices": [
+            "නම්‍යතා අභ්‍යාස",
+            "පා සරඹ",
+            "මණ්ඩිය",
+            "නමස්කාරය"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/grade-06-dancing-2nd-term-test-paper-with-answers-2023-mathugama-zone/?swcfpc=1#google_vignette"
+        }
+    },
+    {
+        "q_no": 19,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "මණ්ඩියෙහි විලුඹ දෙක අතර දුර",
+        "choices": [
+            "අඩියකි",
+            "රියනකි",
+            "මිටි රියනකි",
+            "විග්ගුස්සකි"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/grade-06-dancing-2nd-term-test-paper-with-answers-2023-mathugama-zone/?swcfpc=1#google_vignette"
+        }
+    },
+    {
+        "q_no": 20,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "පා සරඹ තුන්වන පා සරඹ පදය වන්නේ,",
+        "choices": [
+            "තෙයි කිට තෙයි තාම්",
+            "තෙයි තෙයි",
+            "තෙයි කිට තෙයි කිට තෙයි කිට තෙයි තාම්",
+            "තේයි තිතා තෙයි"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-dancing-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 21,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "පළමුවෙනි ගොඩ සරඹයේ කස්තිරම වන්නේ,",
+        "choices": [
+            "තත් ජිත් තාං නං තා ය.",
+            "තත් ජිත් තක ජිත් තත් ජිත් තො නම් තා ය.",
+            "ගත්තකු ජිත්තම් ගජිතකු පිත්තම් තරිකිට ජිත් තරිකිට දොමිකිට තාය.",
+            "රුංතක ජිංතක තරිකිට කුංදත්තාය."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-dancing-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 22,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "විකල්ප වාද්‍ය උපකරණයක් නොවන්නේ,",
+        "choices": [
+            "දඬු බෙරය",
+            "සිලි සිලිය",
+            "ගැටබෙරය",
+            "ටින් බෙරය"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-dancing-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 23,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "කළගෙඩි නැටුමට සමාන ද්‍රවිඩ ගැමි නැටුමකි",
+        "choices": [
+            "කෝලොට්ටම්",
+            "සෙම්බු",
+            "අරිය වෙට්ටු",
+            "සුලකු"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-dancing-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 24,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "\"පේලි ගැසී අඟනෝ සැරසීලා ....\" යන කවිය.",
+        "choices": [
+            "ලී කෙළි කවියකි.",
+            "නැලවිලි කවියකි.",
+            "සවරම් කවියකි.",
+            "කළගෙඩි කවියකි."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-dancing-2nd-term-test-paper-with-answers-2019-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 25,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "\"පරිසරයේ අසිරිය\" යන තේමාව නිර්මාණයේදී සුදුසු චරිත කිහිපයක් වන්නේ",
+        "choices": [
+            "මුව පොව්වන්, සා පැටවුන්",
+            "ඉර, සුළඟ, ගස්වැල්",
+            "ගංගා, ඇල දොළ, දිය ඇලි",
+            "මේ සියලුම චරිත"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-dancing-2nd-term-test-paper-with-answers-2019-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 26,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "මින් සාම්ප්‍රදායික වාද්‍ය භාණ්ඩයක් නො වන්නේ.",
+        "choices": [
+            "ටොනික් පියන් වළල්ල",
+            "පන්තේරුව",
+            "තම්මැට්ටම",
+            "දවුල"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-dancing-2nd-term-test-paper-with-answers-2019-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 27,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "ශ්‍රී ලංකාවේ දකුණු මුහුදුබඩ පළාත්වල ප්‍රචලිත නර්තන සම්ප්‍රදාය වනුයේ",
+        "choices": [
+            "උඩරට නැටුම් සම්ප්‍රදාය යි.",
+            "පහතරට නැටුම් සම්ප්‍රදාය යි.",
+            "සබරගමු නැටුම් සම්ප්‍රදාය යි.",
+            "භරත නැටුම් සම්ප්‍රදාය යි."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-dancing-2nd-term-test-paper-with-answers-2019-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 28,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "මුල් යුගයේ වන්නම් රචනා වී ඇත්තේ",
+        "choices": [
+            "ගායනා සඳහා ය",
+            "නර්තනය සඳහා ය.",
+            "රංගනය සඳහා ය.",
+            "නාට්‍ය සඳහා ය."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-dancing-2nd-term-test-paper-with-answers-2019-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 29,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "සිංහල ලී කෙළි නැටුම හා සමාන ද්‍රවිඩ ගැමි නැටුමකි,",
+        "choices": [
+            "සෙම්බු",
+            "සුලකු",
+            "ගොයම්",
+            "කෝලොට්ටම්"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-dancing-2nd-term-test-paper-with-answers-2019-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 30,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "\"පාන්දරින් ඉස්කෝලෙට ටැන්ටු කරත්තෙන් ...'' යන ගීතයෙන් ප්‍රකාශ වන උපදේශයකි.",
+        "choices": [
+            "සතුන් නොමැරිය යුතු බව.",
+            "කළගුණ සැලකිය යුතු බව.",
+            "ගුරු දෙපා නැමදිය යුතු බව.",
+            "දින පතා පාසල් යා යුතු බව."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-dancing-2nd-term-test-paper-with-answers-2019-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 31,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "විකල්ප වාද්‍ය භාණ්ඩයක් ලෙස තාල තැබීම සඳහා යොදා ගත හැක්කේ මින්,",
+        "choices": [
+            "පොල් කටු දෙකක්",
+            "ගෙජ්ජි වැලක්",
+            "ටින් බෙරයක්",
+            "රබානක්"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-dancing-2nd-term-test-paper-with-answers-2019-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 32,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "ගැටබෙරය ප්‍රධාන වාද්‍ය භාණ්ඩය ලෙස වාදනය කරන නර්තන සම්ප්‍රදාය වනුයේ",
+        "choices": [
+            "පහතරට නර්තන සම්ප්‍රදාය.",
+            "සබරගමු නර්තන සම්ප්‍රදාය.",
+            "භරත නාට්‍යම් සම්ප්‍රදාය.",
+            "උඩරට නර්තන සම්ප්‍රදාය."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-dancing-2nd-term-test-paper-with-answers-2019-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 33,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "සුළු මැදුම් දෙතිතට අයත් මාත්‍රා සංඛ්‍යාව වන්නේ,",
+        "choices": [
+            "2+4",
+            "2+2",
+            "2+3",
+            "3+4"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-07-dancing-3rd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 34,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "\" සඳ වට තරු වැල් ඇවිදින් කලඑළි සද්දේ\"........ මෙම කවිය",
+        "choices": [
+            "කුළු කවියකි.",
+            "තාලම් කවියකි.",
+            "ලී කෙළි කවියකි.",
+            "කළගෙඩි කවියකි."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-07-dancing-3rd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 35,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "කොහොඹා කංකාරියේ පුද ලබන දෙවිවරු වන්නේ,",
+        "choices": [
+            "කොහොඹා දෙවි තුන් කට්ටුව ය.",
+            "දෙවොල් දෙවියන් ය.",
+            "සීනිගම දෙවියන් ය.",
+            "පත්තිනි දෙවියන් ය."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-07-dancing-3rd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 36,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "පුරාණයේ සන්නිවේදන කාර්යය සඳහා යොදාගෙන ඇති වාද්‍ය භාණ්ඩය වන්නේ,",
+        "choices": [
+            "දවුල",
+            "ගැට බෙරය",
+            "පහතරට බෙරය",
+            "තම්මැට්ටම"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-07-dancing-3rd-term-test-paper-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 37,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "ශාන්ති කර්මවලදී දෙවියන්ට ආරාධනා කරන කාව්‍ය විශේෂය වන්නේ,",
+        "choices": [
+            "තාලම් කවි",
+            "තල මල වරුණ කවි",
+            "මල් යහන් කවි",
+            "සිරස පාද කවි"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-07-dancing-3rd-term-test-paper-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 38,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "උඩරට නැටුම් කලාව\" නැමැති ග්‍රන්ථය රචනා කරන ලද්දේ",
+        "choices": [
+            "රද්දැල්ලේ පොඩි මහත්මයා මහතා",
+            "ජේ. ඊ. සේදරමන් මහතා",
+            "එම්.එච්.ගෝමස් මහතා",
+            "මුදියන්සේ දිසානායක මහතා"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-07-dancing-3rd-term-test-paper-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 39,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "\"කුද ගජිත කුද තා\" මෙය,\n",
+        "choices": [
+            "මාත්‍රා 2 + 2 ට අයත් බෙර පදයකි.",
+            "මාත්‍රා 2 + 3 ට අයත් බෙර පදයකි.",
+            "මාත්‍රා 2 + 3 ට අයත් කස්තිරමකි.",
+            "මාත්‍රා 3 ට අයත් කස්තිරමකි."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-07-dancing-3rd-term-test-paper-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 40,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "උඩරට නර්තනයේ දී හමාර පදය නටනු ලබන්නේ,",
+        "choices": [
+            "වන්නම් නටා අවසානයේ දීය",
+            "ගොඩ සරඹයක් නටා අවසානයේ දීය",
+            "පාසරඹයක් නටා අවසානයේ දීය",
+            "නම්‍යතා අභ්‍යාස කර අවසානයේ දීය"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-07-dancing-3rd-term-test-paper-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 41,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "පංචතූර්ය වාදනයේ \"විතතාතය\" වර්ගයට අයත් වාද්‍ය භාණ්ඩයකි.",
+        "choices": [
+            "දවුල",
+            "ගැටබෙරය",
+            "තම්මැට්ටම",
+            "උඩැක්කිය"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-07-dancing-3rd-term-test-paper-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 42,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "දේව යහනක් ඉදිකොට ඒ වෙත දෙවියනට වඩින ලෙස ආරාධනා කරනු ලබන ගායනා විශේෂයකි.",
+        "choices": [
+            "තලමල වරුණ කවි",
+            "මල් යහන් කවි",
+            "සිරසපාද කවි",
+            "නමස්කාර කවි"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-07-dancing-3rd-term-test-paper-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 43,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "\"තත් තොඟ තක තොග” යන්න",
+        "choices": [
+            "තුරඟා වන්නමේ අඩව්ව යි",
+            "වෛරොඩි වන්නමේ අඩව්වයි",
+            "හනුමා වන්නමේ අඩව්වයි",
+            "හනුමා වන්නමේ කස්තිරමයි"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_2",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/2023-grade-07-dancing-2nd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 44,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "සරඹ අභ්‍යාසයේ දී බෙරවාදනයෙන් තොරව පුහුණු වන්නේ",
+        "choices": [
+            "ගොඩ සරඹයි",
+            "පාසරඹ යි",
+            "මාත්‍රා පහයි",
+            "වට්ටම යි"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_2",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/2023-grade-07-dancing-2nd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 45,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "සිදුහතුන්ගේ අභිනිෂ්ක්‍රමණය ගැන කියවෙන වන්නමකි",
+        "choices": [
+            "තුරඟා වන්නම",
+            "සැවුලා වන්නම",
+            "හනුමා වන්නම",
+            "සිංහරාජ වන්නම"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_2",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/2023-grade-07-dancing-2nd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 46,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "කෘෂිකර්මාන්තය හා සම්බන්ධ ගැමි නැටුමක් වන්නේ",
+        "choices": [
+            "ලී කෙළි නැටුම",
+            "තාලම් නැටුම",
+            "කුලු නැටුම",
+            "වෙස් නැටුම"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_2",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/2023-grade-07-dancing-2nd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 47,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "දවුල වාද්‍ය භාන්ඩයේ දිග ප්‍රමානය වන්නේ",
+        "choices": [
+            "අගල් 10 කි",
+            "අගල් 20 කි",
+            "අගල් 15 කි.",
+            "අගල් 17 කි."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-07-dancing-second-term-test-paper-with-answers-2020/"
+        }
+    },
+    {
+        "q_no": 48,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "කාන්තාවන් සදහා වඩාත් යෝග්‍යතම ගැමි නැටුම වන්නේ කුමක්ද?",
+        "choices": [
+            "තාලම් නැටුමයි",
+            "කුලු නැටුමයි",
+            "ලී කෙලි නැටුමයි",
+            "සවරම් නැටුමයි"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-07-dancing-second-term-test-paper-with-answers-2020/"
+        }
+    },
+    {
+        "q_no": 49,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "උඩරට නර්තනය හදාරන ශිල්පියෙකු ගේ ශිල්පීය ප්‍රාගුණ්‍ය එළිදක්වන අවස්ථාව හදුන්වන්නේ කෙසේද?",
+        "choices": [
+            "වෙස් මංගල්‍යය",
+            "මඩු බැසීමේ මංගල්‍යය",
+            "ගුරු වරම් දීමේ මංගල්‍යය",
+            "ගෙජ්ජි බැදීමේ මංගල්‍යය"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-07-dancing-second-term-test-paper-with-answers-2020/"
+        }
+    },
+    {
+        "q_no": 50,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "ගොප් ගෙඩිය නිර්මාණය සදහා යොසා ගන්නා අමුද්‍රව්‍ය මොනවාද?",
+        "choices": [
+            "කොස් කොළ, පොල් කොළ",
+            "පොලිතීන්, ලණු",
+            "කෙසෙල් කොළ, පොල් කොල",
+            "ගොප් කොළ, කෙසෙල් බඩ"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-07-dancing-second-term-test-paper-with-answers-2020/"
+        }
+    },
+    {
+        "q_no": 51,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "13. උඩරට නර්තන සම්ප්‍රදායේ වන්නම් ගණන කීයද?",
+        "choices": [
+            "18 කි",
+            "20 කි",
+            "32 කි",
+            "28 කි"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-07-dancing-second-term-test-paper-with-answers-2020/"
+        }
+    },
+    {
+        "q_no": 52,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "දේශීය නර්තන සම්ප්‍රදායන් අතරින් දකුණු පලාතේ ප්‍රචලිත නර්තන සම්ප්‍රදාය කුමක්ද?",
+        "choices": [
+            "උඩරට නර්තන සම්ප්‍රදාය",
+            "පහතරට නර්තන සම්ප්‍රදාය",
+            "සඹරගමු නර්තන සම්ප්‍රදාය",
+            "භරත නර්තන සම්ප්‍රදාය"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-07-dancing-second-term-test-paper-with-answers-2020/"
+        }
+    },
+    {
+        "q_no": 53,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "කමතේදී බැත එකතු කිරීම, බැත හුළං කිරීම වී පෙළීම ආදී කටයුතු නිරූපනය කෙරෙනුයේ.... නැටුමේදීය එය.",
+        "choices": [
+            "කුලු",
+            "ගොයම් කැපීම",
+            "පන්නෙළීම",
+            "මෝල්ගස්"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-07-dancing-2nd-term-test-paper-2019-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 54,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "සෙලවීමෙන් හා පිඹීමෙන් හඬ උපදවා ගත හැකි විකල්ප වාද්‍ය උපකරණයක් වන්නේ,",
+        "choices": [
+            "මාර ඇට දැමූ ප්ලාස්ටික් බෝතලය, පැපොල් බටනලාව",
+            "වතුර පුරවන ලද වීදුරු බෝතලය, පැපොල් බටනලාව",
+            "ලීයක් සවිකළ පොල් කටු දෙකක්, බැලුම් බෝලය",
+            "ගල් කැට දැමූ වීදුරු බෝතලය, ටොනික් පියන් වළල්ල"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-07-dancing-2nd-term-test-paper-2019-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 55,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "සබරගමු නර්තන සම්ප්‍රදායේ ප්‍රධාන වාද්‍ය භාණ්ඩය වන දවුලේ සම්මත දිග ප්‍රමාණය,",
+        "choices": [
+            "අඟල් 18",
+            "අඟල් 12",
+            "අඟල් 10",
+            "අඟල් 15 යි"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-07-dancing-2nd-term-test-paper-2019-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 56,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "පහතරට නර්තන ශිල්පය ප්‍රගුණ කළ ආධුනිකයකු ඔහුගේ මුල් ම ශිල්ප දැක්වීමේ අවස්ථාව හඳුන්වන්නේ,",
+        "choices": [
+            "මඩු බැසීම",
+            "ගුරුවරම් දීම",
+            "කලඑළි මංගල්‍යය",
+            "හළං වැඩීම"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-07-dancing-2nd-term-test-paper-2019-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 57,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "ශාන්තිකර්ම සැරසිලි සඳහා බහුලව භාවිත කරනු ලබන්නේ,",
+        "choices": [
+            "ලී කෝටු, නාගවල්ලි කොළ",
+            "පොල්කොළ, අඹ කොළ",
+            "ගොප් කොළ, කෙසෙල්බඩ",
+            "ඉරටු, ලී කෝටු"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-07-dancing-2nd-term-test-paper-2019-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 58,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "තෙයිත තෙයිත තෙයිත යතාම් යන පා සරඹයේ සරඹ නාමය වන්නේ",
+        "choices": [
+            "අඩිය",
+            "දෑඩිය",
+            "තුන් අඩිය",
+            "සිව් අඩිය"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_1",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-07-dancing-1st-term-test-paper-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 59,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "කුද ගත ගත දොම්' යන බෙර පදය අයත් තිත වන්නේ",
+        "choices": [
+            "මැදුම් තනි තිත",
+            "සුළු තනි තිත",
+            "මහ තනිතිත",
+            "සුළු මැදුම් දෙතිත"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_1",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-07-dancing-1st-term-test-paper-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 60,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "ලෙල දෙමිනේ මල උඩු ගුවනේ’ ...... යන ජන කවිය අයත් වන්නේ",
+        "choices": [
+            "තලමල වරුණා",
+            "කළ",
+            "ලී කෙළි",
+            "කුළු"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_1",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-07-dancing-1st-term-test-paper-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 61,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "සාම්ප්‍රදායික පද ඇසුරින් නිර්මාණය කරගන්නා ලද පද හඳුන්වන්නේ",
+        "choices": [
+            "බෙරපද නමිනි",
+            "හමාර පද නමිනි",
+            "සරඹ පද නමිනි",
+            "අලංකාර පද නමිනි."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_1",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-07-dancing-1st-term-test-paper-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 62,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "දික් දිගට කොළ ඇති - ඒ මැදට ගැට ඇති යන රබන් පදය අයත් තාල රූපය වන්නේ",
+        "choices": [
+            "2+3 තාල රූපය",
+            "3+3 තාල රූපය",
+            "2+2 තාල රූපය",
+            "4+4 තාල රූපය"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_1",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-07-dancing-1st-term-test-paper-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 63,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "උඩරට නර්තන සම්ප්‍රදායේ පා සරඹ සබරගමු නර්තන සම්ප්‍රදායේ හඳුන්වනු ලබන්නේ,",
+        "choices": [
+            "දොඹින පද",
+            "මණ්ඩිපද",
+            "මාත්‍රා පද",
+            "ඉලංගම් පද"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_1",
+            "year": 2018,
+            "source": "https://pastpapers.wiki/grade-07-dancing-1st-term-test-paper-2018-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 64,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "ගොඩ සරඹ, ඉලංගම් සරඹ, දොඹින පද යන අභ්‍යාස අයත් නර්තන සම්ප්‍රදායන් පිළිවෙලින්,",
+        "choices": [
+            "උඩරට, පහතරට, භරත",
+            "උඩරට, පහතරට, කථක්",
+            "උඩරට, පහතරට, සබරගමු",
+            "උඩරට, සබරගමු, පහතරට"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_1",
+            "year": 2018,
+            "source": "https://pastpapers.wiki/grade-07-dancing-1st-term-test-paper-2018-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 65,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "සත්වෙත් මහත් අදර ලත් යුත් සිදත් කුමරු.....” මෙම කවිය අයත් වන වන්නම,",
+        "choices": [
+            "හනුමා වන්නම",
+            "වෛරොඩි වන්නම",
+            "තුරඟා වන්නම",
+            "සිංහරාජ වන්නම"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_1",
+            "year": 2018,
+            "source": "https://pastpapers.wiki/grade-07-dancing-1st-term-test-paper-2018-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 66,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "මණ්ඩි පද හා පා සරඹ වලින් දැකිය හැකි නර්තන සම්ප්‍රදාය වන්නේ,",
+        "choices": [
+            "උඩරට හා පහත රට සම්ප්‍රදායන් රට සම්ප්‍රදායන්.",
+            "පහතරට සහ උඩරට සම්ප්‍රදායන්.",
+            "සබරගමු හා පහතරට සම්ප්‍රදායන්.",
+            "පහතරට හා උඩරට සම්ප්‍රදායන්."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-08-dancing-3rd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 67,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "\"සූරිය කුල ඇති හිරු දෙවියන්නේ\",",
+        "choices": [
+            "ලොව තෙත් කරවන පත්තිනි සඳිනේ.",
+            "පෑවිය අණසක ලොව පවතින්නේ.",
+            "වෙනසක් නොසිතා මගේ ගුරුවරුනේ.",
+            "කාරිය කරවා පහදා දෙන්නේ."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-08-dancing-3rd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 68,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "“හිස මුව තුල බෙල්ල දෙවුර දෑතේ දසැගිලි\"",
+        "choices": [
+            "ලී කෙලි කවියෙකි.",
+            "සවරං කවියකි.",
+            "සිරසපාද කවියකි.",
+            "පතුරු කවියකි."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-08-dancing-3rd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 69,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "\"නාරිලතා නැටුම” හා “ගොයම් කැපීමේ” නූතන වේදිකාවට සකස් කළ ශිල්පියා වක්නේ,",
+        "choices": [
+            "කේ.එස්. පුනාන්දු මහතා.",
+            "ඇස් පණීභාරත මහතා.",
+            "ඩී. වී. හීන් නිලමේ මහතා.",
+            "ජෙ.ඊ. ස්දරමන් මහතා."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-08-dancing-3rd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 70,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "තා තෙයි තා තෙයියත් තා..........මෙය කීවෙනි පාසරඹයද?",
+        "choices": [
+            "5 වෙනි පා සරඹය යි.",
+            "6 වෙනි පා සරඹය යි.",
+            "7 වෙනි පා සරඹය යි.",
+            "8 වෙනි පා සරඹය යි."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-dancing-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 71,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "5 වෙනි ගොඩ සරඹයේ කස්තිරම වනුයේ,",
+        "choices": [
+            "රුංතක ජිංතක තරිකිට කුංදත්...",
+            "කුද ගත ගත ගත කුකුදත්...",
+            "තාං දොමිති ගත දොමිකිට",
+            "තත් ජිත් තො නං තා"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-dancing-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 72,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "මැදුම් තනිතිතට අයත් වන තාල රූපය වන්නේ,",
+        "choices": [
+            "මාත්‍රා 2/2 ය.",
+            "මාත්‍රා 3/3 ය.",
+            "මාත්‍රා 4/4 ය.",
+            "මාත්‍රා 2/3 ය."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-dancing-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 73,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "උඩරට බෙර වාදනයේදී සතර බීජාක්ෂර ලෙස හඳුන්වන්නේ,",
+        "choices": [
+            "තත්, දිත්, කොං, නං ය.",
+            "තත්, ජිං, කොං, නං ය.",
+            "තත්, ජිත්, කොං, නං ය.",
+            "තත්, කොං, නං, ජිත්, ය."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-dancing-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 74,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "සන්නියකුම හෙවත් දහඅට සන්නිය නැමති කෘතිය රචනා කරන ලද්දේ,",
+        "choices": [
+            "හීන් නිලමේ ගුරුතුමාය.",
+            "එස්. පණීභාරත ගුරුතුමාය.",
+            "කේ.එස්. ප්‍රනාන්දු ගුරුතුමාය.",
+            "මුදියන්සේ දිසානායක ගුරුතුමාය."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-dancing-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 75,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "නාට්‍ය ශාස්ත්‍රය නම් කෘතිය රචනා කරන ලද්දේ,",
+        "choices": [
+            "භරත මුණිවරයා ය.",
+            "නන්දිකේශ්වරය.",
+            "උදය ශංකර් ය.",
+            "වඩිවේලු ය."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-dancing-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 76,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "රත්න දීප ජන්ම භූමි... යන ගීතයේ පද රචනය කාගේද?",
+        "choices": [
+            "මහගම සේකරයන්ගේ ය.",
+            "පණ්ඩිත් අමරදේවයන්ගේ ය.",
+            "ප්‍රණීත් අබේසුන්දරයන්ගේ ය.",
+            "ලයනල් අල්ගමයන්ගේ ය."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-dancing-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 77,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "නර්තන කලාවේ ඉතිහාසය හා සම්බන්ධ ලෝකඩ නටරාජා පිළිරුව අයත් වන්නේ,",
+        "choices": [
+            "අනුරාධපුර යුගයටයි.",
+            "පොළොන්නරු යුගයටයි.",
+            "ගම්පල යුගයටයි.",
+            "යාපහුව යුගයටයි."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-dancing-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 78,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "උඩරට පා සරඹ වල \"තා තෙයි තා තෙයියත් තා\" යන පදය අයත් සරඹ නාමය වන්නේ,",
+        "choices": [
+            "දෑල අඩිය",
+            "පසු පෙර අඩිය",
+            "නුහුරු අඩිය",
+            "සිව් අඩිය"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-dancing-3rd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 79,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "උඩරට ගොඩ සරඹ වල එන දෑල සරඹය යනු,",
+        "choices": [
+            "හයවන ගොඩ සරඹයයි.",
+            "තුන්වන ගොඩ සරඹයයි.",
+            "පස්වන ගොඩ සරඹයයි.",
+            "හතරවන ගොඩ සරඹයයි."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-dancing-3rd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 80,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "\"ඔබින මෙසබ තුල පැමිණා\" මෙම කවි පදය අයත් වන්නම වනුයේ,",
+        "choices": [
+            "තුරඟා වන්නම",
+            "හනුමා වන්නම",
+            "වෛරොඩි වන්නම",
+            "මයුරා වන්නම"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-dancing-3rd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 81,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "කහ ඉර හරහා පාර මාරුවීමේ දී හදිසියෙන් වාහනයක් තිරිංග තද කිරීම මගින් ඇතිවන ස්ථායිභාවය නම්,",
+        "choices": [
+            "උත්සාහ",
+            "භය",
+            "සතුට",
+            "ශෝකය"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-dancing-3rd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 82,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "\"මල් ගවසාලා කොණ්ඩය බැඳලා\" යන සවරං කවියේ තාල රූපය වන්නේ,",
+        "choices": [
+            "මාත්‍රා 3 + 4",
+            "මාත්‍රා 3 + 3",
+            "මාත්‍රා 4 + 4",
+            "මාත්‍රා 2 + 3"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-dancing-3rd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 83,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "බෙර වාදනයෙන් තොරව අභ්‍යාසයේ යෙදෙන්නේ,",
+        "choices": [
+            "වන්නම් ය",
+            "පා සරඹ ය",
+            "අත් සරඹ ය",
+            "වට්ටම් ය"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/grade-08-dancing-2nd-term-test-paper-with-answers-2023-mathugama-zone/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 84,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "තනිතිතේ ප්‍රභේද ගණන ලෙස ගැනෙන්නේ,",
+        "choices": [
+            "3 කි",
+            "2 කි",
+            "4 කි",
+            "5 කි"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/grade-08-dancing-2nd-term-test-paper-with-answers-2023-mathugama-zone/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 85,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "පෑවිය ගල් රැහැන් ජය රැස් වඩින්නට........ මෙය,",
+        "choices": [
+            "ගොයම් කවියකි",
+            "පැල් කවියකි",
+            "සවරං කවියකි",
+            "වන්නම් කවියකි"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/grade-08-dancing-2nd-term-test-paper-with-answers-2023-mathugama-zone/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 86,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "නර්තන නිර්මාණයේදී යොදාගනු ලබන චලන වර්ග ගණන වන්නේ,",
+        "choices": [
+            "1 කි",
+            "5 කි",
+            "4 කි",
+            "3 කි"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/grade-08-dancing-2nd-term-test-paper-with-answers-2023-mathugama-zone/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 87,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "දේශීය කැටයම් කලාවේ සුවිශේෂී සැරසිලි නිර්මාණයක් ලෙස,",
+        "choices": [
+            "දඬු බෙරය",
+            "බටනලාව",
+            "ගොප් ගෙඩිය",
+            "ගැට බෙරය"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/grade-08-dancing-2nd-term-test-paper-with-answers-2023-mathugama-zone/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 88,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "හත්වන පා සරඹයේ සරඹ නාමය වන්නේ,",
+        "choices": [
+            "සිව් අඩිය",
+            "කරණම් අඩිය",
+            "දෙපැති අඩිය",
+            "නුහුරු අඩිය"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_2",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/2023-grade-08-dancing-2nd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 89,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "ශරීරයේ විවිධ අංග වලට තලමින් නර්තනය කරන ගැමි නැටුමකි.",
+        "choices": [
+            "පතුරු",
+            "සවරං",
+            "තාලම්",
+            "ලී කෙලි"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_2",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/2023-grade-08-dancing-2nd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 90,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "\"එදා නිරිඳු සදා කලිගු මැදා නුවර ''........ මෙය",
+        "choices": [
+            "පතුරු කවියකි.",
+            "සිරසපාද කවියකි.",
+            "ලීකෙළි කවියකි.",
+            "මල්යහන් කවියකි."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_2",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/2023-grade-08-dancing-2nd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 91,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "සරල සැරසිලි අංගයකි.",
+        "choices": [
+            "ගොප් ගෙඩිය",
+            "පොල්තෙල් පහන",
+            "අයිලය",
+            "යහන"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_2",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/2023-grade-08-dancing-2nd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 92,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "\"ඉසුරු දෙවිඳු වඩින දිනා\"කවියේ දෙවෙනි කවි පදය වන්නේ,",
+        "choices": [
+            "රඟය දැනෙයි කළ රචනා",
+            "කවිය නැතිව බොරු වරුණා",
+            "කෙහෙකු විමන දැක නෙතිනා",
+            "ඉසුරු දෙවිඳු තුති දෙමිනා"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_2",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/2023-grade-08-dancing-2nd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 93,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "මාත්‍රා 2 + 3 තිතට අයත් බෙර පදයකි,",
+        "choices": [
+            "දොං ජිංත ගත දොංත.",
+            "දොං ජිං ජිං තකට දොංතක .",
+            "කුඳ ගජිගත කුද තා.",
+            "දොං දොං ජිං ජිං ගජිගත ."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-08-dancing-second-term-test-paper-with-answers-2020/"
+        }
+    },
+    {
+        "q_no": 94,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "ඉසුරු දෙවිඳු වඩින දිනා, කෙහෙතු විමන දැක නෙතිනා, මෙහි ඊ ලඟ පදය වන්නේ,",
+        "choices": [
+            "විමන සමග කෙහෙතු දැනා .",
+            "එම විමනා දෙවි වඩිනා .",
+            "එම වරුණා කළ යෙහෙනා.",
+            "මට උරණා නොව මෙදිනා."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-08-dancing-second-term-test-paper-with-answers-2020/"
+        }
+    },
+    {
+        "q_no": 95,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "උඩරට වන්නමක අයත් කොටස් ගණන වන්නේ,",
+        "choices": [
+            "4 කි.",
+            "5 කි.",
+            "7 කි.",
+            "6 කි."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-08-dancing-second-term-test-paper-with-answers-2020/"
+        }
+    },
+    {
+        "q_no": 96,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "පහතරට නර්ථන සම්ප්‍රදායේ මාත්‍රා 2 + 3 ට අයත් බෙර පදයකි,",
+        "choices": [
+            "ගං දෙගත ගත්ත ගං .",
+            "ගුංද ගත්ගතගත්ත ගුඳි ගුද.",
+            "ගුදිත ගතම් ගත.",
+            "ගං ගුඳගත ගති ගත ගත."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-08-dancing-second-term-test-paper-with-answers-2020/"
+        }
+    },
+    {
+        "q_no": 97,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "ඊෂ්වර කුණ්ඩතාලය සිංදු වන්නමෙි අවසාන කව් පදය වන්නේ,",
+        "choices": [
+            "පිපි වත කමල් විල තඹර නිකල ගේ.",
+            "නොපිනනු කවුද වෙන සරණ රැස් ගඟේ",
+            "කිපී ලොව දිලෙන තෙදැති ලොනි දු ගේ.",
+            "හැපී දුක් රැසින් උන් සත ගොස් නොලඟේ."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-08-dancing-second-term-test-paper-with-answers-2020/"
+        }
+    },
+    {
+        "q_no": 98,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "පහතරට සිංදු වන්නමක අයත් කොටස් ගණන වන්නේ,",
+        "choices": [
+            "5 කි .",
+            "6 කි.",
+            "3 කි.",
+            "4 කි."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-08-dancing-second-term-test-paper-with-answers-2020/"
+        }
+    },
+    {
+        "q_no": 99,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "පහතරට නර්ථන සම්ප්‍රදායේ ඕනෑම පද කොටසක් නටා අවසන් කරනු ලබන්නේ,",
+        "choices": [
+            "ඉරට්ටිය නැටීමෙනි.",
+            "කළාසම නැටීමෙනි.",
+            "කස්තිරම නැටීමෙනි",
+            "මාත්‍රා නැටීමෙනි"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-08-dancing-second-term-test-paper-with-answers-2020/"
+        }
+    },
+    {
+        "q_no": 100,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "විනෝදාස්වාදය සඳහා භාවිත ගැමි නැටුම් වේ.",
+        "choices": [
+            "ලී සහ කුළු",
+            "කල සහ ගොයම්",
+            "ගොයම් සහ කුළු",
+            "පතුරු සහ සවරම්"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-dancing-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 101,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "තෙයියත් /// තාම්, තේයි තාම්, තෙයි තෙයි තත් තත් තාම්\nයන පද කොටසට අයත් වන්නේ,",
+        "choices": [
+            "දෑල අඩියයි.",
+            "සිව් අඩියයි.",
+            "තුන් අඩියයි.",
+            "හමාර පදයයි."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-dancing-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 102,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "තත්, ජිත්, තොන්, නන්” යන බෙර අක්‍ෂර වූ කලී",
+        "choices": [
+            "ගර්භාක්‍ෂර වේ.",
+            "ස්වරාක්ෂර වේ.",
+            "බීජාක්ෂර වේ.",
+            "ව්‍යංජනාක්ෂර වේ."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-dancing-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 103,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "“සූරිය කුල ඇති හිරුදෙවියන්නේ” මෙම කවියේ තුන් වන පද පේළිය වන්නේ,",
+        "choices": [
+            "කාරිය කරවා පහදා දෙන්නේ",
+            "පෑවිය අණසක ලොව පවතින්නේ",
+            "අතුරු නැතිව සබයේ සිටිමින්නේ",
+            "මිතුරු ලෙසින් අපි පේළි සැදෙන්නේ1"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_SP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-dancing-2nd-term-test-paper-with-answers-2019-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 104,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "ගොප් ගෙඩියක් නිර්මාණයේදී අවශ්‍ය නො වන්නේ,",
+        "choices": [
+            "ගොප් කොළ",
+            "හඹරල කොළය",
+            "කෙසෙල් කොටයක්",
+            "ඉරටු"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_SP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-dancing-2nd-term-test-paper-with-answers-2019-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 105,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "පහතරට බෙරයේ දිග ප්‍රමාණය වන්නේ,",
+        "choices": [
+            "එක් වියත් තුනඟුලකි.",
+            "තුන් වියත් තුනඟුලකි.",
+            "විග්ගුස්සකි.",
+            "රියන් තුනකි."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_SP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-dancing-2nd-term-test-paper-with-answers-2019-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 106,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "මැදුම් තනිතිතට අයත් බෙර පදයකි",
+        "choices": [
+            "ජිංගත ගොගො",
+            "දොමිකිත කිත දොමි",
+            "කුඳගත ගත දොං",
+            "දොදොංත තකු දොං"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_1",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-dancing-1st-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 107,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "\"හිසමුව තුළ බෙල්ල දෙවුර දෑතේ දකුඟිලි අගිනේ\" යන කවි පදය අයත් වන්නේ,",
+        "choices": [
+            "සවරං කවි වලටය.",
+            "සිරසපාද කවි වලටය.",
+            "පතුරු කවි වලටය.",
+            "තාලම් කවි වලටය."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_1",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-dancing-1st-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 108,
+        "subject": "dancing",
+        "category": "humanities",
+        "question": "වෛශාක්‍යය මංගල්‍යය' නමින්‌ හැඳින්වෙන්නේ,",
+        "choices": [
+            "නත්තල්‌ උත්සවයයි.",
+            "වෙසක්‌ උත්සවයයි.",
+            "පොසොන්‌ උත්සවයයි.",
+            "තෛයිපොංගල්‌ උත්සවයයි."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "නර්තනය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-dancing-3rd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    }
+]

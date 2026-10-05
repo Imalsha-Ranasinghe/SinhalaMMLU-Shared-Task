@@ -1,0 +1,2102 @@
+[
+    {
+        "q_no": 1,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "වෙසක් උත්සවයේදී බෞද්ධයින් අනුගමනය කරන පූජා විධි දෙක නම්,",
+        "choices": [
+            "ආමිස පූජා සහ ප්‍රතිපත්ති පූජා",
+            "මල් පූජා හා පහන් පූජා",
+            "ද්‍රව්‍ය පූජා සහ භාණ්ඩ පූජා",
+            "ආහාර පූජා හා වස්ත්‍ර පූජා"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-06-art-3rd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 2,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "හින්දු භක්තිකයින්ගේ ප්‍රධාන ආගමික උත්සවයකි.",
+        "choices": [
+            "නත්තල් උත්සවය",
+            "රාමසාන් උත්සවය",
+            "තෛපොංගල් උත්සවය",
+            "හජ්ජි උත්සවය"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-06-art-3rd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 3,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "ඉස්ලාම් භක්තිකයින් රාමසාන් මාසයේ මුල් සඳ දුටු තැන් සිට අරඹන උපවාසය අවසන් කරන්නේ,",
+        "choices": [
+            "නව සඳ දැකීමෙන් පසුව ය.",
+            "හිරු උදාව සමගය.",
+            "නව හිරු දැකීමෙන් පසුව ය.",
+            "සඳ බැස ගිය පසුව ය."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-06-art-3rd-term-test-paper-with-answers-north-western-province/?swcfpc=2"
+        }
+    },
+    {
+        "q_no": 4,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "සෑම වසරකම දෙසැම්බර් 24 වන දින රාත්‍රීයේ දේවස්ථානයට රැස්වන කිතුනු බැතිමතුන් උත්සවාකාරයෙන් සමරන්නේ,",
+        "choices": [
+            "නබිනායකතුමාගේ උපතයි.",
+            "ජේසුස් වහන්සේගේ උපතයි.",
+            "මරියතුමියගේ උපතයි.",
+            "ශිව දෙව් උපතයි."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-06-art-3rd-term-test-paper-with-answers-north-western-province/?swcfpc=3"
+        }
+    },
+    {
+        "q_no": 5,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "බෞද්ධ ස්ථූප ප්‍රධාන ආකාර කීයද?",
+        "choices": [
+            "2",
+            "8",
+            "6",
+            "10"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-06-art-3rd-term-test-paper-with-answers-north-western-province/?swcfpc=4"
+        }
+    },
+    {
+        "q_no": 6,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "දේශීය සැරසිලි මූලිකාංග වර්ගීකරණයට අයත් නොවන්නේ මෙයින් කුමන කාණ්ඩය ද?",
+        "choices": [
+            "දිව්‍ය",
+            "සත්ත්ව",
+            "සමමිතික",
+            "උද්භිද"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-06-art-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 7,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "ජේසු උපත සමරන නත්තල් උත්සවයේ දී කිතුනුවන් විසින් කරනු ලබන සැරසිල්ලක් නොවන්නේ,",
+        "choices": [
+            "ගවලෙන් සෑදීම ය.",
+            "නත්තල් ගස් අලංකාර කිරීම ය.",
+            "විදුලි බුබුලු මගින් නිවෙස් අලංකාර කිරීම ය.",
+            "කෝලම් සැරසිලි කිරීම ය."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-06-art-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 8,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "වෙසක් උත්සව සැරසිලි අංග ඇතුළත් පිළිතුර තොරන්න.\n",
+        "choices": [
+            "පූර්ණ කුම්භ, කෝලම්, ගොක් රැහැන්",
+            "තොරණ, පහන් කූඩු, පහන් වැටි, කොඩි",
+            "අඹකොළ සැරසිලි, කෙසෙල් ගස් තැබීම",
+            "කොඩිවැල්, ගව ‌ලෙන්, නත්තල් ගස"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-06-art-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 9,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "පුරාණ චිත්‍ර ශිල්පියා විසින් තමා වෙත පැමිණි ශිෂ්‍යයාට පළමුව ඇඳීමට ලබාදෙන රේඛා අභ්‍යාසය වන්නේ,",
+        "choices": [
+            "ලියපත",
+            "තිරිගිතලය",
+            "වකදෙක",
+            "ගල් බිංදුව"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-art-2nd-term-test-paper-with-answers-2019-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 10,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "මූලික වර්ණ නම් කරන්න.\n",
+        "choices": [
+            "කොළ, දම්, තැඹිලි",
+            "රතු, කහ, නිල්",
+            "කහ, කොළ, නිල්",
+            "සුදු, රතු, කලු"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-art-2nd-term-test-paper-with-answers-2019-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 11,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "ථූපාරාම ස්ථූපයේ ධාතු ගර්භයේ හැඩය වන්නේ,\n",
+        "choices": [
+            "බුබ්බුලාකාරයි",
+            "ඝටාකාරයි",
+            "ධාන්‍යාකාරයි",
+            "ඝණ්ඨාකාරයි"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-art-2nd-term-test-paper-with-answers-2019-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 12,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "ඉන්දියාවේ සාංචි ස්තූපයේ දී හර්මිකාව යනුවෙන් හඳුන්වන අංගය ශ්‍රී ලංකාවේ චෛත්‍ය වල දී හඳුන්වනු ලබන්නේ,\n",
+        "choices": [
+            "හතරැස් කොටුව",
+            "කොත්කැරැල්ල",
+            "පේසා වළලු",
+            "දේවතා කොටුව"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-art-2nd-term-test-paper-with-answers-2019-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 13,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "මූර්තියක් ඇඹීම සඳහා ඔබට පහසුවෙන් හැසිරවිය හැකි මාධ්‍යයක් වන්නේ,",
+        "choices": [
+            "සිමෙන්තිය",
+            "මැටි ය.",
+            "දැවය.",
+            "සබන් කැටයක් ය."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-art-2nd-term-test-paper-with-answers-2019-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 14,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "ලෝකවාසි බෞද්ධ ජනතාවගේ පූජනීය වු උතුම්ම දිනය වන්නේ,\n",
+        "choices": [
+            "වෙසක් පෝය දිනයයි.",
+            "පොසොන් පෝය දිනයයි.",
+            "ඇසළ පෝය දිනයයි.",
+            "නිකිනි පෝය දිනයයි."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NCP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-art-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-central-province/"
+        }
+    },
+    {
+        "q_no": 15,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": " තෛපොංගල් උත්සවයේ දී හින්දු භක්තිකයන් ගෙබිම මැද අඳින රටාවන් හඳුන්වන්නේ,\n",
+        "choices": [
+            "පූර්ණ කුම්භ",
+            "පොංගල්",
+            "කෝළම්",
+            "දේව රූප"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NCP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-art-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-central-province/"
+        }
+    },
+    {
+        "q_no": 16,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "ඉස්ලාම් ධර්මය සඳහන් ශුද්ධ වු ග්‍රන්ථය හඳුන්වන්නේ,\n",
+        "choices": [
+            "බයිබලය යනුවෙනි.",
+            "ධම්මපදය යනුවෙනි.",
+            "භගවත් ගීතාව.",
+            "කුර්ආනය යනුවෙනි."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NCP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-art-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-central-province/"
+        }
+    },
+    {
+        "q_no": 17,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "දුර තිබෙන වස්තූන් කුඩාවටත් ලඟ තිබෙන වස්තූන් විශාලවත් පෙනීම හඳුන්වන්නේ",
+        "choices": [
+            "පර්යාවලෝකය නමිනි",
+            "ක්ෂයවෘද්ධි ලක්ෂණ නමිනි",
+            "ද්විමාන ලක්ෂණ නමිනි",
+            "පරාවර්තනය නමිනි"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-06-art-second-term-test-paper-with-answers-2020/"
+        }
+    },
+    {
+        "q_no": 18,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "ධාන්‍ය ගොඩක හැඩය ගත් ස්ථූප හඳුන්වනු ලබන්නේ",
+        "choices": [
+            "බුබ්බුලාකාර නමිනි",
+            "ධාන්‍යාකාර නමිනි",
+            "ඝණ්ඨාකාර නමිනි",
+            "ආම්ලාකාර නමිනි"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-06-art-second-term-test-paper-with-answers-2020/"
+        }
+    },
+    {
+        "q_no": 19,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "ඉවත දමන රෙදි කැබලි, කඩදාසි කැබලි ආදිය අලවා නිර්මාණය කරන චිත්‍ර වන්නේ\n",
+        "choices": [
+            "කොලාජ් චිත්‍ර",
+            "කාටුන් චිත්‍ර",
+            "ග්‍රැෆික් චිත්‍ර",
+            "පෝස්ටර් චිත්‍ර"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-06-art-second-term-test-paper-with-answers-2020/"
+        }
+    },
+    {
+        "q_no": 20,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "වෙසක් උත්සවය වඩාත් වැදගත් වනුයේ",
+        "choices": [
+            "බෞද්ධාගමිකයන්ටය",
+            "හින්දු භක්තිකයන්ටය",
+            "ක්‍රස්තියානි ආගමිකයන්ටය",
+            "ඉස්ලාම් ආගමිකයන්ටය"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-06-art-second-term-test-paper-with-answers-2020/"
+        }
+    },
+    {
+        "q_no": 21,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "එකලස් කිරීමේ ශිල්ප ක්‍රමයට පහසුවෙන් මූර්තියක් නිම කිරීමට ද්‍රව්‍ය ඇතුළත් වරණය කුමක්ද?\n",
+        "choices": [
+            "පිහිය, අඩිරූල,මිටිය",
+            "ඉවතලන ප්ලාස්ටික්,ලෑලිපටි,ගම් වර්ග,කම්බි,ඇණ,කඩදාසි,නූල්",
+            "කියත, උදැල්ල,සවල",
+            "ලී දඬු, වැලි,ගඩොල්"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_2",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/2023-grade-06-art-2nd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 22,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "ග්‍රැෆික් නිර්මාණකරණයේදි සිදුරු තහඩු මුද්‍රණයක් කිරීමට අවශ්‍ය ද්‍රව්‍ය ඇතුළත් වරණය කුමක්ද?\n",
+        "choices": [
+            "පෝස්ටර් සායම්,ෆැබ්‍රික් සායම්, දත් බුරුසුවක්, පනාවක්, කඩදාසියක්.",
+            "පෝස්ටර් සායම්,ෆැබ්‍රික් සායම්,අඩිරූල,මකනය,කඩදාසියක්.",
+            "පෝස්ටර් සායම්,ෆැබ්‍රික් සායම්,ඇණයක්,මිටියක්, කඩදාසියක්.",
+            "පෝස්ටර් සායම්,ෆැබ්‍රික් සායම්,අල ගෙඩි,පොල්කුඩු,කඩදාසියක්."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_2",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/2023-grade-06-art-2nd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 23,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "චිත්‍රයක් රේඛාවෙන් ඇඳ එළිය අඳුර දැක්වීමෙන් පසුව,",
+        "choices": [
+            "එම වස්තුවේ ද්විමාණ බව පැහැදිලිව පෙනේ.",
+            "එම වස්තුවේ ත්‍රිමාණ බව පැහැදිලිව පෙනේ.",
+            "එම වස්තුවේ පැති පෙනුම පැහැදිලිව පෙනේ.",
+            "එම වස්තුවේ දිග පැහැදිලිව පෙනේ."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_2",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/2023-grade-06-art-2nd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 24,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "රතු සහ කහ මිශ්‍ර කිරීමෙන් සෑදෙන වර්ණය කුමක්ද?\n",
+        "choices": [
+            "රතු දම් වර්ණයයි",
+            "කොළ වර්ණයයි",
+            "තැඹිලි (රඹ) වර්ණයයි",
+            "දම් වර්ණයයි"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_2",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/2023-grade-06-art-2nd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 25,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "\"රාමසාන්\" උත්සවයේදී ඉටුකරන උපවාස කාලය හඳුන්වනු ලබන අරාබි වචනය",
+        "choices": [
+            "සදකා",
+            "සලාත්",
+            "සව්ම්",
+            "ෂව්වාල්"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_1",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-07-art-1st-term-test-paper-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 26,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "නෙල්ලි ගෙඩියක හැඩයෙන් යුත් ස්ථූප හඳුන්වනු ලබන්නේ",
+        "choices": [
+            "ඝණ්ඨාකාර චෛත්‍ය",
+            "ආම්ලාකාර චෛත්‍ය",
+            "ඝටාකාර චෛත්‍ය",
+            "ධාන්‍යාකාර චෛත්‍ය"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_1",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-07-art-1st-term-test-paper-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 27,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "ක්‍රිස්තියානි දේවස්ථානයක බිම් සැලැස්ම නිර්මාණයේ හැඩය වන්නේ",
+        "choices": [
+            "ආරුක්කු",
+            "වෘත්තාකාර",
+            "කුරුසයක",
+            "අඩසඳ හා තරුව"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_1",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-07-art-1st-term-test-paper-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 28,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "චෛත්‍ය කොටසක් වන්නේ",
+        "choices": [
+            "දේවතා කොටුව",
+            "මිනාර්",
+            "අල්තාරය",
+            "ගෝපුරම්"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_1",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-07-art-1st-term-test-paper-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 29,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "කාටුන් නිර්මාණ වල දැකිය හැකි විශේෂ ලක්ෂණයකි\n",
+        "choices": [
+            "ළමයාගේ මනස අවුල් කරයි",
+            "වැඩිහිටියන් අතර ජනප්‍රියයි",
+            "සරල හැඩතල යොදා ගනී",
+            "ළමා මනසට උචිත ආකර්ෂනීය හැඩතල හා වර්ණ රටා භාවිතය"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_1",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-07-art-1st-term-test-paper-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 30,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "මුස්ලිම් පල්ලිවල සෑම කුළුණකම මුදුනෙහි දක්නට ලැබෙනුයේ,",
+        "choices": [
+            "ඉර හා සඳ",
+            "අඩ සඳ හා තරුව",
+            "ධර්ම චක්‍රය",
+            "කුරුසය"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_1",
+            "year": 2018,
+            "source": "https://pastpapers.wiki/grade-07-art-1st-term-test-paper-2018-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 31,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "බුදුන් වහන්සේගේ තෙමඟුල සිහිගන්වමින් පවත්වනු ලබන උත්සවය නම්,",
+        "choices": [
+            "නත්තල් උත්සවය",
+            "පොසොන් උත්සවය",
+            "වෙසක් උත්සවය",
+            "තෛපොංගල් උත්සවය"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_1",
+            "year": 2018,
+            "source": "https://pastpapers.wiki/grade-07-art-1st-term-test-paper-2018-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 32,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "කාටූන් නිර්මාණයකට උදාහරණයකි.",
+        "choices": [
+            "හෝගානා පොකුණ",
+            "අධිරජ ධර්මාශෝක",
+            "සුජාත දියණිය",
+            "පිස්සු පූසා"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_1",
+            "year": 2018,
+            "source": "https://pastpapers.wiki/grade-07-art-1st-term-test-paper-2018-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 33,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "රුවන්වැලි සෑය වටා ඇති ඉතා විශිෂ්ට කලාත්මක නිර්මාණය,",
+        "choices": [
+            "ඇත් පවුර",
+            "වටදාගෙය",
+            "වාහල්කඩ",
+            "ගල් කුළුණු"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_1",
+            "year": 2018,
+            "source": "https://pastpapers.wiki/grade-07-art-1st-term-test-paper-2018-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 34,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "කැලණි විහාරයේ වර්තමාන ස්ථූපය .................................................... හැඩයෙන් නිර්මාණය කර ඇත.",
+        "choices": [
+            "ධාන්‍යාකාර",
+            "බුබ්බුලාකාර",
+            "ඝටාකාර",
+            "ඝණ්ඨාකාර"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_2",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/2023-grade-07-art-2nd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 35,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "මානව හා සත්ත්ව රූප යොදා ගනිමින් ස්වාභාවික පරිසරය නිරූපණය වන පරිදි චිත්‍ර සංරචනය,",
+        "choices": [
+            "පොස්ටර් චිත්‍ර",
+            "මෝස්තර චිත්‍ර",
+            "ප්‍රකාශන චිත්‍ර",
+            "ද්‍රව්‍ය සම්පිණ්ඩන"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_2",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/2023-grade-07-art-2nd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 36,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "දම් වර්ණයට විසංගත වර්ණයක් වන්නේ,",
+        "choices": [
+            "නිල්",
+            "කහ",
+            "කොළ",
+            "තැඹිලි"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_2",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/2023-grade-07-art-2nd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 37,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "ශ්‍රී ලංකාවේ ප්‍රාග් ඓතිහාසික ගුහා චිත්‍ර දැකගත හැකි ස්ථානයක් නොවන්නේ,",
+        "choices": [
+            "තන්තිරිමලේ",
+            "දොරවක",
+            "සීගිරිය",
+            "බිල්ලෑව"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-07-art-2nd-term-test-paper-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 38,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "තන්තිරිමලේ ලෙන පිහිටා ඇත්තේ,",
+        "choices": [
+            "අනුරාධපුර දිස්ත්‍රික්කයේ ය.",
+            "කුරුණෑගල දිස්ත්‍රික්කයේ ය.",
+            "කෑගල්ල දිස්ත්‍රික්කයේ ය.",
+            "රත්නපුර දිස්ත්‍රික්කයේ ය."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-07-art-2nd-term-test-paper-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 39,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "රූකඩ නිර්මාණ සාර්ථක කර ගැනීම සඳහා ඉවහල්වන අංගයක් නොවන්නේ,",
+        "choices": [
+            "පසුබිම් සංගීතය",
+            "ගීත ගායනය",
+            "දෙබස් කථනය",
+            "සංස්කරණය"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-07-art-2nd-term-test-paper-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 40,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "රූපවාහිනී මාධ්‍ය තුළ වඩාත් ජනප්‍රිය රූකඩ නිර්මාණ වන්නේ,",
+        "choices": [
+            "නූල් රූකඩ",
+            "අත් රූකඩ",
+            "ඇඟිලි රූකඩ",
+            "සෙවනැලි රූකඩ"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-07-art-2nd-term-test-paper-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 41,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "ශ්‍රී ලංකාවේ ප්‍රාග් ඓතිහාසික චිත්‍ර වැදි ජනතාව විසින් අඳින සිතුවම් බව පවසන්නේ,",
+        "choices": [
+            "ඊ. පී. දැරණියගල මහතා.",
+            "ඩී. බී. නන්දදේව මහතා.",
+            "සෙලිග්මාන් මහතා.",
+            "පරණවිතාන මහතා."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NCP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-07-art-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-central-province/"
+        }
+    },
+    {
+        "q_no": 42,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "බුදුන් වහන්සේගේ දකුණු අකු ධාතුව තැන්පත් කොට ඉදි කළ ස්ථූපය වන්නේ,",
+        "choices": [
+            "ථූපාරාම දාගැබයි.",
+            "කැලණි දාගැබයි.",
+            "අභයගිරි දාගැබයි.",
+            "රන්කොත් වෙහෙරයි."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NCP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-07-art-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-central-province/"
+        }
+    },
+    {
+        "q_no": 43,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "කොළ වර්ණය සාදා ගැනීමට එකතු කළ යුතු වර්ණ යුගලය වන්නේ,",
+        "choices": [
+            "නිල්, රතු.",
+            "කහ, නිල්.",
+            "රතු, කහ.",
+            "දම්, රඹ."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NCP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-07-art-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-central-province/"
+        }
+    },
+    {
+        "q_no": 44,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "ශ්‍රී ලංකාවේ ප්‍රාග් ඓතිහාසික සිතුවම් අතර ඇතා සහ පැටවා නම් සිතුවම හමුවන්නේ,",
+        "choices": [
+            "තන්තිරිමලේ ගුහාවෙනි",
+            "බිල්ලෑව ගුහාවෙනි",
+            "දොරවක ගුහාවෙනි",
+            "වෙට්ටම්බුගල ගුහාවෙනි"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-07-art-2nd-term-test-paper-2019-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 45,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "පැදුරු කර්මාන්තයේ දී පන් හා නියඳ, කහ පැහැයෙන් වර්ණ ගැන්වීම සඳහා භාවිතා කරන ලද්දේ,",
+        "choices": [
+            "පතඟි දැව",
+            "වෙනිවැල් ගැට",
+            "ලුණු මිදෙල්ල",
+            "කැළෑ කොහොඹ"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-07-art-2nd-term-test-paper-2019-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 46,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "අනුරාධපුර යුගයට අයත් ජේතවනාරාම දාගැබේ හැඩය වන්නේ,",
+        "choices": [
+            "බුබ්බුලාකාර",
+            "පද්මාකාර",
+            "ධාන්‍යාකාර",
+            "ඝණ්ඨාකාර"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-07-art-2nd-term-test-paper-2019-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 47,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "හින්දු කෝවිල්වල දැකගත හැකි ප්‍රධාන ගෘහ නිර්මාණ අංගයක් වන්නේ,",
+        "choices": [
+            "ගෝපුරම්",
+            "මිනාර්",
+            "අල්තාරය",
+            "කුරුසිය"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-07-art-2nd-term-test-paper-2019-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 48,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "රුවන්වැලි සෑ මහ මළුවෙන් හමුවන ප්‍රතිමාවකි.",
+        "choices": [
+            "වලගම්බා රජු",
+            "භාතිය තිස්ස රජු",
+            "දේවානම්පියතිස්ස රජු",
+            "නිශ්ශංක මල්ල රජු"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-07-art-3rd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 49,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "කෝලම් නමින් හඳුන්වන මෝස්තර රටා කිනම් ආගමකට අයත් නිර්මාණාත්මක කටයුත්තක්ද?",
+        "choices": [
+            "ඉස්ලාම්",
+            "හින්දු",
+            "කතෝලික",
+            "බෞද්ධ"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-07-art-3rd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 50,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "ශ්‍රී ලංකාවේ පැරණි බෝධිඝර අතුරින් සුරක්ෂිතව ඇති බෝධිඝරය හමුවන්නේ,",
+        "choices": [
+            "වෙස්සගිරිය",
+            "මහියංගනය",
+            "ථුපාරාමය",
+            "නිල්ලක්කගම"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-07-art-3rd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 51,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "ඉස්ලාම් පල්ලිවල දෙපස ඉදිකර ඇති කුලුණු හඳුන්වනු ලබන්නේ,",
+        "choices": [
+            "කුෆා",
+            "මිනාර්",
+            "ගොතික්",
+            "ගෝපුර"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-07-art-3rd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 52,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "බුදුන් වහන්සේගේ පටිධාතුව තැන්පත් කර නිර්මාණය කරන ලද දාගැබ වන්නේ,",
+        "choices": [
+            "අභයගිරිය දාගැබ",
+            "රන්කොත් වෙහෙර",
+            "ථුපාරාමය දාගැබ",
+            "ජේතවනාරාම දාගැබ"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-07-art-3rd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 53,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "තැඹිලි වර්ණය",
+        "choices": [
+            "මූලික වර්ණයකි",
+            "විසංගත වර්ණයකි",
+            "ද්විතියික වර්ණයකි",
+            "අපක්ෂපාතී වර්ණයකි."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-07-art-3rd-term-test-paper-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 54,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "ඇඹීම් ශිල්ප ක්‍රමය සඳහා වඩාත් සුදුසුම මාධ්‍යය වන්නේ",
+        "choices": [
+            "සිමෙන්ති",
+            "මැටි",
+            "සබන්",
+            "ගල්"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-07-art-3rd-term-test-paper-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 55,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "චීත්ත රෙද්දක් නිර්මාණය සඳහා වඩාත් සුදුසු මෝස්තර වර්ගය වන්නේ",
+        "choices": [
+            "වෘත්තාකාර මෝස්තර",
+            "මුළුනල මෝස්තර",
+            "ව්‍යාප්ත මෝස්තර",
+            "වාටි මෝස්තර"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-07-art-3rd-term-test-paper-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 56,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "අක්‍ෂරකරණය අයත් චිත්‍ර වර්ගය වන්නේ",
+        "choices": [
+            "ග්‍රැපික්",
+            "සංරචන",
+            "මෝස්තර",
+            "මූර්ති"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-07-art-3rd-term-test-paper-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 57,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "කොලාජ් චිත්‍රයක මූලික මාධ්‍ය වන්නේ",
+        "choices": [
+            "දියසායම්",
+            "පැස්ටල්",
+            "ප්ලැටිග්නම්",
+            "කඩදාසි"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-07-art-3rd-term-test-paper-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 58,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "අනුරාධපුර යුගයට අයත් ස්ථූපයක් නොවන්නේ",
+        "choices": [
+            "රුවන්වැලි සෑය ය.",
+            "ජේතවනාරාමය ය.",
+            "අභයගිරිය ය.",
+            "රන්කොත් වෙහෙර ය."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://www.e-thaksalawa.moe.gov.lk/moodle/course/view.php?id=50"
+        }
+    },
+    {
+        "q_no": 59,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "පාරම්පරික කර්මාන්තයක් වන තල් කොළ කර්මාන්තය වඩාත් ප්‍රචලිත දිස්ත්‍රික්කයක් වන්නේ,",
+        "choices": [
+            "මඩකලපුව ය.",
+            "ගාල්ල ය.",
+            "කළුතර ය.",
+            "කුරුණෑගල ය."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://www.e-thaksalawa.moe.gov.lk/moodle/course/view.php?id=50"
+        }
+    },
+    {
+        "q_no": 60,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "සංඛ නිධි හා පද්ම නිධි යන මුරගල් ඇති පිවිසුම් දොරටුව සහිත ස්තූපය වන්නේ,",
+        "choices": [
+            "ථූපාරාමයයි",
+            "රන්කොත් වෙහෙරයි",
+            "ජේතවනාරාමයයි.",
+            "අභයගිරියයි."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://www.e-thaksalawa.moe.gov.lk/moodle/course/view.php?id=50"
+        }
+    },
+    {
+        "q_no": 61,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "සාම්ප්‍රදායික මෝස්තර අතර ශාඛා හා පුෂ්ප කොටස් ඇසුරෙන් කරන ලද නිර්මාණ අයත් වන්නේ,",
+        "choices": [
+            "දිව්‍ය ගණයටය.",
+            "උද්භිද ගණයටය.",
+            "සත්ව ගණයටය",
+            "නිර්ජීවී ගණයටය."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://www.e-thaksalawa.moe.gov.lk/moodle/course/view.php?id=50"
+        }
+    },
+    {
+        "q_no": 62,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "ලක්දිව ඉදිකළ පළමු ස්ථූපය ලෙස හඳුන්වන්නේ,",
+        "choices": [
+            "කැලණි විහාරයයි.",
+            "ථූපාරාම විහාරයයි.",
+            "අභයගිරි විහාරයයි.",
+            "ජේතවන විහාරයයි."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_3",
+            "year": 2018,
+            "source": "https://www.e-thaksalawa.moe.gov.lk/moodle/course/view.php?id=50"
+        }
+    },
+    {
+        "q_no": 63,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "ජන කලාවක් ලෙස ශ්‍රී ලංකාවේ පාරම්පරිකව පැවත එන රූකඩ වර්ගය",
+        "choices": [
+            "අත් රූකඩ වේ.",
+            "රිටි රූකඩ වේ.",
+            "නූල් රූකඩ වේ.",
+            "සෙවනැලි රූකඩ වේ."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_3",
+            "year": 2018,
+            "source": "https://www.e-thaksalawa.moe.gov.lk/moodle/course/view.php?id=50"
+        }
+    },
+    {
+        "q_no": 64,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "වාටියක් හෝ අයිනක් සැරසිලි කිරීම සඳහා බහුල වශයෙන් මෙම සැරසිල්ල යොදාගෙන ඇත.",
+        "choices": [
+            "පිච්ච මල",
+            "පලාපෙති",
+            "සපුමල",
+            "සීනමල"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_3",
+            "year": 2018,
+            "source": "https://www.e-thaksalawa.moe.gov.lk/moodle/course/view.php?id=50"
+        }
+    },
+    {
+        "q_no": 65,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "ද්විතීයික වර්ණයක් වන 'තැඹිලි' වර්ණය තුළින් කහ වර්ණය ඉවත් කළ විට ඉතිරි වන වර්ණය වන්නේ,",
+        "choices": [
+            "රතු",
+            "නිල්",
+            "දම්",
+            "කොළ"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_2",
+            "year": 2018,
+            "source": "https://www.e-thaksalawa.moe.gov.lk/moodle/course/view.php?id=50"
+        }
+    },
+    {
+        "q_no": 66,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "නූල් රූකඩ නිර්මාණයේ දී රූකඩ සෑදීම සඳහා ප්‍රධාන වශයෙන් දැව භාවිතා කරන අතර ඒ සඳහා වැඩි වශයෙන් භාවිත කරන දැව වර්ගය නම්",
+        "choices": [
+            "කළුවර",
+            "තේක්ක",
+            "රුක්අත්තන",
+            "බුරුත"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_2",
+            "year": 2018,
+            "source": "https://www.e-thaksalawa.moe.gov.lk/moodle/course/view.php?id=50"
+        }
+    },
+    {
+        "q_no": 67,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "ස්තූපයේ කටයුතු නිමවීමට පෙර දුටුගැමුණු රජතුමාගේ අභාවය සිදුවූ අතර ඔහුගේ සොහොයුරු වූ සද්ධාතිස්ස රජතුමා එහි ඉදිකිරීම ද, ඇත් පවුර හා සුදු පිරියම් ආදී කටයුතු ද සම්පූර්ණ කර ඇත. මෙයින් හැඳින්වෙන දාගැබ නම්",
+        "choices": [
+            "මිරිසවැටිය",
+            "රුවන්වැලි සෑය",
+            "ජේතවනාරාමය",
+            "අභයගිරිය"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_2",
+            "year": 2018,
+            "source": "https://www.e-thaksalawa.moe.gov.lk/moodle/course/view.php?id=50"
+        }
+    },
+    {
+        "q_no": 68,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "හින්දු කෝවිල් දොරටුව අභියස කළු ගලින් කරන ලද ඔවුන් විසින් පූජනීයත්වයෙන් සලකනු ලබන සත්ව රූපය වන්නේ,",
+        "choices": [
+            "අලියා",
+            "ගවයා",
+            "අශ්වයා",
+            "සිංහයා"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_2",
+            "year": 2018,
+            "source": "https://www.e-thaksalawa.moe.gov.lk/moodle/course/view.php?id=50"
+        }
+    },
+    {
+        "q_no": 69,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "ප්‍රථම දෙවොල් මඩු ශාන්ති කර්මය රුවන්වැල්ල ආශ්‍රිතව පැවැත් වූ බව සඳහන් වන්නේ,",
+        "choices": [
+            "පත්තිනි දෙවඟන මුල් කර ගෙන යි",
+            "කොහොඹා දෙවියන් මුල් කර ගෙන යි",
+            "ගණ දෙවියන් මුල් කරගෙන යි",
+            "විෂ්ණු දෙවියන් මුල් කර ගෙන යි"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_1",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-8-art-past-paper-in-sinhala-medium-2019-1st-term-test-exam/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 70,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "හින්දු කෝවිල් ආශ්‍රිතව පවත්වනු ලබන ශාන්ති කර්මය වන්නේ,",
+        "choices": [
+            "පහන් මඩු ශාන්ති කර්මය යි",
+            "දෙවොල් මඩු ශාන්ති කර්මය යි",
+            "කුම්බා බිෂේෂ්කම් ශාන්ති කර්මය යි",
+            "කොහොඹා කන්කාරි ශාන්ති කර්මය යි"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_1",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-8-art-past-paper-in-sinhala-medium-2019-1st-term-test-exam/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 71,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "අතීතයේ වටදාගෙයක් තිබූ බවට දාගැබ වටා දැනට ශේෂව ඇති ගල් කණු මගින් හඳුනා ගත හැකිය. එසේ හඳුනා ගෙන ඇති ස්ථානයකි.",
+        "choices": [
+            "අභයගිරි විහාරය",
+            "රන්කොත් වෙහෙර",
+            "ථූපාරාමය",
+            "ජේතවනාරාමය"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_1",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-8-art-past-paper-in-sinhala-medium-2019-1st-term-test-exam/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 72,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "පැදුරු කර්මාන්තයේ දී පන් හා නියඳ වර්ණ කර ගැනීමේ දී \"රතු\" වර්ණය සාදා ගැනීමට යොදා ගනු ලබන්නේ,",
+        "choices": [
+            "වෙනිවැල් ගැට වේ",
+            "පතඟි දැව වේ",
+            "අරළු බුළු වේ",
+            "කනේරු කොළ වේ"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_1",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-8-art-past-paper-in-sinhala-medium-2019-1st-term-test-exam/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 73,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "ශ්‍රී ලංකාවේ මැටි භාණ්ඩ සෑදීමේ ඉපැරණිම තාක්ෂණික ක්‍රියාවලිය වන්නේ,",
+        "choices": [
+            "අත් සකපෝරුව යොදා ගැනීම.",
+            "පා සකපෝරුව යොදා ගැනීම.",
+            "මැටි වළලු භාවිතය.",
+            "පුවරු භාවිතය."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NCP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-art-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-central-province/"
+        }
+    },
+    {
+        "q_no": 74,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "බුද්ධ ප්‍රතිමාවල දෙපා පිහිටුවා ඇති ඉරියව්ව හඳුන්වන්නේ",
+        "choices": [
+            "මුද්‍රා ලෙස.",
+            "ආසන ක්‍රම ලෙස.",
+            "සිරස්පත ලෙස.",
+            "උෂ්ණීෂය ලෙස."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NCP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-art-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-central-province/"
+        }
+    },
+    {
+        "q_no": 75,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "දුටුගැමුණු රජතුමා විසින් කරවු අනුරාධපුර යුගයට අයත් රුවන්මැලි මහාසෑයේ හැඩය වන්නේ,",
+        "choices": [
+            "බුබ්බුලාකාරය.",
+            "ඝණ්ඨාකාරය.",
+            "පද්මාකාරය.",
+            "ආම්ලාකාරය."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NCP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-art-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-central-province/"
+        }
+    },
+    {
+        "q_no": 76,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "\"රත්වත්තේ අලංකාරය” නම් රටාව භාවිතයට ගන්නා කලා කර්මාන්තය වන්නේ,",
+        "choices": [
+            "මැටි.",
+            "ලාක්ෂා.",
+            "වෙස් මුහුණු.",
+            "පැදුරු."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NCP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-art-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-central-province/"
+        }
+    },
+    {
+        "q_no": 77,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "ක්‍රි.ව. 276 - 303 කාලය අතර මහසෙන් රජතුමා විසින් ඉදි කළ දාගැබක් වන්නේ.",
+        "choices": [
+            "අභයගිරිය.",
+            "ථූපාරාමය.",
+            "ජේතවනාරාමය.",
+            "රුවන්මැලි සෑය."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NCP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-art-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-central-province/"
+        }
+    },
+    {
+        "q_no": 78,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "කොහොඹාකංකාරි ශාන්තිකර්මය අයත් වන්නේ,",
+        "choices": [
+            "උඩරට නර්තන සම්ප්‍රදායට ය.",
+            "පහතරට නර්තන සම්ප්‍රදායට ය.",
+            "සබරගමු නර්තන සම්ප්‍රදායට ය.",
+            "ජන නැටුම් නර්තන සම්ප්‍රදායට ය."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-art-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 79,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "මැටි භාණ්ඩ නිර්මාණය කිරීමේ ක්‍රම ශිල්පයක් නොවන්නේ මෙයින් කුමක්ද?",
+        "choices": [
+            "අත් සකපෝරුව යොදා ගැනීමෙන්",
+            "පා සකපෝරුව යොදා ගැනීමෙන්",
+            "පට්ටලය ආධාරයෙන්",
+            "මැටි වළලු සහ මැටි පුවරු උපයෝගී කර ගැනීමෙන්"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-art-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 80,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "නියඳ කළාල හෙවත් නියඳ පැදුරු ප්‍රධාන කොටස් තුනකින් යුක්ත වන අතර පන්නම් කළාල ලෙස හඳුන්වන්නේ,",
+        "choices": [
+            "සාමාන්‍ය පැදුරු ය.",
+            "මිශ්‍ර සැරසිලි සහිත පැදුරු ය.",
+            "කුරුළු හැඩ සහිත පැදුරු ය.",
+            "අකුරු සහ සත්ත්ව රූප සහිත පැදුරු ය"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-art-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 81,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "තල්කොළ කලා කර්මාන්තයේ දී නිර්මාණය කරන හකුරු බහාලන උපකරණය හඳුන්වන නම වනුයේ,",
+        "choices": [
+            "ඌවල්ය",
+            "කුට්ටාන්ය",
+            "පඩුක්කේයිපායිය",
+            "කදිර්පායිය"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-art-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 82,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "පාරම්පරික සැරසිල්ලක් වන බිනර මල පහතරට ප්‍රදේශයේ දී හඳුන්වන නම වන්නේ,",
+        "choices": [
+            "කුමුදුප්පල",
+            "කිනිහිරියා මල",
+            "කතිර මල",
+            "සීනමල"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-art-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 83,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "\"යාලි\" යන කල්පිත සත්ව රූපය නිර්මාණය වී ඇති සතුන් දෙදෙනා වන්නේ,",
+        "choices": [
+            "හංසයන් දෙදෙනෙක්",
+            "සිංහයෙක් හා නාගයෙක්",
+            "ඇතෙක් හා කිඹුලෙක්",
+            "සිංහයෙක් හා ඇතෙක්"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-08-art-3rd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 84,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "නිදහස හා ආරක්ෂාව ලබා දීම සංකේතවත් කරන මුද්‍රාව ලෙස හඳුන්වන්නේ,",
+        "choices": [
+            "අභය මුද්‍රාව යි",
+            "අංජලී මුද්‍රාව යි.",
+            "වරද මුද්‍රාව යි",
+            "විතර්ක මුද්‍රාව ය."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-08-art-3rd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 85,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "පාර්වතී හා සරස්වතී දේව ප්‍රතිමා හා රූපවල එක් පාදයක් නවාගෙන අනෙක් පාදය නිදහසේ පහතට එල්ලාගෙන සිටින මෙම ඉරියව්වෙන් නිරූපනය වන්නේ,",
+        "choices": [
+            "පර්යංක ආසනය වේ.",
+            "රාජ ලීලාසනය වේ.",
+            "පද්මාසනය වේ.",
+            "ලලිත ආසනය වේ."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-08-art-3rd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 86,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "ශ්‍රී ලංකාවේ බෞද්ධ චෛත්‍යවලට අයත් අංගයක් වන්නේ,",
+        "choices": [
+            "මිනාර්",
+            "පේසා වළලු",
+            "අල්තාරය",
+            "ගෝපුරම්"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://www.e-thaksalawa.moe.gov.lk/moodle/course/view.php?id=116"
+        }
+    },
+    {
+        "q_no": 87,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "දෛනිකව පවත්වන \"තෛමේන්තිය\" පූජාවන්වල බිඳී ගිය බලය තවත් ශක්තිමත් කිරීම සඳහාත් වසර 1කට වතාවක් පවත්වන ශාන්ති කර්මය වන්නේ,",
+        "choices": [
+            "දීපවාලි",
+            "තෛපොංගල්",
+            "කුම්බා බිෂේකම්",
+            "පහන් මඩුව"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://www.e-thaksalawa.moe.gov.lk/moodle/course/view.php?id=116"
+        }
+    },
+    {
+        "q_no": 88,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "ඉන්දියාවේ සාංචි ස්ථූපයේ හර්මිකාව ලෙස හඳුන්වනු ලබන අංගය ශ්‍රී ලංකාවේ චෛත්‍යවල හඳුන්වනු ලබන්නේ,",
+        "choices": [
+            "හතරැස් කොටුව නමිනි.",
+            "දේවතා කොටුව නමිනි.",
+            "පේසාවලලු නමිනි.",
+            "සිළුමිණ නමිනි."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2018,
+            "source": "https://www.e-thaksalawa.moe.gov.lk/moodle/course/view.php?id=116"
+        }
+    },
+    {
+        "q_no": 89,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "ද්විතීයික වර්ණ කාණ්ඩයට අයත් වර්ණ වන්නේ,",
+        "choices": [
+            "රතු, කහ, නිල් වර්ණයන් ය.",
+            "රතු, කොළ, තැඹිලි වර්ණයන් ය.",
+            "දම්, තැඹිලි, කොළ වර්ණයන් ය.",
+            "කහ, තැඹිලි, දම් වර්ණයන් ය."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_2",
+            "year": 2018,
+            "source": "https://www.e-thaksalawa.moe.gov.lk/moodle/course/view.php?id=116"
+        }
+    },
+    {
+        "q_no": 90,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "මුස්ලිම් පල්ලියේ දෙපස ඇති කුළුණු හඳුන්වනු ලබන්නේ,",
+        "choices": [
+            "ශිඛරය නමිනි.",
+            "මිනාර් නමිනි.",
+            "ගෝපුර නමිනි.",
+            "කුරුසිය නමිනි."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_2",
+            "year": 2018,
+            "source": "https://www.e-thaksalawa.moe.gov.lk/moodle/course/view.php?id=116"
+        }
+    },
+    {
+        "q_no": 91,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "පදම් කළ මැටි අවශ්‍ය පරිදි එකතුකරමින් සත්ව රූපයක් නිර්මාණය කිරීමේ ශිල්ප ක්‍රමය වන්නේ,",
+        "choices": [
+            "එකලස් කිරීමයි.",
+            "නෙලීමයි.",
+            "ඇඹීමයි.",
+            "වාත්තු කිරීමයි."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_2",
+            "year": 2018,
+            "source": "https://www.e-thaksalawa.moe.gov.lk/moodle/course/view.php?id=116"
+        }
+    },
+    {
+        "q_no": 92,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "ගද්‍ය හෝ පද්‍ය කොටසකින් මතුවන අදහස වඩාත් තීව්‍ර කිරීම සඳහා අඳිනු ලබන චිත්‍ර හඳුන්වන්නේ,",
+        "choices": [
+            "සන්නිදර්ශන චිත්‍ර",
+            "ප්‍රකාශන චිත්‍ර",
+            "ග්‍රැෆික් චිත්‍ර",
+            "සම්ප්‍රධායික චිත්‍ර"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_2",
+            "year": 2018,
+            "source": "https://www.e-thaksalawa.moe.gov.lk/moodle/course/view.php?id=116"
+        }
+    },
+    {
+        "q_no": 93,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "මැටි කලා කර්මාන්තයේදී මල්පෝච්චි, කැට කුඩා පහන් ආදී කුඩා ප්‍රමාණයේ විසිතුරු භාණ්ඩ නිර්මාණය කරන්නේ,",
+        "choices": [
+            "අත් සකපෝරුව භාවිතයෙනි.",
+            "පා සකපෝරුව භාවිතයෙනි.",
+            "මැටි වළලු හා පුවරු ආධාරයෙනි.",
+            "ඇඹීම හා නෙළීම මගිනි."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_2",
+            "year": 2018,
+            "source": "https://www.e-thaksalawa.moe.gov.lk/moodle/course/view.php?id=116"
+        }
+    },
+    {
+        "q_no": 94,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "ප්‍රංශයේ මොන්ටිනැක් නුවර අසල පිහිටි ගුහාව වන්නේ,",
+        "choices": [
+            "ලැස්කෝ",
+            "ඇල්ටමීරා",
+            "දොරවක",
+            "බිල්ලෑව"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://www.e-thaksalawa.moe.gov.lk/moodle/course/view.php?id=116"
+        }
+    },
+    {
+        "q_no": 95,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "බුදුන් වහන්සේ ගැටළුවක් විසඳන අවස්ථාව සංකේතවත් කරන මුද්‍රාව වන්නේ,",
+        "choices": [
+            "ධ්‍යාන මුද්‍රාව",
+            "අභය මුද්‍රාව",
+            "විතර්ක මුද්‍රාව",
+            "වරද මුද්‍රාව"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://www.e-thaksalawa.moe.gov.lk/moodle/course/view.php?id=116"
+        }
+    },
+    {
+        "q_no": 96,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "මහනුවර දළඳා මාළිගාවේ පල්ලේ මාලයේ සිවිලිමේ ඇති සාම්ප්‍රදායික චිත්‍රයක් වන්නේ,",
+        "choices": [
+            "සිවු හංස පූට්ටුව",
+            "සිංහයා",
+            "හංසයා",
+            "ගවයා"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://www.e-thaksalawa.moe.gov.lk/moodle/course/view.php?id=116"
+        }
+    },
+    {
+        "q_no": 97,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "නිර්ජීවි ගණයට අයත් සැරසිලි ඒකකයක් වන්නේ,\n",
+        "choices": [
+            "සිංහයා.",
+            "අරිම්බුව.", 
+            "ඉර.",
+            "කතිර මල."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NCP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-art-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-central-province/"
+        }
+    },
+    {
+        "q_no": 98,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "යුරෝපා ප්‍රාග් ඓතිහාසික සිතුවම් නිර්මාණයේදී යොදාගත් ශිල්ප ක්‍රමයක් නොවන්නේ,",
+        "choices": [
+            "අත් සළකුණු",
+            "තැවරීම",
+            "වර්ණ සිතුවම්",
+            "උත්තිකරණ චිත්‍ර (ගල් පෘෂ්ඨය සූරා චිත්‍ර ඇඳීම)"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-08-art-second-term-test-paper-with-answers-2020/"
+        }
+    },
+    {
+        "q_no": 99,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "අඩි 17ක් දිග බයිසන් ගවරුව හමුවන යුරෝපා ප්‍රාග් ඓතිහාසික ගුහාවකි",
+        "choices": [
+            "ස්පාඤ්ඤයේ ඇල්ටමයිරා",
+            "ප්‍රංශයේ ලැස්කෝ",
+            "ස්පාඤ්ඤයේ කෝගුල්",
+            "ප්‍රංශයේ පෙන්ඩිගොමි"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-08-art-second-term-test-paper-with-answers-2020/"
+        }
+    },
+    {
+        "q_no": 100,
+        "subject": "Arts",
+        "category": "humanities",
+        "question": "ඊතල පහර කා ඉදිරියට පනිමින් සිටින බයිසන් ගවරුව හා බිම වැතිර සිටින මිනිසකුගේ රුව සහිත සිතුවම හමුවන යුරෝපා ප්‍රාග් ඓතිහාසික ගුහාවකි",
+        "choices": [
+            "ස්පාඤ්ඤයේ ඇල්ටමයිරා",
+            "ප්‍රංශයේ ලැස්කෝ",
+            "ස්පාඤ්ඤයේ කෝගුල්",
+            "ප්‍රංශයේ පෙන්ඩිගොමි"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "චිත්‍ර",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-08-art-second-term-test-paper-with-answers-2020/"
+        }
+    }
+]

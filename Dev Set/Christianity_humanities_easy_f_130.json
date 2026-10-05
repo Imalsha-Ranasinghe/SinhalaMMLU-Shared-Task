@@ -1,0 +1,2732 @@
+[
+    {
+        "q_no": 1,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "දේව මැවිල්ලේ උතුම් ම මැවිල්ල කුමක්ද?",
+        "choices": [
+            "සතුය.",
+            "ගස් වැල් ය.",
+            "අහස හා පොළව ය.",
+            "මිනිසා ය."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-06-christianity-3rd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 2,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "දෙවියන් වහන්සේට සේවය කරන දේව දුතයාගේ නම කුමක්ද?",
+        "choices": [
+            "ගාබ්‍රියෙල් ය.",
+            "මීකාය.",
+            "යෙසායාය.",
+            "නතාන්ය."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-06-christianity-3rd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 3,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "ජේසුස් වහන්සේ මරිය තුමිය හා ජොසප් තුමා සමඟ ජෙරුසලම් දේවමාලිගාවට යන විට උන් වහන්සේගේ වයස කීයද ?",
+        "choices": [
+            "10 කි.",
+            "11 කි.",
+            "12 කි.",
+            "14 කි."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-06-christianity-3rd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 4,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "ජේසුස් වහන්සේව කුරුසියේ ඇණ ගසනු ලැබුවේ කොහේදිද?",
+        "choices": [
+            "සීනයි කන්දේදී ය.",
+            "ගොල්ගොතා කන්දේදී ය.",
+            "ජෙරුසලම් දේවමාලිගයේදී ය.",
+            "ජුදෙව් ධර්ම ශාලාවේදී ය."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-06-christianity-3rd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 5,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "ජේසුස් වහන්සේගේ පෙරමග සලසන්නා ලෙස කටයුතු කළේ කවුරුන් ද?",
+        "choices": [
+            "ආබ්‍රහම් තුමාය.",
+            "ස්නාවක ජෝහාන් තුමා ය.",
+            "පේදුරු තුමාය.",
+            "ජාකොබ් තුමාය."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-06-christianity-3rd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 6,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "දේව මැවිල්ල පිළිබඳ සඳහන් බයිබල් ග්‍රන්ථය වනුයේ",
+        "choices": [
+            "උත්පත්ති",
+            "නික්මයාම",
+            "ජෙරමියා",
+            "එළිදරව්ව"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-christianity-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 7,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "ජේසුස් වහන්සේගේ කුරුසිය උසුලාගෙන යාමට උන්වහන්සේට සහාය වූයේ,",
+        "choices": [
+            "නිකදේමුස්",
+            "බරබ්බාස්",
+            "සිරේනියේ සීමෝන්",
+            "අන්තජාති වාදී සීමෝන්"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-christianity-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 8,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "ජේසුස් වහන්සේගේ බෞතිස්ම මොහොතේ ආත්මයාණන් වහන්සේ ප්‍රකාශ වූ සලකුණ වනුයේ,",
+        "choices": [
+            "ගිනි දැල්ල",
+            "පරවියා",
+            "වලාකුළු",
+            "සැඩ සුළඟ"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-christianity-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 9,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "ක්‍රිස්තුස් වහන්සේගේ නිහතමානිකම ප්‍රකාශ වූ ප්‍රබල සිදුවීමකි.",
+        "choices": [
+            "කානා නුවර වතුර මිදිරසට හැරවීම",
+            "යයිරස්ගේ දියණිය මරණින් නැගිටුවීම",
+            "ශ්‍රාවකයන්ගේ පාද දෝවනය",
+            "උත්ථානයෙන් පසු දර්ශනය වීම"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-christianity-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 10,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "ශු. බයිබලයේ පැරණි ගිවිසුම මුලින් ම ලියන ලද භාෂාව වනුයේ,",
+        "choices": [
+            "ග්‍රීක භාෂාව",
+            "හීබෲ භාෂාව",
+            "ලතින් භාෂාව",
+            "අරමයක් භාෂාව"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-christianity-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 11,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "දෙවියන් වහන්සේ සතරවන දින දී මවන ලද දේවල් වන්නේ,",
+        "choices": [
+            "ගස් කොළන් ය.",
+            "ආකාශ වස්තුන් ය.",
+            "මිනිසා ය.",
+            "අහස සහ සාගරය ය."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-christianity-3rd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 12,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "ශුද්ධ වූ බයිබලය මුලින් ම ලියැවුණේ කුමන භාෂාවෙන් ද?",
+        "choices": [
+            "හෙබ්‍රෙව් භාෂාවෙනි.",
+            "ග්‍රීක භාෂාවෙනි.",
+            "ලතින් භාෂාවෙනි.",
+            "ඉංග්‍රීසි භාෂාවෙනි."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-christianity-3rd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 13,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "\"ආචාරිනි, අපට කරුණා කරන්න.\" කියා ජේසුස් වහන්සේට පවසන ලද්දේ කවුරුන් ද?",
+        "choices": [
+            "අංශභාග රෝගියා ය.",
+            "අතක් පණ නැති මිනිසා ය.",
+            "කොර මිනිසා ය.",
+            "ලාදුරු රෝගීන් ය."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-christianity-3rd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 14,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "ජේසුස් වහන්සේ නැවත නැගිටි බවට සාක්ෂි දැරූ කාන්තාවක් නොවන්නේ,",
+        "choices": [
+            "මීරියම් ය.",
+            "මද්ගලායේ මරියා ය.",
+            "ජෝවන්නා ය.",
+            "ජාකොබ්ගේ මව වූ මරියා ය."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-christianity-3rd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 15,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "\"සාමුවෙල්\" යන නමේ තේරුම වන්නේ,",
+        "choices": [
+            "දෙවියන් වහන්සේ අප සමඟයි.",
+            "දෙවියන් වහන්සේ සිනාසුණේ ය.",
+            "දෙවියන් වහන්සේගෙන් ඉල්ලා ගත්.",
+            "දෙවියන් වහන්සේගෙන් කැඳවීම ලද්දේ ය."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-christianity-3rd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 16,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "ජේසුස් වහන්සේගේ උපත දේවදූතයින් මුලින්ම දැනුම් දුන්නේ ,",
+        "choices": [
+            "ගොවීන්ට ය .",
+            "එඬේරුන්ටය .",
+            "ශ්‍රාස්ත්‍ර වන්තයින්ට ය .",
+            "සාමාන්‍ය ජනතාවට ය ."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-christianity-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 17,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "ස්නාවක ජොහාන්තුමාගේ දෙමාපියන් වන්නේ ,",
+        "choices": [
+            "මරියා හා ජෝසෙප් ප්ය .",
+            "හන්නා හා එල්කානා ය .",
+            "ආබ්‍රහම් හා සාරා ය .",
+            "එළිසබෙත් හා සෙකරියස් ය ."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-christianity-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 18,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "ජේසු කුමරු දෙමාපියන් සමඟ දෙව් මැදුරට ගිය මංගල්‍යය වන්නේ ,",
+        "choices": [
+            "පාස්කුය .",
+            "කූඩාරම් ය .",
+            "නත්තල් ය .",
+            "සංවත්සරය ."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-christianity-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 19,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "ජුදෙව්වරුන් බැබිලෝනියට පිටුවහල් කළ විට සමාරියට පැමිණ පදිංචි වූ කණ්ඩායම හඳුන්වන්නේ ,",
+        "choices": [
+            "ජුදෙව්වරු ලෙසය .",
+            "බැබිලෝනියන්වරු ලෙසය .",
+            "සමාරිතවරු ලෙසය .",
+            "විනයධරයන් ලෙසය ."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-christianity-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 20,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "පැළයක් සිටුවීමෙන් දේව මැවිල්ලට ඔබ දායක වන්නේ ,",
+        "choices": [
+            "වර්ෂාව ලබා දීම සඳහාය .",
+            "මනුෂ්‍යයෙකු ලෙස තම වගකීම ඉටු කිරීම සඳහාය .",
+            "මැවිල්ල වැඩි වර්ධනය කිරීම සඳහාය .",
+            "පරිසරය අලංකාර කිරීම සඳහාය ."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-christianity-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 21,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "දෙවියන් වහන්සේ මිනිසා මවන ලද්දේ,",
+        "choices": [
+            "දෙවන දිනය .",
+            "හතරවන දිනය .",
+            "පස්වන දිනය .",
+            "හයවන දිනය"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_1",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-christianity-1st-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 22,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "දෙවිපියා දවාල පාලනය කිරීම සඳහා මැවූ දෙය වන්නේ,",
+        "choices": [
+            "හිරුය .",
+            "සඳය .",
+            "වළාකුළු ය .",
+            "තරු ය"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_1",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-christianity-1st-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 23,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "මැවීම පිළිබඳ බයිබලයේ සඳහන් පොත වන්නේ,",
+        "choices": [
+            "නික්ම යාම ය .",
+            "උත්පත්ති ය .",
+            "මතෙව් ය .",
+            "ගීතාවලිය ය ."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_1",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-christianity-1st-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 24,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "ජේසුස් වහන්සේගේ උපත දේව දූතයා මුලින් ම දැනුම් දෙනු ලැබුවේ,",
+        "choices": [
+            "ශාස්ත්‍ර වන්තයන්ට ය",
+            "හෙරොටය",
+            "එඬේරුන්ටය .",
+            "සිමියොන්ටය ."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_1",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-christianity-1st-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 25,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "ජේසුස් වහන්සේ වයස දොළහේ දී ජෙරුසලම් දේව මාළිගයට දෙමාපියන් සමඟ ගියේ,",
+        "choices": [
+            "පෙන්තකොස්ත මංගල්‍යයටය .",
+            "පාස්කු මංගල්‍යයට ය .",
+            "කුඩාරම් මංගල්‍යයට ය .",
+            "කැප කිරීමේ මංගල්‍යට ය ."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_1",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-christianity-1st-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 26,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "දෙවියන් වහන්සේ ආදි මව්පියන් පදිංචි කළ උයන වන්නේ,",
+        "choices": [
+            "ගෙත් සෙමන උයන ය .",
+            "ඔලිව් උයන ය .",
+            "මල් උයන ය .",
+            "ඒදන් උයන ය ."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_1",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-christianity-1st-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 27,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "මිසර දේශයේ වහලුන්ව සිටි ජනතාව මුදා ගැනීමට දෙවියන් වහන්සේ තෝරා ගත්තේ,",
+        "choices": [
+            "ආරොන්ය .",
+            "ජොෂුවාය .",
+            "මෝසෙස් ය .",
+            "නාදාය ."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_1",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-christianity-1st-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 28,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "කිතුනු දරුවෙකු වර්ධනය නොකළ යුතු ගුණාංගය වන්නේ,",
+        "choices": [
+            "ප්‍රේමය ය .",
+            "වෛරය ය .",
+            "ඉවසීමය ය .",
+            "බෙදා ගැනීම ය ."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_1",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-christianity-1st-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 29,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "ජේසුස් වහන්සේගේ ප්‍රධානත ම ශ්‍රාවකයා වනුයේ,",
+        "choices": [
+            "ජොහන්ය .",
+            "ජුදස් ය .",
+            "පේදුරු ය .",
+            "අන්දෝය ."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_1",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-christianity-1st-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 30,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "ස්නාවක ජොහන්තුමාගේ සේවය පිළිබඳ පැවසූ දිවැසිවරයා වන්නේ ,",
+        "choices": [
+            "ජෙරමියා දිවැසිවරයා ය .",
+            "එලියා දිවැසිවරයා ය .",
+            "යෙසායා දිවැසිවරයාය .",
+            "මීකා දිවැසිවරයා ය ."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-07-christianity-3rd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 31,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "\" බිබ්ලියා ” යන්නෙහි අර්ථය වන්නේ ,",
+        "choices": [
+            "පැපිරස් ය .",
+            "හැකුළුම්පත් ය .",
+            "පොත් ය .",
+            "ලියවිලිය ය ."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-07-christianity-3rd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 32,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "හින්දු ආගමිකයන්ගේ ප්‍රධාන ග්‍රන්ථය වන්නේ ,",
+        "choices": [
+            "කුරානය",
+            "ත්‍රිපිටකය",
+            "වේද ග්‍රන්ථය ය .",
+            "බයිබලය ය ."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-07-christianity-3rd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 33,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "සමාජ අවශ්‍යතා ඉදිරියේ ඔබ ,",
+        "choices": [
+            "බේද නොතකා ක්‍රියා නොකළ යුතුය .",
+            "හැකි තරම් සාමූහික සේවයට එක්විය යුතුය .",
+            "ප්‍රති උපකාරයක් බලාපොරොත්තුවෙන් ක්‍රියා කළ යුතුය .",
+            "උදව් ඉල්ලන අයට පමණක් උදව් කළ යුතුය ."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-07-christianity-3rd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 34,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "ජේසුස් වහන්සේ යාච්ඤා කිරීම සඳහා ගෙත්සෙමනට ගියේ කවුරුන් සමගින්ද ?",
+        "choices": [
+            "පේදුරු , ජාකොබ් , ජොහන් ය .",
+            "පේදුරු , ජාකොබ් , ඇන්ඩෲය .",
+            "පේදුරු , ජාකොබ් , තෝමස් ය .",
+            "පේදුරු , ජාකොබ් , ජුදස් ය ."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_3",
+            "year": 2018,
+            "source": "https://pastpapers.wiki/grade-07-christianity-3rd-term-test-paper-2018-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 35,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": " සියල්ල නිම විය ’ මෙම ප්‍රකාශය ජේසුස් වහන්සේ කුරුසියේ දී පැවසූ ,",
+        "choices": [
+            "පළමු වචනය යි .",
+            "තුන්වන වචනය යි .",
+            "හයවන වචනය යි .",
+            "හත්වන වචනය යි ."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_3",
+            "year": 2018,
+            "source": "https://pastpapers.wiki/grade-07-christianity-3rd-term-test-paper-2018-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 36,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "මුල් කිතුනු සභාවේ ලක්ෂණයක් නොවන්නේ ,",
+        "choices": [
+            "සහභාගීකමය .",
+            "ආත්මාර්ථකාමී බව ය .",
+            "යාච්ඤාව ය .",
+            "ඉගැන්වීම ය ."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_3",
+            "year": 2018,
+            "source": "https://pastpapers.wiki/grade-07-christianity-3rd-term-test-paper-2018-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 37,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "අපේ හැකියාවන් වර්ධනය කර ගත හැකි බවට ජේසු තුමා ඉගැන්වූ උපමා කථාව වන්නේ ,",
+        "choices": [
+            "වපුරන්නාගේ උපමාවය .",
+            "නැති වූ කාසිය පිළිඳ උපමාවය .",
+            "රන්කාසි දහස පිළිබඳ උපමාවය .",
+            "මුහුන් පිළිබඳ උපමාව ය ."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_3",
+            "year": 2018,
+            "source": "https://pastpapers.wiki/grade-07-christianity-3rd-term-test-paper-2018-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 38,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "බයිබලය ලිවීමට ගත වූ කාලය",
+        "choices": [
+            "අවු: 50 කි.",
+            "අවු: 100 කි.",
+            "අවු: 500 කි.",
+            "අවු: 1000 කි."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_3",
+            "year": 2018,
+            "source": "https://pastpapers.wiki/grade-07-christianity-3rd-term-test-paper-2018-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 39,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "දෙවිදුන්ගේ ස්ථිර ප්‍රේමය තුළ ලැබෙන වරප්‍රසාදයකි .",
+        "choices": [
+            "පාපයෙන් මිදී පූර්ණ ජීවිතයක් ගත කිරීම",
+            "දේවගරුබිය නොමැති ජීවිතයක් ගත කිරීම .",
+            "අසාධාරණය රජයන ජීවිතයක් ගත කිරීම .",
+            "දයාවෙන් තොර ජීවිතයක් ගත කිරීම ."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_2",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/2023-grade-07-christianity-2nd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 40,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "සුදර්ශන දොරටුව අසල සිටි කොර වූ මිනිසා සුවකලේ",
+        "choices": [
+            "පේදුරු සහ තෝමස් ය",
+            "පේදුරු සහ ජොහන්ය",
+            "ජාකොබ් සහ පේදුරු ය",
+            "ජොහන් සහ ජාකොබ්ය"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_2",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/2023-grade-07-christianity-2nd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 41,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "ජේසුස් වහන්සේ උත්ථාන වූ බව විශ්වාස නොකළ ගෝලයා වන්නේ .",
+        "choices": [
+            "මතෙව්තුමාය",
+            "තෝමස්තුමාය",
+            "ජොහන්තුමාය",
+            "පේදුරුතුමාය"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_2",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/2023-grade-07-christianity-2nd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 42,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "ස්නාවක ජොහන්තුමා බව්තිස්මය සඳහා පැමිණි ජනතාවට දුන් වැදගත්ම උපදේශනය .",
+        "choices": [
+            "හොඳින් පිරිසිදු වී පැමිණෙන ලෙස ය .",
+            "පසුතැවී සිත් හරවා ගෙන පැමිණෙන ලෙස ය .",
+            "ජේසුස් වහන්සේ හමු වී පැමිණෙන ලෙස ය .",
+            "ස්වර්ග රාජ්‍ය ළඟ නිසා පැමිණෙන ලෙස ය ."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_2",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/2023-grade-07-christianity-2nd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 43,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "මුල් සභාවෙන් අපගේ ජීවිතයට ගත හැකි ආර්ශය වන්නේ .",
+        "choices": [
+            "දේව චාරිත්‍ර වලට මුල් තැන දීමට උනන්දු වීම .",
+            "පුරුද්දක් ලෙස නමස්කාරයට සහභාගී වීම .",
+            "කිතුනු ආගම තනිව අදහන ආගමක් වීම .",
+            "සභාවක් ලෙස එකමුතුව කැපවීමෙන් සහභාගී වීම ."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_2",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/2023-grade-07-christianity-2nd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 44,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "ශුද්ධාත්මයාණන් වහන්සේ විසින් ජේසුස් වහන්සේව පාළුකරයට පැමිණ වූ අවස්ථාවේ උන්වහන්සේ පාළුකරයේ ගත කළ දින ගණන ,",
+        "choices": [
+            "14 කි .",
+            "07 කි .",
+            "40 කි .",
+            "10 කි ."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NCP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-07-christianity-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-central-province/"
+        }
+    },
+    {
+        "q_no": 45,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "එදා ජුදෙව් සමාජය තුළ දේව මාළිගයට යාමට අවසර ලත් පිරිසක් වන්නේ ,",
+        "choices": [
+            "පරිසිවරුන් ය .",
+            "අයකැමියන් ය .",
+            "කාන්තාවන් ය .",
+            "රෝගීන් ය ."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NCP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-07-christianity-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-central-province/"
+        }
+    },
+    {
+        "q_no": 46,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "අන්තිම රාත්‍රී භෝජනය අවස්ථාවේ ජේසුස් වහන්සේ ශ්‍රාවකයන්ට ලබා දුන් රොටී යනු උන්වහන්සේගේ ,",
+        "choices": [
+            "රුධීරය යි .",
+            "ශරීරය යි .",
+            "ඇලය යි .",
+            "කඳුළු යි ."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NCP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-07-christianity-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-central-province/"
+        }
+    },
+    {
+        "q_no": 47,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "ගෙත්සෙමනේ යාච්ඤාව අවස්ථාවේ ජේසුස් වහන්සේ සමඟ සිටි ශ්‍රාවකයන් තිදෙනා වන්නේ ,",
+        "choices": [
+            "පේදුරු , ජාකොබ් , ජොහාන් ය .",
+            "ජොහාන් , ඇන්ඩෘ , ජාකොබ් ය .",
+            "පේදුරු , තද්දෙවුස් , ජාකොබ් ය .",
+            "ජාකොබ් , ඇන්ඩෘ , සීමොන් ය ."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NCP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-07-christianity-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-central-province/"
+        }
+    },
+    {
+        "q_no": 48,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "ජේසුස් වහන්සේගේ උත්ථානය විශ්වාස කිරීමට මැලි වූ ශ්‍රාවකයා වන්නේ ,",
+        "choices": [
+            "පේදුරු ය .",
+            "තෝමස් ය .",
+            "අල්පේවුස් ය .",
+            "මායා ය ."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NCP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-07-christianity-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-central-province/"
+        }
+    },
+    {
+        "q_no": 49,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "පෙන්තකොස්ත දිනයේ පේදුරුතුමාගේ දේශනයෙන් පසු ස්වාමින් වහන්සේ පිළිගත් සංඛ්‍යාව වන්නේ ,",
+        "choices": [
+            "3000 කි .",
+            "4000 කි .",
+            "5000 කි .",
+            "6000 කි ."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NCP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-07-christianity-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-central-province/"
+        }
+    },
+    {
+        "q_no": 50,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "ශුද්ධාත්මයාණන් වහන්සේගේ ආගමනය සිදුවූයේ ,",
+        "choices": [
+            "ගෙත්සෙමනෙ උයනේ දී ය .",
+            "බෙත්ලෙහෙමේ දී ය .",
+            "ජෙරුසලමේ දී ය .",
+            "එන්ගෙයේ දී ය ."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NCP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-07-christianity-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-central-province/"
+        }
+    },
+    {
+        "q_no": 51,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "පේදුරු සහ ජොහාන් තුමා ප්‍රථමයෙන්ම කළ සුව කිරීම වන්නේ ,\n",
+        "choices": [
+            "කුදු ස්ත්‍රිය සුව කිරීම යි .",
+            "අන්ධයකු සුව කිරීම යි .",
+            "උපන්දා සිට කොර වූ පුද්ගලයා සුවපත් කිරීම ය .",
+            "ලේ වතුර වීමේ රෝගියකු සුව කිරීම යි ."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NCP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-07-christianity-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-central-province/"
+        }
+    },
+    {
+        "q_no": 52,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "මුල් කිතුනු සභාවේ පදනම වුයේ කුමක්ද ?",
+        "choices": [
+            "යාච්ඤාවයි .",
+            "දේව මාළිගය යි .",
+            "ශ්‍රාවකයෝ ය .",
+            "ගොඩනැඟිල්ල යි ."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NCP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-07-christianity-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-central-province/"
+        }
+    },
+    {
+        "q_no": 53,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "දෙවියන් වහන්සේ මනුෂ්‍යයා නිර්මාණය කළේ .",
+        "choices": [
+            "දේව බලයෙන් ය .",
+            "පොළොවේ දූවිල්ලෙන් ය .",
+            "තම හස්තයෙන් ය .",
+            "වචනයේ බලයෙන් ය ."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_1",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-07-christianity-1st-term-test-paper-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 54,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "අපේ එදිනෙදා අවශ්‍යතා ගැන අප ,",
+        "choices": [
+            "කරදර විය යුතු ය .",
+            "බලාපොරොත්තු විය යුතු ය .",
+            "කනස්සලු විය යුතු ය .",
+            "දෙවිඳුන්ට භාර කළ යුතු ය ."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_1",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-07-christianity-1st-term-test-paper-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 55,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "ජේසුස් වහන්සේට පැමිණි පරීක්ෂා ගණන වන්නේ ,",
+        "choices": [
+            "03 කි .",
+            "04 කි .",
+            "07 කි",
+            "2 කි ."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_1",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-07-christianity-1st-term-test-paper-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 56,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "පාළුකරයේ මොර ගසන හඬ ලෙස හඳුන්වනු ලබන්නේ ,",
+        "choices": [
+            "ආදම් ය .",
+            "මෝසෙස් ය .",
+            "ස්නාවක ජොහාන් ය .",
+            "නෝවා ය ."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_1",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-07-christianity-1st-term-test-paper-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 57,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "ජේසුස් වහන්සේ පාළුකරයෙහි නිරාහාරව යාච්ඤා කළ දින ගණන වන්නේ දින ,",
+        "choices": [
+            "30 කි .",
+            "40 කි .",
+            "20 කි .",
+            "10 කි ."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_1",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-07-christianity-1st-term-test-paper-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 58,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "\"පෙර මඟ දූතයා\" යන අනවර්ථ නාමයෙන් හඳුන්වන්නේ ,",
+        "choices": [
+            "ස්නාවක ජොහාන් තුමා ය .",
+            "ජාකොබ් තුමා ය .",
+            "ජේසු තුමා ය .",
+            "පේදුරු තුමා ය ."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_1",
+            "year": 2018,
+            "source": "https://pastpapers.wiki/grade-07-christianity-1st-term-test-paper-2018-north-western-province/"
+        }
+    },
+    {
+        "q_no": 59,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "තම පාද සෝදනවාට විරුද්ධ වූ ගෝලයා වන්නේ ,",
+        "choices": [
+            "පේදුරු ය .",
+            "ජුදාස් ය .",
+            "ජාකොබ් ය .",
+            "තෝමස් ය ."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_1",
+            "year": 2018,
+            "source": "https://pastpapers.wiki/grade-07-christianity-1st-term-test-paper-2018-north-western-province/"
+        }
+    },
+    {
+        "q_no": 60,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "වතුරෙන් ගොඩ ගත්' යන අර්ථය ඇති නම ලැබී තිබුණේ ,",
+        "choices": [
+            "මීරියම්ට ය .",
+            "මෝසෙස්ටය .",
+            "සාමුවෙල්ට ය .",
+            "ජොහාන්ටය ."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_1",
+            "year": 2018,
+            "source": "https://pastpapers.wiki/grade-07-christianity-1st-term-test-paper-2018-north-western-province/"
+        }
+    },
+    {
+        "q_no": 61,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": " දෙවියන් වහන්සේගේ ස්වරූපය හා සමානාත්මතාවය අනුව මිනිසා මවන ලද බව සඳහන් වන ග්‍රන්ථය වන්නේ ,",
+        "choices": [
+            "එළිදරව්ව ය",
+            "උත්පත්තිය",
+            "නික්මයාම ය",
+            "ලුක් ය"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/20232024-grade-08-christianity-3rd-term-test-paper-north-western-province/"
+        }
+    },
+    {
+        "q_no": 62,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "අයකැමියෙකු ලෙස බදු පොලේ සිටියදී කැඳවීම ලැබූ ගෝලයෙකු වන්නේ ,",
+        "choices": [
+            "පේදුරු තුමාය",
+            "ලුක් ය",
+            "යොහාන් ය",
+            "මතෙව්ය"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/20232024-grade-08-christianity-3rd-term-test-paper-north-western-province/"
+        }
+    },
+    {
+        "q_no": 63,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "\"මොහුත් ආබ්‍රහම්ගේ පුත්‍රයෙකි ' ' යනුවෙන් යේසුස් වහන්සේ පැවසුවේ කවුරුන් පිළිබඳවද ?",
+        "choices": [
+            "සිමොන්",
+            "සාකෙවුස්",
+            "පේදුරු",
+            "යොහන්"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/20232024-grade-08-christianity-3rd-term-test-paper-north-western-province/"
+        }
+    },
+    {
+        "q_no": 64,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "ගලීල මුහුද සඳහා යෙදෙන තවත් නමක් වන්නේ ,",
+        "choices": [
+            "රතු මුහුද",
+            "මළ මුහුද",
+            "මධ්‍යධරණී මුහුද",
+            "තිබේරියස් මුහුද"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/20232024-grade-08-christianity-3rd-term-test-paper-north-western-province/"
+        }
+    },
+    {
+        "q_no": 65,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "යේසුස් වහන්සේ ශ්‍රාවකයන් දොලොස් දෙනා පිටත්කර හරිමින් ඔවුන්ට පැවසීමට නියම කළ ප්‍රධාන පණිවිඩය\nවන්නේ ,",
+        "choices": [
+            "යේසුස් වහන්සේ මොහොතකින් වඩින බවය",
+            "ස්වර්ග රාජ්‍ය ළංවී ඇති බවය",
+            "පසුතැවිලි විය යුතු බවය",
+            "යේසුස් වහන්සේ පිළිගැනීමට උත්සවයක් සූදානම් කළ යුතු බවය ."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/20232024-grade-08-christianity-3rd-term-test-paper-north-western-province/"
+        }
+    },
+    {
+        "q_no": 66,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "යේසුස් වහන්සේගේ දූත සමයේ පලස්තීනය යටත් කරගෙන සිටි අධිරාජ්‍යයා වනුයේ ,",
+        "choices": [
+            "මිසර අධිරාජ්‍යයා",
+            "අසිරියානු අධිරාජ්‍යයා",
+            "රෝම අධිරාජ්‍යයා",
+            "ග්‍රීක අධිරාජ්‍යයා"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/20232024-grade-08-christianity-3rd-term-test-paper-north-western-province/"
+        }
+    },
+    {
+        "q_no": 67,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "ආබ්‍රහම්ගේ පෙර නම වූ \" ආබ්‍රම් ' ' යන්නෙහි අර්ථය වනුයේ ,",
+        "choices": [
+            "ජාතීන්ගේ පියා",
+            "උතුම් පියා",
+            "විශ්වයේ පියා",
+            "සැමගේ පියා"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/20232024-grade-08-christianity-3rd-term-test-paper-north-western-province/"
+        }
+    },
+    {
+        "q_no": 68,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "යේසුස් වහන්සේ සිය ප්‍රථම දේශනය සිදුකළේ ,",
+        "choices": [
+            "ගලීල මුහුද ළඟය",
+            "නාසරෙත් ධර්ම ශාලාවේදීය",
+            "පාළුකරයේදීය",
+            "තැනිතලාවේදීය"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/20232024-grade-08-christianity-3rd-term-test-paper-north-western-province/"
+        }
+    },
+    {
+        "q_no": 69,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "පැරණි ගිවිසුමේ අඩංගු පොත් ගණන වනුයේ ,",
+        "choices": [
+            "66",
+            "27",
+            "39",
+            "40"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/20232024-grade-08-christianity-3rd-term-test-paper-north-western-province/"
+        }
+    },
+    {
+        "q_no": 70,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "ඊශ්‍රායෙල් සෙනගට කාන්තාර ගමනේදී දිවා කාලයේ මඟ පෙන්වූයේ ,",
+        "choices": [
+            "වළා ටැබක්ය",
+            "ගිනි ටැබක්ය",
+            "විශාල ආලෝකයක්ය",
+            "ගිනි සහ වළ ටැඩක්ය"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/20232024-grade-08-christianity-3rd-term-test-paper-north-western-province/"
+        }
+    },
+    {
+        "q_no": 71,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "කිසිදු ප්‍රතිඋපකාරයක් බලාපොරොත්තු නොවී අන් අයගේ අවශ්‍යතාවයන් සැපිරීමට ඉදිරිපත් වීම",
+        "choices": [
+            "සාමයයි",
+            "ප්‍රීතියයි",
+            "ඉවසීමයි",
+            "ප්‍රේමයයි"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/20232024-grade-08-christianity-3rd-term-test-paper-north-western-province/"
+        }
+    },
+    {
+        "q_no": 72,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "මව්කුස පිළිසිඳ ගැනීමටත් පෙර දිවැසිවර සේවයට කැඳවනු ලැබුවේ ,",
+        "choices": [
+            "යෙසායා ය .",
+            "එසකියෙල්ය .",
+            "ජෙරමියා ය .",
+            "නෙහෙමියා ය ."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/20232024-grade-08-christianity-3rd-term-test-paper-north-western-province/"
+        }
+    },
+    {
+        "q_no": 73,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "මැලේරියා රෝගීන් අතර මහඟු සේවයක් ඉටු කළ විදේශීය ජාතික කාන්තාව වන්නේ ,\n",
+        "choices": [
+            "ජොයිස්ද සිල්වා ය .",
+            "ඒඩා ප්‍රනාන්දුය .",
+            "තෙරේසා මව්තුමිය ය .",
+            "ඉව්ලින්කානිය ."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/20232024-grade-08-christianity-3rd-term-test-paper-north-western-province/"
+        }
+    },
+    {
+        "q_no": 74,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "දේව කැමැත්ත ඉටු කිරීම උදෙසා අප කළ යුතු වන්නේ ,\n",
+        "choices": [
+            "ප්‍රශංසා මෙහෙයන්ට සහභාගී වීම",
+            "සෑම ඉරිදාම පල්ලි යාම",
+            "දේව ගුණාංග ජීවිතයෙන් පෙන්වීම",
+            "අප අවට පරිසරය පිරිසිදු කිරීම"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/20232024-grade-08-christianity-3rd-term-test-paper-north-western-province/"
+        }
+    },
+    {
+        "q_no": 75,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "යේසුස් වහන්සේ මෙලොවට වැඩීමේ මූලික පරමාර්ථය වූයේ ,\n",
+        "choices": [
+            "ගැළවීම උරුම කර දීමය .",
+            "මරණය ලබා දීම",
+            "පාපය උරුම කර දීම",
+            "තෑගි ලබා දීම"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/20232024-grade-08-christianity-3rd-term-test-paper-north-western-province/"
+        }
+    },
+    {
+        "q_no": 76,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "ජෙරුසලම් පවුර ගොඩනැගීමට මූලිකව කටයුතු කළේ ,\n",
+        "choices": [
+            "එළියාය .",
+            "නෙහෙමියාය .",
+            "එලිෂාය .",
+            "හොෂියාය ."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/20232024-grade-08-christianity-3rd-term-test-paper-north-western-province/"
+        }
+    },
+    {
+        "q_no": 77,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "ශුද්ධාත්ම දීමනා අපට ලැබී ඇත්තේ ,\n",
+        "choices": [
+            "එකිනෙකා අතර බලය පෙන්වීමටය .",
+            "අපගේ පෞද්ගලික ජීවිතය ශක්තිමත් කර ගැනීමටය .",
+            "සභාවේ භෞතික සම්පත් දියුණුවට අතහිත දීමටය .",
+            "එකිනෙකා දිරිගන්වමින් කිතුනු සභාව ශක්තිමත් කිරීමටය ."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/20232024-grade-08-christianity-3rd-term-test-paper-north-western-province/"
+        }
+    },
+    {
+        "q_no": 78,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "යේසුස් වහන්සේ සීමොන් පේදුරුට භාරදුන් වගකීම වන්නේ ,",
+        "choices": [
+            "මාගේ බැටළු පැටවුන් පෝෂණය කරන්න .",
+            "මාගේ බැටළුවන්ට ආදරය කරන්න .",
+            "මාගේ බැටළුවන් නොමඟ නොයවන්න .",
+            "මාගේ බැටළුවන්ගේ එඬේරා වන්න ."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/20232024-grade-08-christianity-3rd-term-test-paper-north-western-province/"
+        }
+    },
+    {
+        "q_no": 79,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "මිනිසා දේව මැවිල්ලේ ,",
+        "choices": [
+            "අයිතිකරුය .",
+            "භාරකරුය",
+            "උරුමක්කරුය",
+            "නිර්මාණකරය"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-08-christianity-3rd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 80,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "සර්පයාගෙන් සංකේතවත් වන්නේ ,",
+        "choices": [
+            "යහපත ය .",
+            "නපුර ය .",
+            "පාපය ය .",
+            "හොඳ නරකය ."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-08-christianity-3rd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 81,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "දෙවියන් වහන්සේගේ මැදිහත්වීම මත පාරාවෝ රජුගේ දූ කුමරිය යටතේ රජ මාළිගාවේ හැදී වැඩුණේ ,",
+        "choices": [
+            "සීමොන්ය .",
+            "මතෙව් ය .",
+            "මෝසෙස් ය .",
+            "පාවුල් ය ."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-08-christianity-3rd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 82,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "\" ජේසුගේ ප්‍රේමේ - විශාල පුදුමය \" ගීතිකාව නිර්මාණය කළේ .",
+        "choices": [
+            "එලීසා ඇග්නිව්ය",
+            "මයිකල් රුද්‍රිගු පියතුමාය",
+            "මර්සලින් ජයකොඩි පියතුමා ය .",
+            "ජොයිස් ද සිල්වා ය ."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-08-christianity-3rd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 83,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "උත්ථාන වූ ජේසුස් වහන්සේගේ ඇණ කැළැල් දැක විශ්වාස කළ ගෝලයා වන්නේ ,",
+        "choices": [
+            "පේදුරුය",
+            "තෝමස් ය .",
+            "ජොහාන් ය .",
+            "මත්තියස් ය ."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-08-christianity-3rd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 84,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "\" ජේසුස් වහන්සේ දෙවියන් වහන්සේගේ ක්‍රිස්තුවරයාණෝ ය . \" යනුවෙන් පැවසූ ගෝලයා වන්නේ ,",
+        "choices": [
+            "පිලිප්ය",
+            "පේදුරුය",
+            "යොහාන් ය .",
+            "සාකෙවුස් ය ."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-08-christianity-3rd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 85,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "\" යාච්ඤාවේ ගුරුවරිය \" යන අන්වර්ථ නාමයෙන් හඳුන්වන්නේ ,",
+        "choices": [
+            "තෙරේසා මව්තුමියය .",
+            "ඉව්ලින් කානිය .",
+            "ජොයිස් ද සිල්වා ය .",
+            "එලීෂා ඇග්නිව්ය ."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-08-christianity-3rd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 86,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "පව්කරුවා නොව පාපය ප්‍රතික්ෂේප කළ යුතු බව ජේසුතුමා පෙන්වා දුන් කතා 2 ක් වන්නේ ,",
+        "choices": [
+            "මතෙව් හා අංශභාග රෝගියා ය",
+            "සාකෙවුස් හා අන්ධ මිනිසාය",
+            "පව්කාරියට ගල් ගැසීම හා අන්ධ මිනිසාය",
+            "සාකෙවුස් හා පව්කාරියට ගල් ගැසීමය ."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-08-christianity-3rd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 87,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "\" ස්වාමීනි මා සන්තක දෙයින් දෙකෙන් කොටසක් දිළිදුන්ට දෙමි ” මෙලෙස ප්‍රකාශ කළේ ,",
+        "choices": [
+            "පේදුරුය",
+            "පාවුල් ය",
+            "සාකෙවුස් ය",
+            "ආබ්‍රහම් ය ."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-08-christianity-3rd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 88,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "\" හැඬීම නවත්වන්නැයි ” ජේසුස් වහන්සේ පැවසුවේ ,",
+        "choices": [
+            "ජෙරුසෙලම් දූවරුන්ටය",
+            "මර්දලායේ මරියාටය",
+            "නායින් නුවර වැන්දඹුවටය",
+            "මාර්තා හා මරියාටය"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-08-christianity-3rd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 89,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "ජුදෙව් සමාජයේ කොන් වූ කැපී පෙනුන රෝගීන් වන්නේ ,",
+        "choices": [
+            "ලාදුරු රෝගීන් ය",
+            "කුෂ්ට රෝගීන් ය",
+            "අන්ධයන් ය",
+            "කොරුන් ය ."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-08-christianity-3rd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 90,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "ගොවි ජනතාව හා අනන්‍යතාවක් ඇති කරගත් පියතුමා වන්නේ,",
+        "choices": [
+            "සේවක සැමුවෙල් සෙල්වරත්නම් පියතුමාය",
+            "ගරු මයිකල් රොද්‍රිගු පියතුමාය.",
+            "ගෞරවනීය සෝමසිරි කුමාරදාස් පෙරේරා දේවගැති තුමාය",
+            "මර්සලින් ජයකොඩි පියතුමාය"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-08-christianity-3rd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 91,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "ජනවන්දනාව පිළිබඳ නීති ගැන සඳහන් බයිබලේ පොත වන්නේ,",
+        "choices": [
+            "ලෙවී ව්‍යවස්ථාවය",
+            "නික්මයාමය",
+            "උත්පත්තිය ය",
+            "ගණන් කතාවය"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-08-christianity-3rd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 92,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "ආදි පීතෘවරු අයත් පිළිතුර වන්නේ,",
+        "choices": [
+            "ආබ්‍රහම්, ඊසාක්, ජෝසෙප්ය.",
+            "ජෝසෙප්, රූබන්, ආබ්‍රහම් ය.",
+            "ඊසාක්, ආබ්‍රහම්, රූබන් ය.",
+            "ආබ්‍රහම්, ඊසාක්, ජාකොබ්ය."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-08-christianity-3rd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 93,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "\"සිනාසුනාය\" යන අර්ථය ඇති නාමය වන්නේ,",
+        "choices": [
+            "ජාකොබ්ය",
+            "ඊසාන් ය",
+            "ඒ සව්ය",
+            "ජෝසප් ප්ය."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-08-christianity-3rd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 94,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "දෙවියන් වහන්සේ ජාකොබ් සමඟ ගිවිසුමක් ඇතිකර ගත්තේ",
+        "choices": [
+            "ගෙරාර්හිදි ය",
+            "බෙයර් ෂෙබාවේදීය",
+            "හෙබ්‍රෝන් හිදීය",
+            "බෙතෙල්හි දී ය."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-08-christianity-3rd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 95,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "බැබිලෝනියේ රජ වූ අර්තක්ෂස්තා රජු යටතේ සේවය කළ උසස් රාජ්‍ය නිලධාරියා වනුයේ,",
+        "choices": [
+            "එස්රාය",
+            "නෙහෙමියා ය",
+            "සෙරුබ්බාබෙල්ය",
+            "ගිඩියොන්ය"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-08-christianity-3rd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 96,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "\"දෙවියන් විසින් ඔසවා ගනු ලැබීම” යන අර්ථය ඇති දිවැසිවරයා වන්නේ,",
+        "choices": [
+            "ජෙරමියා ය",
+            "යෙසායා ය",
+            "එසතියෙල් ය",
+            "ආමොස් ය."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-08-christianity-3rd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 97,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "ආබ්‍රහම් උපන් නගරය වන්නේ,",
+        "choices": [
+            "හාරාන්ය.",
+            "කානාන්ය.",
+            "ඌර්ය.",
+            "මිදියන්ය."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-christianity-3rd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 98,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "පංච පුස්තකයට අයත් පොතක් නොවන්නේ,",
+        "choices": [
+            "ජෙරමියා ය.",
+            "උත්පත්ති ය.",
+            "නික්මයාම ය.",
+            "ගණන් කතාවය."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-christianity-3rd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 99,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "ජේසුස් වහන්සේගේ අනුගාමිකයන් අතර සිටි අයකැමියා වූයේ,",
+        "choices": [
+            "ලෙවී ය.",
+            "සාකෙවුස් ය.",
+            "බර්තොලමෙව් ය.",
+            "ජුදස් ය."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-christianity-3rd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 100,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "ජේසුස් වහන්සේ කුරුස ගසේ සිටියදි තම මෑණියන් බාර කළේ,",
+        "choices": [
+            "ජාකොබ්තුමාටය.",
+            "ස්නාවක ජොහන්තුමාට ය.",
+            "සීමොන්තුමාටය.",
+            "ජොහන් තුමාට ය."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-christianity-3rd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 101,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "\"මෙන්න මාගේ පණිවුඩය නුඹේ මුඛයෙහි තැබීමි.\" මෙහි සඳහන් වන්නේ කා ගැන ද?",
+        "choices": [
+            "ජෙරමියා දිවැසිවරයා ගැන ය.",
+            "යෙසායා දිවැසිවරයා ගැන ය.",
+            "ආමෝස් දිවැසිවරයා ගැන ය.",
+            "එසකියෙල් දිවැසිවරයා ගැන ය."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-christianity-3rd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 102,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "අප විසින් ප්‍රගුණ කළ යුතු දේවරාජ්‍යයේ වටිනාකමක් නොවන්නේ,",
+        "choices": [
+            "පරිත්‍යාගය යි.",
+            "සමානාත්මතාවය යි.",
+            "ආරක්ෂාව යි.",
+            "ප්‍රේමය යි."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-christianity-3rd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 103,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "\"ඔබ දෙවියන් වහන්සේගේ ක්‍රිස්තු රජාණෝ\" මෙලෙස පැවසූ ගෝලයා වන්නේ,",
+        "choices": [
+            "ජාකොබ් ය.",
+            "පේදුරු ය.",
+            "ජොහාන් ය.",
+            "මතෙව් ය."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-christianity-3rd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 104,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "දෙවියන් වහන්සේට යටත්ව අවනතව ජීවත් වනු වෙනුවට උන්වහන්සේට සමාන වන්නට ආශා කළේ,",
+        "choices": [
+            "දාවිත් සහ නෝවා ය.",
+            "ආබ්‍රහම් සහ සාරාය.",
+            "අම්රාම් සහ ජොකෙබෙද් ය.",
+            "ආදම් සහ ඒව ය."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-christianity-3rd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 105,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "ඊශ්‍රායෙල් ජනතාවගේ සහය ඇතිව නෙහෙමියා පවුර ගොඩනැගීමට ගත් දින ගණන",
+        "choices": [
+            "දින 50 කි.",
+            "දින 51 කි.",
+            "දින 52 කි.",
+            "දින 53 කි."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-christianity-3rd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 106,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "\"හඬක්\" නොමැති අසරණ අයෙකුගේ හඬ බවට පත් වුයේ කුමන රෝගය සම්බන්ධවද ?",
+        "choices": [
+            "කුෂ්ඨ රෝගය .",
+            "ලාදුරු රෝගය .",
+            "අන්ධ රෝගය .",
+            "ගොළු බිහිරි රෝගය ."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-christianity-3rd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 107,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "දුගී දුප්පත් ජනතාවට රැකවරණය සලසන \"ක්‍රිස්තව සේවා ආශ්‍රම්\" නම් ස්ථානය ලබා දුන්නේ ,",
+        "choices": [
+            "ගරු මයිකල් රොද්‍රිගු පියතුමා .",
+            "සේවක සැමුවෙල් සෙල්වරත් නම් ,",
+            "කුමාරදාස් පෙරේරා දේවගැති ගුමා .",
+            "ඩොනල්ඩ් කනගරත්නම්තුමා ."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-christianity-3rd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 108,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "පංච පුස්තකයෙහි සඳහන් කර්තෘ සහ උප කර්තෘ වන්නේ ,",
+        "choices": [
+            "දෙවියන් වහන්සේ සහ යේසුස් වහන්සේ .",
+            "දෙවියන් වහන්සේ සහ මිනිසා .",
+            "යේසුස් වහන්සේ සහ මිනිසා .",
+            "දෙවියන් වහන්සේ සහ ආබ්‍රහම් ය ."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-christianity-3rd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 109,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "\"විලුඹ ඩැහැගත්තා \" යන අර්ථය හිමි වූයේ කාටද ?",
+        "choices": [
+            "ඊසාක්ට ය .",
+            "ඒ සව්ට ය .",
+            "ජාකොබ්ට ය .",
+            "ජෝසප්ට ය ."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-christianity-3rd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 110,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "අතිගරු ඇන්ඩෲ කුමාර හිමිපාණෝ බිෂොප්තුමා බවට පත් වූයේ .",
+        "choices": [
+            "1954 වර්ෂයේ දී ය .",
+            "1983 වර්ෂයේ දී ය .",
+            "1950 වර්ෂයේ දී ය .",
+            "1982 වර්ෂයේ දී ය ."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-christianity-3rd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 111,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": " ඊශ්‍රායෙල් ජනතාව අවසාන කාලයේ දී විප්‍රවාසගතව සිටියේ ,",
+        "choices": [
+            "රෝම අධිරාජ්‍යය යටතේය .",
+            "පර්සියානු අධිරාජ්‍යය යටතේය .",
+            "සීසර් අධිරාජයා යටතේ ය .",
+            "බැබිලෝනියා අධිරාජ්‍යය යටතේය ."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-christianity-3rd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 112,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "ඊශ්‍රායෙල් නායකයන්ගේ ක්‍රියාකාරිත්වය සමාන කළේ .",
+        "choices": [
+            "දැල්වෙන පහනකටය .",
+            "ලුණු කණුවකට ය .",
+            "දැල්වෙන ගිනි පුපුරකට ය .",
+            "සැඬ සුළඟකටය ."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-christianity-3rd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 113,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "\"දරුවා බාල වියේදී ම යහමඟ යවන්න . එවිට ඔහු මහලු වියේදීත් ඉන් ‍ඉවත්ව නොයයි.\" මෙය සඳහන් බයිබල් පාඨය වන්නේ ,",
+        "choices": [
+            "යෙසායා 26 : 2",
+            "ගීතාවලිය 150 : 3",
+            "හිතෝපදේශය 22 : 6",
+            "කොරෙන්ති 13 : 4"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-christianity-3rd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 114,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "ජේසුතුමා මුල් ගෝලයන් කැදවූයේ ,",
+        "choices": [
+            "ගෙනෙසරෙත් විලේදී",
+            "ජොර්දාන් ගඟ අසලදී",
+            "නාසරෙත් සිනගෝගයේදී",
+            "ජෙරුසලම් දේවමාලිගාවේ දී"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29247&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 115,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "ඊශ්‍රායෙල් ජනයාට පාළුකරයේ දී ආහාර පිණිස ලබා දුන්නේ ,",
+        "choices": [
+            "රොටී ය .",
+            "මී පැණිය .",
+            "පාන්ය .",
+            "මන්නාය"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29247&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 116,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "දේව දරුවන් වන ඔබ තුළ තිබිය යුතු ගුණාංගයක් වන්නේ ,",
+        "choices": [
+            "ආඩම්බරකමය .",
+            "වංචාවය ය .",
+            "නිහතමානීකමය .",
+            "අකීකරුකමය ."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29247&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 117,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "කිතුණු දරුවන් ලෙස අපට වැරදි කරන අයට අප ,",
+        "choices": [
+            "වෛර කළ යුතුය .",
+            "රණ්ඩුවට යා යුතුය .",
+            "සමාව දිය යුතුය .",
+            "ප්‍රතික්ෂේප කළ යුතුය ."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29247&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 118,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "ජේසුස් වහන්සේ දෙවියන් වහන්සේගේ ක්‍රිස්තුවරයාණෝ ය . යනුවෙන් පැවසූ ශ්‍රාවකයා වන්නේ ,",
+        "choices": [
+            "ජාකොබ් ය .",
+            "පේදුරු ය .",
+            "යොහාය .",
+            "යුදස්ය ."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29247&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 119,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "නායකත්වය දැරීමට අවශ්‍ය වඩාත් වැදගත්ම ගුණාංගය වන්නේ ,",
+        "choices": [
+            "කැපවීමේ ප්‍රේමයයි .",
+            "පූජා වීමේ ප්‍රේමයයි .",
+            "නිහතමානී ප්‍රේමයයි .",
+            "ආධ්‍යාත්මක ප්‍රේමයයි ."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29247&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 120,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "\" සුදු අම්මා \" යන අන්වර්ථ නාමයෙන් හැඳින්වූයේ කවුරුන්ද ?",
+        "choices": [
+            "තෙරේසා මව්තුමිය ය .",
+            "ජොයිස් ද සිල්වා තුමිය ය .",
+            "ඉව්ලින් කානි තුමිය ය .",
+            "ෆලෝරන්ස් නයිටිංගේල් තුමිය ය ."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29247&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 121,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "ජේසුස් වහන්සේ සාකෙවුගේ නිවසට පැමිණීමෙන් ඔහුගේ ජීවිතය වෙනස් විය . ඔහු දිළිඳුන්ට හා අයුතු ලෙස ගත් අයට දීමට පොරොන්දු වූ ප්‍රමාණයන වන්නේ ,",
+        "choices": [
+            "සතර ගුණයක් සහ දෙකෙන් කොටසකි .",
+            "දෙකෙන් කොටසක් හා සතර ගුණයකි .",
+            "සතර කොටසක් හා සතර ගුණයකි .",
+            "දෙකෙන් කොටසක් හා තුන් ගුණයකි"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29247&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 122,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "රෝම අධිරාජ්‍යයට සේවය කළ ධනවත් ප්‍රධානියකු වන්නේ ,",
+        "choices": [
+            "යුදස් ය .",
+            "යුදස් ස්කාරියොත්ය .",
+            "ජාකොබ් ය .",
+            "සාකෙවුස් ය ."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29247&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 123,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "තහනම් කරන ලද ගසේ ගෙඩි සංකේතවත් කරනුයේ ,",
+        "choices": [
+            "නපුරයි .",
+            "පාපයයි .",
+            "ආශිර්වාදයයි .",
+            "ශරීරයයි ."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29247&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 124,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "\" තෝරාගත් සෙනඟ \" යනුවෙන් අදහස් කළේ ,",
+        "choices": [
+            "ජාකොබ්ගෙ පෙළපත ය .",
+            "ආබ්‍රහම්ගේ පෙළපත ය .",
+            "දාවිත්ගේ පෙළපත ය .",
+            "ජෝසප්ගේ පළෙපතය ."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29247&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 125,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "කුරුණෑගල දියෝකීසියේ තුන්වන බිෂොප්ධුරය දැරුවේ ,",
+        "choices": [
+            "කනගරත්නම් පියතුමා ය .",
+            "සෝමසිරි කුමාරදාස පියතුමාය .",
+            "මර්සලින් ජයකොඩි පියතුමාය .",
+            "ඇන්ඩෲ කුමාරගේ පියතුමා ය ."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29247&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 126,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "ජේසුස් වහන්සේ මැරුණු යෞවනයා උත්ථාන කිරීමෙන් සැනසීම ලබා දුන්නේ ,",
+        "choices": [
+            "මාර්තාටය .",
+            "මර්දලායේ මරියාට ය .",
+            "නායින් නුවර වැන්දඹුවට ය .",
+            "මහලේ රෝගී ස්ත්‍රීයට ය ."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29247&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 127,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "කිතුණු අපගේ ජීවිතවල ගන්නා වැදගත් තීරණ වලදී අප ,",
+        "choices": [
+            "විමසිලිමත් විය යුතුය .",
+            "ජයගත යුතුය .",
+            "යහළුවන් සමඟ සාකච්ඡා කළ යුතුය .",
+            "යාච්ඤා කළ යුතුය ."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29247&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 128,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "ජාතික සමගිය හා සංහිදියාව උදෙසා කැපවීමෙන් කටයුතු කළේ ,",
+        "choices": [
+            "සෝමසිරි කුමාරදාස පෙරේරා දේවගැතිතුමා ය .",
+            "ඩොනල්ඩ් කනගරත්නම් අනුනායක තුමාය .",
+            "ඇන්ඩෘ කුමාරගේ හිමිපාණෝය .",
+            "ඉව්ලින්කානි තුමිය ය ."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29247&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 129,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "ශුද්ධාත්ම ඵලයක් නොවන්නේ මින් කුමක්ද ?",
+        "choices": [
+            "ප්‍රීතිය",
+            "මෘදුකම",
+            "විශ්වාසවන්තකම",
+            "ආත්මාර්ථකාමීත්වය"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29247&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 130,
+        "subject": "Christianity",
+        "category": "humanities",
+        "question": "\" තවත් පව් නොකරන්න \" ජේසු තුමා පැවසුවේ ,",
+        "choices": [
+            "මරියාට ය .",
+            "මාර්තාටය .",
+            "වැන්දඹු ස්ත්‍රීයට ය .",
+            "පව්කාර ස්ත්‍රීයට ය ."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "ක්‍රිස්තියානි ධර්මය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29247&token=&preview=1"
+        }
+    }
+]

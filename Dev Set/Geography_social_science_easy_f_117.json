@@ -1,0 +1,2460 @@
+[
+    {
+        "q_no": 1,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "කාලගුණික තොරතුරු දැන ගැනීම වඩාත්ම ප්‍රයෝජනවත් වන්නේ පහත සඳහන් කවරෙකුටද?",
+        "choices": [
+            "ගුරුවරුන්ටය",
+            "වෛද්‍යවරුන්ටය",
+            "ධීවරයින්ටය",
+            "වඩු කාර්මිකයින්ටය"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_1",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-geography-1st-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 2,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "වර්ෂාපතනය හිඟ වීම නිසා ඇති විය හැකි ප්‍රතිඵලය මින් කුමක්ද?",
+        "choices": [
+            "ගංවතුර",
+            "සුළි සුළං",
+            "නාය යෑම්",
+            "නියගය"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_1",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-geography-1st-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 3,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "සුළගේ දිශාව මනින උපකරණය අඩංගු පිළිතුර කුමක්ද?",
+        "choices": [
+            "වේගමානය",
+            "අනිල මානය",
+            "උෂ්ණත්ව මානය",
+            "සුළං දිශා දර්ශකය"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_1",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-geography-1st-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 4,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "ශ්‍රී ලංකාවේ මීදුම සහිත කාලගුණයක් බහුලවම දක්නට ලැබෙන දිස්ත්‍රික්කය කුමක්ද?",
+        "choices": [
+            "මොණරාගල",
+            "වව්නියාව",
+            "මන්නාරම",
+            "නුවරඑළිය"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_1",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-geography-1st-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 5,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "ශ්‍රී ලංකාවේ කාලගුණ වාර්තා සකස් කරනු ලබන්නේ,",
+        "choices": [
+            "ඒ ඒ ප්‍රදේශවලට ගොස් තොරතුරු නිරීක්ෂණයෙනි.",
+            "දෛනිකව රැස්කර ගන්නා කාලගුණික තොරතුරු මගිනි.",
+            "සෑම ස්ථානයකින්ම ලබාගන්නා උෂ්ණත්වය මගිනි.",
+            "සෑම ස්ථානයකින්ම ලබාගන්නා වර්ෂාපතනය මගිනි."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_1",
+            "year": 2018,
+            "source": "https://pastpapers.wiki/grade-06-geography-1st-term-test-paper-2018-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 6,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "අධික උෂ්ණත්වයක් හා සූර්ය තාපයක් පවතින ප්‍රදේශයක් ලෙස දැක්විය හැක්කේ මින් කවරක් ද?",
+        "choices": [
+            "නුවර එළිය",
+            "මහනුවර",
+            "මන්නාරම",
+            "කෑගල්ල"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_1",
+            "year": 2018,
+            "source": "https://pastpapers.wiki/grade-06-geography-1st-term-test-paper-2018-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 7,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "වලාකුළු නිර්මාණය වන ආකාරය කෙරෙහි බලපාන්නේ මින් කවර කරුණ ද?",
+        "choices": [
+            "ජල වාෂ්ප ඝනීභවනය",
+            "වර්ෂාපතනය",
+            "අධික උෂ්ණත්වය",
+            "සූර්ය තාපය අධික වීම"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_1",
+            "year": 2018,
+            "source": "https://pastpapers.wiki/grade-06-geography-1st-term-test-paper-2018-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 8,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "වර්ෂාව ඇතිවීමට පෙර තත්වයක් ලෙස හඳුනා ගත හැක්කේ මින් කවර සිදුවීමක් ද?",
+        "choices": [
+            "ජලය ගලායාම.",
+            "උෂ්ණත්වය අධික වීම.",
+            "අහස අඳුරු පැහැයක් ගැනීම.",
+            "පරිසරය නිශ්චලව පැවතීම."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_1",
+            "year": 2018,
+            "source": "https://pastpapers.wiki/grade-06-geography-1st-term-test-paper-2018-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 9,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "වර්ෂාමානයක් ඇසුරින් මනින ලද යම් ස්ථානයක වර්ෂාපතන අගය නිවැරදිව දක්වා තිබෙන්නේ මින් කවර පිළිතුරේ ද?",
+        "choices": [
+            "මිලි ලීටර 750",
+            "මිලි ග්‍රෑම් 750",
+            "මිලි මීටර 750",
+            "සෙන්ටිමීටර් 750"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_1",
+            "year": 2018,
+            "source": "https://pastpapers.wiki/grade-06-geography-1st-term-test-paper-2018-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 10,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "ශ්‍රී ලංකාවේ වයඹ පළාතට අයත් දිස්ත්‍රික්කය මින් කුමක් ද?",
+        "choices": [
+            "මහනුවර",
+            "කුරුණෑගල",
+            "මොනරාගල",
+            "අනුරාධපුර"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/grade-06-geography-2nd-term-test-paper-with-answers-2023-mathugama-zone/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 11,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "ග්‍රාම නිලධාරි කොට්ඨාස කිහිපයක් එකතු වීමෙන් සෑදෙන පරිපාලන ඒකකය කුමක්ද?",
+        "choices": [
+            "දිස්ත්‍රික්කය",
+            "පළාත",
+            "ප්‍රාදේශීය ලේකම් කොට්ඨාසය",
+            "පළාත් සභාව"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/grade-06-geography-2nd-term-test-paper-with-answers-2023-mathugama-zone/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 12,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "නිවැරදිව දිශාව හඳුනාගැනීම සඳහා උපකාරී වන්නේ මින් කුමක්ද?",
+        "choices": [
+            "දුරදක්නය",
+            "වෝල් මීටරය",
+            "උත්තල කාචය",
+            "මාලිමාව"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/grade-06-geography-2nd-term-test-paper-with-answers-2023-mathugama-zone/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 13,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "යම්කිසි ස්ථානයක කෙටි කාලයක් තුළ පවතින වායුගෝලයේ ස්වභාවය හඳුන්වන්නේ,",
+        "choices": [
+            "කාලගුණය නමිනි",
+            "දේශගුණය නමිනි",
+            "උන්නතාංශය නමිනි",
+            "පතන ශීඝ්‍රතාව නමිනි"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/grade-06-geography-2nd-term-test-paper-with-answers-2023-mathugama-zone/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 14,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "සුළඟේ වේගය මැනීමට භාවිතා කරන උපකරණය හඳුන් වන්නේ,",
+        "choices": [
+            "සුළං දිශා දර්ශකය නමිනි",
+            "අනිලමානය නමිනි",
+            "වර්ෂාමානය නමිනි",
+            "උෂ්ණත්වමානය නමිනි"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/grade-06-geography-2nd-term-test-paper-with-answers-2023-mathugama-zone/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 15,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "I උෂ්ණත්වය                                                                                                                                             A පැයට කිලෝමීටර්\nII වර්ෂාපතනය                                                                                                                                         B ඊතලයෙන් දක්වන දිශාව\nIII සුළඟේ වේගය                                                                                                                                       C සෙල්සියස් අංශක\nIV සුළං හමන දිශාව                                                                                                                              D මිලිමීටර්\nඉහත දැක්වෙන තත්ත්වයන් නිවැරදිව ගැලපු විට ලැබෙන පිළිතුර කුමක්ද?",
+        "choices": [
+            "ABCD",
+            "CDAB",
+            "BADC",
+            "DCBA"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/grade-06-geography-2nd-term-test-paper-with-answers-2023-mathugama-zone/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 16,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "පහත සඳහන් වන්නේ මෙරට පාරම්පරික කර්‌මාන්ත කිහිපයක් හා ඒ සඳහා ප්‍රසිද්ධ ප්‍රදේශයි. මෙය\nනිවැරදිව ගලපා පිළිතුර තෝරන්න.\nI) පිත්තල භාණ්ඩ, II) ලී බඩු, III) වේවැල් භාණ්ඩ, IV) වෙස් මුහුණු                                                                                                                                                                                                                                                                        \nA අම්බලන්ගොඩ, B රදාවඩුන්න, C පිළිමතාලව, D මොරටුව",
+        "choices": [
+            "BACD",
+            "CBDA",
+            "ACDB",
+            "CDBA"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/grade-06-geography-2nd-term-test-paper-with-answers-2023-mathugama-zone/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 17,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "ශ්‍රී ලංකාවේ තෙත් කලාපයේ වැවෙන බෝග වර්ගයකි,",
+        "choices": [
+            "ගම්මිරිස්",
+            "බඩඉරිඟු",
+            "තල",
+            "රටකජු"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/grade-06-geography-2nd-term-test-paper-with-answers-2023-mathugama-zone/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 18,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "ශ්‍රී ලංකාවේ පළාත් අතරින් වෙරළ තීරයන් හිමි නොවන පළාත මින් කුමක්ද?",
+        "choices": [
+            "උතුරු පළාත",
+            "වයඹ පළාත",
+            "සබරගමුව පළාත",
+            "බස්නාහිර පළාත"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-geography-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 19,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "ශ්‍රී ලංකාවේ නැගෙනහිර පළාතට අයත් ස්වභාවික වරාය මින් කුමක් ද?",
+        "choices": [
+            "හම්බන්තොට",
+            "ත්‍රිකුණාමලය",
+            "ගාල්ල",
+            "කොළඹ"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-geography-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 20,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "පාසලක අනන්‍යතාවය දැක්වීමට මෙය අත්‍යවශ්‍ය නොවේ.",
+        "choices": [
+            "පාසලේ නම",
+            "පාසල අයත් ඡන්ද කොට්ඨාසය",
+            "අධ්‍යාපන කලාපය",
+            "අධ්‍යාපන කොට්ඨාසය"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-geography-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 21,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "සිතියමක දක්නට නොලැබෙන ලක්ෂණයකි.",
+        "choices": [
+            "ත්‍රිමාණ ස්වරූපයක් ගැනීම",
+            "වර්ණවත් වීම",
+            "පැතලි ස්වභාවය",
+            "දිශාව දැක්වීම"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-geography-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 22,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "අවිධිමත් භූමි පරිහරණයේ ප්‍රතිඵලයක් නොවන පිළිතුර තෝරන්න.",
+        "choices": [
+            "පාංශු ඛාදනය අවමවීම.",
+            "පරිසර පද්ධති විනාශ වීම.",
+            "නායයෑම් ඇතිවීම.",
+            "සත්ත්ව වාසස්ථාන අහිමිවීම."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-06-geography-3rd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 23,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "අප භාවිතා කරන සේවාවන් පමණක් දැක්වෙන පිළිතුර තෝරන්න.",
+        "choices": [
+            "කෘෂිකර්මය, කර්මාන්ත, සෞඛ්‍ය",
+            "අධ්‍යාපනය, සෞඛ්‍ය, ප්‍රවාහනය",
+            "තැපැල්, සන්නිවේදන, ගෘහ කර්මාන්ත",
+            "සත්ව පාලනය, අධ්‍යාපනය, ආරක්ෂාව"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-06-geography-3rd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 24,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "ශ්‍රී ලංකාවේ දුම්බර ප්‍රදේශය ප්‍රසිද්ධියක් උසුලන්නේ,",
+        "choices": [
+            "වේවැල් භාණ්ඩ සඳහාය.",
+            "වෙස්මුහුණු කර්මාන්තය සඳහාය.",
+            "පිත්තල භාණ්ඩ සඳහාය.",
+            "පැදුරු සඳහාය."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-06-geography-3rd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 25,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "ශ්‍රී ලංකාවේ වැඩිම ප්‍රතිශතයක් ජීවත්වන ආගමික කණ්ඩායම වනුයේ,\n",
+        "choices": [
+            "කතෝලිකය.",
+            "හින්දුය.",
+            "ඉස්ලාම්ය.",
+            "බෞද්ධය."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-06-geography-3rd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 26,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "වේවැල් භාණ්ඩ සඳහා ප්‍රසිද්ධ ප්‍රදේශයක් වන්නේ,",
+        "choices": [
+            "මොරටුව",
+            "අම්බලන්ගොඩ",
+            "රදාවඩුන්න",
+            "දුම්බර"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-06-geography-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 27,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "කොළඹ දිස්ත්‍රික්කය අයත් පළාත කුමක් ද?",
+        "choices": [
+            "බස්නාහිර",
+            "දකුණ",
+            "ඌව",
+            "නැගෙනහිර"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-06-geography-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 28,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "භූමිය අයහපත් ලෙස පරිහරණය කිරීම නිසා ඇති වන අයහපත් ප්‍රතිඵලයකි.",
+        "choices": [
+            "සුනාමි",
+            "භූමි කම්පා",
+            "නියඟ",
+            "නායයෑම්"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-06-geography-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 29,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": " බස්නාහිර හා උතුර අතර පිහිටි දිශාව වන්නේ ,",
+        "choices": [
+            "දකුණ",
+            "නැගෙනහිර",
+            "නිරිත",
+            "වයඹ"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=43307&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 30,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": " කාලගුණික අංග අතර මූලිකාංගය වන්නේ පහත දැක්වෙන කුමන ලක්ෂණයද ?",
+        "choices": [
+            "උෂ්ණත්වය",
+            "වර්ෂාපතනය",
+            "සුළං",
+            "වළාකුළු"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=43307&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 31,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "සිතියමේ දැක්වෙන ලක්ෂණ හදුනා ගැනීමට උපකාරී වන ප්‍රධාන සාධකයක් ලෙස සැලකේනේ ,",
+        "choices": [
+            "උතුර",
+            "සුචිය",
+            "සරල රේඛා",
+            "පරිමානය"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=43307&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 32,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "මිනිසාට හානි ගෙන දෙන විස සහිත උරගයෙක් ලෙස සැලකෙන සත්වයා නම් ,\n",
+        "choices": [
+            "කුරුමිණියා",
+            "මීයා",
+            "වවුලා",
+            "කරවලා"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=43307&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 33,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "බෙංගාල බොක්ක ප්‍රදේශයේ හටගන්නා වායු කැළඹීම් හේතුවෙන් ශ්‍රී ලංකාවට වැසි ඇතිවන ක්‍රමය කුමක්ද?",
+        "choices": [
+            "සංවහන",
+            "වාසුළි",
+            "නිරිත දිග මෝසම්",
+            "ඊසාන දිග මෝසම්"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_1",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-07-geography-1st-term-test-paper-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 34,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "අභ්‍යන්තර තැනිතලාවේ දක්නට ලැබෙන භූ ලක්ෂණයකි.",
+        "choices": [
+            "කපොල්ල",
+            "හෙල්වැටි",
+            "නිම්නය",
+            "කලපුව"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_1",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-07-geography-1st-term-test-paper-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 35,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "පෘථිවියේ හැඩය පිළිබඳව වඩාත් නිවැරදි ප්‍රකාශය තෝරන්න.",
+        "choices": [
+            "ගෝලාකාර හැඩයෙන් යුතු අතර උතුරු හා දකුණු කොටස් දිගටිය.",
+            "සමක පරිධිය ධ්‍රැව පරිධියට වඩා විශාලය.",
+            "ධ්‍රැව පරිධිය සමක පරිධියට වඩා විශාලය.",
+            "පූර්ණ ගෝලයක් සේ දිස්වේ."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_1",
+            "year": 2018,
+            "source": "https://pastpapers.wiki/grade-07-geography-1st-term-test-paper-2018-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 36,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "සමකය, කර්කටක නිවර්තනය, ආක්ටික් වෘත්තය යන රේඛාවන්හි අගයයන් නිවැරදිව පිළිවෙලින් අඩංගු පිළිතුර මින් කුමක්ද?",
+        "choices": [
+            "උතුරු 90°, උතුරු 23½°, උතුරු 66½°",
+            "උතුරු 23½°, දකුණු 23½°, උතුරු 66½°",
+            "0°, උතුරු 23½°, උතුරු 66½°",
+            "0°, දකුණු 23½°, දකුණු 66½°"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_1",
+            "year": 2018,
+            "source": "https://pastpapers.wiki/grade-07-geography-1st-term-test-paper-2018-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 37,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "ග්‍රිනිච් රේඛාව සම්බන්ධයෙන් ඔබට එකඟ විය හැකි ප්‍රකාශය තෝරන්න.",
+        "choices": [
+            "උතුරේ සිට සමකය දක්වා විහිදී ඇත.",
+            "නැගෙනහිර සිට බටහිරට විහිදී ඇත.",
+            "සමකයට සමාන දිගින් යුතුය.",
+            "180° දේශාංශයේ දිගට සමානය."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_1",
+            "year": 2018,
+            "source": "https://pastpapers.wiki/grade-07-geography-1st-term-test-paper-2018-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 38,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "බ්‍රිතාන්‍ය දූපත් අයිති වන්නේ මින් කවර මහාද්වීපයකට ද?\n",
+        "choices": [
+            "ආසියා මහාද්වීපය",
+            "ඇමෙරිකා මහාද්වීපය",
+            "යුරෝපා මහාද්වීපය",
+            "අප්‍රිකා මහාද්වීපය"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_1",
+            "year": 2018,
+            "source": "https://pastpapers.wiki/grade-07-geography-1st-term-test-paper-2018-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 39,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "ශ්‍රී ලංකාවට උතුරින් පිහිටා ඇති රටවල් පමණක් අඩංගු පිළිතුර මින් කුමක්ද?",
+        "choices": [
+            "ඉන්දියාව, චීනය, රුසියාව",
+            "ඕස්ට්‍රේලියාව, චීනය, අන්දමන් දූපත්",
+            "ඉන්දියාව, මැඩගස්කරය, ඕස්ට්‍රේලියාව",
+            "රුසියාව, මැලේසියාව, චීනය"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_1",
+            "year": 2018,
+            "source": "https://pastpapers.wiki/grade-07-geography-1st-term-test-paper-2018-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 40,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "ලෝකයේ ප්‍රධාන සාගර අතරින් කුඩාම සාගරය වන්නේ මින් කුමක් ද?",
+        "choices": [
+            "ඉන්දියන් සාගරය",
+            "පැසිපික් සාගරය",
+            "ආක්ටික් සාගරය",
+            "ඇන්ටාක්ටික් සාගරය"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://www.e-thaksalawa.moe.gov.lk/moodle/course/view.php?id=984"
+        }
+    },
+    {
+        "q_no": 41,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "කඩොලාන ශාක බහුලව දැකිය හැකි වන්නේ මින් කවර ප්‍රදේශවල ද?",
+        "choices": [
+            "කලපු හා මෝය ආශ්‍රිතව",
+            "සානු හා දියඇලි ආශ්‍රිතව",
+            "නිම්න හා ගංගා ආශ්‍රිතව",
+            "වැව් හා ජලාශ ආශ්‍රිතව"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://www.e-thaksalawa.moe.gov.lk/moodle/course/view.php?id=984"
+        }
+    },
+    {
+        "q_no": 42,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "ශ්‍රී ලංකාවට බලපාන වාසුළි ක්‍රියාත්මක වන කාලසීමාව මින් කුමක් ද?",
+        "choices": [
+            "මාර්තු, අප්‍රේල්",
+            "නොවැම්බර්, දෙසැම්බර්",
+            "මැයි, ජුනි",
+            "ජූලි, අගෝස්තු"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://www.e-thaksalawa.moe.gov.lk/moodle/course/view.php?id=984"
+        }
+    },
+    {
+        "q_no": 43,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "පහත සඳහන් ස්ථාන අතරින් නිදහස් වෙළඳ කලාපයක් පිහිටා ඇත්තේ කවර ස්ථානයේ ද?",
+        "choices": [
+            "ඒකල",
+            "මාතර",
+            "බියගම",
+            "මීගමුව"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://www.e-thaksalawa.moe.gov.lk/moodle/course/view.php?id=984"
+        }
+    },
+    {
+        "q_no": 44,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "ශ්‍රී ලංකාවේ තෙත් කලාපය තුළ පිහිටි ගංගාව මින් කුමක් ද?",
+        "choices": [
+            "මහවැලි ගඟ",
+            "කැලණි ගඟ",
+            "මැණික් ගඟ",
+            "කලා ඔය"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://www.e-thaksalawa.moe.gov.lk/moodle/course/view.php?id=984"
+        }
+    },
+    {
+        "q_no": 45,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "තල් ආශ්‍රිත නිෂ්පාදන දක්නට ලැබෙන්නේ මින් කුමන භූ දර්ශනය තුළ ද?",
+        "choices": [
+            "තෙත් කලාපීය භූ දර්ශනය",
+            "වියළි කලාපීය භූ දර්ශනය",
+            "යාපන අර්ධද්වීපය අවට භූ දර්ශනය",
+            "වෙරළාශ්‍රිත භූ දර්ශනය"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://www.e-thaksalawa.moe.gov.lk/moodle/course/view.php?id=984"
+        }
+    },
+    {
+        "q_no": 46,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "සුනාමි ඇතිවීමට බලපාන හේතුවක් වන්නේ මින් කුමක් ද?",
+        "choices": [
+            "අකුණු සැර",
+            "ලැව්ගිනි",
+            "මුහුදු පතුලේ භූමි කම්පා",
+            "ගංවතුර"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://www.e-thaksalawa.moe.gov.lk/moodle/course/view.php?id=984"
+        }
+    },
+    {
+        "q_no": 47,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "ආපදා කළමනාකරණ චක්‍රයට අනුව ආපදාවෙන් පසු කටයුතු කළ යුතු ආකාරය මින් කුමක් ද?\n",
+        "choices": [
+            "වන වැස්ම ආරක්ෂා කිරීම.",
+            "ජල පෝෂක ප්‍රදේශ ආරක්ෂා කිරීම.",
+            "සෞඛ්‍ය වැඩ සටහන් ක්‍රියාත්මක කිරීම.",
+            "අනාථ වූවන්ට ආහාරපාන සැපයීම."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://www.e-thaksalawa.moe.gov.lk/moodle/course/view.php?id=984"
+        }
+    },
+    {
+        "q_no": 48,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "බලශක්ති සම්පත් නිෂ්පාදනය හා භාවිතය සම්බන්ධ ගැටලුවකි.",
+        "choices": [
+            "ජල විදුලිය උත්පාදනය අඩාල වීම",
+            "මානසික ආතතිය වැඩි වීම",
+            "යටිතල පහසුකම් විනාශ වීම",
+            "වෙරළබඩ බිම් ජලයෙන් යටවීම"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://www.e-thaksalawa.moe.gov.lk/moodle/course/view.php?id=984"
+        }
+    },
+    {
+        "q_no": 49,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "වඩාත්ම ගැලපෙන පිළිතුර තෝරන්න\nග්‍රිනිජ් මධ්‍ය දේශාංශය සළකුණු කර ඇති නගරය පිහිටා ඇත්තේ .....................  නම් රටෙහිය .",
+        "choices": [
+            "චීනය",
+            "බ්‍රිතාන්‍යයය",
+            "ජපානය",
+            "ඉන්දියාව"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=43398&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 50,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "වඩාත්ම ගැලපෙන පිළිතුර තෝරන්න\nආරක්ෂක බලකොටුවක් ලෙසට ප්‍රකටව ඇති ශේෂ කන්දක් ලෙස  .................. ට ප්‍රධාන තැනක් හිමි වේ .",
+        "choices": [
+            "යාපහුව",
+            "දඹදෙණිය",
+            "සීගිරිය",
+            "ගම්පල"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=43398&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 51,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "වඩාත්ම ගැලපෙන පිළිතුර තෝරන්න\nශ්‍රී ලංකාවේ කොළඹ සිට .................. තුඩුව දක්වා දිග කි.මි 224 කි .",
+        "choices": [
+            "පේදුරු",
+            "දෙවුන්දර",
+            "සංගමන් කන්ද",
+            "කුදිරමලෛ"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=43398&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 52,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "වඩාත්ම ගැලපෙන පිළිතුර තෝරන්න\nඩෙල්ප්ස් , කයිට්ස් , නාගදීපය වැනි දූපත් පිහිටා ඇත්තේ ..................... දිස්ත්‍රික්කයේය .",
+        "choices": [
+            "පුත්තලම",
+            "යාපනය",
+            "මඩකලපුව",
+            "ත්‍රිකුණාමලය"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=43398&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 53,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "වඩාත්ම ගැලපෙන පිළිතුර තෝරන්න\nකුමන කුරුළු අභය භූමිය පිහිටා ඇත්තේ .................. පළාතේය .\n",
+        "choices": [
+            "උතුරු",
+            "නැගෙනහිර",
+            "දකුණ",
+            "බටහිර"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=43398&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 54,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "ශ්‍රී ලංකාවේ විශාලත්වය බලන විට දෙවුන්දර තුඩුවේ සිට පේදුරු තුඩුව දක්වා දුර වන්නේ ,",
+        "choices": [
+            "කි.මි. 210 කි.",
+            "කි.මි. 432 කි.",
+            "කි.මි. 510 කි.",
+            "කි.මි. 410 කි."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26480&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 55,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "අර්ධ ශුෂ්ක ප්‍රදේශවල දක්නට ලැබෙන වෘක්ෂ ලතා වර්ගය වන්නේ ,\n",
+        "choices": [
+            "තද කොළ පැහැති ශාකය .",
+            "වියන් සහිත ගස් ය .",
+            "කටු පඳුරු සහිත වන ලැහැබ් ය .",
+            "ඝන වනාන්තරය ."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26480&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 56,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "හේන් වගාව බහුලව දක්නට ලැබෙන්නේ ,",
+        "choices": [
+            "තෙත් කලාපයේ ය .",
+            "වියළි කලාපයේ ය .",
+            "කඳුකර තෙත් කලාපයේය .",
+            "අතර මැදි කලාපයේය ."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26480&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 57,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "දකුණු ආසියා කලාපයේ ඉහළ සමාජීය සංවර්ධනයක් ඇති රට වන්නේ ,",
+        "choices": [
+            "ඉන්දියාවයි .",
+            "පකිස්ථානයයි .",
+            "බංගලාදේශයයි .",
+            "ශ්‍රී ලංකාවයි ."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26480&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 58,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "සාක්ෂරතාවයෙන් ශ්‍රී ලංකාව දෙවෙනි වන්නේ ,",
+        "choices": [
+            "මාල දිවයිනට ය .",
+            "ඉන්දියාවට ය .",
+            "පකිස්ථානයට ය .",
+            "බංගලාදේශයට ය ."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NCP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=46154&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 59,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "මහද්වීපයක් වුවත් තනි රටක් වශයෙන් පවතී .",
+        "choices": [
+            "ආසියාව",
+            "යුරෝපය",
+            "ඕස්ට්‍රේලියාව",
+            "අප්‍රිකාව"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NCP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=46154&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 60,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "තෙත් කලාපීය භූ දර්ශනය ආශ්‍රිත ලක්ෂණයක් වන්නේ ,",
+        "choices": [
+            "ගංගා හරස් කොට ඉදිකරන ලද වැටී",
+            "වර්ෂය මුළුල්ලේ ගලා බසින ගංගා",
+            "බොකු , කලපු තුඩු වැනි භූ ලක්ෂණ සහිත වෙරළ තීරය",
+            "වර්ෂා ජලය මත රදා පවතින හේන් වගාව"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NCP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=46154&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 61,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "ශ්‍රී ලංකාවේ මධ්‍ය වාර්ෂික උෂ්ණත්වය වනුයේ,",
+        "choices": [
+            "27°C -30°C",
+            "25°C -30°C",
+            "26°C-30°C",
+            "24°C -30°C"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NCP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=46154&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 62,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "වෙරළබඩ භූ දර්ශනයේ කැපී පෙනෙන භෞතික ලක්ෂණය මින් කුමක්ද?",
+        "choices": [
+            "වැලිපර",
+            "රැළි බිම්",
+            "හැඩපළු ගංගා",
+            "ගං දඟර"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://www.e-thaksalawa.moe.gov.lk/moodle/course/view.php?id=121"
+        }
+    },
+    {
+        "q_no": 63,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "පෘථිවියේ දේශාංශ 1ක් භ්‍රමණය වීම සඳහා ගතවන කාලය වන්නේ,",
+        "choices": [
+            "විනාඩි 15යි",
+            "විනාඩි 60යි",
+            "විනාඩි 1යි",
+            "විනාඩි 4යි"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://www.e-thaksalawa.moe.gov.lk/moodle/course/view.php?id=121"
+        }
+    },
+    {
+        "q_no": 64,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "දේශාංශ පදනම් කරගනිමින් පෘථිවිය සම්මත කාල (වේලා) කලාප කීයකට බෙදා තිබේද?",
+        "choices": [
+            "04",
+            "15",
+            "24",
+            "360"
+        ],
+        "answer": 24,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://www.e-thaksalawa.moe.gov.lk/moodle/course/view.php?id=121"
+        }
+    },
+    {
+        "q_no": 65,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "දකුණු ආසියා සහයෝගීතා සංවිධානයේ සාමාජිකත්වය ලබා ඇති ඇෆ්ගනිස්ථානය භූගෝලීය වශයෙන් අයත් වන කලාපය මින් කුමක් ද?",
+        "choices": [
+            "දකුණු ආසියාව",
+            "නැගෙනහිර ආසියාව",
+            "ගිනිකොණදිග ආසියාව",
+            "මධ්‍යම ආසියාව"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://www.e-thaksalawa.moe.gov.lk/moodle/course/view.php?id=121"
+        }
+    },
+    {
+        "q_no": 66,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "දකුණු ආසියා කලාපයේ ජනගහනය අධිකම රට මින් කුමක් ද?",
+        "choices": [
+            "ඉන්දියාව",
+            "පාකිස්ථානය",
+            "බංග්ලාදේශය",
+            "චීනය"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://www.e-thaksalawa.moe.gov.lk/moodle/course/view.php?id=121"
+        }
+    },
+    {
+        "q_no": 67,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "නාසා ආයතනය පිහිටි රට කුමක්ද?",
+        "choices": [
+            "ජපානය",
+            "ඇමෙරිකා එක්සත් ජනපදය",
+            "එංගලන්තය",
+            "රුසියාව"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_WP",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/western-province-20232024-grade-08-geography-3rd-term-test-paper/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 68,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "- හිම හා අයිස් ක්‍රමයෙන් දියවීම \n- අක්‍රියව පැවති ශාක දළුලා වැඩිම \n- මල් හා ඵල හට ගැනිම\nඉහත සඳහන් ලක්ෂණ දක්නට ලැබෙන ඍතුව මින් කුමක්ද?",
+        "choices": [
+            "ගිම්හාන",
+            "සරත්",
+            "ශීත",
+            "වසන්ත"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_WP",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/western-province-20232024-grade-08-geography-3rd-term-test-paper/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 69,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "දකුණු ආසියානු කලාපයේ පිහිටුවා ඇති දේශපාලන සංවිධානයක් වන සාර්ක් සංවිධානයට ඇතුළු කරගෙන ඇති මධ්‍යම ආසියාතික රට වන්නේ,",
+        "choices": [
+            "ශ්‍රී ලංකාවයි.",
+            "ඇෆ්ගනිස්ථානය යි.",
+            "ඉන්දියාව යි.",
+            "මාලදිවයිනයි."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_SP",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/southern-province-20232024-grade-08-geography-3rd-term-test-paper/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 70,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "වැලිතලා සහිත පැතුරුණු භූමිය මි. මි 250 ට අඩු වර්ෂාව, අධික වාෂ්පීකරණයක් පැවතීම වැනි ලක්‍ෂණ පෙන්නුම් කරන භූ දර්ශනයක් දැකිය හැකි වන්නේ,",
+        "choices": [
+            "වෙරළ භූ දර්ශනයේ",
+            "කාන්තාර භූ දර්ශනයේ",
+            "නිම්න භූ දර්ශනයේ",
+            "ග්‍රාමීය භූ දර්ශනයේ"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_SP",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-08-geography-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 71,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "1 : 50000 සිතියම් මත රතු පැහැයෙන් + --+-+ -- ලෙස දක්වා ඇත්තේ කුමන පරිපාලන මායිම ද?",
+        "choices": [
+            "පළාත් මායිම",
+            "දිස්ත්‍රික්ක මායිම",
+            "උප දිසාපති කොට්ඨාස මායිම්",
+            "නගර සභා සීමා"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_SP",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-08-geography-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 72,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "පෘථිවි භ්‍රමනය සිදුවන්නේ පෘථිවියේ",
+        "choices": [
+            "කක්ෂය වටා ය.",
+            "පරිධිය වටා ය.",
+            "අක්ෂය වටා ය.",
+            "ධ්‍රැව ලක්ෂය වටා ය."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-geography-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 73,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "දකුණු ආසියාවට අයත් වෙරළක් නැති රටවල් දෙකක් අයත් වන පිළිතුර කුමක්ද?",
+        "choices": [
+            "පාකිස්ථානය - භූතානය",
+            "ඉන්දියාව - මාලදිවයින",
+            "භූතානය - නේපාලය",
+            "පාකිස්ථානය - බංග්ලාදේශය"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-geography-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 74,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "ඉන්දු ගංඟාවට බටහිරින් පිහිටි පකිස්ථානයට අයත් කඳුවැටිය වන්නේ,",
+        "choices": [
+            "සුලෙයිමාන්",
+            "කුන්හුන්",
+            "කාරකෝරම්",
+            "හිමාලය"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-geography-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 75,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "ශ්‍රී ලංකාවේ හා පළල නිවැරදි අනුපිළිවෙලට දැක්වෙන පිළිතුර තෝරන්න.",
+        "choices": [
+            "දිග කි. මී. 224, පළල කි.මී. 433",
+            "දිග කි.මී. 423, පළල කි.මී 242",
+            "දිග කි.මී. 424, පළල කි.මී. 264",
+            "දිග කි.මී. 432, පළල කි.මී. 224"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-geography-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 76,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "හිරු උදාවන දිශාවට මුහුණලා දෑත්‌ දෙපසට දිගුකර සිටගත්‌ විට ඔබගේ දකුණු අත විහිදෙන දිශාවෙන්‌\nදුක්වෙනුයේ ....................................... දිශාවයි.",
+        "choices": [
+            "උතුරු",
+            "දකුණු",
+            "බටහිර",
+            "නැගෙනහිර"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_1",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-geography-1st-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 77,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "අඩු වේගයකින්‌ හමන සුළං ....................................... නමින්ද හඳුන්වයි.",
+        "choices": [
+            "සැඩ සුළං",
+            "සුළි සුළං",
+            "මද සුළං",
+            "නිහඬ සුළං"
+
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_1",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-geography-1st-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 78,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "ශ්‍රී ලංකාවේ අනුරාධපුරය සහ පොළොන්නරුව යන එතිහාසික නගර දෙක අයත්‌ වන්නේ\n.................. පළාතටය.",
+        "choices": [
+            "උතුරු මැද",
+            "මධ්‍යම",
+            "ඌව",
+            "නැගෙනහිර"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_1",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-geography-1st-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 79,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "පෘථිවියට උෂ්ණත්වය සහ තාපය ලැබුනුයේ ....................................... මගිනි.",
+        "choices": [
+            "තාරකා",
+            "සූර්යයා",
+            "ග්‍රහලෝක",
+            "චන්ද්‍රයා"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_1",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-geography-1st-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 80,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "උතුරු දිශාව සහ බස්නාහිර දිශාව අතර ....................................... දිශාව පිහිටා ඇත.",
+        "choices": [
+            "ගිණිකොන",
+            "නිරිත",
+            "වයඹ",
+            "ඊසාන"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_1",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-geography-1st-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 81,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "පරිපාලන ධූරාවලිය අනුව ................. කිපයක්‌ එකතු වී පළාත සෑදී තිබේ.",
+        "choices": [
+            "ග්‍රාම නිලධාර්‌ කොට්ඨාස",
+            "දිස්ත්‍රික්ක",
+            "ප්‍රාදේශීය ලේකම්‌ කොට්ඨාස",
+            "ගම්මාන"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_1",
+            "year": 2018,
+            "source": "https://pastpapers.wiki/grade-06-geography-1st-term-test-paper-2018-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 82,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "ශ්‍රී ලංකාවේ විශාලතම පරිපාලන ඒකකය ......................... වේ.",
+        "choices": [
+            "දිස්ත්‍රික්කය",
+            "ගම",
+            "පළාත",
+            "ප්‍රාදේශීය ලේකම් කොට්ඨාසය"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_1",
+            "year": 2018,
+            "source": "https://pastpapers.wiki/grade-06-geography-1st-term-test-paper-2018-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 83,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "ඌව පළාත බදුල්ල හා .................... දිසික්‍රික්ක වලින්‌ සමන්විත ය.",
+        "choices": [
+            "අම්පාර",
+            "කෑගල්ල",
+            "මොණරාගල",
+            "රත්නපුර"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_1",
+            "year": 2018,
+            "source": "https://pastpapers.wiki/grade-06-geography-1st-term-test-paper-2018-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 84,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "පාසලක අනන්‍යතාවය දුක්වීම සඳහා එහි නම ලිවීමේ දී ....................... නම ද භාවිතා කරයි.\n",
+        "choices": [
+            "රටේ",
+            "ගමේ",
+            "අධ්‍යාපන කලාපයේ",
+            "පළාත් සභාවේ"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_1",
+            "year": 2018,
+            "source": "https://pastpapers.wiki/grade-06-geography-1st-term-test-paper-2018-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no":85,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "වයඹ පළාතට කුරුණෑගල හා ................. දිසිීකික්කය ද අයත්‌ ය.",
+        "choices": [
+            "ගම්පහ",
+            "මහනුවර",
+            "පුත්තලම",
+            "අනුරාධපුර"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_1",
+            "year": 2018,
+            "source": "https://pastpapers.wiki/grade-06-geography-1st-term-test-paper-2018-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 86,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "ශ්‍රී ලංකාවේ උතුරු පළාත දිස්ත්‍රික්ක ..................................................................................... කින් සමන්විත ය. ",
+        "choices": [
+            "3",
+            "5",
+            "4",
+            "2"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-geography-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 87,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "ශ්‍රී ලංකාවට පැමිණෙන සංචාරක පක්ෂීන් අතර ..................................................................................... එක් පක්ෂියෙකි. ",
+        "choices": [
+            "වවුලා",
+            "ගිරවා",
+            "අවිච්චියා",
+            "කොණ්ඩයා"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-geography-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 88,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "ශ්‍රී ලංකාවේ තැනිතලා ප්‍රදේශවල ..................................................................................... වගාව සිදු කරයි. ",
+        "choices": [
+            "තේ",
+            "පොල්",
+            "රබර්",
+            "කරදමුංගු"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-geography-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 89,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "ගෘහ ආශ්‍රිතව සිදු කරන ..................................................................................... කර්මාන්ත ශ්‍රී ලංකාවේ සෑම ප්‍රදේශයකම දක්නට ලැබේ. ",
+        "choices": [
+            "මහා පරිමාණ",
+            "කුඩා පරිමාණ",
+            "මධ්‍යම පරිමාණ",
+            "අපනයන"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-geography-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 90,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "අපද්‍රව්‍ය කළමනාකරණය කිරීමේදී භාවිතා වන ක්‍රමවේදයන් ලෙස භාවිතය අවම කිරීම, නැවත භාවිතා කිරීම හා ..................................................................................... කිරීම 3R ලෙස හැඳින්වේ.",
+        "choices": [
+            "අලුත්වැඩියා",
+            "ප්‍රතිචක්‍රීකරණය",
+            "ඇසුරුම්කරණය",
+            "විනාශ"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-06-geography-3rd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 91,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "මැඩගස්කර් දූපත ..................................................................................... පිහිටා ඇත.",
+        "choices": [
+            "ඉන්දියන් සාගරයේ",
+            "අත්ලන්තික් සාගරයේ",
+            "පැසිෆික් සාගරයේ",
+            "භූමධ්‍ය සාගරයේ"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-06-geography-3rd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 92,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "ශ්‍රී ලංකාවේ ..................................................................................... පළාත දිස්ත්‍රික්ක තුනකින් සමන්විත පළාතකි.",
+        "choices": [
+            "උතුරු",
+            "දකුණු",
+            "වයඹ",
+            "සබරගමුව"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-06-geography-3rd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 93,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "පෘථිවි ගෝලයේ මතුපිට වර්ග ප්‍රමාණය වර්ග කිලෝමීටර් මිලියන ..................................................................................... ක් පමණ වේ.",
+        "choices": [
+            "510",
+            "610",
+            "560",
+            "410"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_1",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-07-geography-1st-term-test-paper-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 94,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "දේශාංශ 180° රේඛාව පදනම් කරගෙන ..................................................................................... නිර්මාණය කර ඇත.",
+        "choices": [
+            "ග්‍රිනිච් රේඛාව",
+            "සම්මත දින රේඛාව",
+            "සමකය",
+            "කර්කටක රේඛාව"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_1",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-07-geography-1st-term-test-paper-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 95,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "පෘථිවි පෘෂ්ඨයේ 71% ක් ..................................................................................... වැසී ඇත.",
+        "choices": [
+            "ජලයෙන්",
+            "ගොඩබිමෙන්",
+            "සාගර වලින්",
+            "වනාන්තර වලින්"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_1",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-07-geography-1st-term-test-paper-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 96,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "මහද්වීප අතර විශාලත්වයෙන් දෙවන ස්ථානය හිමි වන්නේ ..................................................................................... මහද්වීපයටයි.",
+        "choices": [
+            "අප්‍රිකා",
+            "උතුරු ඇමරිකා",
+            "දකුණු ඇමරිකා",
+            "යුරෝපා"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_1",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-07-geography-1st-term-test-paper-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 97,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "වෙරළ මායිමේ සිට නාවික සැතපුම් 12 ක සීමාව ..................................................................................... ලෙස හඳුන්වයි.\n",
+        "choices": [
+            "පරම ආර්ථික කලාපය",
+            "රාෂ්ටීය මුහුදු සීමාව",
+            "යාබද මුහුදු",
+            "මහාද්වීපික තටාකය"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_1",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-07-geography-1st-term-test-paper-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 98,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "දේශාංශ 180° රේඛාව පදනම් කරගෙන ..................................................................................... සකස් කරගෙන ඇත.",
+        "choices": [
+            "ග්‍රිනිච් රේඛාව",
+            "ජාත්‍යන්තර දින රේඛාව",
+            "නිරක්ෂ රේඛාව",
+            "ප්‍රධාන මධ්‍යහන රේඛාව"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_1",
+            "year": 2018,
+            "source": "https://pastpapers.wiki/grade-07-geography-1st-term-test-paper-2018-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 99,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "පෘථිවියේ ..................................................................................... ට උතුරින් ඇති කොටස උත්තරාර්ධ ගෝලය වේ.",
+        "choices": [
+            "ධ්‍රැවය",
+            "සමකය",
+            "ග්‍රිනිච් රේඛාව",
+            "කර්කටක රේඛාව"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_1",
+            "year": 2018,
+            "source": "https://pastpapers.wiki/grade-07-geography-1st-term-test-paper-2018-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 100,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "විශාලත්වයෙන් තුන්වන තැන ගන්නා මහාද්වීපය ..................................................................................... වේ.",
+        "choices": [
+            "ආසියා",
+            "උතුරු ඇමෙරිකා",
+            "දකුණු ඇමෙරිකා",
+            "යුරෝපය"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_1",
+            "year": 2018,
+            "source": "https://pastpapers.wiki/grade-07-geography-1st-term-test-paper-2018-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 101,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "ආසියා මහාද්වීපය තුළ පිහිටි ..................................................................................... මුහුද අභ්‍යන්තර මුහුදක් ලෙස පිහිටා ඇත.",
+        "choices": [
+            "රතු",
+            "කැස්පියන්",
+            "චීන",
+            "අරාබි මුහුද"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_1",
+            "year": 2018,
+            "source": "https://pastpapers.wiki/grade-07-geography-1st-term-test-paper-2018-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 102,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "ආසන්න වටපිටාවේ ඇති ගොඩබිම් හා සාගර පදනම් කරගෙන රටක පිහිටීම දැක්වීම ..................................................................................... පිහිටීම ලෙස හඳුන්වයි. ",
+        "choices": [
+            "සාපේක්‍ෂ",
+            "නිරපේක්‍ෂ",
+            "නිශ්චිත",
+            "ප්‍රාදේශීය"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://www.e-thaksalawa.moe.gov.lk/moodle/course/view.php?id=984"
+        }
+    },
+    {
+        "q_no": 103,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "අසනි වැසි ලෙස හඳුන්වන්නේ ..................................................................................... වර්ෂාවයි. ",
+        "choices": [
+            "වාසුළි",
+            "සංවහන",
+            "නිරිතදිග මෝසම්",
+            "ඔරොග්‍රැෆික්"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://www.e-thaksalawa.moe.gov.lk/moodle/course/view.php?id=984"
+        }
+    },
+    {
+        "q_no": 104,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "මුහුදු මට්ටමේ සිට 300m ට වඩා උසින් වැඩි ප්‍රදේශ ..................................................................................... භූ දර්ශනයට අයත් වේ. ",
+        "choices": [
+            "වියළි කලාපීය",
+            "තෙත් කලාපීය",
+            "කඳුකර",
+            "තැනිතලා"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://www.e-thaksalawa.moe.gov.lk/moodle/course/view.php?id=984"
+        }
+    },
+    {
+        "q_no": 105,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "අලංකාර කොරල්පර සහිත ..................................................................................... ප්‍රදේශය සංචාරකයින්ගේ ආකර්ශනයට ලක්ව තිබේ. ",
+        "choices": [
+            "හික්කඩුව",
+            "නිලාවේලි",
+            "උණවටුන",
+            "මිරිස්ස"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://www.e-thaksalawa.moe.gov.lk/moodle/course/view.php?id=984"
+        }
+    },
+    {
+        "q_no": 106,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "ශ්‍රී ලංකාව ..................................................................................... දේශගුණික කලාපයේ පිහිටි රටකි.",
+        "choices": [
+            "ශීත",
+            "සෞම්‍ය",
+            "නිවර්තන",
+            "මැදිටරේනියානු"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://www.e-thaksalawa.moe.gov.lk/moodle/course/view.php?id=984"
+        }
+    },
+    {
+        "q_no": 107,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "ශ්‍රී ලංකාවේ පිහිටි ..................................................................................... ස්වභාවික නිර්මිත ලෝක උරුමයකි.",
+        "choices": [
+            "සිංහරාජ වනාන්තරය",
+            "ගාලු කොටුව",
+            "සීගිරිය",
+            "දළදා මාළිගාව"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://www.e-thaksalawa.moe.gov.lk/moodle/course/view.php?id=984"
+        }
+    },
+    {
+        "q_no": 109,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "නූතන ජන සමාජයට අනුවර්තනය වූ ආදිවාසී ජනතාව ..................................................................................... ප්‍රදේශයේ ජීවත් වේ.",
+        "choices": [
+            "මහියංගනය",
+            "දඹාන",
+            "හෙන්නානිගල",
+            "බිබිලේ"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://www.e-thaksalawa.moe.gov.lk/moodle/course/view.php?id=984"
+        }
+    },
+    {
+        "q_no": 110,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "දකුණු ආසියා කලාපයේ සාක්ෂරතා අනුපාතය ඉහළම අගයක් ගන්නා රට ..................................................................................... වේ.",
+        "choices": [
+            "ශ්‍රී ලංකාව",
+            "මාලදිවයින",
+            "ඉන්දියාව",
+            "නේපාලය"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://www.e-thaksalawa.moe.gov.lk/moodle/course/view.php?id=984"
+        }
+    },
+    {
+        "q_no": 111,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "වායු ගෝලයේ වැඩිම වායු ප්‍රතිශතයක් අඩංගු වන්නේ ..................................................................................... වායුවෙනි.",
+        "choices": [
+            "ආගන්",
+            "ඔක්සිජන්",
+            "නයිට්‍රජන්",
+            "කාබන් ඩයොක්සයිඩ්"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://www.e-thaksalawa.moe.gov.lk/moodle/course/view.php?id=121"
+        }
+    },
+    {
+        "q_no": 112,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "ග්‍රාමීය භූ දර්ශනයේ සුවිශේෂී ලක්‍ෂණයක් වන්නේ ..................................................................................... වගාවයි.",
+        "choices": [
+            "තිරිඟු",
+            "ජූට්",
+            "හේන්",
+            "රබර්"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://www.e-thaksalawa.moe.gov.lk/moodle/course/view.php?id=121"
+        }
+    },
+    {
+        "q_no": 113,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "දකුණු ආසියා කලාපයේ රටවල් අතර ..................................................................................... ට මුහුදු තීරයක් හිමිව නොමැත.",
+        "choices": [
+            "නේපාලය",
+            "බංග්ලාදේශය",
+            "ශ්‍රී ලංකාව",
+            "භූතානය"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_2",
+            "year": 2019,
+            "source": "https://www.e-thaksalawa.moe.gov.lk/moodle/course/view.php?id=121"
+        }
+    },
+    {
+        "q_no": 114,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "හින්දු බැතිමතුන්ගේ ශුද්ධ වු ගංගා නදිය වන්නේ.................................................................................... ගංගාවයි. ",
+        "choices": [
+            "ගංගානම්",
+            "ක්‍රිෂ්ණා",
+            "සින්දු",
+            "බ්‍රහ්මපුත්‍ර"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-08-geography-3rd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 115,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "උණුසුම් දේශගුණය සහිත ටෙරායි නිම්නය පිහිටා ඇත්තේ ..................................................................................... ය.",
+        "choices": [
+            "ඉන්දියාවේ",
+            "නේපාලයේ",
+            "භූතානයේ",
+            "බංග්ලාදේශයේ"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-geography-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 116,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "කාන්තාර ප්‍රදේශ වල ජනයා ඒක රාශී වී ඇත්තේ ..................................................................................... ආශ්‍රිතවය.",
+        "choices": [
+            "වෙරළ භූමි",
+            "නිම්න භූමි",
+            "ක්‍ෂේම භූමි",
+            "කඳුකර භූමි"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-geography-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 117,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "ඉන්දියාවේ ඝාට්ස් කඳු වලට මැදිව පිහිටි උස් සම භූමිය ..................................................................................... නමින් හඳුන්වයි.",
+        "choices": [
+            "ඩෙකැන්",
+            "මහනදි",
+            "ටිබෙට්",
+            "චෝටනාග්පූර්"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-geography-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 118,
+        "subject": "Geography",
+        "category": "social_science",
+        "question": "ගැඹුරු ගං දොරු හා දුර්ග ආදිය ..................................................................................... භූ දර්ශනයක කැපී පෙනෙන ලක්‍ෂණ වේ.",
+        "choices": [
+            "කඳුකර",
+            "නිම්න",
+            "වෙරළ",
+            "තැනිතලා"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "භූගෝල විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-geography-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    }
+]

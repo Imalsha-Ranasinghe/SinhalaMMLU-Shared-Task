@@ -1,0 +1,2726 @@
+[
+    {
+        "q_no": 1,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "පුර්ණ සෞඛ්‍ය යනු ඔබ හඳුනාගෙන ඇත්තේ,",
+        "choices": [
+            "පිරිසිදුව හා කාර්යක්ෂම ලෙස වැඩ කිරීමයි.",
+            "කායික මානසික හා අධ්‍යාත්මික යහපැවැත්ම ලෙසයි.",
+            "ශාරීරික දුබලතා වලින් තොරව ජීවත්වීම.",
+            "කායික මානසික අධ්‍යාත්මික හා යහපැවැත්ම ලෙසයි."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-health-and-physical-education-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 2,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "ශරීර ස්කන්ධය දර්ශකය යොදාගනු ලබන්නේ,",
+        "choices": [
+            "නිසි කායික හා මානසික තත්වයක් තිබේදැයි බැලීම.",
+            "නිසි පෝෂණ තත්වයක් තිබේ දැයි සොයා බැලීම.",
+            "නිසි මානසික තත්වයක් තිබේ දැයි සොයා බැලීම.",
+            "ඉනෙහි වට ප්‍රමාණය නිසි පරිදි තිබේදැයි බැලීම."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-health-and-physical-education-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 3,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "අපගේ මුලික අවශ්‍යතාවයන් වන්නේ,",
+        "choices": [
+            "ආහාර, ජලය, ඇඳුම්",
+            "ආහාර, ඇඳුම්, නිවාස",
+            "ආහාර, ජලය, වාතය",
+            "වාතය, අධ්‍යාපනය, නිවාස"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-health-and-physical-education-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 4,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "ආශාවන් හා අවශ්‍යතාවන් ඉටුකර ගැනීමේදී සැලකිලිමත් විය යුතු කරුණක් නොවන්නේ...",
+        "choices": [
+            "රටේ පවතින නීතිරීති වලට අනුකූල නොවීම.",
+            "සමාජ සාරධර්ම වලට අනුකූල වීම.",
+            "තමාගේ සෞඛ්‍ය තත්වයට ගැලපීම.",
+            "පවුලේ ආර්ථික තත්වයට ඔරොත්තු දීම."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-health-and-physical-education-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 5,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "අපේ සිරුර තුළ ඇති රෝගවලට ඔරොත්තුදීමේ හැකියාව හඳුන්වන්නේ...",
+        "choices": [
+            "ශාරීරික යෝග්‍යතාවය ලෙසයි.",
+            "මන්දපෝෂණය ලෙසයි.",
+            "ප්‍රතිශක්තිකරණය ලෙසයි",
+            "චිත්තවේගී සමබරතාවය ලෙසයි."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-health-and-physical-education-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 6,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "නිවැරදි ඇවිදීමකදී පළමුව පොළව හා ස්පර්ශ වන්නේ,",
+        "choices": [
+            "විලුඹ",
+            "යටිපතුල",
+            "පා ඇඟිලි තුඩ",
+            "පාකොට්ටා."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-health-and-physical-education-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 7,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "ක්‍රීඩාවේ ආචාර ධර්ම හා නීතිරීති පිළිපැදීමෙන් ඇතිවන ප්‍රයෝජනයක් වන්නේ,",
+        "choices": [
+            "ප්‍රතිවාදීන් අවඥාවට ලක්කළ හැකි වීම",
+            "ක්‍රීඩාවේ ගෞරවය රැකගැනීමට හැකි වීම.",
+            "අනතුරු අවමකරගත නොහැකි වීම",
+            "සත්‍ය ජයග්‍රහනය නොලැබීම."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-health-and-physical-education-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 8,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "සුළු ක්‍රීඩාවක් වන්නේ,",
+        "choices": [
+            "වොලිබෝල්.",
+            "එල්ලේ.",
+            "බැට්මින්ටන්.",
+            "වස පෑගීම."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-health-and-physical-education-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 9,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "සංවිධානත්මක ක්‍රීඩාවක් යනු,",
+        "choices": [
+            "නෙට්බෝල්.",
+            "පිංපොං.",
+            "මියෝයෝ.",
+            "චක්කුඩු."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-health-and-physical-education-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 10,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "වොලිබෝල් හා නෙට්බෝල් ක්‍රීඩාවේදී ක්‍රීඩා පිටියේ ක්‍රීඩා කළ හැකි ක්‍රීඩකයින් සංඛ්‍යාව පිළිවෙලින් සඳහන් වන්නේ.",
+        "choices": [
+            "12යි - 07යි",
+            "10යි - 06යි",
+            "06යි - 07යි",
+            "12යි - 13යි"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-health-and-physical-education-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 11,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "කායික යහපැවැත්ම තීරණය කිරීමට භාවිතා කළ හැකි ලක්‍ෂණයක් වන්නේ,",
+        "choices": [
+            "ක්‍රියාශීලී බව",
+            "නිතර ලෙඩ රෝග සෑදීම",
+            "ශරීරය කෙට්ටු වීම",
+            "පෝෂණ මට්ටම අඩු වීම."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/grade-06-health-2nd-term-test-paper-with-answers-2023-mathugama-zone/"
+        }
+    },
+    {
+        "q_no": 12,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "සෞඛ්‍යවත් ජීවිතයක් යනු,",
+        "choices": [
+            "කායික යහපැවැත්මයි.",
+            "මානසික යහපැවැත්මයි.",
+            "ලෙඩ රෝග වලින් ආරක්ෂා වීමයි.",
+            "කායික, මානසික, සාමාජීය, අධ්‍යාත්මික යහ පැවැත්මයි."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/grade-06-health-2nd-term-test-paper-with-answers-2023-mathugama-zone/"
+        }
+    },
+    {
+        "q_no": 13,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "ශරීර ස්කන්ධ දර්ශකය ගණනය කරනු ලබන්නේ සමීකරණය වන්නේ,",
+        "choices": [
+            "බර kg / උස m X උස m",
+            "බර kg / උස X උස",
+            "උස m X උස m / බර kg",
+            "බර X උස / බර kg"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/grade-06-health-2nd-term-test-paper-with-answers-2023-mathugama-zone/"
+        }
+    },
+    {
+        "q_no": 14,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "මූලික අවශ්‍යතාවයක් නොවන්නේ,",
+        "choices": [
+            "ආහාර",
+            "වාතය",
+            "මුදල්",
+            "ජලය"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/grade-06-health-2nd-term-test-paper-with-answers-2023-mathugama-zone/"
+        }
+    },
+    {
+        "q_no": 15,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "යහපත් ශාරීරික පැවැත්මක් සඳහා විවේකය හා නින්ද අවශ්‍යය. දරුවෙකු අවම වශයෙන් දිනකට නින්ද ලබා ගත යුතු පැය ගණන,",
+        "choices": [
+            "පැය 5 - 6",
+            "පැය 8 - 10",
+            "පැය 10 - 12",
+            "පැය 4 - 5"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/grade-06-health-2nd-term-test-paper-with-answers-2023-mathugama-zone/"
+        }
+    },
+    {
+        "q_no": 16,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "ස්වස්ථතාව සඳහා අනුගමනය කළ යුතු හොඳ පුරුදු වන්නේ,",
+        "choices": [
+            "දිනපතා නෑම හෝ ඇඟ සේදීම.",
+            "නියපොතු කොටට කපා තිබීම.",
+            "වැසිකිලි යාමෙන් පසු නිසි පරිදි සබන් යොදා අත් සේදීම.",
+            "ඉහත සියල්ලම."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/grade-06-health-2nd-term-test-paper-with-answers-2023-mathugama-zone/"
+        }
+    },
+    {
+        "q_no": 17,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "එදිනෙදා කාර්යයන් සඳහා උදව් වන ක්‍රියාකාරකම් සාර්ථක කරගැනීම සඳහා තිබෙන්නා වූ හැකියාව,\nයෝග්‍යතාව ලෙස හැඳින්වේ. එය බෙදෙන ප්‍රධාන කොටස් ගණන කීයද?",
+        "choices": [
+            "02 කි.",
+            "03 කි.",
+            "05 කි.",
+            "08 කි."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/grade-06-health-2nd-term-test-paper-with-answers-2023-mathugama-zone/"
+        }
+    },
+    {
+        "q_no": 18,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "ඔබට තනිව කළ හැකි සුළු ක්‍රීඩාවක් වන්නේ,",
+        "choices": [
+            "ගස් මාරු කිරීම.",
+            "ස්කීප් කිරීම.",
+            "කොටු පැනීම.",
+            "තාච්චි පැනීම."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/grade-06-health-2nd-term-test-paper-with-answers-2023-mathugama-zone/"
+        }
+    },
+    {
+        "q_no": 19,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "එදිනෙදා ජීවිතයේ ඇතිවන අනතුරු වලදී ඔබට සේවය ලබා ගත හැකි සේවාවක් වන්නේ,",
+        "choices": [
+            "සුව සැරිය",
+            "සිසු සැරිය",
+            "ජන රැළිය",
+            "හස රැළිය"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/grade-06-health-2nd-term-test-paper-with-answers-2023-mathugama-zone/"
+        }
+    },
+    {
+        "q_no": 20,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "ඍජුකෝණාස්‍රාකාර ක්‍රීඩා පිටියක්, මීටර් 2.5 ක පමණ උස කණු දෙකක බදින ලද දැලක් හා පන්දුවක් අවශ්‍ය වන්නේ,\n",
+        "choices": [
+            "වොලිබෝල් ක්‍රීඩාවට",
+            "නොට්බෝල් ක්‍රීඩාවට",
+            "පාපන්දු ක්‍රීඩාවට",
+            "එල්ලේ ක්‍රීඩාවට"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/grade-06-health-2nd-term-test-paper-with-answers-2023-mathugama-zone/"
+        }
+    },
+    {
+        "q_no": 21,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "5 S ඵලදායිතා සංකල්පය හඳූන්වා දුන්නේ,",
+        "choices": [
+            "ජපන් ජාතිකයින් විසිනි.",
+            "ප්‍රංශ ජාතිකයින් විසිනි.",
+            "ඇමරිකන් ජාතිකයින් විසිනි.",
+            "ඉන්දීය ජාතිකයින් විසිනි."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/grade-06-health-2nd-term-test-paper-with-answers-2023-mathugama-zone/"
+        }
+    },
+    {
+        "q_no": 22,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "එදිනෙදා කාර්යයන් සඳහා උදව් වන ක්‍රියාකාරකම් තුළින් වර්ධනය කරගත හැකි ගුණාංග ශාරීරික යෝග්‍යතා ලෙස හැඳින් වේ. මින් ශාරීරික යෝග්‍ය ගුණාංගයක් වන්නේ,",
+        "choices": [
+            "වේගය",
+            "දිවීම",
+            "පැනීම",
+            "විසි කිරීම"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "Z_Mathugama",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/grade-06-health-2nd-term-test-paper-with-answers-2023-mathugama-zone/"
+        }
+    },
+    {
+        "q_no": 23,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "ඵලදායිතා සංකල්පයට අයත් “සෙයිසෝ” යන ජපන් වචනයේ සිංහල තේරුම වන්නේ,",
+        "choices": [
+            "සංවිධිත බව",
+            "සුපිළිවෙළ",
+            "සුපිරිසිදු බව",
+            "සම්මතකරණය"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-06-health-second-term-test-paper-with-answers-2020/"
+        }
+    },
+    {
+        "q_no": 24,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "පුද්ගල බාහිර පෙනුම දියුණු කරන පිරිසිදු බවට අදාළ නොවන ලක්ෂණයක් වන්නේ,",
+        "choices": [
+            "දත් පිරිසිදුව තබා ගැනීම.",
+            "නිය අලංකාරව තබා ගැනීම.",
+            "පිළිවෙළට සකස් කළ හිසකෙස් තබා ගැනීම.",
+            "අපිරිසිදු ඇඳුමින් සැරසී සිටීම."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-06-health-second-term-test-paper-with-answers-2020/"
+        }
+    },
+    {
+        "q_no": 25,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "ක්‍රීඩා නීති රීති හා ආචාර ධර්ම සුරැකීමෙන්,",
+        "choices": [
+            "ගැටළු ඇතිවේ.",
+            "අනතුරු සිදුවේ.",
+            "උද්යෝගය අඩුවේ.",
+            "සත්‍ය ජයග්‍රහණ ලැබේ."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-06-health-second-term-test-paper-with-answers-2020/"
+        }
+    },
+    {
+        "q_no": 26,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "සිරුරට අවශ්‍ය ශක්තිය ලබා දෙන්නේ,",
+        "choices": [
+            "කාබෝහයිඩ්‍රේට හා මේද වලිනි.",
+            "කාබෝහයිඩ්‍රේට හා ප්‍රෝටීන් වලිනි.",
+            "විටමින් හා ඛනිජ ලවණ වලිනි.",
+            "ප්‍රෝටීන් හා විටමින් වලිනි."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NCP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-health-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-central-province/"
+        }
+    },
+    {
+        "q_no": 27,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "යකඩ ඌනතාවය නිසා,",
+        "choices": [
+            "අස්ථි හා දත් දිරායාම සිදු වේ.",
+            "ගලගණ්ඩය ඇතිවේ.",
+            "රාත්‍රී කාලයේ ඇස් පෙනීම අඩුවේ.",
+            "රුධිරයේ හිමොග්ලොබින් ප්‍රමාණය අඩුවේ."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NCP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-06-health-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-central-province/"
+        }
+    },
+    {
+        "q_no": 28,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "කායික යහ පැවැත්ම තීරණය කිරීමට භාවිත කළ හැකි ලක්ෂණයක් වන්නේ ,",
+        "choices": [
+            "ක්‍රියාශීලී බව",
+            "නිතර ලෙඩ රෝග සෑදීම .",
+            "ශරීරය කෙට්ටු වීම .",
+            "පෝෂණ මට්ටම අඩු වීම ."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=22684&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 29,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "මූලික අවශ්‍යතා යනු , අපට ජීවත්වීම සඳහා නැතුවම බැරි සාධක වේ . අපගේ මූලික අවශ්‍යතා වන්නේ ,",
+        "choices": [
+            "වාතය , ජලය , ආහාර",
+            "ඇඳුම් , නිවාස , වාහන",
+            "පොත් , මුදල් , නිවාස",
+            "ආහාර , නිවස , වාහන"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=22684&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 30,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "වොලිබෝල් ශ්‍රී ලංකාවේ ජාතික ක්‍රීඩාවයි . මෙම ක්‍රීඩාවට නීතිරීති අවශ්‍ය වන්නේ ,",
+        "choices": [
+            "ක්‍රීඩා කිරීමට පහසු වීමට",
+            "ජයග්‍රහණය කිරීමට",
+            "ක්‍රීඩාවේ පැවැත්මට හා ක්‍රීඩක ක්‍රීඩිකාවන්ගේ ආරක්ෂාවට",
+            "පරාජය ඉවසීමට"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=22684&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 31,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "එදිනෙදා කාර්යයන් සඳහා උදව් වන ක්‍රියාකාරකම් තුළින් වර්ධනය කරගත හැකි ගුණාංග ශාරීරික යෝග්‍යතා ලෙස හැඳින්වේ . මින් ශාරීරික යෝග්‍යතා ගුණාංගයක් වන්නේ ,",
+        "choices": [
+            "වේගය",
+            "දිවීම",
+            "පැනීම",
+            "විසි කිරීම ."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP_2",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=22684&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 32,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "විවේකය ඵලදායි ලෙස ගත කළ හැකි ආකාරයකි .",
+        "choices": [
+            "මිතුරන් සමඟ ගමන්යාම",
+            "පරිගණක ක්‍රීඩාවල යෙදීම",
+            "අසභ්‍ය වීඩියෝ පට බැලීම",
+            "එළිමහන් ක්‍රීඩා ක්‍රියාකාරකම්වල නිරත වීම"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_1",
+            "year": 2018,
+            "source": "https://pastpapers.wiki/grade-06-health-1st-term-test-paper-2018-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 33,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "සෞඛ්‍යවත් පවුල් පරිසරයක තිබිය යුතු භෞතික පරිසරයට අදාළ අංගයකි,",
+        "choices": [
+            "විවේකය",
+            "ආදරය",
+            "පිරිසිදු වාතය",
+            "යුතුකම් හා වගකීම්"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-07-health-3rd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 34,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "\"යහපත් අන්තර්පුද්ගල සබඳතා පැවැත්වීම\" යන ලක්ෂණය අයත් වනුයේ,",
+        "choices": [
+            "භෞතික පරිසරයට ය.",
+            "සමාජීය පරිසරයට ය.",
+            "අධ්‍යාත්මික පරිසරයට ය.",
+            "මානසික පරිසරයට ය."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-07-health-3rd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 35,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "ඔබට සුරක්ෂිතතාවය හා ආදරය ලබා දෙන අය කෙරෙහි ඔබෙන් ඉටුවිය යුතු යුතුකමක් වනුයේ,",
+        "choices": [
+            "අන්‍යයන්ට ආදරය හා සුරක්ෂිතාවය ලබා දීම.",
+            "සෑම විටම අන් අය විවේචනය කිරීම.",
+            "පොදු දේපල ආරක්ෂා නොකිරීම.",
+            "අසල්වැසියන් සමග සුහද නොවීම."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-07-health-3rd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 36,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "අයහපත් චිත්තවේගයක් ඇති වූ විට නොකලයුතු දෙයක් වනුයේ,",
+        "choices": [
+            "එම අවස්ථාව මගහැරීම ය.",
+            "වතුර වීදුරුවක් සෙමෙන් පානය කිරීමය.",
+            "සෙමෙන් ගැඹුරින් ආස්වාස ප්‍රස්වාස කිරීම ය.",
+            "තරහින් බැන වැදීමය."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-07-health-3rd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 37,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "මස්, මාලු, බිත්තර, කරවල යන ආහාර වර්ග වල වැඩිපුර අඩංගු වන්නේ,",
+        "choices": [
+            "ප්‍රෝටීන් ය.",
+            "කාබෝහයිඩ්‍රේටි ය.",
+            "විටමින් ය.",
+            "ඛණිජ ලවන ය."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-07-health-3rd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 38,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "“ගලගණ්ඩය” ඇතිවීම වැළැක්වීම සඳහා අප ගන්නා ආහාරයේ,",
+        "choices": [
+            "ප්‍රෝටීන් අඩංගු විය යුතු ය.",
+            "අයඩීන් අඩංගු විය යුතු ය.",
+            "කාබෝහයිඩ්‍රේට් අඩංගු විය යුතු ය.",
+            "විටමින් අඩංගු විය යුතු ය."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-07-health-3rd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 39,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "තම හැකියා හඳුනා ගනිමින් එදිනෙදා අභියෝග වලට ඵලදායි ලෙස මුහුණදිය හැකි හිංසන හා දඬුවම් ගැටුම් වලින් තොර පරිසරය අප හඳුන්වන්නේ ...................... ලෙසය.",
+        "choices": [
+            "භෞතික පරිසරය.",
+            "මානසික පරිසරය.",
+            "අධ්‍යාත්මික පරිසරය.",
+            "සෞඛ්‍යවත් පරිසරය."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-07-health-3rd-term-test-paper-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 40,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "අපට ආදරය හා සුරක්ෂිත භාව ලබා දෙන බාහිර පුද්ගලයන් වන්නේ,",
+        "choices": [
+            "සමවයස් කණ්ඩායම්.",
+            "අම්මා.",
+            "සහෝදරයන්.",
+            "සීයා."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-07-health-3rd-term-test-paper-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 41,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "අපගේ ද්විතික අවශ්‍යතාවයක් වන ආදරය හා සුරක්ෂිත භාවය ගැන නිවැරදිව කියවෙන වගන්තිය\nවනුයේ,",
+        "choices": [
+            "ආදරය අපට කුඩා අවධියේ පමණක් ලැබිය යුතුය.",
+            "ආදරය හා සුරක්‍ෂිත බව අපගේ කායික අවශ්‍යතාවයකි.",
+            "වියදමකින් තොරව අන් අයට ආදරය සුරක්ෂිත බව සැලසිය හැකිය.",
+            "අපට ආදරය ලබා දෙනුයේ පවුලේ අය පමණි."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-07-health-3rd-term-test-paper-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 42,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "එළිමහනේ කරන ජන ක්‍රීඩායක් වනුයේ,",
+        "choices": [
+            "ගිනි පැගීම",
+            "දාං ඇඳීම",
+            "ඔලිඳ කෙලිය",
+            "ගල් පෙලීම"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-07-health-3rd-term-test-paper-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 43,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "- පන්දු පාලනය \n- ආක්‍රමණය \n- රැකීම \n- විදීම\nඉහත දක්ෂතා වලට සුදුසු ක්‍රීඩාව වන්නේ,",
+        "choices": [
+            "නෙට්බෝල්",
+            "වොලිබෝල්",
+            "පාපන්දු",
+            "ක්‍රිකට්"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-07-health-3rd-term-test-paper-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 44,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "ලෝකයේ ජනප්‍රියම හා ප්‍රචලිත ක්‍රීඩාව ලෙස හඳුන්වනු ලබන්නේ,",
+        "choices": [
+            "රගර්",
+            "පාපන්දු",
+            "ක්‍රිකට්",
+            "පැසිපන්දු"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-07-health-3rd-term-test-paper-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 45,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "• ශරීරය සෘජුව තිබීම • ගමන් කරන දිශාවට ඇඟිලි යොමුවන සේ පහල තැබීම.\n• දෙපා උකුලෙන් ඉදිරියට හා පසුපසට රිද්මයානුකූලව චලනය වීම.\nඉහතින් දක්වා ඇති කරුණු අඩංගු නිවැරදි ඉරියව්ව වනුයේ,",
+        "choices": [
+            "නිවැරදි වැතිරීම",
+            "නිවැරදි හිඳගැනීම",
+            "නිවැරදි ඇවිදීම",
+            "ඉහත කිසිවක් නොවේ."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-07-health-3rd-term-test-paper-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 46,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "පහත ආහාර වලින් මහා පෝෂක අඩංගු ආහාර කාණ්ඩය වනුයේ,",
+        "choices": [
+            "බත්, පරිප්පු, මස්, කජු",
+            "බත්, වට්ටක්කා, බිත්තර කහමදය",
+            "කිරි ආහාර, පලතුරු, ධාන්‍ය",
+            "චීස්, පලා මැල්ලුම්, පලතුරු, ධාන්‍ය"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-07-health-3rd-term-test-paper-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 47,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "ආහාර පිරමිඩයට අනුව දිනකට ආහාර පංගු 3-5 අතර ප්‍රමාණයක් ගත යුතු ආහාර කාණ්ඩය වනුයේ,\n",
+        "choices": [
+            "මේදය සහිත ඇට වර්ග",
+            "කිරි හා කිරි අඩංගු ආහාර",
+            "පලතුරු",
+            "එලවළු පියලි ආහාර"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-07-health-3rd-term-test-paper-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 48,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "චිත්තවේග සමබරතාව කෙරෙහි බලපාන සාධකයක් නෙවෙන්නේ මින් කුමක්ද?",
+        "choices": [
+            "අවස්ථාව",
+            "අවබෝධය",
+            "කලහකාරී බව",
+            "පෞරෂය"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-07-health-3rd-term-test-paper-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 49,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "ඔබ පන්තියේ සිටින අමල් නිතරම ඔබට බැන වදී. ඔබ කළ යුත්තේ,",
+        "choices": [
+            "ඔහුට පහර දීමයි.",
+            "ඊට වඩා වේගයෙන් බැණවැදීමයි.",
+            "යහළුවන් සමඟ එක් වී ගැටුමක් ඇති කර ගැනීමයි.",
+            "එය නොඇසුනා මෙන් සිට බැණීමට හේතුව සෙවීමයි."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-07-health-3rd-term-test-paper-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 50,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "ජීවිතයේ කුණාටු සමය, සංක්‍රාන්තික සමය ලෙස හඳුන්වන ජීවිතයේ සුන්දරම අවධිය වන්නේ,",
+        "choices": [
+            "ළමා විය",
+            "නවයොවුන් විය",
+            "තරුණ විය.",
+            "මැදි විය"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-07-health-3rd-term-test-paper-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 51,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "ක්‍රීඩා නීතීරීති හා ආචාර ධර්ම පිලිපැදීමෙන් ඔබට ඇතිවන වාසියක් නොවන්නේ,",
+        "choices": [
+            "නීතිගරුක පුරවැසියෙකු වේ.",
+            "පෞද්ගලික පෞර්ෂය ගුණාංග වර්ධනය වේ.",
+            "දඬුවම් හා අපහාස විඳීමට සිදු වේ.",
+            "සමාජශීලි පුද්ගලයෙකු බවට පත් වේ."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-07-health-3rd-term-test-paper-2019-sinhala-medium-central-province/"
+        }
+    },
+    {
+        "q_no": 52,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "සෞඛ්‍යට බලපාන සාධක තම පාලනයට ගැනීම මඟින් තමාගේ සෞඛ්‍ය තත්ත්වය දියුණු කර ගැනීමට පුද්ගලයාට හැකියාව ලබා දීමේ ක්‍රියාවලිය හඳුන්වන්නේ,",
+        "choices": [
+            "සෞඛ්‍ය ප්‍රවර්ධනය යනුවෙනි.",
+            "පූර්ණ සෞඛ්‍යය යනුවෙනි.",
+            "ජීව ගුණය යනුවෙනි.",
+            "ආත්ම අභිමානය යනුවෙනි."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_2",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/2023-grade-07-health-2nd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 53,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "පාසලේදී ගොඩ නගා ගත හැකි සෞඛ්‍ය ප්‍රතිපත්තියක් වනුයේ,",
+        "choices": [
+            "කසළ නිසි පරිදි බැහැර කිරීම.",
+            "පොලිතීන් භාවිතයට හුරු වීම.",
+            "සීනි සහ මේදය වැඩියෙන් ආහාරයට ගැනීම.",
+            "උදෑසන අවදි වී වතුර වීදුරුවක් පානය කිරීම."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_2",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/2023-grade-07-health-2nd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 54,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "අප තුළ ඇතිවිය හැකි යහපත් චිත්තවේගයකි.",
+        "choices": [
+            "දුක",
+            "තරහව",
+            "කෝපය",
+            "සතුට"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_2",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/2023-grade-07-health-2nd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 55,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "උපකරණ සහිත ජන ක්‍රීඩා ඇතුළත් වරණය වනුයේ..",
+        "choices": [
+            "මේවර කෙළිය/ පොර පොල් ගැසීම.",
+            "ලී කෙලිය/ අත් හැංගීම.",
+            "එළුවන් කෑම/ තාච්චි පැනීම.",
+            "තාච්චි පැනීම/ රබන් ගැසීම."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_2",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/2023-grade-07-health-2nd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 56,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "නිවැරදි වැතිරීමේ ඉරියව්වක ලක්ෂණයක් නොවන්නේ",
+        "choices": [
+            "හිස, උරහිස හා උදරය ඍජු රේඛාවක් ඔස්සේ පිහිටීම.",
+            "සමතලා මතුපිටක වැතිර සිටීම.",
+            "වක්‍ර වී වැතිර සිටීම.",
+            "ශ්වසනයට බාධාවක් නොවන සේ වැතිරීම."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_2",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/2023-grade-07-health-2nd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 57,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "ආමාශය අයත් වන පද්ධතිය වනුයේ,",
+        "choices": [
+            "බහිස්ස්‍රාවීය පද්ධතියයි.",
+            "රුධිර සංසරණ පද්ධතියයි.",
+            "ආහාර ජීර්ණ පද්ධතියයි.",
+            "ශ්වසන පද්ධතියයි."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_2",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/2023-grade-07-health-2nd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 58,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "කසළ කළමනාකරණය සඳහා 3 R සංකල්පය යොදා ගැනීම,",
+        "choices": [
+            "සෞඛ්‍ය සේවාවකි.",
+            "සෞඛ්‍ය ප්‍රතිපත්තියකි.",
+            "සෞඛ්‍ය නීතියකි.",
+            "සෞඛ්‍ය සේවාවකි."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-07-health-second-term-test-paper-with-answers-2020/"
+        }
+    },
+    {
+        "q_no": 59,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "ප්‍රිය මනාප සෞඛ්‍යවත් පවුල් පරිසරයක තිබිය යුතු අංග ගණන,",
+        "choices": [
+            "05 කි.",
+            "10 කි.",
+            "8 කි.",
+            "3 කි."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-07-health-second-term-test-paper-with-answers-2020/"
+        }
+    },
+    {
+        "q_no": 60,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "පවුල් සෞඛ්‍ය සේවා දියුණු කිරීම සඳහා උපකාරීවන රජයේ නිලධාරියෙකු වන්නේ,",
+        "choices": [
+            "ග්‍රාම නිලධාරී",
+            "පොලිස් නිලධාරී",
+            "සෞඛ්‍ය සේවා නිලධාරී",
+            "සමෘද්ධි නිලධාරී"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-07-health-second-term-test-paper-with-answers-2020/"
+        }
+    },
+    {
+        "q_no": 61,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "ගී විශේෂයකින් නැති වූ වළල්ලක් ගැන ප්‍රශ්න කරන ජන ක්‍රීඩාව වන්නේ,",
+        "choices": [
+            "මේවර කෙළිය",
+            "ඔළිඳ කෙළිය",
+            "ලී කෙළිය",
+            "පංච කෙළිය"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-07-health-second-term-test-paper-with-answers-2020/"
+        }
+    },
+    {
+        "q_no": 62,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "වැරදි ඉරියව් සඳහා හේතුවන සාධකයකි,",
+        "choices": [
+            "අධික වෙහෙස",
+            "පරිසරය",
+            "සුදුසු උපකරණ",
+            "චිත්ත වේග සමබරතාවය"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-07-health-second-term-test-paper-with-answers-2020/"
+        }
+    },
+    {
+        "q_no": 63,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "ලෝකයේ ජනප්‍රියම හා ප්‍රචලිතම පාපන්දු ක්‍රීඩාවේ දක්ෂතා ගණන වන්නේ,",
+        "choices": [
+            "4 කි.",
+            "5 කි.",
+            "6 කි.",
+            "7 කි."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-07-health-second-term-test-paper-with-answers-2020/"
+        }
+    },
+    {
+        "q_no": 64,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "' පා පිළිබඳ නීතිය \" ඇතුළත් කාන්තාවන් අතර වඩාත් ජනප්‍රිය ක්‍රීඩාව වන්නේ,",
+        "choices": [
+            "ක්‍රිකට් ක්‍රීඩාව",
+            "පාපන්දු ක්‍රීඩාව",
+            "එල්ලේ ක්‍රීඩාව",
+            "නෙට්බෝල් ක්‍රීඩාව"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-07-health-second-term-test-paper-with-answers-2020/"
+        }
+    },
+    {
+        "q_no": 65,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "වොලිබෝල් ක්‍රීඩාවේ යෙදීමේදී විරුද්ධ පිලෙන් තම පිළට එන පන්දුව ලබා ගත හැකි ක්‍රම ගණන,",
+        "choices": [
+            "3 කි.",
+            "2 කි.",
+            "5 කි",
+            "4 කි."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-07-health-second-term-test-paper-with-answers-2020/"
+        }
+    },
+    {
+        "q_no": 66,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "පැනීම් සිදු කරන ආකාරය අනුව ප්‍රධාන කොටස් ගණන,",
+        "choices": [
+            "3 කි.",
+            "2 කි.",
+            "5",
+            "4 කි."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-07-health-second-term-test-paper-with-answers-2020/"
+        }
+    },
+    {
+        "q_no": 67,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "ආහාර පිරමීඩයට අනුව දිනකට මද වශයෙන් ලබා ගත යුතු ආහාර කාණ්ඩය වන්නේ,",
+        "choices": [
+            "එළවළු",
+            "කිරි",
+            "වියළි ආහාර",
+            "තෙල් හා සීනි"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-07-health-second-term-test-paper-with-answers-2020/"
+        }
+    },
+    {
+        "q_no": 68,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "පෝෂණ ගුණය වැඩි කිරීමට අප රටේ සාදන පාරම්පරික ආහාරයකි.",
+        "choices": [
+            "දිය බත්",
+            "කොස්",
+            "පිට්ටු",
+            "මී කිරි"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-07-health-second-term-test-paper-with-answers-2020/"
+        }
+    },
+    {
+        "q_no": 69,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "අප ගන්නා ආහාරයේ අඩංගු මතක ශක්තිය වැඩි කරන ඛනිජ ලවණය වන්නේ,",
+        "choices": [
+            "කැල්සියම්",
+            "අයඩීන්",
+            "සින්ක්",
+            "යකඩ"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-07-health-second-term-test-paper-with-answers-2020/"
+        }
+    },
+    {
+        "q_no": 70,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "විෂබීජ නාශකයක් ලෙස ද මානසික ක්‍රියාකාරීත්වය වර්ධනයට ඉවහල් වන කුළුබඩු විශේෂයක් වන්නේ,",
+        "choices": [
+            "ඉඟුරු",
+            "උළුහාල්",
+            "කහ",
+            "කුරුඳු"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-07-health-second-term-test-paper-with-answers-2020/"
+        }
+    },
+    {
+        "q_no": 71,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "ශ්වසන පද්ධතිය ආශ්‍රිතව ඇති ඉන්ද්‍රියයක් වන්නේ,",
+        "choices": [
+            "හෘදය",
+            "වකුගඩු",
+            "පෙනහලු",
+            "අක්මාව"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-07-health-second-term-test-paper-with-answers-2020/"
+        }
+    },
+    {
+        "q_no": 72,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "අපට ඇතිවන විවිධ ලෙඩ රෝග වලින් ශරීරයට ආරක්ෂාව සපයන පද්ධතිය,",
+        "choices": [
+            "ස්නායු පද්ධතිය",
+            "ශ්වසන පද්ධතිය",
+            "අස්ථි පද්ධතිය",
+            "ප්‍රතිශක්තීකරණ පද්ධතිය"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-07-health-second-term-test-paper-with-answers-2020/"
+        }
+    },
+    {
+        "q_no": 73,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "දුම්පානය, බුලත් කෑම, මත්පැන් පානය ආදිය නිසා ඇතිවන රෝගයකි,",
+        "choices": [
+            "විජලනය",
+            "සිරෝසිස්",
+            "ක්ෂය රෝග",
+            "ඇදුම"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-07-health-second-term-test-paper-with-answers-2020/"
+        }
+    },
+    {
+        "q_no": 74,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "චිත්ත වේග සමබරතාව රැක ගැනීම සඳහා අප විසින් කළ යුතු කාර්යයකි,",
+        "choices": [
+            "හැඟීම් තේරුම් නොගැනීම.",
+            "අන් මත වලට ගරු කිරීම",
+            "අදහස් තේරුම් නොගැනීම.",
+            "වැරදි තීරණ ගැනීම."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-07-health-second-term-test-paper-with-answers-2020/"
+        }
+    },
+    {
+        "q_no": 75,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "පවුලක් තුළ සම්පූර්ණ කිරීමට සිදුවන එක් අවශ්‍යතාවයක් වන්නේ,",
+        "choices": [
+            "අයහපත් මානසික තත්ත්වය",
+            "අසාධාරණය",
+            "සමානාත්මතාවය",
+            "ආතතිය"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/grade-07-health-second-term-test-paper-with-answers-2020/"
+        }
+    },
+    {
+        "q_no": 76,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "අපගේ ජීවිතයට විවිධ අභියෝග ඇති අතර, සෞඛ්‍යයට අදාළ අභියෝගයක් නොවන්නේ,",
+        "choices": [
+            "අහිතකර ලිංගික චර්යයා",
+            "දැඩි තරඟකාරී ජීවන රටාව",
+            "ආහාර ගැනීමේ නිවැරදි පුරුදු",
+            "ජනගහනය වර්ධනය වීම."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NCP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-health-and-physical-education-3rd-term-test-paper-with-answers-2019-sinhala-medium-north-central-province/"
+        }
+    },
+    {
+        "q_no": 77,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "ප්‍රජනක සෞඛ්‍යයට බාධා කරන සාධකයක් නොවන්නේ,",
+        "choices": [
+            "ලිංගිකව සම්ප්‍රේෂණය වන රෝග",
+            "ජීවිත හා දේපළ හානි සිදු වීම.",
+            "නව යොවුන් වියේ ගැබ් ගැනීම්.",
+            "ලිංගික අතවර හා අපයෝජන වලට ලක්වීම."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NCP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-health-and-physical-education-3rd-term-test-paper-with-answers-2019-sinhala-medium-north-central-province/"
+        }
+    },
+    {
+        "q_no": 78,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "ධාවන තරඟ ආරම්භයේදී ඉසව් අනුව තරඟ ආරම්භක ක්‍රමද වෙනස් වේ. ඒ අතරින් කුදු ආරම්භය යොදා ගන්නා තරඟ ඉසව් පමණක් ඇතුළත් කාණ්ඩය වන්නේ,",
+        "choices": [
+            "800m, 1500m, 500m",
+            "100m, 800m, 1500m",
+            "5000m, 200m, 4 x 100m",
+            "100m, 400m, 200m"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NCP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-health-and-physical-education-3rd-term-test-paper-with-answers-2019-sinhala-medium-north-central-province/"
+        }
+    },
+    {
+        "q_no": 79,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "ක්‍රීඩා ක්‍රියාකාරකම් වල නිරත වීමෙන් ඔබට ලැබෙන කායික වාසියක් වන්නේ,",
+        "choices": [
+            "ඉවසීමේ හැකියාව ඇති වීම.",
+            "අන්තර් පුද්ගල සබඳතා දියුණු වීම.",
+            "මාංශ පේශීන් හා අස්ථි ශක්තිමත්වීම.",
+            "ජය පරාජය විද දරා ගැනීමේ හැකියාව ඇති වීම"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NCP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-health-and-physical-education-3rd-term-test-paper-with-answers-2019-sinhala-medium-north-central-province/"
+        }
+    },
+    {
+        "q_no": 80,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "සිරුරේ අධික තරබාරුව නිසා ඇති විය හැකි රෝග කාණ්ඩය වන්නේ,",
+        "choices": [
+            "හෘද රෝග, ශ්වසන රෝග, මානසික රෝග",
+            "හෘද රෝග, අධික රුධිර පීඩනය, දියවැඩියාව",
+            "ශ්වසන රෝග, පිළිකා, ස්නායු රෝග",
+            "හෘද රෝග, චර්ම රෝග, ශ්වසන රෝග."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NCP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-health-and-physical-education-3rd-term-test-paper-with-answers-2019-sinhala-medium-north-central-province/"
+        }
+    },
+    {
+        "q_no": 81,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "පුද්ගලයකු අනතුරකට හෝ හදිසි ආපදාවකට මුහුණ දුන් අවස්ථාවක පුද්ගලයාගේ ජීවිත අවදානම අඩු කිරීම ප්‍රථමාධාර ලබා දීම තුළින් සිදු කරයි. එනම්, ප්‍රථමාධාර ලබා දීමේ සිද්ධාන්ත අනුපිළිවෙලින්,",
+        "choices": [
+            "ශ්වසනය, ආබාධය, ශ්වසන මාර්ගය, රුධිර සංසරණය, පරිසර තත්ත්ව",
+            "ශ්වසන මාර්ගය, ශ්වසනය, රුධිර සංසරණය, ආබාධය, පරිසර තත්ත්ව",
+            "පරිසර තත්ත්ව, ශ්වසන මාර්ගය, ශ්වසනය, රුධිර සංසරණය,",
+            "රුධිර සංසරණය, ශ්වසනය, පරිසර තත්ත්ව, ශ්වසන මාර්ගය"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NCP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-health-and-physical-education-3rd-term-test-paper-with-answers-2019-sinhala-medium-north-central-province/"
+        }
+    },
+    {
+        "q_no": 82,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "2019 වර්ෂයේ පැවති ලෝක කුසලාන ක්‍රිකට් තරඟාවලියේ අවසන් මහා තරඟයට තේරී පත් වූ කණ්ඩායම් 02 වනුයේ,",
+        "choices": [
+            "ශ්‍රී ලංකාව - ඉන්දියාව",
+            "එංගලන්තය - නවසීලන්තය",
+            "නවසීලන්තය - පාකිස්ථානය",
+            "එංගලන්තය - බංගලාදේශය"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NCP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-health-and-physical-education-3rd-term-test-paper-with-answers-2019-sinhala-medium-north-central-province/"
+        }
+    },
+    {
+        "q_no": 83,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "ආත්ම අභිමානය පිළිබඳ සිසුන් හතර දෙනෙකු ලියන ලද ප්‍රකාශ පහත දැක්වේ.\n                                  නීතා :-        තමා පිළිබඳ තමා තුළ ඇතිවන ගෞරවණීය හැඟීම ආත්ම අභිමානයයි.\n                                  රාණි :-        තමා සතු හැකියාවන් සංවර්ධනය කර ගැනීමෙන් ආත්ම අභිමානය ගොඩ නැගේ.\n                                  සීතා :-        අන් අයට උදව් කිරීම, අවංක බව, වැනි උසස් ගුණාංග තුළින් යහපත් ආත්ම අභිමානය ගොඩ නැගේ.\n                                  ගීතා :-        අභිමානයෙන් යුතු පුද්ගලයෙකු අතිමානයෙන් කටයුතු කිරීමෙන් සමාජයේ ගෞරවයට පත් වේ.\nමෙම ප්‍රකාශ අතරින් වැරදි (සාවද්‍ය) ප්‍රකාශය ලියා ඇත්තේ,",
+        "choices": [
+            "තීතා",
+            "රාණි",
+            "සීතා",
+            "ගීතා"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_SP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-health-and-physical-education-3rd-term-test-paper-with-answers-2019-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 84,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "ප්‍රධාන ක්‍රීඩාවක දක්ෂතාවයක් හෝ විශේෂ යෝග්‍යතාවයක් වර්ධනය කිරීමට නිර්මාණය කරනු ලබන ක්‍රීඩාව හඳුවන්නේ,",
+        "choices": [
+            "විනෝද ක්‍රීඩා",
+            "අනු ක්‍රීඩා",
+            "සුළු ක්‍රීඩා",
+            "සංවිධානාත්මක ක්‍රීඩා."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_SP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-health-and-physical-education-3rd-term-test-paper-with-answers-2019-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 85,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "පහත සඳහන් විධාන වර්ග අතරින් මෙම ප්‍රශ්නයට පිළිතුරු සපයන්න.\nපළමු විධානය - \"සැරසෙන්\", \"වෙන්\", \"යා\" / වෙඩි හඬ\nදෙවන විධානය - \"යා\"/ වෙඩි හඬ\nතුන්වන විධානය - \"සැරසෙන්\" / \"යා\"/ වෙඩි හඬ\nඉහත තරංග අංක 10 හිමි ක්‍රීඩකයාට ලැබෙන්නේ,",
+        "choices": [
+            "පළමු විධානයයි.",
+            "දෙවන විධානයයි.",
+            "තුන්වන විධානයයි.",
+            "දෙවන හෝ තුන්වන විධානයයි."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_SP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-health-and-physical-education-3rd-term-test-paper-with-answers-2019-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 86,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "පහත සඳහන් විධාන වර්ග අතරින් මෙම ප්‍රශ්නයට පිළිතුරු සපයන්න.\nපළමු විධානය - \"සැරසෙන්\", \"වෙන්\", \"යා\" / වෙඩි හඬ\nදෙවන විධානය - \"යා\"/ වෙඩි හඬ\nතුන්වන විධානය - \"සැරසෙන්\" / \"යා\"/ වෙඩි හඬ\nතෙවන විධානයෙන් ( සැරසෙන්, යා) ආරම්භ කරන තරඟ ඉසව්වක් වන්නේ,",
+        "choices": [
+            "මීටර් 400",
+            "මීටර් 400 කඩුලු",
+            "මීටර් 1500",
+            "මීටර් 100"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_SP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-health-and-physical-education-3rd-term-test-paper-with-answers-2019-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 87,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "සෘජුකෝණාස්‍ර ක්‍රීඩා පිටියක් තුළ, පිලකට ක්‍රීඩකයන් 11 දෙනෙකු බැගින් ක්‍රීඩා කරනු ලබන, නියමිත කාලය අවසානයේ ලබා ඇති ගෝල් සංඛ්‍යාව අනුව ජයග්‍රහණය හිමි වන, ලොව ජනප්‍රියතම ක්‍රීඩාව වන්නේ,",
+        "choices": [
+            "පාපන්දු",
+            "නෙට්බෝල්",
+            "රගර්",
+            "වොලිබෝල්"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_SP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-health-and-physical-education-3rd-term-test-paper-with-answers-2019-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 88,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "පහත සඳහන් ආහාර වලින් පෝෂණ ගුණය අඩුවෙන් ම ඇති ආහාරය වනුයේ,",
+        "choices": [
+            "මුං කිරිබත්",
+            "සොසේජස්",
+            "හත්මාලුව",
+            "කුරක්කන් හැලප"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_SP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-health-and-physical-education-3rd-term-test-paper-with-answers-2019-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 89,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "ස්ත්‍රී හා පුරුෂ පද්ධති පිළිබඳ M, N, O, P අක්ෂර වලින් පහත දැක්වේ.\nM-පුරුෂ ප්‍රජනක පද්ධතිය බාහිරව විවෘත වන්නේ මුත්‍රා මාර්ගය හරහාය.\nN-ස්ත‍්‍රීයකගේ උකුල් ප්‍රදේශය තුළ ස්ත්‍රී ප්‍රජනක පද්ධතියේ අවයව පිහිටයි.\nO- වෘෂණ කෝෂ තුළ ඩිම්බ නිපදවයි.\nP-ඩිම්බයක් යනු මාතෘ සෛලයකි.\nමින් නිවැරදි වන්නේ,",
+        "choices": [
+            "M, N, P.",
+            "M, O, P.",
+            "N, O, P.",
+            "M, O, N."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_SP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-health-and-physical-education-3rd-term-test-paper-with-answers-2019-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 90,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "ලිංගිකව සම්ප්‍රේෂණය වන රෝග කාණ්ඩය වන්නේ,",
+        "choices": [
+            "ඒඩ්ස්, ආඝාතය, ලිංගික ඉන්නන්.",
+            "ඒඩ්ස්, හර්පිස්, ක්ෂය රෝගය.",
+            "ඒඩ්ස්, උපදංශය, ආඝාතය.",
+            "ඒඩ්ස්, ලිංගික ඉන්නන්, හර්පිස්."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_SP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-health-and-physical-education-3rd-term-test-paper-with-answers-2019-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 91,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "දුර පැනීමේ ශිල්පීය ක්‍රමයේ දී භාවිතා වන අවධීන් පිළිවෙලින් දැක්වෙන්නේ,",
+        "choices": [
+            "නික්මීම, අවතීර්ණ ධාවනය, පියාසරිය, පතිත වීම.",
+            "අවතීර්ණ ධාවනය, නික්මීම, පතිත වීම, පියාසරිය",
+            "අවතීර්ණ ධාවනය, නික්මීම, පියාසරිය, පතිත වීම",
+            "නික්මීම, පියාසරිය, අවතීර්ණ ධාවනය, පතිත වීම."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_SP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-health-and-physical-education-3rd-term-test-paper-with-answers-2019-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 92,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "ගුවනත පා මාරු කිරීමේ ශිල්පීය ක්‍රමය භාවිතා කරනු ලබන තරග ඉසව්ව වන්නේ,",
+        "choices": [
+            "දුර පැනීම.",
+            "උස පැනීම",
+            "තුන්පිම්ම",
+            "රිටි පැනීම"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_SP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-health-and-physical-education-3rd-term-test-paper-with-answers-2019-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 93,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "ක්‍රීඩකත්වය පිළිබඳ ඔබට එකඟ විය නොහැකි කරුණ කුමක්ද?",
+        "choices": [
+            "විනිසුරු තීරණය අගය කිරීම හා ඇගයීම",
+            "නායකත්වයට අභියෝග කිරීම.",
+            "සාධාරණ ලෙස තරංගයකින් ජය ලැබීම.",
+            "ජය පරාජය සම සිතින් භාර ගැනීම."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_SP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-health-and-physical-education-3rd-term-test-paper-with-answers-2019-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 94,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "මත්ද්‍රව්‍ය භාවිතයට ඇබ්බැහි වු පුද්ගලයකුට ඇතිවිය හැකි හානිකර තත්ත්වය නම්,",
+        "choices": [
+            "ලිංගික ශක්තිය හීන වීම.",
+            "ස්නායු දුර්වල වීම.",
+            "හෘද රෝග හා ශ්වසන රෝග වලට භාජනය වීම.",
+            "ඉහත සියලු තත්ත්වයන්ට භාජනය වීම."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_SP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-health-and-physical-education-3rd-term-test-paper-with-answers-2019-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 95,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "ලිංගික අපචාර හා අපයෝජනයන්ට ලක් විය හැකි අවස්ථාවක් වන්නේ,",
+        "choices": [
+            "අන්තර් ජාලය, සමාජ වෙබ් අඩවි හා ජංගම දුරකථන වැනි තාක්ෂණික උපකරණ අනිසි ලෙස භාවිතය.",
+            "විරුද්ධ ලිංගිකයන් සමග ගරුත්වයෙන් හා සහෝදරත්වයෙන් කටයුතු කිරීම.",
+            "පාළු, හුදකලා ස්ථාන වල තනිව නොයැමෙන්.",
+            "තම සිරුර අනිසි ලෙස ස්පර්ශ කිරීමට ඉඩ නොදීමෙන්."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_SP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-health-and-physical-education-3rd-term-test-paper-with-answers-2019-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 96,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "හදිසි රෝගි අවස්ථාවක ගිලන් රථයක් ගෙන්වා ගැනීමට ඇමතිය යුතු දුරකථන අංකය වන්නේ,",
+        "choices": [
+            "1999",
+            "1989",
+            "1926",
+            "1990"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_SP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-health-and-physical-education-3rd-term-test-paper-with-answers-2019-sinhala-medium-southern-province/"
+        }
+    },
+    {
+        "q_no": 97,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "සමාජීය පරිසරය දියුණු කිරීම සඳහා වඩාත් වැදගත් වන ප්‍රතිපත්තියකි.",
+        "choices": [
+            "පරිසර සංරක්ෂණය සිදු කිරීම",
+            "යහපත් ආගමික පරිසරයක් ගොඩ නැගීම",
+            "දුම්වැටි, මත්ද්‍රව්‍ය, අපචාර වැළැක්වීම",
+            "ශිෂ්‍ය අවශ්‍යතා හඳුනා ගැනීම"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-health-and-physical-education-3rd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 98,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "ආචාර පෙළපාලියකදී දෙනු ලබන විධානයනයකි. '' කණ්ඩායම .. තුන් පෙළෙන් වම බලා වමට හැරෙන්\" මෙහිදී ක්‍රියාත්මක විය යුතු ආකාරය,",
+        "choices": [
+            "තමා මුහුණලා සිටින දිශාවෙන් 45° ක් වමට හැරීම.",
+            "තමා මුහුණලා සිටින දිශාවෙන් 90 ක් වමට හැරීම.",
+            "තමා මුහුණලා සිටින දිශාවෙන් 180° ක් වමට හැරීම.",
+            "තමා මුහුණලා සිටින දිශාවෙන් 90° ක් දකුණට හැරීම."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-health-and-physical-education-3rd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 99,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "සෞඛ්‍ය ප්‍රවර්ධන සඳහා ප්‍රතිපත්ති සකස් කිරීමේදී \"SMART\" මූල ධර්මය යොදා ගනු ලැබේ. මෙහි \"A\" අක්ෂරයෙන් පැහැදිලි වන්නේ,",
+        "choices": [
+            "යථාර්ථවාදී වීම",
+            "ළඟාකරගත හැකි වීම",
+            "සුවිශේෂී වීම",
+            "මැනිය හැකි වීම"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-health-and-physical-education-3rd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 100,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "ක්‍රීඩාවේදී ලබන ජයග්‍රහණය මෙන්ම ආචාර ධර්ම වලට අනුගත වීමද ක්‍රීඩකයෙකුට ඉතා වැදගත් වේ. විනයගරුක ක්‍රීඩකයෙකු තුළ තිබිය යුතු ගුණාංගය වන්නේ,",
+        "choices": [
+            "දුර්වල ක්‍රීඩකයින් උපහාසයට ලක් කිරීම",
+            "විනිසුරුවන් විවේචනයට ලක් කිරීම",
+            "අඩු කුසලතා සහිත අයට උපකාර කිරීම",
+            "තම ජයත්‍රහණයේදී උදම් ඇනීම"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-health-and-physical-education-3rd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 101,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "පුරුෂ ප්‍රජනක පද්ධතියට අයත් අවයවයකි.",
+        "choices": [
+            "ගර්භාෂය",
+            "පැලෝපීය නාලය",
+            "ඩිම්බ කෝෂ",
+            "පුරස්ථි ග්‍රන්ථය"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-health-and-physical-education-3rd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 102,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "නෙට්බෝල් ක්‍රීඩාවේ දෑතින් පන්දු යැවීමේ ක්‍රම,",
+        "choices": [
+            "උරහිස් යැවුම / හෙප්පා යැවුම",
+            "යටි අත් යැවුම / පැති යැවුම",
+            "හෙප්පා යැවුම / හිසට ඉහළින් යැවුම",
+            "හිසට ඉහළින් යැවුම / උරහිසට ඉහළින් යැවුම"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-health-and-physical-education-3rd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 103,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "ප්‍රජනක සෞඛ්‍ය රැක ගැනීම සඳහා වඩාත් වැදගත් සාධකය,",
+        "choices": [
+            "ව්‍යායාම හා ක්‍රීඩා ක්‍රියාකාරකම්වල නියෙලීම",
+            "ප්‍රමාණවත් නින්ද හා විවේකය ලබා ගැනීම",
+            "නිවැරදි දැනුවත් වීම.",
+            "කෘත්‍රිම ආහාර ගැනීමෙන් වැළකීම"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-health-and-physical-education-3rd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 104,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "ඵලදායී සන්නිවේදනයෙන් යුතු පුද්ගයෙකුගේ ලක්ෂණයකි.",
+        "choices": [
+            "පරුෂ වචනයෙන් බැණ වැදීම",
+            "තම අදහස් පැහැදිලිව ප්‍රකාශ කිරීම.",
+            "අන් අයගේ අදහස් විවේචනය කිරීම",
+            "අන් අයට උසුළු විසුළු කිරීම."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-health-and-physical-education-3rd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 105,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "උපකරණ භාවිතා කරමින් කරන අනු ක්‍රීඩාවකි.",
+        "choices": [
+            "ඉලක්කයට පිරිනැමීම",
+            "ඉණිවැට පෙරළීම",
+            "හැරී දිවීම",
+            "මේවර කෙළිය"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/grade-08-health-and-physical-education-3rd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province/"
+        }
+    },
+    {
+        "q_no": 106,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "ආත්ම අභිමානය සහිත පුද්ගලයෙකු සතු ලක්ෂණයක් විය හැක්කේ,",
+        "choices": [
+            "අන් අයගේ ජයග්‍රහණය පිළිබඳ බිය වෙයි.",
+            "අන් අය පැරදවීමට උත්සාහ කරයි.",
+            "වෙනත් පුද්ගලයන් ගැරහීමට ලක් කරයි.",
+            "අභියෝගවලට නොබියව මුහුණ දෙයි."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_2",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/2023-grade-08-health-2nd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 107,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "පාසලේ සෞඛ්‍ය ප්‍රවර්ධනය සඳහා ඔබ ඔබට කළ හැකි කාර්යයක් වන්නේ,",
+        "choices": [
+            "පාසලේ නීති රීති ආරක්ෂා නොකිරීම.",
+            "පාසලේ වැඩ වලට දෙමාපියන් සහභාගි කර නොගැනීම.",
+            "සෞඛ්‍ය පණිවිඩ නිවස වෙත ගෙන යාම.",
+            "පාසලේ දී පන්ති කාමරයේ වැඩවල පමණක් නියැලීම."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_2",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/2023-grade-08-health-2nd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 108,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "ආචාර පෙළපාලියක ප්‍රධාන අමුත්තා සිටින පීඨිකාව පසු කළ පසු \"පෙරට... බලන් ...\" යන විධානය දෙනු ලබන්නේ පහත කවුරුන් විසින්ද?",
+        "choices": [
+            "කණ්ඩායම් නායකයා.",
+            "ඉදිරි පෙළ දකුණු මූලිකයා.",
+            "පෙර පෙළ මූලිකයා.",
+            "පසුපෙළ අවසන් සාමාජිකයා."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_2",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/2023-grade-08-health-2nd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 109,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "නෙට්බෝල් ක්‍රීඩාව ආරම්භ වන්නේ,",
+        "choices": [
+            "ප්‍රහාරයෙනි.",
+            "විදීමකිනි.",
+            "පිරිනැමීමකිනි.",
+            "මැද යැවුමකිනි."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_2",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/2023-grade-08-health-2nd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 110,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "අපට එදිනෙදා ජීවත් වීමට අවශ්‍ය සාධක කිහිපයක් පහත දක්වේ .\na - ආහාර b - සුරක්ෂිතතාව c - ආදරය d - වාතය e - ජලය\nමුලික අවශ්‍යතා පමණක් අඩංගු පිළිතුර වන්නේ ,",
+        "choices": [
+            "a , c , d",
+            "a , d , e",
+            "a , c , e",
+            "c , d , e"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29499&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 111,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "පාසල් ආචාර පෙළපාලි කණ්ඩායමක එහි නායකයාද ඇතුළත්ව , සිටිය යුතු මුළු සිසුන් ගණන වන්නේ , \n",
+        "choices": [
+            "23 කි",
+            "24 කි",
+            "25 කි",
+            "26 කි"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29499&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 112,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "විසි කිරීම් ඉසව්ව යටතේ වැඩිම දුරක් විසිකළ හැකි උපකරණය වන්නේ ,\n",
+        "choices": [
+            "යගුලිය",
+            "හෙල්ල",
+            "කවපෙත්ත",
+            "මිටිය"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29499&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 113,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "පුද්ගලයෙකුගේ සෞඛ්‍යය තත්වය යහපත්ව පවත්වා ගැනීමට උපකාරි වන සෞඛ්‍යය අශ්‍රීත ශාරීරික යෝග්‍යතාවයක් නොවන්නේ ,\n",
+        "choices": [
+            "නම්‍යතාවය",
+            "ශාරිරික සංයුතිය",
+            "වේගය",
+            "පේශීමය ශක්තිය"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29499&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 114,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "ප්‍රථමාධාරකරුවෙකු පළමුවෙන්ම රෝගි වු පුද්ගලයා පිළිබඳව මූලික සොයා බැලීමක් කළ යුතුය . එය මූලික ජීවිතාධාර ලබා දීම යනුවෙන් හැඳින්වෙයි . ඒ සඳහා භාවිතා කරන ක්‍රමය වන්නේ",
+        "choices": [
+            "PRICES ක්‍රමය",
+            "ABCDE ක්‍රමය",
+            "RICE ක්‍රමය",
+            "SMART ක්‍රමය"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29499&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 115,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "ආත්ම අභිමානය සහිත පුද්ගලයෙකු සතු ලක්ෂණයක් විය හැක්කේ ,\n",
+        "choices": [
+            "අන් අයගේ ජයග්‍රහණය පිළිබඳ බිය වෙයි .",
+            "අන් අය පැරදවීමට උත්සාහ කරයි .",
+            "වෙනත් පුද්ගලයන් ගැරහීමට ලක් කරයි .",
+            "අභියෝග වලට නොබියව මුහුණ දෙයි ."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_2",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/2023-grade-08-health-2nd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 116,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "පාසලේ සෞඛ්‍ය ප්‍රවර්ධනය සඳහා ඔබ ඔබට කළ හැකි කාර්යයක් වන්නේ ,\n",
+        "choices": [
+            "පාසලේ නීති රීති ආරක්ෂා නොකිරීම .",
+            "පාසලේ වැඩ වලට දෙමාපියන් සහභාගි කර නොගැනීම .",
+            "සෞඛ්‍ය පණිවිඩ නිවස වෙත ගෙන යාම .",
+            "පාසලේ දී පන්ති කාමරයේ වැඩවල පමණක් නියැලීම ."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_2",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/2023-grade-08-health-2nd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 117,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "ආචාර පෙළපාලියක ප්‍රධාන අමුත්තා සිටින පීඨිකාව පසුකළ පසු \" පෙරට ... බලන් ... \" යන විධානය දෙනු ලබන්නේ පහත කවුරුන් විසින්ද ?",
+        "choices": [
+            "කණ්ඩායම් නායකයා .",
+            "ඉදිරි පෙළ දකුණු මූලිකයා .",
+            "පෙර පෙළ මූලිකයා .",
+            "පසුපෙළ අවසන් සාමාජිකයා ."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_2",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/2023-grade-08-health-2nd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 118,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "දුර පැනීමේ ඉසව්වට අයත් අවධි හතර අතුරින් තුන්වන අවධිය වන්නේ ,",
+        "choices": [
+            "දිවීම .",
+            "ඉපිළීම .",
+            "පතිත වීම .",
+            "ගුවන් ගතවීම ."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_2",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/2023-grade-08-health-2nd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 119,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "යම් පුද්ගලයෙකුට රංගන ශිල්පියෙකු වීම සඳහා අවශ්‍ය හැකියාව",
+        "choices": [
+            "චිත්‍ර ඇඳීමේ හැකියාව",
+            "නර්තන හැකියාව",
+            "සංගීත හැකියාව",
+            "රඟපෑමේ හැකියාව"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_2",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/2023-grade-08-health-2nd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 120,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "ආචාර පෙළපාලි පුහුණුවේ ආපසු හැරීමේ ඉරියව්ව පුහුණුව පිළිබඳ නිවැරදි ප්‍රකාශය වන්නේ\n",
+        "choices": [
+            "90^\\circ ක් දකුණට හැරීමය",
+            "180^\\circ ක් දකුණු පසට හැරීමය",
+            "45^\\circ ක් දකුණට හැරීමය",
+            "360^\\circ ක් දකුණට හැරීමය"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_2",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/2023-grade-08-health-2nd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 121,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "ආචාර පෙළපාලියේ ගමනේ යාම ආරම්භයේ දී පළමුවෙන් ම සිදු කරන්නේ",
+        "choices": [
+            "දකුණු පාදය සහ වම් අත ඉදිරියට යොමු කිරීමය",
+            "වම් පාදය සහ දකුණු අත ඉදිරියට යොමු කිරීමය",
+            "දකුණු පාදය සහ දකුණු අත ඉදිරියට යොමු කිරීමය",
+            "වම් පාදය සහ වම් අත ඉදිරියට යොමු කිරීමය"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_2",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/2023-grade-08-health-2nd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 122,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "වොලිබෝල් ක්‍රීඩාවේ උඩු අත් පිරිනැමීමේ දී පන්දුව ස්පර්ශ කරන අවස්ථාවේ සිදු කරන ක්‍රියාවකි .\n",
+        "choices": [
+            "ඉදිරිය බලා සිට ගැනීම",
+            "නුහුරු අත දිග හැර පන්දුව අත්ල මත තබා ගැනීම",
+            "නුහුරු අත පැත්තේ පාදය මදක් ඉදිරියෙන් තබා ගැනීම",
+            "පන්දුව තමාට පහසු ප්‍රමාණයට උඩ දැමීම"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_2",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/2023-grade-08-health-2nd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 123,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "නෙට්බෝල් ක්‍රීඩාවේ පන්දු යැවීමේ දී අවධානය යොමු කළ යුතු කරුණක් වන්නේ",
+        "choices": [
+            "ශරීරයේ බර පසු පාදයට යොමු කිරීම",
+            "නුහුරු පාදය පිටුපසින් තබා ගැනීම",
+            "ශරීරයේ බර ඉදිරියට යොමු කිරීම",
+            "හුරු පාදය ඉදිරියෙන් තබා ගැනීම"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_2",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/2023-grade-08-health-2nd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 124,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "යටි අත් යැවුම ක්‍රියාකාරකම අයත් වන්නේ",
+        "choices": [
+            "වොලිබෝල් ක්‍රීඩාවටය",
+            "නෙට්බෝල් ක්‍රීඩාවටය",
+            "ක්‍රිකට් ක්‍රිඩාවටය",
+            "එල්ලේ ක්‍රීඩාවටය"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_2",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/2023-grade-08-health-2nd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 125,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "ධාවන ආරම්භයේ සැරසෙන් , යා ( සංඥාවක් හෝ වෙඩි හඬ ) විධානය දෙනු ලබන ඉසව්වක් වන්නේ",
+        "choices": [
+            "මී . 200",
+            "මී . 400",
+            "මී . 1500",
+            "මී . 400 කඩුළු"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_2",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/2023-grade-08-health-2nd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 126,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "ධාවන තරග ආරම්භයේ \" වෙන් \" විධානයේ දී සිරුර පවත්වා ගන්නා ආකාරයකි",
+        "choices": [
+            "එක් දණහිසක් පොළවේ ස්පර්ශව තබා ගැනීම",
+            "ආරම්භක රේඛාවෙන් මදක් පිටුපසට උරහිස තල්ලු වීම",
+            "ශරීරයේ බර පාද මත රඳා පැවතීම",
+            "උරහිස් මට්ටමට වඩා උකුල ප්‍රදේශය ඉහළින් පිහිටීම"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_2",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/2023-grade-08-health-2nd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 127,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "සෞඛ්‍ය ප්‍රවර්ධන පාසලට අවශ්‍ය පුද්ගල කොට්ඨාසයකි .",
+        "choices": [
+            "ළමා ආරක්ෂක නිලධාරි",
+            "බන්ධනාගාර නිලධාරි",
+            "පොලිස් නිලධාරි",
+            "රේගු නිලධාරි"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_2",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/2023-grade-08-health-2nd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 128,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "6 ශ්‍රේණියේ ඉගෙනුම ලබන දිනිඳු ගේ ශරීර ස්කන්ධ දර්ශකය යහපත් මට්ටමක පවතින බව සෞඛ්‍ය ගුරුතුමිය පැවසුවාය. වර්ධක සටහනේ ඔහුට අදාල වර්ණය වන්නේ කුමක්ද?",
+        "choices": ["දම් පාට",
+                    "කොළ පාට",
+                    "තැඹිලි පාට",
+                    "රතු පාට"],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_2",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/2023-grade-06-health-2nd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 129,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "විවේක කාලයේදී ඔබ, සතුට හා විනෝදය සදහා කරනු ලබන්නේ",
+        "choices": ["අනු ක්‍රීඩා ය",
+                    "සුළු ක්‍රීඩා ය",
+                    "ප්‍රධාන ක්‍රීඩාය",
+                    "ජන ක්‍රීඩා ය"],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_2",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/2023-grade-06-health-2nd-term-test-paper-with-answers-north-western-province/"
+        }
+    }, 
+    {
+        "q_no": 130,
+        "subject": "Health and Physical Science",
+        "category": "social_science",
+        "question": "ක්‍රීඩා පිටියේදී ක්‍රීඩකයින්ට, නරඹන්නන්ට හා විනිසුරුවන්ට ගරු කිරීම.",
+        "choices": ["ක්‍රීඩා යහපුරුදු",
+                    "ක්‍රීඩා නීතියි",
+                    "ක්‍රීඩා රීතියි",
+                    "ක්‍රීඩා ආචාරධර්මයි"],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "සෞඛ්‍ය හා ශාරීරික විද්‍යාව",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_2",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/2023-grade-06-health-2nd-term-test-paper-with-answers-north-western-province/"
+        }
+    }
+]

@@ -1,0 +1,3254 @@
+[
+    {
+        "q_no": 1,
+        "subject": "Sinhala_language_and_literature",
+        "category": "language",
+        "question": "සිංහල අක්ෂර මාලාවේ ඇති ස්වර ගණන වන්නේ,",
+        "choices": [
+            "10 කි.",
+            "18 කි.",
+            "5 කි.",
+            "42 කි."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://www.e-thaksalawa.moe.gov.lk/moodle/mod/resource/view.php?id=37527&redirect=1"
+        }
+    },
+    {
+        "q_no": 2,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "සිංහල අක්ෂර මාලාව හා සම්බන්ධ වැරදි කියමන තෝරන්න.",
+        "choices": [
+            "ස්වරයක් තනිව උච්චාරණය කළ හැකිය.",
+            "ස්වරයක් ඊට නියමිත රූපයෙන් ම ලියන්නේ වචනයක මුල් ශබ්දය හැටියට යෙදෙන අවස්ථාවලදී පමණි.",
+            "සෑම ව්‍යඤ්ජනයක් ම හල් කළ හැකිය.",
+            "ව්‍යඤ්ජනයක් තනිව උච්චාරණය කිරීම අපහසුය."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://www.e-thaksalawa.moe.gov.lk/moodle/mod/resource/view.php?id=37527&redirect=1"
+        }
+    },
+    {
+        "q_no": 3,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "අනුක්ත නාම පද පමණක් ඇතුළත් පිළිතුර තෝරන්න.",
+        "choices": [
+            "කුරුල්ලෝ, වැඩිහිටියන්, කවීන්.",
+            "ඔවුන්, සිංහයන්, රෝගීන්.",
+            "ළමයි, ගුරුවරු, උගතුන්.",
+            "දරුවන්, වෛද්‍යවරු, තරුණයන්."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://www.e-thaksalawa.moe.gov.lk/moodle/mod/resource/view.php?id=37527&redirect=1"
+        }
+    },
+    {
+        "q_no": 4,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "හිස්තැනට සුදුසු වචනය තෝරා යටින් ඉරක් අඳින්න.\nඅඳුර වැටෙත් ම කඳවුරු දෙකෙහි ම රකවල් ...................... විය.",
+        "choices": [
+            "බිය.",
+            "බඳ.",
+            "තර .",
+            "බර."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://www.e-thaksalawa.moe.gov.lk/moodle/mod/resource/view.php?id=37527&redirect=1"
+        }
+    },
+    {
+        "q_no": 5,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "නිවැරදි අක්ෂර වින්‍යාසය සහිත වචන පමණක් අඩංගු පිළිතුර තෝරන්න.",
+        "choices": [
+            "දර්ශනය , විදේශික, ඓතිහාසික",
+            "ප්‍රතිඵල , ලේඛකයෝ, චායාරූප",
+            "ආවේණික , සංරක්ෂණය , පෝෂනය",
+            "සම්ප්‍රදාය , නිර්මානය , ස්වාධීන"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://www.e-thaksalawa.moe.gov.lk/moodle/mod/resource/view.php?id=37527&redirect=1"
+        }
+    },
+    {
+        "q_no": 6,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "ප්‍රථම පුරුෂ බහු වචන උක්ත පදයකි.",
+        "choices": [
+            "නුඹලා",
+            "ගොවියන්",
+            "කාන්තාවන්",
+            "ගුරුවරු"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://www.e-thaksalawa.moe.gov.lk/moodle/mod/resource/view.php?id=37527&redirect=1"
+        }
+    },
+    {
+        "q_no": 7,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "යුගල පදයක් නොවන්නේ,",
+        "choices": [
+            "ඉඩම් - කඩම්",
+            "රළු - පරළු",
+            "උත්තම - අධම",
+            "ළමයි - බමයි"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://www.e-thaksalawa.moe.gov.lk/moodle/mod/resource/view.php?id=37527&redirect=1"
+        }
+    },
+    {
+        "q_no": 8,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "පහත සඳහන් වාක්‍යයේ නාම විශේෂණ පදය වන්නේ,\n\"කියවීම සඳහා හොඳ පොතක් තෝරාගන්න\" යැයි ගුරුතුමා පැවසුවේය.",
+        "choices": [
+            "ගුරුතුමා",
+            "පොතක්",
+            "කියවීම",
+            "හොඳ"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://www.e-thaksalawa.moe.gov.lk/moodle/mod/resource/view.php?id=37527&redirect=1"
+        }
+    },
+    {
+        "q_no": 9,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "නොගැළපෙන පිළිතුර තෝරන්න.",
+        "choices": [
+            "කාව්‍යශේඛරය - තොටගමුවේ ශ්‍රී රාහුල හිමි",
+            "ගුත්තිල කාව්‍ය - වෑත්තෑවේ හිමි",
+            "කව්සිළුමිණ - රෑ . තෙන්නකෝන් මහතා",
+            "පුංචි පැළේ ගස වෙනා- කේ ජයතිලක මහතා"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://www.e-thaksalawa.moe.gov.lk/moodle/mod/resource/view.php?id=37527&redirect=1"
+        }
+    },
+    {
+        "q_no": 10,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "මහාප්‍රාණ අක්ෂර නොයෙදුණු පද පමණක් ඇතුළත් පිළිතුර තෝරන්න.",
+        "choices": [
+            "ඡන්දය, ස්ථානය, ධර්මය, භයානක",
+            "රාක්ෂයා, දණ්ඩ, පොකුණ, කඩය",
+            "ධවල, රාජධානිය, අධිෂ්ඨානය, සමෘද්ධිමත්",
+            "ප්‍රතිඵල, ආරූඪ, සංඛ්‍යාව, අවබෝධය"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://www.e-thaksalawa.moe.gov.lk/moodle/mod/resource/view.php?id=37527&redirect=1"
+        }
+    },
+    {
+        "q_no": 11,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "කිසියම් අවස්ථාවකට ගැළපෙන පරිදි යොදා ගන්නා පැරණි කියමන් හඳුන්වන්නේ,\n",
+        "choices": [
+            "යුගල පද ලෙසයි.",
+            "විශේෂණ පද ලෙසයි.",
+            "ප්‍රස්තාව පිරුළු ලෙසයි.",
+            "ජනප්‍රවාද ලෙසයි."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/download/7811/grade-06/23264/grade-06-sinhala-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province.pdf"
+        }
+    },
+    {
+        "q_no": 12,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "ගඟට ඉනි කැපුවා වගේ ’ යන පිරුළට ගැළපෙන අදහස වන්නේ,",
+        "choices": [
+            "කපටි ක්‍රියාවක් බවයි.",
+            "අපරික්ෂාකාරී ක්‍රියාවක් බවයි.",
+            "පාඩුවක් සිදු වූ බවයි.",
+            "අසාර්ථක ක්‍රියාවක් බවයි."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/download/7811/grade-06/23264/grade-06-sinhala-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province.pdf"
+        }
+    },
+    {
+        "q_no": 13,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "ඉහේ මලක් පිපුණි’ යන රූඩී පදයෙහි අර්ථය දෙන අදහස තෝරන්න.",
+        "choices": [
+            "උත්සවයකට සැරසෙන බවයි.",
+            "බලාපොරොත්තු ඉටු වූ බවයි.",
+            "සිතේ ඇති වූ සතුටයි.",
+            "ඔළුවේ මලක් ගසා ඇති බවයි."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/download/7811/grade-06/23264/grade-06-sinhala-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province.pdf"
+        }
+    },
+    {
+        "q_no": 14,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "නූතන සිංහල වර්ණ මාලාවේ සඤ්ඤක අක්ෂර ගණන කීයද?",
+        "choices": [
+            "10 යි.",
+            "5 යි.",
+            "18 යි.",
+            "3යි."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/download/7811/grade-06/23264/grade-06-sinhala-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province.pdf"
+        }
+    },
+    {
+        "q_no": 15,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "සිංහල වර්ණ මාලාවේ ව්‍යඤ්ජන අක්ෂර ගණන වන්නේ,",
+        "choices": [
+            "54",
+            "60",
+            "42",
+            "52"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/download/7811/grade-06/23264/grade-06-sinhala-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province.pdf"
+        }
+    },
+    {
+        "q_no": 16,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "මහප්‍රාණ අක්ෂරයක් යෙදී නැති වචනය තෝරන්න.",
+        "choices": [
+            "ආශ්චර්යය",
+            "අනුරාධපුරය",
+            "සෞඛ්‍යය",
+            "විභීෂණ"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/download/7811/grade-06/23264/grade-06-sinhala-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province.pdf"
+        }
+    },
+    {
+        "q_no": 17,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "ස්වරයකින් ආරම්භ වී ඇති වචන තෝරන්න.",
+        "choices": [
+            "සම්මන්ත්‍රණය",
+            "ගොවියා",
+            "චන්ද්‍රයා",
+            "ඒදණ්ඩ"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/download/7811/grade-06/23264/grade-06-sinhala-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province.pdf"
+        }
+    },
+    {
+        "q_no": 18,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "‛මග දිගට ජනකතා' කෘතිය මහනුවර ප්‍රදේශයේ ප්‍රචලිත පුරාවෘත්ත හා බැඳුණු ජන කතා සංග්‍රහයකි. එය රචනා කළේ කවුද?",
+        "choices": [
+            "කුමාරතුංග මුනිදාස",
+            "මාර්ටින් වික්‍රමසිංහ",
+            "ඩී. පී . වික්‍රමසිංහ",
+            "කේ. ජයතිලක"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/download/7811/grade-06/23264/grade-06-sinhala-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province.pdf"
+        }
+    },
+    {
+        "q_no": 19,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "\"පයිං ඇවිදිල්ලා මහන්සි ද මන්දා” මෙම ප්‍රකාශය ඇතුළත් වේදිකා නාට්‍යය කුමක් ද?",
+        "choices": [
+            "කුවේණි",
+            "සිංහබාහු",
+            "තොප්පි වෙළෙන්දා",
+            "නරිබෑනා"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/download/7811/grade-06/23264/grade-06-sinhala-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province.pdf"
+        }
+    },
+    {
+        "q_no": 20,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "හල් කළ නොහැකි ව්‍යඤ්ජන අක්‍ෂරයක් වන්නේ,",
+        "choices": [
+            "ධ ය.",
+            "ම ය.",
+            "(අ)ඃ ය.",
+            "ව ය."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-06-sinhala-3rd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 21,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "ප්‍රථම පුරුෂ ඒකවචන අතීත කාල ස්ත්‍රි ලිංග ක්‍රියා පදය යටින් ඉරක් අඳින්න.",
+        "choices": [
+            "දිවුවෝ ය.",
+            "දිවුවේ ය.",
+            "දිවූහ.",
+            "දිවුවා ය."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-06-sinhala-3rd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 22,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "අනුක්ත නාම පද පමණක් ඇතුළත් පිළිතුර තෝරන්න.",
+        "choices": [
+            "මම, අප, ගුරුවරු",
+            "ඔවුන්, තෝ, ළමයින්",
+            "දැරියක, ගොවියෙකු, තොප",
+            "මා, හාවා, මිනිස්සු"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-06-sinhala-3rd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 23,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "මහප්‍රාණ අක්ෂරයක් රහිත පිළිතුර තෝරන්න.",
+        "choices": [
+            "පීඨය",
+            "කඩය",
+            "ස්ථාන",
+            "සංඛ"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-06-sinhala-3rd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 24,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "නිවැරදි අක්‍ෂර වින්‍යාසයෙන් යුතු වචනය තෝරන්න.",
+        "choices": [
+            "ස්ථාවර",
+            "ප්‍රථිපත්තිය",
+            "පුෂ්ඵය",
+            "කූඨය"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-06-sinhala-3rd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 25,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "නිවැරදි අක්‍ෂර වින්‍යාසයෙන් යුතු වචනය තෝරන්න.",
+        "choices": [
+            "පරික්සනය",
+            "අවබෝදය",
+            "දක්ෂිණ",
+            "මහළු"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_3",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-06-sinhala-3rd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 26,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "‘තණ්හාව නිසා දිගින් දිගට ම කරදරයට පත් වීම' යන අරුතට ගැළපෙන ප්‍රස්තාව පිරුළ,",
+        "choices": [
+            "ඇටි කෙහෙල් කාපු උගුඩුවා වගේ",
+            "අටුව කඩා පුටුව හැදුවා වගේ",
+            "වඳින්න ගිය දේවාලෙ හිස මත කඩා වැටුණා වගේ",
+            "බළලුන් ලවා කොස් ඇට බාවනවා වගේ"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP_3",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=77389&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 27,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "‘අනූනවයෙන් බේරුණා’ යන රූඪියට ගැළපෙන අරුත වනුයේ,",
+        "choices": [
+            "සිතා මතා බේරීම",
+            "යාන්තමින් බේරීම",
+            "අනූනව වාරයක් බේරීම",
+            "ආයාසයෙන් තොර ව බේරීම"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP_3",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=77389&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 28,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "සෑම පදයක ම මහාප්‍රාණ අක්ෂර යෙදී ඇති පිළිතුර තෝරන්න .",
+        "choices": [
+            "ආර්ථික, ලේඛන",
+            "සෞඛ්‍ය, අඟල",
+            "ඇතා, ඇස",
+            "අහස, පඨවි"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP_3",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=77389&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 29,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "‘සාර පලය අඹ දඹ රඹ ද වල්පිට’ යන පද්‍ය පදයේ යෙදී ඇති සඤ්ඤක අකුරු ගණන වන්නේ,",
+        "choices": [
+            "3කි.",
+            "5කි.",
+            "2කි.",
+            "4කි."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP_3",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=77389&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 30,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "‘විශේෂ’ යන වචනයේ විරුද්ධාර්ථ පදය වන්නේ,",
+        "choices": [
+            "අතිවිශේෂ",
+            "සුවිශේෂ",
+            "සාමාන්‍ය",
+            "අසාමාන්‍ය"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP_3",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=77389&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 31,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "‘පුංචි පැළේ ගස වෙනා’ යන ස්වයං ලිඛිත චරිතාපදානය කාගේ ද?",
+        "choices": [
+            "මාර්ටින් වික්‍රමසිංහ",
+            "කුමාරතුංග මුනිදාස",
+            "ඩී.පී වික්‍රමසිංහ",
+            "කේ. ජයතිලක"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP_3",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=77389&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 32,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "‘උදේනි පුර සැණකෙළිය' ඇතුළත් කාව්‍ය ග්‍රන්ථය කුමක් ද?",
+        "choices": [
+            "ගුත්තිල කාව්‍යය",
+            "ගුත්තිල ජාතකය",
+            "සංදේශ කාව්‍යය",
+            "කාව්‍යශේඛරය"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_SP_3",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=77389&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 33,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "අනුක්ත නාම පදය තෝරන්න .",
+        "choices": [
+            "තොප",
+            "ළමයෙක්",
+            "මම",
+            "මවක්"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_2",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/2023-grade-06-sinhala-2nd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 34,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "මධ්‍යම පුරුෂ ඒක වචන ක්‍රියා පදයකි .",
+        "choices": [
+            "කියමු",
+            "කියයි",
+            "කියති",
+            "කියහි"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_2",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/2023-grade-06-sinhala-2nd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 35,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "\" ළමයා කතන්දර පොත ශබ්ද නගා කියෙව්වේ ය ” යන වාක්‍යයේ කර්ම පදය කුමක්ද ?",
+        "choices": [
+            "ළමයා",
+            "පොත",
+            "කතන්දර",
+            "ශබ්ද නගා"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_2",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/2023-grade-06-sinhala-2nd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 36,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "\" පාපිල්ල \" පමණක් යෙදුණු වචනය තෝරන්න .",
+        "choices": [
+            "පාලම",
+            "කිරි",
+            "පුරුදු",
+            "කැවුම්"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_2",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/2023-grade-06-sinhala-2nd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 37,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "මහා ප්‍රාණ අක්ෂරයක් යෙදී නැති වචනය ,",
+        "choices": [
+            "ආරූඪ",
+            "ගඟ",
+            "ඡන්දය",
+            "සංඝයා"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_2",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/2023-grade-06-sinhala-2nd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 38,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "සඤ්ඤක අක්ෂරයක් සහිත වචනය ,",
+        "choices": [
+            "ළමයා",
+            "පීඨය",
+            "හොඬය",
+            "නුවණ"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_2",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/2023-grade-06-sinhala-2nd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 39,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "\" පෝරුව \" යන වචනය නිර්මාණය වීමට ස්වර ව්‍යඤ්ඡන නිවැරදි ව යෙදුණු පිළිතුර ,",
+        "choices": [
+            "ප් + ඕ + ර් + ඌ + ව් + ආ",
+            "ප් + ඖ + ර් + උ + ව් + ආ",
+            "ප් + ඕ + ර් + උ + ව් + අ",
+            "ප් + ඕ + ර් + ඇ + ව් + අ"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_2",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/2023-grade-06-sinhala-2nd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 40,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "නිවැරදි අක්ෂර වින්‍යාසයෙන් යුතු වචනය තෝරන්න .",
+        "choices": [
+            "ප්‍රථිඵලය",
+            "මහළු මිනිසා",
+            "පරීක්ෂණය",
+            "විෂේස"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_2",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/2023-grade-06-sinhala-2nd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 41,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "නිවැරදි අක්ෂර වින්‍යාසයෙන් යුතු වචනය තෝරන්න .",
+        "choices": [
+            "දර්ශනය",
+            "දක්සින",
+            "පෝශනය",
+            "පරිඝනකය"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "P_NWP_2",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/2023-grade-06-sinhala-2nd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 42,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "නිවැරදි අක්ෂර වින්‍යාසයෙන් යුතු වචනය තෝරන්න .\n\"මඩොල්‌ දූව'' භාෂා රාශියකට ............... වූ රසවත්‌ නවකතාවකි.",
+        "choices": [
+            "පරිවර්තනය",
+            "පරිවර්ථනය",
+            "පරිවර්තණය",
+            "පරිවර්ථණය"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=43300&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 43,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "නිවැරදි අක්ෂර වින්‍යාසයෙන් යුතු වචනය තෝරන්න .\nලංකාවේ ................... වාන පිහිටා ඇත්තේ කලා වැවේ ය.",
+        "choices": [
+            "විෂිෂ්ටතම",
+            "විශිෂ්ඨතම",
+            "විශිෂ්ටතම",
+            "විශිස්ටතම"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=43300&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 44,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "නිවැරදි අක්ෂර වින්‍යාසයෙන් යුතු වචනය තෝරන්න .\nබෝධිසත්වයෝ මෙසේ ........................................ කොට ගත්හ.",
+        "choices": [
+            "අධිෂ්ඨාන",
+            "අධිශ්ඨාන",
+            "අධිස්ඨාන",
+            "අධිෂ්ටාන"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=43300&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 45,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "උඩු කොමා තුළ ඇති පදවලට ගැළපෙන ඉඟි වැකිය තෝරන්න.\nඋපාසිකාව 'උදෑසනින්‌ ම' පන්සල්‌ ගියා ය.",
+        "choices": [
+            "නා කපන වැස්ස",
+            "ගිනි ගහන අව්ව",
+            "හොරගල්‌ අහුලමින්‌",
+            "කුකුළා අතින්‌ ගෙන"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=43300&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 46,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "උඩු කොමා තුළ ඇති පදවලට ගැළපෙන ඉඟි වැකිය තෝරන්න.\nනිමල්‌ ගෙදර යන විට 'තද වැසි' ඇති විය.",
+        "choices": [
+            "ගොළුබෙලි ගමනින්‌",
+            "ගිනි ගහන අව්ව",
+            "නා කපන වැස්ස",
+            "ආ පයින් ම"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=43300&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 47,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "සමානාර්ථය දෙන වචනය තෝරන්න.\nපිවිතුරු",
+        "choices": [
+            "ප්‍රසිද්ධ",
+            "පවිත්‍ර",
+            "පියකරු",
+            "අලංකාර"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=43300&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 48,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "සමානාර්ථය දෙන වචනය තෝරන්න.\nජලය",
+        "choices": [
+            "උදුල",
+            "උදක",
+            "උභය",
+            "උවිඳු"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=43300&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 49,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "සමානාර්ථය දෙන වචනය තෝරන්න.\nධවල",
+        "choices": [
+            "සුදු",
+            "කළු",
+            "රන්වන්‌",
+            "රිදී"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=43300&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 50,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "විරුද්ධාර්ථය දෙන වචනය තෝරන්න.\nවිදේශික",
+        "choices": [
+            "ආදේශක",
+            "ආයෝජන",
+            "ස්වදේශික",
+            "දේශික"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=43300&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 51,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "විරුද්ධාර්ථය දෙන වචනය තෝරන්න.\nසතුට",
+        "choices": [
+            "ප්‍රීතිය",
+            "සොම්නස",
+            "නන්දනය",
+            "දොම්නස"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=43300&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 52,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "විරුද්ධාර්ථය දෙන වචනය තෝරන්න.\nපුළුල්‌",
+        "choices": [
+            "පළල්‌",
+            "පටු",
+            "අවුල්‌",
+            "පවිටු"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=43300&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 53,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "හිස්තැනට වඩාත් සුදුසු පිළිතුර තෝරන්න.\nඅපි බැති ගී පුහුණු .....................",
+        "choices": [
+            "උනෙමු.",
+            "උනෙමි",
+            "විය",
+            "වූයේ ය."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=43300&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 54,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "හිස්තැනට වඩාත් සුදුසු පිළිතුර තෝරන්න.\nගොවියෝ කල්‌ යල්‌ බලා කුඹුරැ ..............",
+        "choices": [
+            "වපුරයි.",
+            "වැපිරුවේ ය.",
+            "වපුරති.",
+            "වපුරන්නේ ය."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=43300&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 55,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "හිස්තැනට වඩාත් සුදුසු පිළිතුර තෝරන්න.\n........................................... පාරේ වැඩ නිම කළහ.",
+        "choices": [
+            "කම්කරුවෝ",
+            "කම්කරුවා",
+            "කම්කරුවන්‌",
+            "කම්කරු"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=43300&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 56,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "පහත දී ඇති පද අතරින්‌ උක්ත නාම පදය දුක්වෙන පිළිතුර තෝරන්න.",
+        "choices": [
+            "දරුවන්‌",
+            "අප",
+            "ඔවුන්‌",
+            "ළමයි"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=43300&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 57,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "පහත සඳහන්‌ පද අතරින්‌ අනුක්ත නාම පදය දුක්වෙන පිළිතුර තෝරන්න.",
+        "choices": [
+            "මිනිසුන්‌",
+            "අපි",
+            "මම",
+            "ගොවියෝ"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=43300&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 58,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "\"කෞටිල්‍යා'' යන්නෙහි නිවැරදි පිල්ලම්‌ යෙඳෙන පිළිතුර යටින්‌ ඉරක්‌ අඳින්න.",
+        "choices": [
+            "ගයනුකිත්ත, කොම්බුව, ඉස්පිල්ල, යංශය, ඇලපිල්ල",
+            "කොම්බුව, ගයනුකිත්ත, ඉස්පිල්ල, යංශය, ඇලපිල්ල",
+            "කොම්බුව, යංශය, ඇලපිල්ල, ගයනුකිත්ත, ඉස්පිල්ල",
+            "ගයනුකිත්ත, ඉස්පිල්ල, කොම්බුව, යංශය, ඇලපිල්ල"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": "Z_Mathugama",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=43300&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 59,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "උඩු කොමා සහිත පදයට වඩාත් සමීප අදහස දෙන පිළිතුර තෝරන්න\nආච්චිගේ හදිසි වියෝව අවස්ථාවේ ලොකු මාමා \"කිඹුල් කඳුළු හෙළන\" වග අම්මා පවසයි .",
+        "choices": [
+            "කිඹුලාගේ කඳුළු විශාල බව",
+            "වැඩිපුර දුක්වන බව",
+            "බොරුවට අඬන බව",
+            "ඇඬීම දරාගත නොහැකි බව"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_CP",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-07-sinhala-3rd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 60,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "උඩු කොමා සහිත පදයට වඩාත් සමීප අදහස දෙන පිළිතුර තෝරන්න\n \"ස්ථිර තීරණයක් ගැනීමට නොහැකි වූ\" සභාපතිවරයා තනතුරෙන් ඉවත් කළ යුතු බව සියල්ලෝ ම පැවසූහ ",
+        "choices": [
+            "කළුවා මාරපන ගියා වගෙයි .",
+            "මඩේ සිට වූ ඉන්න වගෙයි .",
+            "ඉබ්බා දියේ දැම්මා වගෙයි .",
+            "ගඟට ඉනි කැපුවා වගෙයි ."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_CP",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-07-sinhala-3rd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 61,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "මහා ප්‍රාණ අක්ෂරයක් නැමැති වචනයක් වන්නේ ,",
+        "choices": [
+            "ධර්මිෂ්ඨ",
+            "ශ්‍රේණිය",
+            "අඛණ්ඩ",
+            "ප්‍රභවය"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_CP",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-07-sinhala-3rd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 62,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "ප්‍රථම පුරුෂ ඒක වචන නාම පදයක් වන්නේ ,",
+        "choices": [
+            "ළමයා",
+            "ඔවුහු",
+            "නුඹ",
+            "මම"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_CP",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-07-sinhala-3rd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 63,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "බහු වචන අනුක්ත නාම පදයක් නොවන්නේ ,",
+        "choices": [
+            "ගුරුවරුන්",
+            "අප",
+            "දෙමව්පියෝ",
+            "ඔවුන්"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_CP",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-07-sinhala-3rd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 64,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "මිශ්‍ර ක්‍රියා , පූර්ව ක්‍රියා , අවසාන ක්‍රියා අනුපිළිවෙළින් ඇති වරණය තෝරන්න .",
+        "choices": [
+            "නැටුවා ය , දුවමින් , ගයා",
+            "ගයා , දුවමින් , නැටුවා ය",
+            "දුවමින් , ගයා , නැටුවා ය",
+            "දුවමින් , නැටුවා ය , ගයා"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_CP",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-07-sinhala-3rd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 65,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "පහත වචන අතරින් උපසර්ගයක් යෙදී නොමැති වචනය වන්නේ ,",
+        "choices": [
+            "දුසිරිත්",
+            "වර්ධනය",
+            "අවගුණය",
+            "අභිමානය"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_CP",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-07-sinhala-3rd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 66,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "ජම්බු ගහට රත \"පොරවන්නී\"\nබක් මී ගහ කහ \"අන්දන්නී\"\nඅඹ දලු ලා රත \"කරවන්නී\"\nලෝ කත විසිතුරු \"කරලන්නී\"\nඋඩු කොමා සහිත පදවල අන්තර්ගත කාව්‍ය උපක්‍රමය කුමක්ද ?",
+        "choices": [
+            "එළිසමය",
+            "අනුප්‍රාසය",
+            "රූපක",
+            "උපමා"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_CP",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-07-sinhala-3rd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 67,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "කමත් භාෂාවේ \" සේදැරි කරනවා \" යන යෙදුම වෙනුවට සාමාන්‍ය ව්‍යවහාරයේ යෙදෙන පදය වන්නේ ,",
+        "choices": [
+            "මැඩුවන් හලනවා",
+            "වී මනිනවා",
+            "බුලත් විට කනවා",
+            "ඉක්මන් කරනවා"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_CP",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-07-sinhala-3rd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 68,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "උඩු කොමා සහිත පදය අයත් ව්‍යාකරණ වර්ගය තෝරන්න . \n\"දක්ෂ\" දියණිය සැමට කලින් ප්‍රශ්නයට පැහැදිලි පිළිතුරක් සැපයුවාය .",
+        "choices": [
+            "ක්‍රියා විශේෂණ",
+            "නිපාත",
+            "නාම විශේෂණ",
+            "උපසර්ග"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_CP",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-07-sinhala-3rd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 69,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "ඔහු උසාවියේ දී නීතිඥවරයාට තම නිරවද්‍යතාව \"පැහැදිලි ව\" ඉදිරිපත් කළේය .\n",
+        "choices": [
+            "ක්‍රියා විශේෂණ",
+            "විධි ක්‍රියා",
+            "නාම විශේෂණ",
+            "උපසර්ග"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_CP",
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-07-sinhala-3rd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 70,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "උඩු කොමා සහිත පදයට වඩාත් සමීප අදහස දෙන පිළිතුර තෝරන්න\nමේ දවස්වල ලොකු මාමාට \"කරල පැහිලා\" යැ'යි තාත්තා කීවේය .",
+        "choices": [
+            "සරු අස්වැන්නක් ලැබී ඇති බව .",
+            "හොඳ කාලයක් උදා වී ඇති බව .",
+            "අමාරුවේ වැටී ඇති බව .",
+            "නරක කාලයක් උදා වී ඇති බව"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26796&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 71,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "උඩු කොමා සහිත පදයට වඩාත් සමීප අදහස දෙන පිළිතුර තෝරන්න\nසිරිතුංග අසල් වැසියන් සමඟ \"ඇයි හොඳයියක්\" නැතැ'යි ගම්මු පවසති .",
+        "choices": [
+            "අමනාපයක් .",
+            "අකැමැත්තක් .",
+            "සුහදතාවයක් .",
+            "විශ්වාසයක් ."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26796&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 72,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "උඩු කොමා සහිත පදයට වඩාත් සමීප අදහස දෙන පිළිතුර තෝරන්න\nගුරුතුමිය වාර විභාගයේ ලකුණු දෙන තුරු ළමයි \"ඇඟිලි ගනිමින්\" සිටියෝය .",
+        "choices": [
+            "නොඉවසිල්ලෙන්",
+            "බියෙන්",
+            "ඇඟිලි ගණන් කරමින්",
+            "පුදුමයෙන්"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26796&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 73,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "විරුද්ධාර්ථයක් දෙන පදය තෝරන්න .\nභාග්‍යය ",
+        "choices": [
+            "වාසනාව .",
+            "අභාග්‍යය .",
+            "සම්පූර්ණ .",
+            "අසමාන ."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26796&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 74,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "විරුද්ධාර්ථයක් දෙන පදය තෝරන්න .\nමෛත්‍රිය ",
+        "choices": [
+            "මිත්‍රත්වය .",
+            "කරුණාව .",
+            "අවිහිංසාව .",
+            "වෛරය ."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26796&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 75,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "සමානාර්ථයක් නොදෙන පදය තෝරන්න .\nජලය  ",
+        "choices": [
+            "පැන් .",
+            "උදක .",
+            "වතුර .",
+            "අග්නි ."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26796&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 76,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "සමානාර්ථයක් නොදෙන පදය තෝරන්න .\nදුප්පත් . ",
+        "choices": [
+            "දිනිඳු .",
+            "දිළිඳු .",
+            "දුගී.",
+            "දරිද්‍ර ."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26796&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 77,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "පහත දැක්වෙන අදහස් වලට ගැළපෙන තනි පදය තෝරන්න .\nතමාගේ වාසියට පමණක් කටයුතු කරන්නා ,",
+        "choices": [
+            "පරාර්ථකාමියා .",
+            "හිංසාවාදියා .",
+            "ආත්මාර්ථකාමියා .",
+            "රණකාමියා ."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26796&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 78,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "පහත දැක්වෙන අදහස් වලට ගැළපෙන තනි පදය තෝරන්න .\nගලෙන් කරන ලද ,",
+        "choices": [
+            "රන්මුවා .",
+            "රිදී මුවා .",
+            "සෙල්මුවා .",
+            "දැව වුමා ."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26796&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 79,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "පහත දැක්වෙන පද වලින් නාම විශේෂණ පදයක් නොවන පදය තෝරන්න .",
+        "choices": [
+            "උණුවතුර .",
+            "සෙමින් දුවන .",
+            "යහපත් ළමයා .",
+            "මැටි භාණ්ඩ ."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26796&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 80,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "පහත දැක්වෙන වාක්‍යවල හිස් තැනට වඩාත් ගැලපෙන පදය තෝරන්න .\nගංඟාවෝ ගලා ................",
+        "choices": [
+            "බසියි .",
+            "බසිති .",
+            "බසින්නේය .",
+            "බසින්නීය ."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26796&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 81,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "පහත දැක්වෙන වාක්‍යවල හිස් තැනට වඩාත් ගැලපෙන පදය තෝරන්න .\n...................... මල් කඩා බුදුන් වැන්දාය .",
+        "choices": [
+            "උපාසිකාව .",
+            "උපාසකයා .",
+            "උපාසිකාවෝ .",
+            "උපාසකයෝ ."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26796&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 82,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "උඩු කොමා සහිත පදය අයත්වන ක්‍රියාපද වර්ගය තෝරන්න .\nතෙල් ගාලා හිස \"පීරන්\" නෑනෝ .",
+        "choices": [
+            "පූර්ව ක්‍රියා .",
+            "මිශ්‍ර ක්‍රියා .",
+            "ආශිර්වාද ක්‍රියා .",
+            "විධි ක්‍රියා ."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26796&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 83,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "උඩු කොමා සහිත පදය අයත්වන ක්‍රියාපද වර්ගය තෝරන්න .\nඅපි මුදල් එකතු \"කර\" යාචකයාට දුන්නෙමු .",
+        "choices": [
+            "මිශ්‍ර ක්‍රියා .",
+            "පූර්ව ක්‍රියා .",
+            "අසම්භාව්‍ය ක්‍රියා .",
+            "විධි ක්‍රියා ."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26796&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 84,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "පහත දැක්වෙන ප්‍රස්තාව පිරුළුවල හිස් තැනට ගැළපෙන පදය තෝරන්න .\nඅතු කඩා ...................... කන්නා වගෙයි .",
+        "choices": [
+            "දොඩම් .",
+            "කජු .",
+            "රඹුටන් .",
+            "මොර ."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26796&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 85,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "පහත දැක්වෙන ප්‍රස්තාව පිරුළුවල හිස් තැනට ගැළපෙන පදය තෝරන්න .\nඉඟුරු දීලා ...................... ගත්තා වගෙයි .",
+        "choices": [
+            "මිරිස් .",
+            "සල්ලි .",
+            "අගුරු .",
+            "කහ ."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26796&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 86,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "පහත දැක්වෙන ග්‍රන්ථවලින් උපදේශාත්මක ග්‍රන්ථයක් නොවන ග්‍රන්ථය කුමක්දැ'යි තෝරන්න .",
+        "choices": [
+            "ලෝකෝපකාරය .",
+            "සිරිත් මල්දම .",
+            "කෝමල රේඛා",
+            "තිරුක්කුරල් ."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26796&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 87,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "\" තොප්පි වෙළෙන්දා \" නාට්‍යයට පදනම් වී ඇත්තේ ,\n",
+        "choices": [
+            "නවකතාවකි .",
+            "ජන කතාවකි .",
+            "කෙටි කතාවකි .",
+            "ජාතක කතාවකි ."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26796&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 88,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "වර්තමාන සිංහල අක්ෂර මාලාවේ ඇති මුළු අක්ෂර ගණන ,",
+        "choices": [
+            "59 කි .",
+            "57 කි .",
+            "60 කි .",
+            "61 කි ."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_2",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/2023-grade-07-sinhala-2nd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 89,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "මධ්‍යම පුරුෂ අතීත කාල බහු වචන ක්‍රියා පදය වන්නේ ,",
+        "choices": [
+            "කරන්නෙහු",
+            "කළෙහු",
+            "කරහු",
+            "කරහි"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_2",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/2023-grade-07-sinhala-2nd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 90,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "ඒක වචන අනුක්ත නාම පදයක් වන්නේ ,",
+        "choices": [
+            "මා",
+            "ඔවුන්",
+            "දියණියක්",
+            "සිංහයෙක්"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_2",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/2023-grade-07-sinhala-2nd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 91,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "උපසර්ගයක් සහිත වචනය වන්නේ ,",
+        "choices": [
+            "ඉසුරුමත්",
+            "ස්වාධීන",
+            "සමස්ත",
+            "අවමානය"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_2",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/2023-grade-07-sinhala-2nd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 92,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "කමත් භාෂාවේ \" මෝල්කඩ ” යන යෙදුම සඳහා සාමාන්‍ය ව්‍යවහාරයේ යෙදෙන පදය වන්නේ ,",
+        "choices": [
+            "අම්බරුවන් කමතට ඇතුළුවන පාර",
+            "ආහාර අනුභව කිරීම",
+            "කමතේ හරක් ගැට ගසන කණුව",
+            "අම්බරුවන් දිරිමත් කරන හඬ"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_2",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/2023-grade-07-sinhala-2nd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 93,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "උඩු කොමා සහිත පදයට වඩාත් සමීප අදහස දෙන පිළිතුර තෝරන්න\nවාර්ෂික ත්‍යාග ප්‍රදානෝත්සවය පැවැත්වීමට නම් සියලු දෙනා \"අත්වැල් බැඳගෙන\" කටයුතු කළ යුතු බව විදුහල්පතිතුමා පැවසුවේ ය .",
+        "choices": [
+            "අත් අල්ලාගෙන",
+            "ක්‍රීඩාවක යෙදෙමින්",
+            "එකට එක් වී",
+            "සාකච්ඡා කරමින්"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_2",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/2023-grade-07-sinhala-2nd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 94,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "උඩු කොමා සහිත පදය අයත් කාව්‍ය අලංකාරය කුමක්ද ?\nගස වතුසුදු - වී පිරිසිදු\n\"පොහොය නැතිදු - සිල්ගත් බඳු\"",
+        "choices": [
+            "අනුප්‍රාසය",
+            "රූපක",
+            "එළිසමය",
+            "උපමා"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_NWP_2",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/2023-grade-07-sinhala-2nd-term-test-paper-with-answers-north-western-province/"
+        }
+    },
+    {
+        "q_no": 95,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "උඩු කොමා සහිත පදයට වඩාත් සමීප අදහස දෙන පිළිතුර තෝරන්න\nඇතැම් ව්‍යාපාරිකයන් \"දෙපිටකාට්ටු වැඩ\" කරමින් අනුන් රවටති .",
+        "choices": [
+            "ඉතා හොඳින් වැඩ කරමින්",
+            "දෙපැත්තටම හොඳින් වැඩ කරමින්",
+            "දෙපැත්තම මුලා කරමින්",
+            "ඉතා සෙමින් වැඩ කරමින්"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=74309&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 96,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "සෑම වචනයක ම මහප්‍රාණ අක්ෂරයක් යෙදී ඇති පද පේළිය වන්නේ ,\n",
+        "choices": [
+            "ශිෂ්ටාචාරය , ව්‍යාකරණ , සම්භාවනා",
+            "ඡායාරූප , රෝග විනිශ්චය , ඝනත්වය",
+            "ප්‍රතිඵලය , උපස්ථානය , සංඛ්‍යාව",
+            "සංග්‍රාමය , බන්ධනාගාරය , කර්තව්‍යය"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=74309&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 97,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "නිවැරදි අක්ෂර වින්‍යාසයෙන් යුතු පද පේළිය වන්නේ ,",
+        "choices": [
+            "නිශ්ශබ්ද , දියුණුව , ලේඛම්",
+            "සඳකිරණ , අක්ෂර , බාදාව",
+            "වදාළ , ආභරණ , අවශේෂ",
+            "ජ්‍යෙෂ්ඨ , දුෂ්ඨ , කනිෂ්ඨ"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=74309&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 98,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "අකාරාදී පිළිවෙළට යෙදී ඇති වරණය වන්නේ ,\n",
+        "choices": [
+            "අපේ ගම , බව තරණය , මඩොල් දූව , කරුවල ගෙදර",
+            "එන්ටැමෙන් පොළොව , එකම කථාව , රතු රෝසමල , ජීවන සුවඳ",
+            "කුවේණි , නරි බෑණා , මනමේ , සිංහබාහු",
+            "නන්ද ජාතකය , තිත්තිර ජාතකය , සකුණ ජාතකය , බක ජාතකය"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=74309&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 99,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "ගැටය සහිත ඇලපිල්ල , දීර්ඝ පාපිල්ල , ඇදය හා යංශය පිළිවෙළින් යෙදී ඇති පද පේළිය වන්නේ ",
+        "choices": [
+            "මෘදු , රැල්ල , රූල , ව්‍යාඝ්‍ර",
+            "ගෞරවය , නූල , රූස්ස , ක්‍රමය",
+            "තෘණ , රූප , රැළ , ත්‍යාගය",
+            "ත්‍යාගය , රෑන , පැළ , පත්‍රය"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=74309&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 100,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "තද්ධිත නාමයක් වන්නේ ,",
+        "choices": [
+            "හැකියා",
+            "දේශීය",
+            "දුවන්නී",
+            "කම්කරු"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=74309&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 101,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "ක්‍රියා විශේෂණයක් වනනේ ,\n",
+        "choices": [
+            "කාලීන",
+            "ගස්වැල්",
+            "වේගවත්",
+            "සුදන"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=74309&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 102,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "බහ්වර්ථ පද පමණක් යෙදී ඇති වරණය වන්නේ ,\n",
+        "choices": [
+            "සත් , ශක්‍ර , චක්‍ර , අක්ෂි",
+            "දද , දැඩි , අඥාන , පක්",
+            "ප්‍රිය , තරු , පාද , පියාපත්",
+            "තුරු , ගස් , ඇතා , නාග"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=74309&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 103,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "පරාස්ස , නාට්‍යයේ නිර්මාණකරුවා වන්නේ ,",
+        "choices": [
+            "රෝහණ දන්දෙනිය මහතා",
+            "දයාන්නද ගුණවර්ධන මහතා",
+            "එදිරිවීර සරච්චන්ද්‍ර මහතා",
+            "හෙන්රි ජයසේන මහතා"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_NWP_3",
+            "year": 2023,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=74309&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 104,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "උඩු කොමා සහිත පදවලට වඩාත් ම සමීප අර්ථය කුමක් ද ?\nජාවාරම්කරුවෝ \"ඉවක් බවක්\" නැතිව වනය විනාශ කරති ",
+        "choices": [
+            "උදව් ඇතිව",
+            "රහසිගතව",
+            "අපරික්ෂාකාරීව",
+            "නොසැලකිල්ලෙන්"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29989&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 105,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "උඩු කොමා සහිත පදවලට වඩාත් ම සමීප අර්ථය කුමක් ද ?\n\"අරෝවක්\" නැතිව බොහෝ දෙනෙක් සිරීපාදය කරුණා කරති .",
+        "choices": [
+            "කරදරයක්",
+            "ලෙහෙසියෙන්",
+            "උත්සාහයෙන්",
+            "අවබෝධයෙන්"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29989&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 106,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "අල්පප්‍රාණ අක්ෂර පමණක් යෙදුණු වරණය තෝරන්න .",
+        "choices": [
+            "ක , ථ , ණ , ට",
+            "ක , ව , ට , ධ",
+            "ක , ට , ප , භ",
+            "ක , ත , ද , බ"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29989&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 107,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "නිවැරදි අක්ෂර වින්‍යාසය සහිත පද පේළිය තෝරන්න .",
+        "choices": [
+            "සියළු , නිධාන",
+            "ස්තූපය , ප්‍රාර්ථනා",
+            "ප්‍රස්ථාර , මර්ධනය",
+            "පරිගණක , ලේඛම්"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29989&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 108,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "අකාරාදී පිළිවෙළ නිවැරදි ව දක්වා ඇති පද පේළිය වන්නේ ,",
+        "choices": [
+            "බ්‍රහස්පතින්දා , ඉරිදා , සෙනසුරාදා .",
+            "කෑගල්ල , ඔරුවල , ගම්පහ .",
+            "ළමයා , ගුරුවරයා , පාසල .",
+            "මානෙල් , රෝස , සමන් ."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29989&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 109,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "වත ' යන පදයට බහු අර්ථ පදයක් නොවන්නේ ,",
+        "choices": [
+            "වේදය",
+            "වස්තුව",
+            "මුහුණ",
+            "වස්ත්‍රය"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29989&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 110,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "මුලින් දැක්වෙන පදයට සමානාර්ථ පදයක් වන්නේ ,\n උතුම් ,",
+        "choices": [
+            "උදාර",
+            "උදාන",
+            "වර",
+            "ගර්භය"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29989&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 111,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "මුලින් දී ඇති පදයට විරුද්ධාර්ථ පදය නොදෙන පදය කුමක්ද ?\nසූර්යයා ,",
+        "choices": [
+            "තාරපති",
+            "නිශාපති",
+            "කලාපති",
+            "දිනපති"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29989&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 112,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "තද්ධිත පදයක් නො වන්නේ ,",
+        "choices": [
+            "නැටුම්",
+            "සාමාජික",
+            "බුද්ධිමත්",
+            "කාලීන"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29989&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 113,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "වනන්තරේ වන සපු මල් පිපීයන්\n\" ...... දසරාජ ධර්මයෙන් රාජ්‍යය කරනු මැනවි . \"\nඋඩු කොමා සහිත පදවල ක්‍රියාව පිළිවෙළින් යෙදී ඇති වරණය කුමක්ද ?",
+        "choices": [
+            "මිශ්‍ර ක්‍රියා . ආශිර්වාද ක්‍රියා",
+            "ආශීර්වාද ක්‍රියා , විධි ක්‍රියා",
+            "ආශිර්වාද ක්‍රියා , මිශ්‍ර ක්‍රියා",
+            "විධි ක්‍රියා , ආශිර්වාද ක්‍රියා"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29989&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 114,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "හිස් තැනට ගැළපෙන නිවැරදි ව්‍යාකරණ වරණය තෝරන්න .\nතාරකා සියල්ල ම අහසේ ...........",
+        "choices": [
+            "බබළති .",
+            "බබළයි .",
+            "බැබළුණෝය .",
+            "බබළන ලද හ ."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29989&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 115,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "හිස් තැනට ගැළපෙන නිවැරදි ව්‍යාකරණ වරණය තෝරන්න .\nඅම්මාත් , මමත් , නිවස පිරිසිදු ...........",
+        "choices": [
+            "කළහ .",
+            "කළෝය .",
+            "කළේය .",
+            "කළෙමු ."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29989&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 116,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "හිස් තැනට ගැළපෙන නිවැරදි ව්‍යාකරණ වරණය තෝරන්න .\nඑතනහාමි රස හොද්දක් සාදා නාන්න ...........",
+        "choices": [
+            "ගියා ය .",
+            "ගියෝ ය .",
+            "යන ලදී .",
+            "ගියහ ."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29989&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 117,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "හිස් තැනට ගැළපෙන නිවැරදි ව්‍යාකරණ වරණය තෝරන්න .\nනිළධාරීහු .......... ඇමතූහ .",
+        "choices": [
+            "ගොවියෝ",
+            "ගොවියෙක්",
+            "ගොවීන්",
+            "ගොවීහු"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29989&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 118,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "\" පතසන් අවරගිරි නැටියෙන් වැටෙන කල\nවිලිකුන් සුරත් පලවැනි වේ රිවි මඬල \"\nමෙම කවිය ඇතුළත් කෘතිය වන්නේ ,",
+        "choices": [
+            "හංස සන්දේශය",
+            "ගිරා සන්දේශය",
+            "පරෙවි සන්දේශය",
+            "සැළලිහිණි සන්දේශය"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29989&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 119,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "\" ඉරු දෙවි බබළයි පහන\nවලා ඉහළ කෙරෙයි වියන \"\nමෙම පද්‍යය ලිව්වේ කවුරුන් ද ?",
+        "choices": [
+            "මහගමසේකර මහතා",
+            "කුමාරතුංග මුනිදාස මහතා",
+            "එස් මහින්ද හිමි",
+            "ගුණදාස අමරසේකර මහතා"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29989&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 120,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "උඩු කොමා සහිත පදයට වඩාත් සමීප අදහස දෙන පිළිතුර තෝරන්න\nමවගෙන් ලිපියක් ලැබුනු සමනලීට එය \"ඉහේ මලක් පිපුණාක්\" මෙන් විය .",
+        "choices": [
+            "ලොතරැයියක් ඇදීම",
+            "විශාල ධනයක් ලැබීම",
+            "දැඩි දුකක්",
+            "දැඩි සතුටක් ලැබීම"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29948&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 121,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "උඩු කොමා සහිත පදයට වඩාත් සමීප අදහස දෙන පිළිතුර තෝරන්න\nනව විදුහල්පතිතුමා \"අල්ලේ නැටවීමට\" ඔවුන් දැරූ උත්සහය අසාර්ථක විය .",
+        "choices": [
+            "යටත් කර ගැනීමට",
+            "තමන් අනුව හැසිරීමට",
+            "අවශ්‍ය පරිදි හැසිරීමට",
+            "යමකින් පාලනය කිරීමට"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29948&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 122,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "උඩු කොමා සහිත පදයට වඩාත් සමීප අදහස දෙන පිළිතුර තෝරන්න\nඇතැම් මන්ත‍්‍රීවරු \"දෙපිටකාට්ටු වැඩ\" කරමින් අනුන් රවටති .",
+        "choices": [
+            "ඉතා හොඳින් වැඩ කරමින්",
+            "දෙපැත්තට ම හොඳින් වැඩ කරමින්",
+            "දෙපැත්තම මුලා කරමින්",
+            "ඉතා සෙමින් වැඩ කරමින්"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29948&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 123,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "මුලින් දී ඇති ක්‍රියාපද වර්ගයට අයත් නොවන පදය තෝරන්න .\nඅසම්භාව්‍ය ක්‍රියා ,",
+        "choices": [
+            "දුවතී",
+            "දුවද්දී",
+            "දුවත",
+            "දිව්වොත්"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29948&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 124,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "පුර්ව ක්‍රියා පදය තෝරන්න .",
+        "choices": [
+            "කමින්",
+            "දිවේවා",
+            "ගොස්",
+            "බලමි"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29948&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 125,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "අකාරාදි පිළිවෙලට ඇති වරණය තෝරන්න .",
+        "choices": [
+            "සයවන , සායනය , සීමැදුර , හකුරු",
+            "ගායක , ගැහැනු , ජීවිතය , කවිය",
+            "කවිය , කාවින් ද , පාවර , පවුර",
+            "තාලය , කාලය , මානය , ආරය"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29948&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 126,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "මුලින් දී ඇති පදයට සමාන පදය පිළිතුරු අතරින් තෝරන්න .\nවලාකුළ",
+        "choices": [
+            "වැස්ස",
+            "නමුනුකුළ",
+            "ජලධර",
+            "ජලජ"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29948&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 127,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "විරුද්ධාර්ථ පදය තෝරන්න .\nදුගතිය",
+        "choices": [
+            "මලිතිය",
+            "උන්නතිය",
+            "අවනතිය",
+            "සුගතිය"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29948&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 128,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "\" පෘථුල \" යන්නට සමීප අර්ථය වන්නේ ,",
+        "choices": [
+            "පැරණි",
+            "අද්‍යතන",
+            "පුළුල්",
+            "විරාගත"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29948&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 129,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "\" දුබල \" යන්නට විරුද්ධාර්ථ පදය වන්නේ ,",
+        "choices": [
+            "ප්‍රබල",
+            "දුර්ලභ",
+            "දුර්මුඛ",
+            "උත්තම"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29948&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 130,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "\" දද \" යන පදයට බහු අර්ථ පදයක් නොවන්නේ ,\n",
+        "choices": [
+            "කොඩිය",
+            "බමුණු",
+            "පැන",
+            "කුෂ්ඨ"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29948&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 131,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "මහා ප්‍රාණ අක්ෂරය ඇතුළත් පදය තෝරන්න .",
+        "choices": [
+            "තෘණ",
+            "ප්‍රමාද",
+            "දළ",
+            "ආභරණ"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29948&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 132,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "නිවැරදි අක්ෂර වින්‍යාසය යෙදූ පදය තෝරන්න .",
+        "choices": [
+            "සංඝායනාව",
+            "සංගායනාව",
+            "ශංගායනාව",
+            "සංගායණාව"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29948&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 133,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "හිස්තැන සඳහා වඩාත් සුදුසු පදය තෝරන්න.\n............. උදෑසන අවදි වන්නීය .",
+        "choices": [
+            "තාත්තා",
+            "අම්මා",
+            "බල්ලා",
+            "මල්ලි"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29948&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 134,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "හිස්තැන සඳහා වඩාත් සුදුසු පදය තෝරන්න.\nනුවර වැව බලන්නට නුඹ ..........",
+        "choices": [
+            "යමි .",
+            "යන්නෙහු .",
+            "යති .",
+            "යන්නෙහි ."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29948&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 135,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "හිස්තැන සඳහා වඩාත් සුදුසු පදය තෝරන්න.\nජනපතිතුමිය ............ අමතා කතා කළාය .",
+        "choices": [
+            "මන්ත්‍රීවරු",
+            "ළමයි",
+            "අප",
+            "ගුරුවරු"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29948&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 136,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "හිස්තැන සඳහා වඩාත් සුදුසු පදය තෝරන්න.\n............ උදෑසන පාසලට පියමං කරති .",
+        "choices": [
+            "ළමයි",
+            "ගුරුවරුන්",
+            "ගුරුවරියන්",
+            "පාසල් මුරකරු"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29948&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 137,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "හිස්තැන සඳහා වඩාත් සුදුසු පදය තෝරන්න.\nගුරුවරු දරුවන් යහමග ........",
+        "choices": [
+            "යවයි .",
+            "යවති .",
+            "යවනු ලබයි .",
+            "යවන ලදහ ."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29948&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 138,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "ගැටය සහිත ඇලපිල්ල , දීර්ඝපාපිල්ල , ඇදය , යංශය පිළිවෙලින් යෙදී ඇති පද පේළිය තෝරන්න .",
+        "choices": [
+            "මෘදු , රූප , රැළ , ව්‍යාංග",
+            "තෘණ , රැල්ල , රූල , ත්‍යාගය",
+            "ත්‍යාගය , තෘතිය , නුල , ක්‍රමය",
+            "ගෞරවය , රෑන , පත්‍රය , බිල්ල"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29948&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 139,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "ක්‍රියා නාමයක් නොවන්නේ ,",
+        "choices": [
+            "රකින",
+            "කියුම්",
+            "මැසවිලි",
+            "රන්මුවා"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29948&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 140,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "තද්ධිත නාමයක් වන්නේ ,",
+        "choices": [
+            "දේශීය",
+            "රවුම",
+            "කාලය",
+            "රට"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29948&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 141,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "ක්‍රියා විශේෂණයක් වන්නේ ,",
+        "choices": [
+            "ඉඟටි",
+            "බලවත්",
+            "කල්බද",
+            "වේගයෙන්"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29948&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 142,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "අම්මා උදෑසන \"කිරිබත්\" පිසුවාය . උඩු කොමා සහිත පදය වන්නේ ,\n",
+        "choices": [
+            "තද්ධිත නාමයකි .",
+            "කෘදන්ත නාමයකි .",
+            "සමාස නාමයකි .",
+            "නාම නාමයකි ."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29948&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 143,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "\" එතනහාමි \" කතාව ,",
+        "choices": [
+            "ජාතක කතාවකි",
+            "ජන කතාවකි",
+            "වීර කතාවකි",
+            "අන්තර්ජාල කතාවකි"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29948&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 144,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "අලුත් අවුරුදු උත්සවය යනු ,",
+        "choices": [
+            "පාරම්පරික උත්සවයකි .",
+            "ආගමික උත්සවයකි .",
+            "ජිවන සංක්‍රාන්තික උත්සවයකි .",
+            "සමාජයට අනුගතව සමරන උත්සවයකි ."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29948&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 145,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "\" කිරි මෝරු \" යනු ,",
+        "choices": [
+            "කෑමකි .",
+            "පානයකි .",
+            "සතෙකි .",
+            "යන්ත්‍රයකි"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29948&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 146,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "\" රාත්‍රිය \" කවි පෙළ රචනා කළේ ,",
+        "choices": [
+            "ගුණදාස අමරසේකර මහතා",
+            "එස් . මහින්ද හිමි",
+            "මහගම සේකර මහතා",
+            "මකුළුලොලුව මහතා"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29948&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 147,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "\" වහා තාගේ කඩුව හා දුනු හී බිම දමා මට නමස්කාර කරව \" , මෙය අඩංගු නාට්‍ය වන්නේ ,",
+        "choices": [
+            "මනමේ නාට්‍යය",
+            "හුණුවටය නාට්‍යය",
+            "වෙස්සන්තර නාට්‍යය",
+            "ගුරු තරුව නාට්‍යය"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": "P_CP",
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29948&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 148,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "අක්ෂර වින්‍යාසය නිවැරදි පදය තෝරන්න.",
+        "choices": ["අධිකරන",
+                    "අදිකරණ",
+                    "අදිකරන",
+                    "අධිකරණ"],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26796&token=&preview=1"
+        }
+    }, {
+        "q_no": 149,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "අක්ෂර වින්‍යාසය නිවැරදි පදය තෝරන්න.",
+        "choices": [
+            "බික්ෂුණි", 
+            "භික්ෂුනී", 
+            "භික්ෂුණී", 
+            "භික්සුනී"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26796&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 150,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "සඤ්ඤක අක්ෂර පමණක් යෙදී ඇති වරණය තෝරන්න .\n",
+        "choices": [
+            "කීන, අඹ, කුඹුක්, ජම්බු", 
+            "වඳ, තුඹ, රඟ, මඬල", 
+            "කඳ, නුඹ, සඳ, නුබ", 
+            "ගඟ, කරන, වුණු, ළදලු"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26796&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 151,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "සෑම පදයක ම මහප්‍රාණ අක්ෂර පමණක් ඇතුළත් වරණය තෝරන්න .",
+        "choices": [
+            "ශ්‍රේෂ්ඨ, විශිෂ්ට, ප්‍රවීණ, මධුර", 
+            "ආරක්ෂක, භාවිතය, අර්ථය, ආරූඪ", 
+            "පාඨශාලාව, ප්‍රතිඵල, වර්ධනය, සම්භාෂණ", 
+            "අභය, මුඛය, නරඹන, ශ්‍රද්ධාව"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26796&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 152,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "සෑම පදයක ම මූර්ධජ අක්ෂර ඇතුළත් වරණය කුමක්ද ?\n",
+        "choices": [
+            "ණය ගැති, පිළිවෙළ, පුරාණ, පාෂාණ", 
+            "මතය, භාෂාව, ළහිරු, සහිත", 
+            "රත්මල, විශේෂය, සංකේතය, පහන", 
+            "අවසර, විවේක, සවස, දසන්"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26796&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 153,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "\" සහස්‍රකය \" යන වචනයෙහි අර්ථය දැක්වෙන වරණය තෝරන්න .",
+        "choices": [
+            "පන්සියයකින් සමන්විත", 
+            "දහයකින් සමන්විත", 
+            "සියයකින් සමන්විත", 
+            "දහසකින් සමන්විත"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26796&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 154,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": " විරුද්ධ අර්ථය ප්‍රකාශ නොවන පද ඇතුළත් පිළිතුර තෝරන්න\n",
+        "choices": [
+            "උත්තම - අධම", 
+            "ජාතික - විජාතික", 
+            "අවමාන - අසමාන", 
+            "උස් - මිටි"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26796&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 155,
+        "subject": "Sinhala language and literature",
+        "category": "language",
+        "question": "\" ප්‍රාකාරය ” යන පදයට සුදුසු සමාන පදය සහිත වරණය තෝරන්න .",
+        "choices": [
+            "නිවස", 
+            "තාප්පය", 
+            "පව්ව", 
+            "අහස"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "සිංහල භාෂාව සහ සාහිත්‍යය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": "P_SP_3",
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26796&token=&preview=1"
+        }
+    }
+]

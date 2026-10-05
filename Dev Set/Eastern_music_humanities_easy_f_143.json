@@ -1,0 +1,3005 @@
+[
+    {
+        "q_no": 1,
+        "subject": "Eastern_music",
+        "category": "humanities",
+        "question": "නර්තනයේ මාධ්‍ය චලන වන අතර සංගීතයේ මාධ්‍ය වනුයේ,",
+        "choices": [
+            "ස්වර",
+            "වර්ණ",
+            "නාද",
+            "අභිනය"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": null,
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-06-music-3rd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 2,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "පනාවන් හා ඊයම් කොළ හෝ පෑන් කොපු යොදා ගනිමින් හුස්ම හැසිරවීමට හුරුවන්නේ,",
+        "choices": [
+            "වාදනයට",
+            "සංගීතයට",
+            "නිර්මාණයට",
+            "ගායනයට"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": null,
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-06-music-3rd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 3,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "මින් ස්වර ස්ථාපන ගීතයක් නොවන්නේ,",
+        "choices": [
+            "කඳු පෙළ අතරේ",
+            "මුනි සිරිපාදේ",
+            "එකට සතුටු සාගරේ",
+            "සෙන්පතියන් ගැන"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": null,
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-06-music-3rd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 4,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "සර්පිනාව පිළිබඳ නිවැරදි කියමන වනුයේ,",
+        "choices": [
+            "තත් වාද්‍ය භාණ්ඩයකි.",
+            "බෝවෙන් වාදනය කරනු ලබයි.",
+            "සුෂිර වාද්‍ය භාණ්ඩ ගණයට අයත්ය.",
+            "තාල වාද්‍ය භාණ්ඩයකි."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": null,
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-06-music-3rd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 5,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "ශුද්ධ ස්වර දෙකක් පමණක් යෙදෙන ස්වර ස්ථාපන ගීතයකි,",
+        "choices": [
+            "ගී ගයන මේ කුරුළු",
+            "එකට සතුටු සාග",
+            "ඈත ආකහේ පාට පාට මල්",
+            "කඳු පෙළ අතරේ තුරු වදුලේ"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": null,
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=23197&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 6,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "උත්තර භාරතීය සංගීතය හඳුන් වන තවත් නමකි,",
+        "choices": [
+            "පෙරදිග සංගීතය",
+            "බටහිර සංගීතය",
+            "කර්ණාටක සංගීතය",
+            "හින්දුස්ථානි සංගීතය"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": null,
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=23197&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 7,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "ආරෝහණ ක්‍රමයට අයත් ස්වර ඛණ්ඩය වනුයේ,",
+        "choices": [
+            "සමගරි",
+            "පමගරි",
+            "සගමප",
+            "මගරිස"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": null,
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=23197&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 8,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "කඳු කඳු නැගෙනා  ................................... යන ගී පාදයේ ලඝු ගුරු මාත්‍රා සංඛ්‍යාවල එකතුව වනුයේ,",
+        "choices": [
+            "මාත්‍රා 08 කි.",
+            "මාත්‍රා 07 කි.",
+            "මාත්‍රා 05 කි.",
+            "මාත්‍රා 06 කි."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": null,
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=23197&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 9,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "නරි බෑණා නාට්‍යය නිෂ්පාදනය කරන ලද්දේ.",
+        "choices": [
+            "ජෝන් ද සිල්වා මහතා ය.",
+            "චාල්ස් ඩයස් මහතා ය.",
+            "දයානන්ද ගුණවර්ධන මහතා ය.",
+            "එදිරිවීර සරච්චන්ද්‍ර මහතා ය."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": null,
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=23197&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 10,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "ළමා ගීතයක් වනුයේ,",
+        "choices": [
+            "අද වෙස්සන්තර රාජ පුතා",
+            "සෙන්පතියන් ගැන",
+            "මෙම ගිම්හාන ග්‍රීෂ්ම වූ",
+            "සුවඳ පද්ම ඕලු ආදී"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": null,
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=23197&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 11,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "සර්පිනාව පිළිබඳ නිවැරදි කියමන \n වනුයේ,",
+        "choices": [
+            "තත් වාද්‍ය භාණ්ඩයකි.",
+            "බෝවෙන් වාදනය කරනු ලබයි .",
+            "සුෂිර වාද්‍ය භාණ්ඩ ගණයට අයත්",
+            "තාල වාද්‍ය භාණ්ඩයකි."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": null,
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=23197&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 12,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": " මුරලි හා බන්සුරි යනුවෙන් වර්ග දෙකකින් යුත් වාද්‍ය භාණ්ඩයකි,",
+        "choices": [
+            "ගිටාරය",
+            "බටනලා",
+            "තබ්ලාව",
+            "වයලීනය"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": null,
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=23197&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 13,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "|ප-ප- |ම - ම |ග - ම |රී---| යන ස්වර පාදය ඇතුළත් ගී පාදය යි,\n\n",
+        "choices": [
+            "සමනල පෙරහැර මුණසිරි පාදේ",
+            "තුටිනා බුදු ගී ගයනා ජනයා",
+            "ගී නාදේ ගැමියා මවනා",
+            "ගංගාවේ හා වෙල් යායේ"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": null,
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=23197&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 14,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "සංගීත විෂයෙහි මාධ්‍යය වනුයේ,",
+        "choices": [
+            "අභිනය",
+            "චලනය",
+            "නාදය",
+            "වර්ණ හා රේඛා"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": null,
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=23197&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 15,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "ස්වර පුවරු භාණ්ඩයක් වනුයේ,",
+        "choices": [
+            "වයලීනය",
+            "එස්රාජය",
+            "සිතාරය",
+            "සර්පිනාව"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": null,
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=23197&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 16,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "සිතාරය වාදනය කිරීම සඳහා ගන්නා උපකරණයකි,",
+        "choices": [
+            "බෝ එක",
+            "පික් එක",
+            "කඩිප්පුව",
+            "මිස්රාබය"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": null,
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=23197&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 17,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "තාල වාද්‍ය භාණ්ඩයක් නොවන්නේ.",
+        "choices": [
+            "තබ්ලාව",
+            "මෙලෝඩිකාව",
+            "ගැටබෙරය",
+            "රබාන"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": null,
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=23197&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 18,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "සරිගස, රිගමරි, ... මෙම ස්වර අභ්‍යාසයෙහි ඊළඟට යෙදෙන ස්වර කණ්ඩය වන්නේ,",
+        "choices": [
+            "ගම පම",
+            "ගමගප",
+            "ගමගරි",
+            "ගමපග"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": null,
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=23197&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 19,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "ස්වර පුවරු වාද්‍ය භාණ්ඩයකි,",
+        "choices": [
+            "ගිටාරය",
+            "වයලීනය",
+            "සර්පිනාව",
+            "සිතාරය"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": null,
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=23192&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 20,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "සුවඳ පද්ම ඕලු ආදී......' ගීතය අයත් වන නුර්ති නාට්‍ය වනුයේ,",
+        "choices": [
+            "විදුර",
+            "වෙස්සන්තර",
+            "රාමායනය",
+            "දුටුගැමුණු"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": null,
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=23192&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 21,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "සරිග, රිගම,.......... යන ස්වර රටාවට ගැලපෙන ඊළඟ ස්වර රටාව \nතෝරන්න,",
+        "choices": [
+            "පධනි",
+            "ගමප",
+            "මපධ",
+            "ධනිස"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": null,
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=23192&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 22,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "ස්වර සප්තකයේ පස්වන ස්වරය,",
+        "choices": [
+            "මධ්‍යමයයි",
+            "රිෂභයයි",
+            "පංචමයයි",
+            "නිෂාද යයි"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": null,
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=23192&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 23,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "සසරිරි / ගම / සරිගම / පධප මින් කියවෙන ස්වර ස්ථාපන ගීතය වන්නේ,",
+        "choices": [
+            "මුණි සිරිපාදේ",
+            "බැතින සිරිපා",
+            "කඳුපෙළ අතරේ",
+            "ඈත ඇදී යලි"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": null,
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=23192&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 24,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "සංගීතයේ මාධ්‍යය ලෙස හඳුන් වන්නේ,",
+        "choices": [
+            "භාෂාව",
+            "අභිනය",
+            "නාදය",
+            "අංගචලනය"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": null,
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=23192&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 25,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "සරිගම, රිගමප, .......... යන ස්වර අභ්‍යාසයේ ඊළඟට යෙදෙන ස්වර ඛණ්ඩය වන්නේ,",
+        "choices": [
+            "ගමගප",
+            "ගම පධ",
+            "ගරිගම",
+            "ගරිගප"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": null,
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=23192&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 26,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "ඔබ වේ අප ශක්තී - අප හද තුළ භක්ති යනුවෙන් සඳහන් වන්නේ,",
+        "choices": [
+            "පාසල් ගීයේ පද කොටසකි.",
+            "ජාතික ගීයේ පද කොටසකි.",
+            "බැති ගීයක පද කොටසකි.",
+            "සරල ගීතයක ඇතුළත් කොටසකි."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": null,
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=23192&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 27,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "අළුවෙන් හෙවත් Bow එකෙන් වාදනය කරන සංගීත භාණ්ඩයක් වන්නේ,",
+        "choices": [
+            "ගිටාරය",
+            "වයලීනය",
+            "සිතාරය",
+            "මැණ්ඩලීනය"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": null,
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=23192&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 28,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "ස  රි  ග,  රි  ග  ම,  .......... යන ස්වර අභ්‍යාසයේ ඊළඟට යෙදිය යුතු ස්වර ඛණ්ඩය වන්නේ,",
+        "choices": [
+            "මීපධ",
+            "ගමප",
+            "ධනිස",
+            "පධති"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": null,
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=23171&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 29,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "ලෝක සංගීතය බෙදෙන ප්‍රධාන කොටස් දෙක වන්නේ,",
+        "choices": [
+            "පෙරදිග සහ කර්ණාටක",
+            "හින්දුස්ථානී සහ කර්ණාටක",
+            "පෙරදිග හා දේශීය",
+            "පෙරදිග සහ අපරදිග"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": null,
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=23171&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 30,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "ස රි ග ම ප  යනුවෙන් හඳුන්වන්නේ,\n",
+        "choices": [
+            "ස්වර අෂ්ඨකයයි",
+            "ස්වර සප්තකයයි",
+            "ආරෝහණ ස්වරයි",
+            "කොමල ස්වරයි"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": null,
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=23171&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 31,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "ස රි ග ම , ........... යන ස්වර අභ්‍යාසයේ රික්තයට යෙදිය යුතු ස්වර ඛණ්ඩය වන්නේ,\n",
+        "choices": [
+            "මධ්‍යම",
+            "ගාන්ධාර",
+            "ධෛවථ",
+            "පංචම"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": null,
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=23171&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 32,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "ආවර්ත නාඩියක් වන්නේ මින් කුමක් ද?\n\n\n",
+        "choices": [
+            "බටනලාව",
+            "නළාව",
+            "මැන්ඩලීනය",
+            "එස්රාජය"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": null,
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=23171&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 33,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "ලෝක සංගීතය බෙදෙන ප්‍රධාන කොටස් දෙක වන්නේ,\n",
+        "choices": [
+            "පෙරදිග සහ කර්ණාටක",
+            "හින්දුස්ථානි සහ කර්ණාටක",
+            "පෙරදිග හා දේශීය",
+            "පෙරදිග සහ අපරදිග"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": null,
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=23171&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 34,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "ශුද්ධ ස්වර ප්‍රස්ථාන ගීතයක් වන්නේ මින් කුමක් ද?\n",
+        "choices": [
+            "සෙත්පතියන් ගැන",
+            "මුණිසිරිපාදේ",
+            "සොම්නස හෝ සන්තෝස නාමයේ",
+            "අහසට පිහිනා එරන් කළේයා"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": null,
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=23171&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 35,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "\"සංගීතය කලාවකි\"  පාඨයේ \"භාෂාව\"  මධ්‍ය වන අතර, සංගීතයේදී  භාෂාව  වශයෙන් පිලිබිඹු වන්නේ.\n",
+        "choices": [
+            "ස්වර සහ හැඩතල වේ.",
+            "නාද සහ ලයනය වේ.",
+            "තාල සහ වචන වේ.",
+            "හඬ සහ වර්ණ වේ."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": null,
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=23164&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 36,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "පෙරදිග සංගීතයේදී භාවිත වන \"ස,රි,ග,ම\" යන ස්වර සඳහා අපරදිග සංගීතයේදී C,E,G,A ලෙස යොදාගනී. එම ස්වර සකයක සඳහා අපරදිග සංගීතයේදී යොදනු ලබන ස්වර නාම වන්නේ,\n",
+        "choices": [
+            "Do, Mi, Fa, La.",
+            "Mi, Do, So, La.",
+            "Do, La, So, Re.",
+            "Do, Mi, So, La."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": null,
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=23164&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 37,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "සුෂිර වාද්‍ය භාණ්ඩ  සමූහයට සහ විද්‍යුත් වාද්‍ය භාණ්ඩ  සමූහයට අයත්වන ස්වර පුරුවක් සහිත සංගීත භාණ්ඩ යුගලකි,\n",
+        "choices": [
+            "ගිටාරය සහ පියානෝව.",
+            "හාර්මෝනියම් සහ වීණාව.",
+            "මෙලෝඩිකාව සහ එකෝඩියනය.",
+            "බටනලාව සහ කීබෝඩ්."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": null,
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=23164&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 38,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "සෑම රටකම අනන්‍යතාවයක් දක්වන ගීතයක් ඇත. එය ජාතික ගීය නමින් හඳුන්වනු ලැබේ. ශ්‍රී ලාංකික ජාතික ගීතයේ නිර්මාතෘවරයා ආනන්ද සමරකෝන් මහතා වන අතර, ඉන්දියානු ජාතික ගීතයේ නිර්මාතෘවරයා වන්නේ,\n",
+        "choices": [
+            "අමීර් කුෂ්රුය පඬිතුමාය",
+            "පණ්ඩිත් අමරදේව ශූරීන්ය.",
+            "රවින්ද්‍රනාත් තාගෝර් තුමාය.",
+            "ලයනල් එදිරිසිංහ ශූරීන්ය."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": null,
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=23164&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 39,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "නළු නිලියන් විසින් ම ගීත ගායනය කරමින් රංගනයේ යෙදෙන නාට්‍ය කලාවක් ලෙස නූර්ති නාට්‍ය හැඳින්විය හැකිය. ඔබ විෂය නිර්දේශයට අයත් නූර්ති නාට්‍ය වල එන ගීත දෙකක් වන්නේ,\n ",
+        "choices": [
+            "මෙම ගිම්හානසහ සුවඳ පද්ම ඕලු ආදී",
+            "අද වෙස්සන්තර රාජ පුතා සහ සෙත්පතියන් ගැන.",
+            "සුවඳ පද්ම ඕලු ආදී සහ ඉරෙන් හඳෙන්",
+            "තෝව දෙන්නෙත් නරියටයි සහ අද වෙස්සන්තර රාජ පුතා"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": null,
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=23164&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 40,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "සංගීතයේ මාධ්‍යය වන්නේ,\n",
+        "choices": [
+            "අංගවලනයයි.",
+            "නාද හා ස්වරයි.",
+            "අභිනයයි.",
+            "රේඛා හා වර්ණයි."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": null,
+            "year": 2023,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=75723&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 41,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "පෙරදිග සංගීතයේ භාවිතා වන ශුද්ධ ස්වර ගණන,\n",
+        "choices": [
+            "5කි.",
+            ")6කි.",
+            ")7කි.",
+            ")8කි."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": null,
+            "year": 2023,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=75723&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 42,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "ස රි ග ,  රි ග ම ,  ...... යන ස්වර අභ්‍යාසයේ ඊළඟට යෙදෙන ස්වර ඛණ්ඩය වන්නේ,\n",
+        "choices": [
+            "රි ග ප",
+            "ග ම ප",
+            "ග ප ධ",
+            "ම ප ධ"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": null,
+            "year": 2023,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=75723&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 43,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "සඩ්ජය සහ පංචමය ලෙස හඳුන්වන්නේ,\n",
+        "choices": [
+            "ස සහ ප ස්වරයි.",
+            "ස සහ ග ස්වරයි.",
+            "ප සහ ස ස්වරයි.",
+            "ස සහ ම ස්වරයි."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": null,
+            "year": 2023,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=75723&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 44,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "Re (රේ) ලෙස නම් කරන අපරදිග ස්වර නාමයට අදාල පෙරදිග ස්වර සංකේතය වන්නේ,\n",
+        "choices": [
+            "ස",
+            "රි",
+            "ග",
+            "ම"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": null,
+            "year": 2023,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=75723&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 45,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "තත් වාදන භාණ්ඩයක් නොවන්නේ,\n",
+        "choices": [
+            "වයලීනය",
+            "මැන්ඩලීනය",
+            "බටනලාව",
+            "එස්රාජය"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": null,
+            "year": 2023,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=75723&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 46,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "ශ්‍රී ලංකා ජාතික ගීයේ නිර්මාතෘවරයා වන්නේ,\n",
+        "choices": [
+            "ඩබ්.ඩී අමරදේව මහතා",
+            "ආනන්ද සමරකෝන් මහතා",
+            "සුනිල් ශාන්ත මහතා",
+            "වික්ටර් රත්නායක මහතා"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": null,
+            "year": 2023,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=75723&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 47,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "සුවඳ පද්ම ඕලු ආදී යනු,\n",
+        "choices": [
+            "ශුද්ධ ස්වර ස්ථාපන ගීතයකි.",
+            "දේශාභිමානී ගීතයකි.",
+            "කෙළි ගීතයකි.",
+            "නූර්ති ගීතයකි."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 6,
+            "type": null,
+            "year": 2023,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7811&wpfd_file_id=75723&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 48,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "සංගීතයේ දී තාලයට හිමි වන්නේ වැදගත් ස්ථානයකි, තාලයට හිමි වේගය හෙවත් තාලයේ වේගය හඳුන්වනු ලබන්නේ,",
+        "choices": [
+            "මාත්‍රා නමිනි.",
+            "ආවර්ථයක් නමිනි.",
+            "ලය නමිනි.",
+            "තනි තිතේ තාල පද නමිනි."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": null,
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26750&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 49,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "පහත පිළිතුරු අතරින් දේශාභිමාන ගීත පමණක් ඇතුළත් පිළිතුර වන්නේ,",
+        "choices": [
+            "අඹ දඹ නාරං, රත්න දීප ජන්ම භූමි, මේ උදාර ලංකා භූමියයි.",
+            "ලෝකෙන් උතුම් රට, දන්න වංහුං අප, ඉඳුනිල් ගගුලැල්",
+            "කටු අකුලේ මල් ඇහැරේ, හෙළ ජාතික අභිමානේ, රත්න දීප ඡන්ම භූමි",
+            "මේ උදාර ලංකා භූමිය යි, දකුණ නැගෙනහිර, ලෝකෙන් උතුම් රට"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": null,
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26750&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 50,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "සමග්‍රහයෙන් ආරම්භ වන ගීත ඇතුළත් පිළිතුර වනුයේ,",
+        "choices": [
+            "ලංකා ලංකා පෙම්බර ලංකා, පෙරදිග මුතු ඇටයයි මේ",
+            "හෙළ ජාතික අභිමානේ, ගලන ගඟකි ජීවිතේ",
+            "ලංකා ලංකා පෙම්බර ලංකා, සසර වසන තුරු",
+            "පෙරදිග මුතු ඇටයයි මේ, හෙළ ජාතික අභිමානේ"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": null,
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26750&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 51,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "කෝමළ ගාන්ධාරය සහ කෝමළ නිශාදය ඇතුළත් ආරෝහණ ක්‍රමයට ගොඩනැගී ඇති ස්වර අභ්‍යාසය තෝරන්න.",
+        "choices": [
+            "සරිගම, සරිගස, රිගමප, ගමපධ",
+            "සරිගස, රිගමරි, ගමපග, පධනිප",
+            "සරිග, රිගම, ගමප, මපධ, පධනි",
+            "සනිධ, නිධප, ධපම, පමග"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": null,
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26750&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 52,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "අපරදිග සංගීතයේ ස්වර නාම පහත අයුරින් ලියූ විට ඒ සඳහා පිළිවෙලින් පෙරදිග සංගීතයේ යෙදිය හැකි ස්වර සංකේත තෝරන්න.\nDo, So, Mi, Re",
+        "choices": [
+            "රි, ග, ම, ස",
+            "ස, ප, ග, රි",
+            "ස, රි, ග, ප",
+            "ස, ග, ප, රි"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": null,
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26750&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 53,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "ගීතය මඟින් යම් පිණිවිඩයක් උපදේශයක් ලබා දෙන ගී උපදේශාත්මක ගී යනුවෙන් හැඳින්විය හැකිය. පහත ගී වලින් උපදේශාත්මක ගීතයක් ඇතුළත් නොවන පිළිතුර තෝරන්න.",
+        "choices": [
+            "කරුණාව සමඟ හොඳ හිත, දැඩි කළ මාතා, නොමඟ නොයන් පුතේ",
+            "අහන්න මගෙ හොඳ පුංචි පුතේ, අඹ දඹ නාරං කෙසෙල් දෙල්",
+            "සමන් වැලේ මල් ජයට පිපීලා, පාන් කිරිත්තා තක්කිට තරිකිට",
+            "දැඩි කළ මාතා, පාන් කිරිත්තා තක්කිට තරිකිට, දූ පුතුනේ රට අපේය"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": null,
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26750&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 54,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "ස්වර ස්ථාපන ගීත මඟින් ස්වර ගායනය පිළිබඳ දක්ෂතා වර්ධනය කරගත හැකිය. පහත සඳහන් පිළිතුරු අතුරින්\nකෝමළ ග, නි ඇතුළත් ස්වර ස්ථාපන ගීත ඇතුළත් පිළිතුර තෝරන්න.",
+        "choices": [
+            "පොත පත කියවා නුවණ ලබා, සඳ පහනේ කිරි බැබලී",
+            "පුංචි තාරකා, එකට සතුටු සාගරේ",
+            "කඳු පෙළ අතරේ, හෝ හෝ ගා",
+            "බතිනා සිරිපා, ඈත ඇදී යළි"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": null,
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26750&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 55,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "ශ්‍රී වික්‍රම රාජසිංහ, රාමායනය, දුටුගැමුණු වැනි පැරණි නාට්‍ය වල ගැයූ ගී නුර්ති ගීත වේ. පහත දැක්වෙන ගී පද\nඅතරින් නුර්ති ගීත පමණක් දැක්වෙන පිළිතුර වන්නේ,",
+        "choices": [
+            "අඹ දඹ නාරං කෙසෙල් දෙල්, කටු අකුලේ මල් ඇහැරේ",
+            "දම් වැසි වස්සන ලෝකේ, දන්න වංහුං අප කන්න සාමි",
+            "සවන පිනන ගීත මිහිර, දම් වැසි වස්සන ලෝකේ",
+            "දන්න වංහුං අප කන්න සාමි, කඳු කඳු නැගෙනා"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": null,
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26750&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 56,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "ගායනයත් සමඟ නර්තනයේ යෙදෙන ගීත විශේෂයක් ලෙස රබන් ගී දැක්විය හැකිය. රබන් ගී ගායනයේදී වාදනය කරනු ලබන්නේ,",
+        "choices": [
+            "බංකු රබාන යි.",
+            "බටනලාව යි.",
+            "අත් රබාන යි.",
+            "බැන්ජො ගිටාරය යි."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": null,
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26750&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 57,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "\"ගම්බිර කාලිංග නුවර නිරිඳුගේ වාසල පුරයට\" යන කෝළම් ගීත ගයනු ලබන්නේ,",
+        "choices": [
+            "ලෙන්චිනා චරිතය විසිනි.",
+            "පොතේ ගුරු විසිනි.",
+            "ජසයා චරිතය විසිනි.",
+            "සබේ විදානේ විසිනි."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": null,
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26750&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 58,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "මන්ද්‍ර මධ්‍ය උච්ච වන සප්තක තුනටම අයත් ස්වර පිළිවෙළින් සඳහන් වන පිළිතුර කුමක්ද?",
+        "choices": [
+            "තිරිස",
+            "ගපස",
+            "පමරි",
+            "සපධ"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": null,
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26744&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 59,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "ස්වර සප්තකයට අයත් ප්‍රකෘති හා විකෘති ස්වර සංඛ්‍යාව කොපමණ ද?",
+        "choices": [
+            "ප්‍රකෘති ස්වර 8 යි විකෘති ස්වර 4",
+            "ප්‍රකෘති ස්වර 7 යි විකෘති ස්වර 5 යි",
+            "ප්‍රකෘති ස්වර 6 යි විකෘති ස්වර 6 යි",
+            "ප්‍රකෘති ස්වර 5 යි විකෘති ස්වර 7 යි"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": null,
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26744&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 60,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "සරිගම, රිගම, ගමපධ ආදී වශයෙන් යෙදෙන ස්වර අභ්‍යාස ඇතුළත් ස්වර ස්ථාපන ගීතය වන්නේ,",
+        "choices": [
+            "බැතිනා සිරිපා කරුණා කරනා",
+            "ඈත ඇදී යළි මෑතට පාවේ.",
+            "කඳු කඳු නැගෙනා වෙරළෙහි හැපෙනා",
+            "මුණි සිරිපා පාදේ සමනල මුදුනේ"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": null,
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26744&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 61,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "විදුලි ඕගනයක ගීතයක් වාදනයේ දී තාලයේ ලය නැතහොත් වේගය ක්‍රියාත්මක කිරීම සඳහා භාවිතා කරනු ලබන\nස්වීචය නම් කරනු ලබන්නේ.\n\n                ",
+        "choices": [
+            "Tempo",
+            "Style",
+            "Voice",
+            "Tone"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": null,
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26744&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 62,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "තාලම්පටින් නිකුත් වන තෙයි යන ධ්වනිය හඳුන්වන සංකේතය වන්නේ,",
+        "choices": [
+            "^",
+            "/",
+            "0",
+            "x"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": null,
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26744&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 63,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "තාලයේ කුඩාම ඒකකය වන්නේ,",
+        "choices": [
+            "ආවර්ථය යි",
+            "විභාගය යි",
+            "මාත්‍රාව යි",
+            "ඨෙකාව යි"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": null,
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26744&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 64,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "තීව්‍ර මධ්‍යමය (ම ) හැඳින්වීම සඳහා බටහිර සංගීතයේ දී භාවිතා කරනු ලබන සංකේතය වන්නේ,\n",
+        "choices": [
+            "F",
+            "F",
+            "F",
+            "G"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": null,
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26744&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 65,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "දකුණ නැගෙනහිර බටහිර උතුරද යන දේශාභිමානී ගීතය ගයන ගායකයා වන්නේ,",
+        "choices": [
+            "ආනන්ද සමරකෝන් මහතා",
+            "W.D.අමරදේව මහතා",
+            "සුනිල් එදිරිසිංහ මහතා",
+            "සුනිල් ශාන්ත මහතා"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": null,
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26744&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 66,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "නුර්ති නිෂ්පාදකවරයෙකු නොවන්නේ,",
+        "choices": [
+            "සී දොන් බස්තියන් මහතා",
+            "නීතිඥ ජෝන් ද සිල්වා මහතා",
+            "නීතිඥ චාල්ස් ඩයස් මහතා",
+            "දයානන්ද ගුණවර්ධන මහතා"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": null,
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26744&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 67,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "\"සසරිරි ගරිස - | රිරිමම | ප---\" මෙම ස්වර පාදයට අයත් ගීත පාදය තෝරන්න.",
+        "choices": [
+            "පොත පත කියවා නුවණ ලබා",
+            "සිරි සාර අති ශාන්ත",
+            "පුංචි තාරකා",
+            "හෝ හෝ ගා රැල්ල බිදෙනවා"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": null,
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26744&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 68,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "සප්තකයේ වෙනස්වන ස්වර හඳුන්වන්නේ,",
+        "choices": [
+            "ප්‍රකෘති ස්වර.",
+            "විකෘති ස්වර.",
+            "අචල ස්වර.",
+            "ශුද්ධ ස්වර."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": null,
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-07-music-3rd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 69,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "කෝමල ස්වරයක් හඳුනා ගනු ලබන්නේ,",
+        "choices": [
+            "ස්වරයට උඩින් තිතක් තැබීමෙනි.",
+            "ස්වරයට යටින් තිතක් තැබීමෙනි.",
+            "ස්වරයට ඉහළින් ඉරක් ඇඳීමෙනි.",
+            "ස්වරයට පහළින් ඉරක් ඇඳීමෙනි."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": null,
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-07-music-3rd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 70,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "සප්තකයෙහි ඇති අචල ස්වර වන්නේ,\n",
+        "choices": [
+            "සජය හා මධ්‍යමයයි.",
+            "සජය හා පංචමයයි.",
+            "සජය හා ධෛවතයයි.",
+            "සංජය හා නිශාදයයි."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": null,
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-07-music-3rd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 71,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "ලයෙහි ප්‍රභේද ගණන කීයද?",
+        "choices": [
+            "2 කි.",
+            "3 කි.",
+            "4 කි.",
+            "5 කි."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": null,
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-07-music-3rd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 72,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "මාත්‍රා 06 කින් යුත් හින්දුස්ථානී තාලය වන්නේ, ",
+        "choices": [
+            "දාදරා.",
+            "ලාවණී.",
+            "ඛෙටො.",
+            "කෙහෙවා."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": null,
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-07-music-3rd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 73,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "සමග්‍රහයෙන් ගැයෙන ගී පාදය තෝරන්න,",
+        "choices": [
+            "සුවඳ පද්ම ඕලු ආදී.",
+            "හෙළ ජාතික අභිමානේ.",
+            "+ සසර වසන තුරු.",
+            "දුර පෙනෙන තැනිතලා."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": null,
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-07-music-3rd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 74,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": " සුළගේ ආධාරයෙන් හඬ නිපදවිය හැකි භාණ්ඩ යුගලයකි.",
+        "choices": [
+            "මෙලෝඩිකාව, වයලීනය",
+            "මෙලෝඩිකාව, තබ්ලාව",
+            "මෙලෝඩිකාව, බටනලාව",
+            "මෙලෝඩිකාව, ගිටාරය"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": null,
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-07-music-3rd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 75,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "^හා / යන සංකේත පිළිවෙලින් දැක්වෙන්නේ,",
+        "choices": [
+            "තිත්, තෙයි යන්නයි.",
+            "තෙයි, තිත් යන්නයි.",
+            "තිත්, තිත් යන්නයි.",
+            "තෙයි, තෙයි යන්නයි."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": null,
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-07-music-3rd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 76,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "වෙස් මුහුණු පලඳා රඟ දක්වන රංග සම්ප්‍රදායකි,",
+        "choices": [
+            "කෝලම්",
+            "නාඩගම්",
+            "නුර්ති",
+            "නව නාට්‍ය"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": null,
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-07-music-3rd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 77,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "නුර්ති රංග සම්ප්‍රදාය සඳහා යොදා ගනු ලබන සංගීත භාණ්ඩ යුගලය වන්නේ.\n",
+        "choices": [
+            ")සර්පිනාව හා මද්දලය",
+            "සර්පිනාව හා ගැට බෙරය",
+            "සර්පිනාව හා තබ්ලාව",
+            "සර්පිනාව හා යක් බෙරය"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": null,
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-07-music-3rd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 78,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "සප්තකයට අයත් විකෘති ස්වර සංඛ්‍යාව කීයද?\n",
+        "choices": [
+            "2 කි.",
+            "5 කි.",
+            "7 කි.",
+            "12 කි."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": null,
+            "year": 2022,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26756&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 79,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "සප්තකයක ඇති අචල ස්වර පිළිවෙලින් වන්නේ,\n\n                                           ",
+        "choices": [
+            "සජය හා මධ්‍යමය",
+            "මධ්‍යමය හා පංචමය",
+            "සජය හා පංචමය",
+            "රිෂභය හා ධෛවතය"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": null,
+            "year": 2022,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26756&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 80,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "කෝමළ ස්වර හැඳින්වීම සඳහා භාවිතා වන සංකේතය වන්නේ,",
+        "choices": [
+            "ස්වරයට උඩින් තිතක් තැබීම.",
+            "ස්වරයට උඩින් දකුණට ඇලව ඇල ඉරක් තැබීම.",
+            "ස්වරයට යටින් තිතක් තැබීම.",
+            "ස්වරයට යටින් ඉරක් ඇඳීම."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": null,
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-07-music-3rd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 81,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": " \"A \" \" / \" යන ආඝාත නිපදවිය හැකි භාණ්ඩය වන්නේ,",
+        "choices": [
+            "යක් බෙරය",
+            "රබාන",
+            "තාලම්පට",
+            "තබ්ලාව"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": null,
+            "year": 2022,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26756&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 82,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "සුෂිර වාද්‍ය භාණ්ඩයක් නොවන්නේ මින් කුමක්ද?",
+        "choices": [
+            "මෙලෝඩිකාව",
+            "මවුත් ඕගනය",
+            "රෙකෝඩර් ෆ්ලුට්",
+            "ග්ලොකන් ස්පීල්"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": null,
+            "year": 2022,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26756&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 83,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "උපදේශාත්මක ගීතයක් වන්නේ මින් කුමන ගීතයද?",
+        "choices": [
+            "නොමග නොයන් පුතේ",
+            "රත්නදීප ජන්ම භූමි",
+            "ලෝකෙන් උතුම් රට",
+            "අඹ දඹ නාරං කෙසෙල් දෙල්"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": null,
+            "year": 2022,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26756&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 84,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "\"ගැමි ගී \" වර්ගයට අයත් ගී විශේෂයකි,\n",
+        "choices": [
+            "දේශාභිමානී ගී",
+            "දරු නැළවිලි ගී",
+            "සරල ගී",
+            "ළමා ගී"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": null,
+            "year": 2022,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26756&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 85,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "පහතරට නර්තන සම්ප්‍රදාය ආභාෂයෙන් පෝෂණය වී ඇති රංග ශෛලියකි,\n",
+        "choices": [
+            "නුර්ති",
+            "නාඩගම්",
+            "කෝළම්",
+            "සොකරි"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": null,
+            "year": 2022,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26756&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 86,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "පෙර අපර දෙදිගම භාවිතා වන සංගීත භාණ්ඩය වන්නේ,",
+        "choices": [
+            "එස්රාජය",
+            "වීණාව",
+            "සිතාරය",
+            "වයලීනය"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": null,
+            "year": 2022,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26756&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 87,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "\"තෙලෙන් බැද්දත් කොබෙයියා කිරෙන් බැද්දත් කොබෙයියා\" යන පද්‍ය වාදනය කිරීමට උචිත භාණ්ඩයකි,\n",
+        "choices": [
+            "රබාන",
+            "තාලම්පට",
+            "හොරණෑව",
+            "සර්පිනාව"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": null,
+            "year": 2022,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26756&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 88,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "ස  රි  ග  ම  රි,  .......... රටාවේ හිස්තැනට සුදුසු ස්වර පාදය වන්නේ,\n",
+        "choices": [
+            "ග ම ප",
+            "ග ම ග",
+            "ග ග ම",
+            "ග ම ප"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": null,
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26768&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 89,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "රි, ගු, ම, ධු, නි' ස්වර හඳුන්වනු ලබන්නේ,",
+        "choices": [
+            "ප්‍රකෘති ස්වර වශයෙන්",
+            "විකෘති ස්වර වශයෙන්",
+            "කෝමල ස්වර වශයෙන්",
+            "ශුද්ධ ස්වර වශයෙන්"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": null,
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26768&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 90,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "මාත්‍රා හතර බැගින් බෙදෙන ගී පාදය තෝරන්න.",
+        "choices": [
+            "සුවඳ පද්ම ඔලු ආදි......",
+            "සසර වසන තුරු.......",
+            "මොනවද මුත්තේ මොකද කරන්නේ...",
+            "නිල් අහස් තලේ........"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": null,
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26768&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 91,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "ලයෙහි ප්‍රභේද,",
+        "choices": [
+            "දෙකකි",
+            "තුනකි.",
+            "හතරකි.",
+            "පහකි."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": null,
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26768&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 92,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "අවග්‍රහයෙන් ගැයෙන ගී පාදයකි,",
+        "choices": [
+            "හෙළ / ජාතික / අභිමාs /නේsss /ss වැඩු",
+            "ගලන / ගඟකි / ජීsවී / තේss",
+            "+ සස රි / වසන / තුරුs / sss",
+            "පෙරදිග / මුතු ඇට/ යයිමේs / ssss"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": null,
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26768&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 93,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "\"මං වගේ පේඞ් කතක් මනා.....'' යන ගීතය,\n",
+        "choices": [
+            "රබන් ගීයකි.",
+            "කෝලම් ගීයකි.",
+            "නුර්ති ගීයකි.",
+            "උපදේශාත්මක ගීයකි."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": null,
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26768&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 94,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "සරල ස්වර පුවරු වාදනයේදී 'ස,රි,ග,ම' යන ස්වර සඳහා පිළිවෙලින් 1, 2, 3, 4 යන ඇඟිලි භාවිත කළේ නම් 4, 3, 4, 2, 1, 2, 1 වශයෙන් ඇඟිලි භාවිත කරමින් වාදනය කළ විට වාදනය වන ස්වර වන්නේ,\n",
+        "choices": [
+            "ම,ග,ම,රි,ස,රි,ස",
+            "ම,ග,ම,රි,ස,රි,ස",
+            "ස,රි,ම,ග,රි,ස,රි",
+            "ග,ම,ග,රි,ස,රි,ස"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": null,
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26768&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 95,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "\"දන්න වංහුං අප කන්නසාමි \" හා \"අඹ දඹ නාරං කෙසෙල් දෙල්\" යන ගීත අයත් ගී වර්ගය වනුයේ,",
+        "choices": [
+            "සරල ගීත",
+            "ස්වර ස්ථාපන ගීත",
+            "උපදේශාත්මක ගීත",
+            "නුර්ති ගීත"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": null,
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26768&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 96,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "ස ස ග | රි රි ම | ග ග ප ම ධ ප යන ස්වර පාදය හා ගැළපෙන ස්වර ස්ථාපන ගී පාදය තෝරන්න.\n",
+        "choices": [
+            "ඈත ඇදී යළි මෑතට පාවේ.",
+            "පුංචි තාරකා පුංචි තාරකා",
+            "බතිනා සිරිපා කරුණා කරනා",
+            "ඈත හිමේ ගිරි මුදුණේ සිසිල මැවෙනවා"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": null,
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=26768&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 97,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "සප්තකයේ ඇති ප්‍රකෘති විකෘති ස්වර ගණන,",
+        "choices": [
+            "6 කි.",
+            "5 කි.",
+            "7 කි.",
+            "12 කි."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": null,
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=43378&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 98,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "සප්තක ප්‍රධාන වශයෙන් කොටස්,",
+        "choices": [
+            "2 කි.",
+            "3 කි.",
+            "4 කි.",
+            "5 කි."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": null,
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=43378&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 99,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "සප්තකයේ අචල ස්වර වන්නේ,",
+        "choices": [
+            "ග, ධ.",
+            "ස, ප",
+            "රි, ග",
+            "ම, ධ"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": null,
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=43378&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 100,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "සරිගම, රිගමප, ........., ස්වර ඛණ්ඩයේ ඊළගට යෙදෙන ස්වර ඛණ්ඩය වනුයේ,",
+        "choices": [
+            "ගමපධ",
+            "මපධනි",
+            "පධනිස",
+            "ගපධනි"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": null,
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=43378&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 101,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "පෙරදිග සංගීතයේ යෙදෙන '\" ස \" ස්වරය බටහිර සංගීතයේ දැක්වෙන්නේ,",
+        "choices": [
+            "C",
+            "D",
+            "E",
+            "F"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": null,
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=43378&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 102,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "දේශීය තාල පද්ධතියට අයත් තිත් රූප වල තනි තිතෙහි ප්‍රභේද ගණන,\n",
+        "choices": [
+            "2 කි.",
+            "3 කි.",
+            "4 කි.",
+            "5 කි."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": null,
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=43378&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 103,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "මොනවද මුත්තේ මොකද කරන්නේ යන ගීතය,",
+        "choices": [
+            "ස්වර ස්ථාපන ගීතයකි.",
+            "ළමා ගීයකි",
+            "නාට්‍ය ගීයකි.",
+            "ජන ගීයකි."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": null,
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7812&wpfd_file_id=43378&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 104,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "ස්වරයට ඉහළින් තිතක් සලකුණු කරනුයේ,\n",
+        "choices": [
+            "මන්ද්‍ර ස්වර වලය",
+            "උච්ච ස්වර වලය",
+            "මධ්‍ය ස්වර වලය",
+            "ශුද්ධ ස්වර වලය"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": null,
+            "year": 2018,
+            "source": "https://pastpapers.wiki/grade-07-music-1st-term-test-paper-2018-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 105,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "සප්තකයේ ඇති අචල ස්වර සංඛ්‍යාව,\n",
+        "choices": [
+            "05 කි.",
+            "03 කි.",
+            "02 කි.",
+            "06 කි."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": null,
+            "year": 2018,
+            "source": "https://pastpapers.wiki/grade-07-music-1st-term-test-paper-2018-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 106,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "ලඝු අකුරු යනු,\n",
+        "choices": [
+            "දිගු අකුරුය.",
+            "නොඇඳෙන කෙටි අකුරුය.",
+            "හල් අකුරුය.",
+            "බැඳී අකුරුය."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": null,
+            "year": 2018,
+            "source": "https://pastpapers.wiki/grade-07-music-1st-term-test-paper-2018-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 107,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "චල ස්වර ප්‍රභේද වන්නේ,\n",
+        "choices": [
+            "කෝමල හා තීව්‍ර ලෙසය.",
+            "වාදී හා සංවාදී ලෙසය.",
+            "කෝමල හා ශුද්ධ ලෙසය.",
+            "තීව්‍ර හා උච්ච ලෙසය."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": null,
+            "year": 2018,
+            "source": "https://pastpapers.wiki/grade-07-music-1st-term-test-paper-2018-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 108,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "ස, සරිස, සරිගරිස, ........... මෙම ස්වර රටාවේ මීළඟට යෙදෙන ස්වර පියවර වන්නේ,\n\n\n",
+        "choices": [
+            "සරිසරිගරිගරිස",
+            "සරිගමගරිස",
+            "සරිසාගරිස",
+            "සරිගමපමගරිස"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": null,
+            "year": 2018,
+            "source": "https://pastpapers.wiki/grade-07-music-1st-term-test-paper-2018-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 109,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "ස්වර ස්ථාපන ගී ගැයීම තුළින්,\n",
+        "choices": [
+            "ස්වර ඥාණය වැඩිවේ.",
+            "තාල ඥාණය වැඩිවේ",
+            "රාග ඥාණය වැඩිවේ",
+            "සංගීත ඥාණය වැඩිවේ වැඩේ."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": null,
+            "year": 2018,
+            "source": "https://pastpapers.wiki/grade-07-music-1st-term-test-paper-2018-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 110,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "\"සවන පිනන ගීත මිහිර....\"මෙම ගීත ගැයෙන රිද්මය,\n",
+        "choices": [
+            "මාත්‍රා 2 න් 2 ය.",
+            "මාත්‍රා 3 න් 3 ය.",
+            "මාත්‍රා 4 න් 4 ය.",
+            "මාත්‍රා 2 න් 4 ය."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": null,
+            "year": 2018,
+            "source": "https://pastpapers.wiki/grade-07-music-1st-term-test-paper-2018-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 111,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "තාල තැබීම සඳහා යොදා ගන්නා සංගීත භාණ්ඩ සහිත පිළිතුර තෝරන්න.\n",
+        "choices": [
+            "තබ්ලාව, වයලීනය, ගිටාරය",
+            "බෙරය, බටනලාව, සිතාරය",
+            "තබ්ලාව, බෙරය, තාලම්පොට",
+            "සර්පිනාව, තබ්ලාව, බෙරය"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": null,
+            "year": 2018,
+            "source": "https://pastpapers.wiki/grade-07-music-1st-term-test-paper-2018-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 112,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "1 `2 / 1` 2 / 1` 2 / 1` 2  මෙම ගීත රූපයට අදාල තිත නම් කරනු ලබන්නේ,\n",
+        "choices": [
+            "මැදුම් තනි තිත ලෙස ය.",
+            "මහ තනි තිත ලෙස ය.",
+            "සුළු තනි තිත ලෙස ය.",
+            "සුළු මහ දෙතිත ලෙස ය."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": null,
+            "year": 2018,
+            "source": "https://pastpapers.wiki/grade-07-music-1st-term-test-paper-2018-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 113,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "කෙළි ගීතයක් වන්නේ,\n",
+        "choices": [
+            "දකුණ නැගෙනහිර",
+            "නිල් අහස් තලේ",
+            "අහසට පිබිනා",
+            "බැනිනා සිරිපා කරුණා කරනා"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 7,
+            "type": null,
+            "year": 2018,
+            "source": "https://pastpapers.wiki/grade-07-music-1st-term-test-paper-2018-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 114,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "පද මාලාව ගායනය කළ යුතු ආකාරය දැක්වෙනුයේ,",
+        "choices": [
+            "පෙරවාදනය",
+            "කවුන්ටර්",
+            "තනුව",
+            "ස්ථායි"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": null,
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29818&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 115,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "ජබ් තාලයේ ඛලියට අයත් විභාගයේ යේකා අක්ෂර වනුයේ,",
+        "choices": [
+            "ති නා",
+            "ත තිත්",
+            "ධා තිත්",
+            "ධි නා"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": null,
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29818&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 116,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "බෙංගාල ප්‍රදේශයේ ප්‍රචලිත ප්‍රධාන ගායන ශෛලියකි.",
+        "choices": [
+            "භජන් ගී",
+            "කිතු බැති ගී",
+            "රවින්ද්‍ර ගී",
+            "ගසල් ගී"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": null,
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29818&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 117,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "සිනහවෙන් හෝ කතාවෙන් බෑ මනින්නට මිනිසා යන ගීතයේ තාල ගති ලක්ෂණ අනුව වඩාත් සුදුසු තිත වනුයේ,",
+        "choices": [
+            "සුළු මැදුම් දෙතිත",
+            "මැදුම් මහා දෙතිත",
+            "මහා තනි තිත",
+            "මහා මැදුම් දෙතිත"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": null,
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29818&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 118,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "සත් සියක් කපු මල් යන ගීතය,",
+        "choices": [
+            "නුර්ති ගීතයකි",
+            "බැති ගීතයකි",
+            "නව නාට්‍ය ගීතයකි",
+            "නාඩගම් ගීයකි"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": null,
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29818&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 119,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "නාඩගම් සම්ප්‍රදායේ ප්‍රධාන තාල වාද්‍ය භාණ්ඩය වනුයේ,",
+        "choices": [
+            "මෘදංගය යි",
+            "මද්දලය යි",
+            "ඩොල්කිය යි",
+            "මුම්මැඩිය යි"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": null,
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29818&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 120,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "quaver (වෙවර්) ස්වර සංකේතයේ මාත්‍රාවක වටිනාකම වනුයේ,",
+        "choices": [
+            "හතරකි",
+            "දෙකකි",
+            "එකකි",
+            "භාගයකි"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": null,
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29818&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 121,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "ස - රි/ ග - ම / ග ම ප - යනුවෙන් ඇරඹෙන ස්වර පාදය කිනම් රාගයකට අයත් ද?",
+        "choices": [
+            "කාෆි රාගය",
+            "බිලාවල් රාගය",
+            "භූපාලි රාගය",
+            "යමන් රාගය"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": null,
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29818&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 122,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "අමීර් ඛුරු සංගීතවේදියා විසින් නිර්මාණය කල තත් සංගීත වාද්‍ය භාණ්ඩය වනුයේ,",
+        "choices": [
+            "ගිටාරය",
+            "සිතාරය",
+            "බටනලාව",
+            "තබ්ලාව"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": null,
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29818&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 123,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "කෙහෙර්වා තාලයේ ආවර්ථ දෙකකදී ලැබෙන මාත්‍රා සංඛ්‍යාව තවත් තාලයක දෝංකාවේ මාත්‍රා ගණනට සමානය.\nඑම තාලය කුමක්ද?",
+        "choices": [
+            "ජබ් තාලය",
+            "දාදරා තාලය",
+            "දීප්වන්දි තාලය",
+            "ත්‍රිතාලය"
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": null,
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7813&wpfd_file_id=29818&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 124,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "කිසියම් රාගයකට අදාළව ගොඩනගා ඇති ස්වර අභ්‍යාස හඳුන්වන්නේ,",
+        "choices": [
+            "පල්ටා නමිනි.",
+            "ස්වර මාලිකා නමිනි.",
+            "සර්ගම් නමිනි.",
+            "තානාලංකාර නමිනි."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": null,
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7814&wpfd_file_id=27912&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 125,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": " භූපාලි රාගයේ අනුවාදි ස්වර වන්නේ,",
+        "choices": [
+            "ග ර ප ස්වරයන් ය.",
+            "ස රි ධ ස්වරයන් ය.",
+            "ස රි ප ස්වරයන් ය.",
+            "රි ප ධ ස්වරයන් ය."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": null,
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7814&wpfd_file_id=27912&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 126,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "නිර්දේශිත රාග අතරින් ස්වර 2 ක් කෝමල වන රාගය,",
+        "choices": [
+            "භූපාලි රාගයයි.",
+            "බිලාවල් රාගයයි.",
+            "යමන් රාගයයි.",
+            "කාෆි රාගයයි."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": null,
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7814&wpfd_file_id=27912&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 127,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": " \"සියක් ආයු ලැබ\" ගීතය,",
+        "choices": [
+            "උපදේශාත්මක ගීතයකි.",
+            "ළමා ගීතයකි.",
+            "මව්ගුණ ගීතයකි.",
+            "පියගුණ ගීතයකි."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": null,
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7814&wpfd_file_id=27912&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 128,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "\"දොහොරාව\" යන කොටස ඇතුළත් වන්නේ,",
+        "choices": [
+            "ප්‍රශස්ති ගීතවලය.",
+            "නූර්ති ගීත වලය.",
+            "නාඩගම් ගීත වලය.",
+            "වන්නම් වලය."
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": null,
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7814&wpfd_file_id=27912&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 129,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "රිගමප, මගරිස' යන කෙටි ස්වර ඛණ්ඩය අයත් වන්නේ,",
+        "choices": [
+            "බිලාවල් රාගයටයි.",
+            "භූපාලි රාගයටයි.",
+            "කාෆි රාගයටයි.",
+            "මෙම රාග කිසිවකටත් නොවේ."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": null,
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7814&wpfd_file_id=27912&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 130,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "හින්දුස්ථානි සංගීතයට මේල හෙවත් ථාට 10 හඳුන්වා දුන් සංගීතඥයා වන්නේ,",
+        "choices": [
+            "ජන්ජිත් සිං ය.",
+            "අල්ලා රක්ඛා ඛාන් ය.",
+            "හරිප්‍රසාද් චෞරසියා ය.",
+            "විෂ්ණු නාරායන භාණ්ඩණ්ඩේ ය."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": null,
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7814&wpfd_file_id=27912&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 131,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "ශ්‍රී ලංකාවේ මුල්ම \"ගායක කණ්ඩායම්\" දෙක වන්නේ,",
+        "choices": [
+            "සමනළයෝ සහ මුන්ස්ටෝන් ය.",
+            "ත්‍රී සිස්ටර්ස් සහ ලා සිලනියන්ස් ය.",
+            "ලොස් කැබලෙරොස් සහ ලා සිලනියන්ස් ය.",
+            "ලා බම්බාස් සහ සුපර් ගෝල්ඩන් චයිම්ස් ය."
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": null,
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7814&wpfd_file_id=27912&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 132,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "සංගීත ප්‍රසංගයක දී භාවිතා කරගනු ලබන තාක්ෂණික මෙවලමක් නොවන්නේ,",
+        "choices": [
+            "බෆල්ය.",
+            "මික්සර්ය.",
+            "මයික්‍රොෆෝනය.",
+            "එකෝඩියන් ය."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": null,
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7814&wpfd_file_id=27912&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 133,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "\"I Have a dream\" යන ප්‍රසිද්ධ ගීතය ගයන ලද්දේ,",
+        "choices": [
+            "ABBA සංගීත කණ්ඩායමයි.",
+            "Boney M සංගීත කණ්ඩායමයි.",
+            "ධර්මරත්න බ්‍රදර්ස් කණ්ඩායමයි",
+            "LaBambas සංගීත කණ්ඩායමයි."
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": null,
+            "year": 2019,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7814&wpfd_file_id=27912&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 134,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "නිර්දේශිත රාග අතුරින් ශුද්ධ ස්වර 07 ක් යෙදෙන රාගය නම් කරන්න.\n",
+        "choices": [
+            "බිලාවල්",
+            "භූපාලි",
+            "කාෆි",
+            "භෛරව්"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": null,
+            "year": 2020,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7814&wpfd_file_id=40794&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 135,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "මධ්‍යමය සහ නිෂාදය වර්ජිත වන රාගය වනුයේ,",
+        "choices": [
+            "කාෆි",
+            "භූපාලි",
+            "බිලාවල්",
+            "යමන්"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": null,
+            "year": 2021,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7814&wpfd_file_id=40794&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 136,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "\"මධුර යාමේ - ගුමු ගුමුව වදුලේ\" යන රාගාශ්‍රිත ගීත දෙක අයත් නිර්දේශිත රාගය කුමක්ද?\n",
+        "choices": [
+            "බිලාවල්",
+            "භූපාලි",
+            "කාෆි",
+            "භෛරවී"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": null,
+            "year": 2021,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7814&wpfd_file_id=40794&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 137,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "බිලාවල් රාගය ඇසුරින් නිර්මාණය වූ ස්වරස්ථාපන ගීතයකි.",
+        "choices": [
+            "සිරස නමමු මව් පොළොවට",
+            "ඇහැළ මහට ඇහැළ ගහක",
+            "සිරිසාර අති ශාන්ත",
+            "පොත පත කියවා නුවණ වඩා"
+        ],
+        "answer": 1,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": null,
+            "year": 2021,
+            "source": "https://pastpapers.wiki/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=7814&wpfd_file_id=40794&token=&preview=1"
+        }
+    },
+    {
+        "q_no": 138,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "කෝමල ගාන්ධාරය සහ කෝමල නිෂාධය යෙදෙන ස්වර ස්ථාපන ගීතයක් වන්නේ,\n",
+        "choices": [
+            "ඇහැළ මලට ඇහැළ ගසක",
+            "සිරස නමමු මව්පොළොවට",
+            "සිරිසාර අතිශාන්ත",
+            "බැතිනා සිරිපා කරුණා කරනා"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": null,
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-08-music-3rd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 139,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "සප්තකයේ ඇති අචල ස්වර සංඛ්‍යාව වන්නේ,\n",
+        "choices": [
+            "හතරකි.",
+            "පහකි.",
+            "සයකි.",
+            "දෙකකි."
+        ],
+        "answer": 4,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": null,
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-08-music-3rd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 140,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "\"උඳුල තරුවල වතල සොඳුරු\"යන ගී පදයට අයත් තිත් රූපය හඳුන්වන්නේ,\n",
+        "choices": [
+            "සුළු තනි තිත",
+            "මැදුම් මහ දෙතින",
+            "මැදුම් තනිතිත",
+            "සුළු මැදුම් දෙතින"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": null,
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-08-music-3rd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 141,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "ප්‍රධාන තත මන්ද්‍ර මධ්‍යම ස්වරයට අනුව සුසර කරනු ලබන හින්දුස්ථානී භාණ්ඩ යුගලකි.\n",
+        "choices": [
+            "වීණාව - සිතාරය",
+            "එස්රාජ් - සිතාරය",
+            "ගිටාරය- සිතාරය",
+            "වයලීනය - එස්රාජය"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": null,
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-08-music-3rd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 142,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "/ ධා තිං තිං තා / යන ඨේකා පද කොටස අයත් විභාගයට අදාල තාල සංඛ්‍යාව වන්නේ,\n\n\n",
+        "choices": [
+            "සමග්‍රහය",
+            "දෙවන අනුතාලය",
+            "ඛලිය",
+            "තුන්වන අනුතාලය"
+        ],
+        "answer": 3,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": null,
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-08-music-3rd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    },
+    {
+        "q_no": 143,
+        "subject": "Eastern music",
+        "category": "humanities",
+        "question": "\"සිරිසරු සාර කෙතේ....\" යන ගීතයේ පද රචනය හා සංගීතය නිර්මාණකරු වන්නේ,\n",
+        "choices": [
+            "සුනිල් ශාන්ත මහතා",
+            "ආනන්ද සමරකෝන් මහතා",
+            "ලයනල් රංවල මහතා",
+            "රෝහණ බැද්දගේ මහතා"
+        ],
+        "answer": 2,
+        "metadata": {
+            "subject_original": "පෙරදිග සංගීතය",
+            "difficulty": "easy",
+            "grade": 8,
+            "type": null,
+            "year": 2022,
+            "source": "https://pastpapers.wiki/2022-grade-08-music-3rd-term-test-paper-with-answers-north-western-province/?swcfpc=1"
+        }
+    }
+]
