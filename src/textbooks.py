@@ -10,27 +10,27 @@ Usage:
     python -m src.textbooks data/textbooks/christianity_g8_si.pdf
 """
 
+import functools
 import json
 import re
 import sys
 from collections import Counter
 from pathlib import Path
 
-import pymupdf
-from pandukabhaya import Converter
+# pymupdf and pandukabhaya are imported only when a PDF is converted, so load_pages() and
+# passages() work on machines (e.g. Colab) that only read the extracted .jsonl.
 
-_FM = Converter("fm_abhaya")
 # Glyph codes the FM Abhaya mapping misses, rewritten to codes it knows.
 # Verified on the grade 8 Christianity book: uq`M = මුළු, ¥úf,a, = දූවිල්ල, 3(1¡13 = 3:1-13.
-_FM_FIXES = {"`M": "¿", "¥": "oQ", "¡": "-"}
+_BASE_FIXES = {"`M": "¿", "¥": "oQ", "¡": "-"}
 
 # In FM fonts "`" before a letter gives its prenasalised form: fyd`Èka = හොඳින්, u`. = මඟ.
 _PRENASAL = {"ද": "ඳ", "ග": "ඟ", "ඩ": "ඬ", "ඞ": "ඬ", "ජ": "ඦ", "බ": "ඹ"}
 
 
-def _prenasal_fixes() -> dict:
+def _prenasal_fixes(conv) -> dict:
     """Map "`" + code to the single FM code of the prenasalised letter, from the converter's table."""
-    single = {chr(c): _FM.convert(chr(c)) for c in range(0x21, 0x100)}
+    single = {chr(c): conv.convert(chr(c)) for c in range(0x21, 0x100)}
     by_output = {out: ch for ch, out in single.items() if out}
     fixes = {}
     for ch, out in single.items():
@@ -41,7 +41,15 @@ def _prenasal_fixes() -> dict:
     return fixes
 
 
-_FM_FIXES.update(_prenasal_fixes())
+@functools.lru_cache(maxsize=None)
+def _fm():
+    """The FM Abhaya converter and all glyph fixes, built on first use."""
+    from pandukabhaya import Converter
+
+    conv = Converter("fm_abhaya")
+    return conv, {**_BASE_FIXES, **_prenasal_fixes(conv)}
+
+
 HEADING_SIZE = 20          # chapter titles are 24 pt, body text 12 pt, quotes 14 pt
 PAGE_NUMBER = re.compile(r"^\s*(\d{1,3}|[ivxlc]{1,6})\s*$", re.I)
 SINHALA = re.compile(r"[඀-෿]")
@@ -52,9 +60,10 @@ def is_legacy_font(font: str) -> bool:
 
 
 def fm_to_unicode(text: str) -> str:
-    for old, new in _FM_FIXES.items():
+    conv, fixes = _fm()
+    for old, new in fixes.items():
         text = text.replace(old, new)
-    text = _FM.convert(text).replace("`", "")   # stray "`" before an already-prenasal letter
+    text = conv.convert(text).replace("`", "")   # stray "`" before an already-prenasal letter
     return _DETACHED_E.sub(_reattach_e, text)
 
 
@@ -115,6 +124,8 @@ def extract(pdf_path, start_page=None, repeat_ratio=0.3):
     Drops front matter (before start_page), page numbers, and lines that repeat on more
     than `repeat_ratio` of pages (running headers/footers).
     """
+    import pymupdf
+
     doc = pymupdf.open(pdf_path)
     start = first_content_page(doc) if start_page is None else start_page - 1
     pages = [(i, list(page_blocks(doc[i]))) for i in range(start, doc.page_count)]
