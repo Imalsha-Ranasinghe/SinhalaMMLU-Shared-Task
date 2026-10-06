@@ -8,7 +8,9 @@ from .prompting import build_messages
 TEMPLATE_DATE = "26 Jul 2024"
 
 
-def load_model_and_tokenizer(model_id, load_in_4bit=True, tokenizer_id=None):
+def load_model_and_tokenizer(model_id, load_in_4bit=True, tokenizer_id=None, dtype=None):
+    """dtype defaults to bf16 where supported, else fp16. Pass torch.float32 for models that
+    overflow in fp16 (Gemma 3) on GPUs without bf16, such as the T4."""
     from transformers import AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig
 
     tok = AutoTokenizer.from_pretrained(tokenizer_id or model_id)
@@ -16,7 +18,8 @@ def load_model_and_tokenizer(model_id, load_in_4bit=True, tokenizer_id=None):
         tok.pad_token = tok.eos_token
     tok.padding_side = "left"
 
-    dtype = torch.bfloat16 if torch.cuda.is_available() and torch.cuda.is_bf16_supported() else torch.float16
+    if dtype is None:
+        dtype = torch.bfloat16 if torch.cuda.is_available() and torch.cuda.is_bf16_supported() else torch.float16
     quant = BitsAndBytesConfig(
         load_in_4bit=True, bnb_4bit_quant_type="nf4",
         bnb_4bit_compute_dtype=dtype, bnb_4bit_use_double_quant=True,
@@ -126,6 +129,22 @@ def build_train_examples(tok, df, shot_sampler=None, max_len=1536):
         examples.append({"input_ids": f, "labels": [-100] * len(p) + f[len(p):]})
     if skipped:
         print(f"Skipped {skipped} examples longer than {max_len} tokens")
+    return examples
+
+
+def build_lm_examples(tok, texts, seq_len=512):
+    """Continued-pretraining examples: texts joined with EOS and cut into seq_len chunks, each
+    starting with BOS. Loss is on every token, so the answer-only trainer and Collator still apply."""
+    ids = []
+    for t in texts:
+        ids += _ids(tok, t) + [tok.eos_token_id]
+    body = seq_len - 1
+    examples = []
+    for i in range(0, len(ids), body):
+        chunk = ids[i:i + body]
+        if len(chunk) < body // 4:          # drop a short tail
+            break
+        examples.append({"input_ids": [tok.bos_token_id] + chunk, "labels": [-100] + chunk})
     return examples
 
 

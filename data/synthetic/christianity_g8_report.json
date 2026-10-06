@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-06",
+  "generator_model": "gemma-4-31b-it",
+  "source": "data/textbooks/christianity_g8_si.jsonl",
+  "passages": 122,
+  "paraphrases": 244,
+  "mcq_parsed_valid": 546,
+  "mcq_rejected": {
+    "evidence not in passage": 20,
+    "all/none of the above": 2,
+    "not 4 options": 3
+  },
+  "mcq_dropped": {
+    "near_duplicate": 3,
+    "too_close_to_dev": 6,
+    "answer_much_longer_than_others": 188
+  },
+  "mcq_final": 349
+}
