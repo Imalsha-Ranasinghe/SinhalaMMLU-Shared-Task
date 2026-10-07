@@ -20,6 +20,7 @@ src/
   hf_model.py                    local HF models: option scoring, LoRA training helpers
   textbooks.py                   textbook PDF (legacy FM fonts) -> clean Unicode Sinhala text
   synth.py                       textbook passages -> paraphrases + grounded MCQs (generator LLM)
+  papers.py                      past exam paper PDFs -> MCQs in Dev Set format (vision LLM)
 outputs/                         trained LoRA adapters (not committed)
 results/<run_name>/              *_predictions.jsonl, *_metrics.json, summary.csv
 ```
@@ -54,3 +55,25 @@ jupyter lab
    Read a sample of `data/synthetic/christianity_g8_mcq.jsonl` before training. A closed-API generator must be disclosed (rule 04).
 3. Commit and push `data/textbooks/*.jsonl` and `data/synthetic/`, accept the Gemma 3 licence on Hugging Face,
    then run `notebooks/04_gemma3_textbook_pilot.ipynb` on Colab (L4/A100 is fastest; a T4 works in float32).
+
+### More MCQs from past papers (all grades)
+
+pastpapers.wiki forbids bots, scrapers and download tools, so papers are **downloaded by hand in a
+browser**. Nothing in this repo fetches from that site. The fast part is extraction, which is automated.
+**What to download, and who downloads what: [DATA_COLLECTION.md](DATA_COLLECTION.md).**
+
+1. Download papers, keeping the original file names, into one folder per subject, named as in DATA_COLLECTION.md:
+   `data/raw_pdfs/History/2023-Grade-09-History-3rd-Term-Test-Paper-with-Answers-Southern-Province.pdf`.
+   Year, grade (O/L = 11, A/L = 13), term and province are read from the file name. A separate marking scheme is saved as `<paper name>_answers.pdf`.
+   - Prefer **"with Answers"** papers: questions without an answer from the paper's own key are dropped.
+   - Prefer **typed** papers (text can be selected in the PDF viewer) over scans: they are transcribed exactly.
+   - Don't bother checking against the Dev Set: papers it came from are skipped automatically.
+   - Optional: `data/raw_pdfs/sources.csv` with columns `file,url` records each file's page URL.
+2. Try two papers, read `data/papers/json/*.json`, then run everything (resumable; rerun after a quota stop):
+   ```bash
+   python -m src.papers data/raw_pdfs --limit 2
+   python -m src.papers data/raw_pdfs
+   ```
+3. Check `data/papers/report.json` (per-paper counts, rejection reasons) and read a sample of the
+   scanned-paper questions (`metadata.text_layer: false`): vision-only Sinhala reading makes mistakes.
+   Load the result with `src.data.load_raw("data/papers/json")`.

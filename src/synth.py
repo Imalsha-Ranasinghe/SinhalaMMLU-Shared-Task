@@ -154,15 +154,17 @@ def near_duplicates(questions, references, threshold):
     return {i for i, s in enumerate(best) if s >= threshold}, best
 
 
-def dedup_and_decontaminate(mcqs, dev_questions, dup_threshold=0.85, dev_threshold=0.7):
-    """Drop near-duplicate generated MCQs, then any too close to a Dev Set question."""
+def dedup_and_decontaminate(mcqs, dev_questions, dup_threshold=0.85, dev_threshold=0.7,
+                            dup_text=lambda m: m["question"]):
+    """Drop near-duplicate MCQs (compared on dup_text), then any whose question is too close to a
+    Dev Set question."""
     from sklearn.feature_extraction.text import TfidfVectorizer
     from sklearn.metrics.pairwise import cosine_similarity
 
     norm = lambda t: re.sub(r"\s+", " ", t.replace(ZWJ, "")).strip()
     keep = []
     if mcqs:
-        qs = [norm(m["question"]) for m in mcqs]
+        qs = [norm(dup_text(m)) for m in mcqs]
         sim = cosine_similarity(TfidfVectorizer(analyzer="char_wb", ngram_range=(3, 5)).fit_transform(qs))
         kept_idx = []
         for i in range(len(mcqs)):

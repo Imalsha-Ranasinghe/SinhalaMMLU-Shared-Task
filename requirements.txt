@@ -8,3 +8,4 @@ tqdm
 openai>=1.40
 python-dotenv
 jupyter
+rapidfuzz
