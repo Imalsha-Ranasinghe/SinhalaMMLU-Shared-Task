@@ -164,12 +164,22 @@ def make_trainer_class():
 
 
 def make_val_accuracy_callback(scorer, val_df, save_dir, batch_size=64):
-    """Trainer callback: after each epoch, measure val accuracy and keep the best adapter."""
+    """Trainer callback: after each epoch, measure val accuracy and keep the best adapter.
+
+    Its state lives in save_dir/val_state.json, so a resumed run remembers earlier epochs.
+    """
+    import json
+    from pathlib import Path
     from transformers import TrainerCallback
+
+    state_file = Path(save_dir) / "val_state.json"
 
     class ValAccuracy(TrainerCallback):
         def __init__(self):
             self.best, self.history = -1.0, []
+            if state_file.exists():
+                saved = json.loads(state_file.read_text())
+                self.best, self.history = saved["best"], saved["history"]
 
         def on_epoch_end(self, args, state, control, model=None, **kw):
             rows = val_df.to_dict(orient="records")
@@ -185,6 +195,8 @@ def make_val_accuracy_callback(scorer, val_df, save_dir, batch_size=64):
                 self.best = acc
                 model.save_pretrained(save_dir)
                 msg += f"  (best so far, saved to {save_dir})"
+            Path(save_dir).mkdir(parents=True, exist_ok=True)
+            state_file.write_text(json.dumps({"best": self.best, "history": self.history}))
             print(msg)
 
     return ValAccuracy()

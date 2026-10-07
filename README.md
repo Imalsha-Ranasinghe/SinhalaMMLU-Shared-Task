@@ -38,3 +38,5 @@ jupyter lab
 2. Push this repo to GitHub, open `notebooks/03_llama3.2_3b_lora.ipynb` in Colab (File → Open notebook → GitHub)
    or Kaggle, choose a T4 GPU runtime, and add the token as a secret named `HF_TOKEN`.
 3. Run all cells. The notebook clones the repo, installs `requirements-hf.txt`, runs the baseline, fine-tunes, and evaluates.
+4. Results, checkpoints and the adapter are saved to Google Drive (`MyDrive/SinhalaMMLU-runs/`) on Colab, or `/kaggle/working` on Kaggle.
+   If the session is cut off, run the notebook again: finished evaluations are skipped and training resumes from the last epoch.
