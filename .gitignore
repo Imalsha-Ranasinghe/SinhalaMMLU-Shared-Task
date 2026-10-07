@@ -6,3 +6,5 @@ outputs/
 data/textbooks/*.pdf
 data/raw_pdfs/
 data/papers/cache.jsonl
+data/pastpapers/
+data/papers_g6/
