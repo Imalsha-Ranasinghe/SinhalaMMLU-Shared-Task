@@ -42,6 +42,30 @@ class ShotSampler:
         return rng.sample(pool, min(self.k, len(pool)))
 
 
+def shuffle_augment(df, copies: int, seed: int = 42):
+    """Add `copies` versions of each question with the options in a new random order.
+
+    More training data, and the model can't learn shortcuts like "the answer is usually 3".
+    """
+    import pandas as pd
+
+    if copies <= 0:
+        return df
+    rng = random.Random(seed)
+    extra = []
+    for r in df.to_dict(orient="records"):
+        # "ඉහත ... සියල්ල" (all of the above) only makes sense in the original order.
+        if any("ඉහත" in str(c) for c in r["choices"]):
+            continue
+        for c in range(copies):
+            order = list(range(len(r["choices"])))
+            rng.shuffle(order)
+            extra.append({**r, "id": f"{r['id']}#shuf{c}",
+                          "choices": [r["choices"][i] for i in order],
+                          "answer": order.index(r["answer"] - 1) + 1})
+    return pd.concat([df, pd.DataFrame(extra)], ignore_index=True).sample(frac=1, random_state=seed)
+
+
 _SINHALA_DIGITS = str.maketrans("෦෧෨෩෪෫෬෭෮෯", "0123456789")
 
 

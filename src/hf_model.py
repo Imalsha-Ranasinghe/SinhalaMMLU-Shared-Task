@@ -8,7 +8,7 @@ from .prompting import build_messages
 TEMPLATE_DATE = "26 Jul 2024"
 
 
-def load_model_and_tokenizer(model_id, load_in_4bit=True, tokenizer_id=None):
+def load_model_and_tokenizer(model_id, load_in_4bit=True, tokenizer_id=None, dtype=None):
     from transformers import AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig
 
     tok = AutoTokenizer.from_pretrained(tokenizer_id or model_id)
@@ -16,7 +16,8 @@ def load_model_and_tokenizer(model_id, load_in_4bit=True, tokenizer_id=None):
         tok.pad_token = tok.eos_token
     tok.padding_side = "left"
 
-    dtype = torch.bfloat16 if torch.cuda.is_available() and torch.cuda.is_bf16_supported() else torch.float16
+    if dtype is None:
+        dtype = torch.bfloat16 if torch.cuda.is_available() and torch.cuda.is_bf16_supported() else torch.float16
     quant = BitsAndBytesConfig(
         load_in_4bit=True, bnb_4bit_quant_type="nf4",
         bnb_4bit_compute_dtype=dtype, bnb_4bit_use_double_quant=True,
@@ -27,6 +28,29 @@ def load_model_and_tokenizer(model_id, load_in_4bit=True, tokenizer_id=None):
     if len(tok) > model.get_input_embeddings().weight.shape[0]:
         model.resize_token_embeddings(len(tok))
     return model, tok
+
+
+def load_with_dtype_check(model_id, probe_messages, load_in_4bit=True, tokenizer_id=None):
+    """Load in bf16 if the GPU supports it. Otherwise try fp16 and fall back to fp32 if it overflows.
+
+    Some models (notably Gemma) produce inf/NaN activations in fp16, which silently turns every
+    prediction into option 1. T4 and P100 GPUs have no bf16, so this matters on free Colab/Kaggle.
+    """
+    import gc
+
+    candidates = [torch.bfloat16] if torch.cuda.is_bf16_supported() else [torch.float16, torch.float32]
+    for dtype in candidates:
+        model, tok = load_model_and_tokenizer(model_id, load_in_4bit, tokenizer_id, dtype)
+        try:
+            ChoiceScorer(model, tok).generate(probe_messages)
+            print(f"Using {dtype}")
+            return model, tok, dtype
+        except FloatingPointError as e:
+            print(f"{dtype} failed ({e}); trying the next dtype")
+            del model
+            gc.collect()
+            torch.cuda.empty_cache()
+    raise RuntimeError("No dtype produced finite logits")
 
 
 def render_prompt(tok, messages, answer=None):
@@ -105,6 +129,8 @@ class ChoiceScorer:
             chunk = order[i:j]
             enc = self.tok.pad({"input_ids": [seqs[k] for k in chunk]}, return_tensors="pt").to(self.model.device)
             logits = forward_tail(self.model, enc["input_ids"], enc["attention_mask"], 1)[:, -1, self.option_ids].float()
+            if not torch.isfinite(logits).all():
+                raise FloatingPointError("non-finite logits (fp16 overflow?)")
             for k, p in zip(chunk, logits.argmax(-1).tolist()):
                 preds[k] = str(p + 1)
             i = j

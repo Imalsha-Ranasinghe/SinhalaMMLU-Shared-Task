@@ -10,6 +10,7 @@ notebooks/
   01_data_split.ipynb            load, clean, split
   02_evaluate_qwen2.5_72b.ipynb  evaluate Qwen2.5-72B-Instruct on val/test (reference only, over the 8B limit)
   03_llama3.2_3b_lora.ipynb      Llama-3.2-3B-Instruct: baseline, QLoRA fine-tuning, final eval (GPU)
+  04_gemma3_4b_lora.ipynb        Gemma-3-4B-it: same pipeline, better Sinhala tokenizer (GPU)
 src/
   data.py                        loading, validation, splitting
   prompting.py                   prompt template, few-shot sampling, answer parsing
