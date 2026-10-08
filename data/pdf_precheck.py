@@ -30,6 +30,12 @@ logging.getLogger("pypdf").setLevel(logging.ERROR)
 BLOCK = 64 * 1024          # bytes fetched per range request
 PAGES_TO_CHECK = 4         # MCQs come first in these papers
 RANGE_DELAY = 0.2          # small pause between range requests for the same file
+MAX_BYTES = 40 * 1024 * 1024   # bigger files are scans; never hold more than this in memory
+TIME_LIMIT = 180           # seconds per paper, so one bad link can't stall the whole run
+
+
+class CheckFailed(Exception):
+    pass
 
 
 class RemotePDF:
@@ -38,22 +44,45 @@ class RemotePDF:
     def __init__(self, url, session, timeout=60):
         self.url, self.session, self.timeout = url, session, timeout
         self.blocks, self.pos, self.whole, self.fetched = {}, 0, None, 0
-        r = session.get(url, headers={"Range": "bytes=0-0"}, timeout=timeout)
+        self.deadline = time.time() + TIME_LIMIT
+        r = session.get(url, headers={"Range": "bytes=0-0"}, timeout=timeout, stream=True)
         r.raise_for_status()
         self.url = r.url                   # after redirects
+        if "html" in r.headers.get("Content-Type", "").lower():
+            r.close()                      # e.g. the CDN answered with a web page, not the file
+            raise CheckFailed("server returned a web page, not a PDF")
         if r.status_code == 206 and "/" in r.headers.get("Content-Range", ""):
             self.size = int(r.headers["Content-Range"].rsplit("/", 1)[1])
-        else:                              # server ignored the range: this is the whole file
-            self.whole = r.content
-            self.size = self.fetched = len(r.content)
+            r.close()
+            return
+        # Server ignored the range: this response is the whole file. Read it with limits.
+        chunks, total = [], 0
+        try:
+            for chunk in r.iter_content(256 * 1024):
+                chunks.append(chunk)
+                total += len(chunk)
+                if total > MAX_BYTES:
+                    raise CheckFailed(f"larger than {MAX_BYTES // 2**20} MB (a scan)")
+                if time.time() > self.deadline:
+                    raise CheckFailed("download too slow")
+        finally:
+            r.close()
+        self.whole = b"".join(chunks)
+        self.size = self.fetched = len(self.whole)
 
     def _block(self, i):
+        if time.time() > self.deadline:
+            raise CheckFailed("check took too long")
         if i not in self.blocks:
             start = i * BLOCK
             end = min(start + BLOCK, self.size) - 1
             time.sleep(RANGE_DELAY)
-            r = self.session.get(self.url, headers={"Range": f"bytes={start}-{end}"}, timeout=self.timeout)
+            r = self.session.get(self.url, headers={"Range": f"bytes={start}-{end}"}, timeout=self.timeout,
+                                 stream=True)
             r.raise_for_status()
+            if r.status_code != 206:       # server stopped honouring ranges: don't pull the whole file
+                r.close()
+                raise CheckFailed("server stopped answering partial requests")
             self.blocks[i] = r.content
             self.fetched += len(r.content)
         return self.blocks[i]
@@ -159,6 +188,8 @@ def precheck(url, session):
     in full (no range support) and is usable, so the caller can save it without downloading again."""
     try:
         f = RemotePDF(url, session)
+    except CheckFailed as e:
+        return False, str(e), 0, None
     except Exception as e:
         return False, f"request failed ({type(e).__name__})", 0, None
     if f.whole is not None:
@@ -173,6 +204,8 @@ def precheck(url, session):
         except Exception:
             reader = PdfReader(f, strict=False)     # damaged cross-reference table
             feats = _features(reader)
+    except CheckFailed as e:
+        return False, str(e), f.fetched, None
     except Exception as e:
         return False, f"unreadable PDF ({type(e).__name__})", f.fetched, None
     keep, why = _decide(feats)

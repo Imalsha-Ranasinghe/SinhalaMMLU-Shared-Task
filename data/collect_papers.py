@@ -82,6 +82,15 @@ UNWANTED = [
     "electronic-technology", "electrical-and-electronic-technology", "mechanical-technology",
     "aquatic-bio-resources-technology", "bio-resources-technology", "french", "german", "hindi",
     "japanese", "korean", "chinese", "arabic", "pali", "sanskrit", "hinduism", "saivaneri",
+    # A/L (grades 12-13) subjects not in the list above
+    "combined-mathematics", "combined-maths", "higher-mathematics", "engineering-technology",
+    "engineering-technology-et", "science-for-technology", "information-technology",
+    "information-and-communication-technology-ict", "genaral-information-technology",
+    "general-information-technology", "general-english", "business-statistics", "logic",
+    "logic-and-scientific-method", "christian-civilization", "islamic-civilization", "hindu-civilization",
+    "greek-and-roman-civilization", "home-economics-tamil", "russian", "hindi-language",
+    "arabic-language", "chinese-language", "french-language", "german-language", "japanese-language",
+    "korean-language", "russian-language", "tamil-language-and-literature", "english-literature",
 ]
 
 EXCLUDED_PATH_PARTS = ["tamil-medium", "english-medium", "textbook", "/wp-admin", "/wp-json",
@@ -188,8 +197,16 @@ def parse_details(slug, site_name):
 
 # ---------------------------------------------------------------- crawl
 
+def start_url(grade):
+    """The site's index page for a grade: grades 6-11 have a Sinhala-medium page, the A/L grades
+    (12-13) a page per grade that links to one page per subject (all mediums)."""
+    if grade >= 12:
+        return f"{BASE_URL}/grade-{grade}-term-test-papers-for-all-subjects/"
+    return f"{BASE_URL}/grade-{grade:02d}-sinhala-medium-term-test-papers-past-papers-wiki/"
+
+
 def crawl(grade, matcher, max_pages=None):
-    start = f"{BASE_URL}/grade-{grade:02d}-sinhala-medium-term-test-papers-past-papers-wiki/"
+    start = start_url(grade)
     grade_re = re.compile(rf"grade-?0?{grade}(?!\d)")
     queue, queued, visited = [start], {start}, set()
     records, seen_pdfs = [], set()

@@ -18,6 +18,7 @@ Output in data/extracted/:
 
 import argparse
 import csv
+import hashlib
 import json
 import logging
 import re
@@ -41,7 +42,10 @@ CATEGORY = {
     "Health and Physical Science": "social_science", "Business and Accounting Studies": "social_science",
     "Entrepreneurship Studies": "social_science", "Home Economics": "social_science",
     "Communication and Media Studies": "social_science",
-}  # everything else (religions, arts, history, music, dancing, drama) -> humanities
+    # A/L subjects (grades 12-13)
+    "Physics": "stem", "Chemistry": "stem", "Biology": "stem", "Biosystems Technology": "stem",
+    "Economics": "social_science", "Political Science": "social_science",
+}  # everything else (religions, arts, history, music, dancing, drama, Buddhist Civilization) -> humanities
 
 ENGLISH_WORDS = {"the", "and", "of", "to", "is", "in", "for", "are", "which", "what", "answer", "question",
                  "following", "paper", "write", "from", "with", "this", "that", "by", "on", "an", "be"}
@@ -59,14 +63,28 @@ NEEDS_IMAGE_RE = re.compile(r"රූප|සිතියම|ප්‍රස්ත
 
 Q_START_RE = re.compile(r"^\s*(\()?(0)?(\d{1,2})(\))?\s*([.)'\-:])?(\s+|$)")
 OPT_RE = re.compile(r"(?:(?<=\s)|^)\((\d)\)|(?:(?<=\s)|^)(\d)[.)](?=\s|$)")
-ROMAN_OPT_RE = re.compile(r"(?:(?<=\s)|^)\((i{1,3}|iv)\)|(?:(?<=\s)|^)(i{1,3}|iv)[.)]?(?=\s|$)")
-ROMAN = {"i": 1, "ii": 2, "iii": 3, "iv": 4}
+ROMAN_OPT_RE = re.compile(r"(?:(?<=\s)|^)\((i{1,3}|iv|v)\)|(?:(?<=\s)|^)(i{1,3}|iv|v)[.)]?(?=\s|$)")
+ROMAN = {"i": 1, "ii": 2, "iii": 3, "iv": 4, "v": 5}
+
+
+def option_count(lines, opt_re):
+    """4 or 5: A/L papers (grades 12-13) usually have five options per question.
+
+    Decided per paper by how often an option-5 marker appears compared with option 4, so that in a
+    4-option paper a "5." (question 5) is never mistaken for an option.
+    """
+    counts = Counter()
+    for l in lines:
+        for m in opt_re.finditer(l.text):
+            g = m.group(1) or m.group(2)
+            counts[ROMAN.get(g) or int(g)] += 1
+    return 5 if counts[4] >= 8 and counts[5] >= 0.6 * counts[4] else 4
 
 
 def option_style(lines):
     """Some papers number options (i)-(iv) instead of (1)-(4); use whichever the paper uses most."""
     roman = sum(bool(re.match(r"\s*\(?(i{1,3}|iv)[.)]?(\s|$)", l.text)) for l in lines)
-    digits = sum(bool(re.match(r"\s*\(?[1-4][.)](\s|$)|\s*\([1-4]\)", l.text)) for l in lines)
+    digits = sum(bool(re.match(r"\s*\(?[1-5][.)](\s|$)|\s*\([1-5]\)", l.text)) for l in lines)
     return "roman" if roman > digits else "digits"
 
 
@@ -191,6 +209,7 @@ class Q:
     options: list = field(default_factory=list)
     line_idx: int = 0
     extra_lines: int = 0          # continuation lines added to the current field
+    n_opts: int = 4               # options per question in this paper (4, or 5 in A/L papers)
 
     @property
     def next_opt(self):
@@ -206,12 +225,13 @@ class Q:
             self.question += " " + text
 
     def complete(self):
-        return len(self.options) == 4
+        return len(self.options) == self.n_opts
 
 
 def parse_mcqs(lines):
     questions, cur, expect = [], None, 1
     opt_re = ROMAN_OPT_RE if option_style(lines) == "roman" else OPT_RE
+    n_opts = option_count(lines, opt_re)
 
     def finish():
         nonlocal cur, expect
@@ -247,7 +267,7 @@ def parse_mcqs(lines):
                 if restart:
                     cur = None
                 finish()
-                cur, expect = Q(n=n, line_idx=idx), n + 1
+                cur, expect = Q(n=n, line_idx=idx, n_opts=n_opts), n + 1
                 text = rest
         if cur is None:
             continue
@@ -277,11 +297,11 @@ def parse_mcqs(lines):
 
 # ---------------------------------------------------------------- answer keys
 
-def answers_from_pairs(lines, n):
+def answers_from_pairs(lines, n, max_opt=4):
     """Explicitly numbered answers: "(01) 2", "1. 3", "12 - 4" ... in any order (tables get read across)."""
     text = " ".join(l.text for l in lines)
     answers = {}
-    for m in re.finditer(r"(?<![\d.])\(?0?(\d{1,2})\)?\s*[.)\-:–]?\s*\(?([1-4])\)?(?![\d.])", text):
+    for m in re.finditer(r"(?<![\d.])\(?0?(\d{1,2})\)?\s*[.)\-:–]?\s*\(?([1-%d])\)?(?![\d.])" % max_opt, text):
         q, a = int(m.group(1)), int(m.group(2))
         if 1 <= q <= n:
             answers.setdefault(q, a)
@@ -301,15 +321,21 @@ def _cluster(toks, key, tol):
     return groups
 
 
-def answers_from_table(lines, n):
+def answers_from_table(lines, n, max_opt=4):
     """Answer tables in either direction, matched by position on the page:
     across:  1 2 3 ... 10        down:  1 - (2)
              2 1 4 ...  3               2 - (1)
     A header is a run of >= 5 consecutive question numbers; answers sit in the next row below
     (across) or the nearest column to the right (down).
     """
-    toks = [{"page": l.page, "x": (l.bbox[0] + l.bbox[2]) / 2, "y": (l.bbox[1] + l.bbox[3]) / 2, "v": int(t)}
-            for l in lines for t in l.text.split() if re.fullmatch(r"\d{1,2}", t)]
+    # Numbers may be written "12", "12." or "( 3 )" (brackets split off as separate tokens).
+    toks = []
+    for l in lines:
+        for t in l.text.split():
+            m = re.fullmatch(r"\(?(\d{1,2})[.)]?", t)
+            if m:
+                toks.append({"page": l.page, "x": (l.bbox[0] + l.bbox[2]) / 2,
+                             "y": (l.bbox[1] + l.bbox[3]) / 2, "v": int(m.group(1))})
     answers = {}
     for along, across in (("x", "y"), ("y", "x")):        # rows (sorted by x), then columns (sorted by y)
         groups = [sorted(g, key=lambda t: t[along]) for g in _cluster(toks, across, 4)]
@@ -321,7 +347,7 @@ def answers_from_table(lines, n):
             for other in groups[i + 1:i + 4]:              # the next row below / column to the right
                 if other[0]["page"] != head[0]["page"] or len(other) < len(head) // 2:
                     continue
-                if not all(1 <= t["v"] <= 4 for t in other):
+                if not all(1 <= t["v"] <= max_opt for t in other):
                     continue
                 for t in other:
                     h = min(head, key=lambda h: abs(h[along] - t[along]))
@@ -331,14 +357,15 @@ def answers_from_table(lines, n):
     return answers
 
 
-def answers_from_sequence(lines, n):
-    """A dense block of single digits 1-4, one per question in order (no question numbers)."""
+def answers_from_sequence(lines, n, max_opt=4):
+    """A dense block of single digits 1-4 (or 1-5), one per question in order (no question numbers)."""
     best, block = [], []
     for l in lines:
         t = l.text.strip().lower()
-        if re.fullmatch(r"[1-4]", t):
-            block.append(int(t))
-        elif t in ROMAN:
+        m = re.fullmatch(r"\(?\s*([1-%d])\s*\)?" % max_opt, t)      # "3" or "( 3 )"
+        if m:
+            block.append(int(m.group(1)))
+        elif t in ROMAN and ROMAN[t] <= max_opt:
             block.append(ROMAN[t])
         elif re.fullmatch(r"[-–()\s.]*", t):
             continue                       # dashes/brackets between answers don't break the block
@@ -348,7 +375,7 @@ def answers_from_sequence(lines, n):
     return {i + 1: a for i, a in enumerate(best[:n])} if len(best) >= n else {}
 
 
-def parse_answers(lines, after_idx, n):
+def parse_answers(lines, after_idx, n, max_opt=4):
     """Look after each answer-sheet heading; the first method covering >= 90% of questions wins.
 
     Explicit numbering is trusted first, a bare digit sequence last, because a sequence can't
@@ -360,7 +387,7 @@ def parse_answers(lines, after_idx, n):
     for name, fn in (("pairs", answers_from_pairs), ("table", answers_from_table),
                      ("sequence", answers_from_sequence)):
         for start in starts:
-            got = fn(tail[start + 1:start + 1 + 5 * n], n)
+            got = fn(tail[start + 1:start + 1 + 5 * n], n, max_opt)
             if len(got) >= 0.9 * n:
                 return got, name
     return {}, "none"
@@ -372,7 +399,8 @@ def key_only(pdf_path):
     """Answer key from a PDF that has no questions (answers published as a separate file)."""
     lines, _, _ = read_pdf(pdf_path)
     for n in (50, 40, 35, 30, 25, 20):
-        got, how = parse_answers([Line("පිළිතුරු", 0, (0, 0, 0, 0))] + lines, 0, n)
+        # max_opt=5: the key may belong to a 5-option (A/L) paper; checked against it when paired
+        got, how = parse_answers([Line("පිළිතුරු", 0, (0, 0, 0, 0))] + lines, 0, n, max_opt=5)
         if got and max(got) >= 0.9 * n:
             return got
     return {}
@@ -389,7 +417,8 @@ def extract(pdf_path, meta):
     qs = parse_mcqs(lines)
     if not qs:
         return "no_mcq_found", [], "none"
-    answers, how = parse_answers(lines, qs[-1]["line_idx"] + 1, max(q["n"] for q in qs))
+    n_opts = len(qs[0]["choices"])
+    answers, how = parse_answers(lines, qs[-1]["line_idx"] + 1, max(q["n"] for q in qs), max_opt=n_opts)
     subject = meta.get("subject", "Unknown")
     out = []
     for q in qs:
@@ -409,10 +438,24 @@ def extract(pdf_path, meta):
                 "region": meta.get("region") or None,
                 "source": meta.get("source_page") or meta.get("pdf_url"),
                 "pdf": meta.get("local_path"),
+                "n_options": len(q["choices"]),
                 "needs_context": bool(NEEDS_IMAGE_RE.search(q["question"])),   # figure/table/passage not included
             },
         })
     return "ok", out, how
+
+
+def to_four(q):
+    """Turn a 5-option question into a 4-option one by removing one wrong option (chosen the same
+    way every run). Without a known answer we can't tell which options are wrong, so it is left as is."""
+    if len(q["choices"]) != 5 or not q["answer"]:
+        return q
+    wrong = [i for i in range(5) if i != q["answer"] - 1]
+    drop = wrong[int(hashlib.md5(q["question"].encode("utf-8")).hexdigest(), 16) % 4]
+    choices = [c for i, c in enumerate(q["choices"]) if i != drop]
+    answer = q["answer"] - (1 if drop < q["answer"] - 1 else 0)
+    return {**q, "choices": choices, "answer": answer,
+            "metadata": {**q["metadata"], "n_options": 4, "original_n_options": 5}}
 
 
 def qkey(q):
@@ -458,6 +501,8 @@ def main():
     ap.add_argument("--dev", type=Path, default=here.parent / "Dev Set", help="drop questions that are in the Dev Set")
     ap.add_argument("--limit", type=int, help="only process the first N PDFs")
     ap.add_argument("--pdf", type=Path, help="process a single PDF and print the questions")
+    ap.add_argument("--to-four", action="store_true",
+                    help="convert 5-option (A/L) questions to 4 options by removing one wrong option")
     args = ap.parse_args()
 
     if args.pdf:
@@ -505,7 +550,8 @@ def main():
             for key in keys_by_page.get(meta.get("source_page"), []):
                 if len(nums & set(key)) >= 0.9 * len(nums):
                     for q in qs:
-                        q["answer"] = key.get(q["q_no"])
+                        a = key.get(q["q_no"])
+                        q["answer"] = a if a and a <= len(q["choices"]) else None
                     print(f"  matched separate answer key -> {meta['local_path']}")
                     break
 
@@ -517,6 +563,8 @@ def main():
             needs_ocr.append({"pdf": meta["local_path"], "subject": meta["subject"], "status": status,
                               "source": meta.get("source_page")})
         for q in qs:
+            if args.to_four:
+                q = to_four(q)
             k = qkey(q)
             if k in dev_keys:
                 dropped_dev += 1
