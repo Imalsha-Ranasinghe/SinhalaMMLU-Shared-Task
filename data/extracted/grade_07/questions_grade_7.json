@@ -1,0 +1,3362 @@
+[
+  {
+    "q_no": 1,
+    "subject": "Science",
+    "category": "stem",
+    "question": "ජීවයේ ව්‍යුහමය හා කෘත්‍යමය ඒකකය කුමක්ද?",
+    "choices": [
+      "පටකය",
+      "ජීවියා",
+      "සෛලය",
+      "පද්ධතිය"
+    ],
+    "answer": 3,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": null,
+      "year": null,
+      "region": null,
+      "source": "https://pastpapers.wiki/grade-07-science-2nd-term-test-paper-2019-sinhala-medium-southern-province/",
+      "pdf": "grade_07/Science/term_unknown/science-07.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 2,
+    "subject": "Science",
+    "category": "stem",
+    "question": "ජීවි දේහයේ සංවිධාන මට්ටම් පිළිවෙලින් දක්වා ඇති පිළිතුර තෝරන්න.",
+    "choices": [
+      "සෛල ර් ඣ පටක ර්",
+      "සෛල ර් ඣ පටක ර්",
+      "සෛල ර් ඣ අවයව ර්",
+      "සෛල ර් ඣ පද්ධති ර්"
+    ],
+    "answer": 2,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": null,
+      "year": null,
+      "region": null,
+      "source": "https://pastpapers.wiki/grade-07-science-2nd-term-test-paper-2019-sinhala-medium-southern-province/",
+      "pdf": "grade_07/Science/term_unknown/science-07.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 3,
+    "subject": "Science",
+    "category": "stem",
+    "question": "ශාකයක ආහාර පරිවහනය කරන්නේ කුමන පටකය මගින් ද?",
+    "choices": [
+      "ප්ලෝයම",
+      "ශෛලම",
+      "කැම්බියම",
+      "මජ්ජාව"
+    ],
+    "answer": 1,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": null,
+      "year": null,
+      "region": null,
+      "source": "https://pastpapers.wiki/grade-07-science-2nd-term-test-paper-2019-sinhala-medium-southern-province/",
+      "pdf": "grade_07/Science/term_unknown/science-07.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 4,
+    "subject": "Science",
+    "category": "stem",
+    "question": "ආහාර ජීර්ණ පද්ධතියට අයත් නොවන අවයවය කුමක්ද?",
+    "choices": [
+      "අග්න්‍යාශය",
+      "අන්නස්‍රෝතය",
+      "මහාන්ත්‍රය",
+      "ස්වරාලය"
+    ],
+    "answer": 4,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": null,
+      "year": null,
+      "region": null,
+      "source": "https://pastpapers.wiki/grade-07-science-2nd-term-test-paper-2019-sinhala-medium-southern-province/",
+      "pdf": "grade_07/Science/term_unknown/science-07.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 5,
+    "subject": "Science",
+    "category": "stem",
+    "question": "දිය බුලත් පැළෑටියක් හොඳින් සෝදා එහි මූල පද්ධතිය රතු පැහැයෙන් වර්ණ ගන්වන ලද ජල බඳුනක පැය කීපයක් තබා කඳ රතුපාට වූ පසු කඳේ හරස්කඩක් ගෙන අන්වීක්‍ෂයෙන් නිරීක්‍ෂණය කළ විට රතු පැහැයෙන් දිස්වන පටකය වන්නේ",
+    "choices": [
+      "ශෛලමය",
+      "ප්ලෝයමය",
+      "මැදිපිරවුම් පටකය",
+      "අපිචර්මය"
+    ],
+    "answer": 1,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": null,
+      "year": null,
+      "region": null,
+      "source": "https://pastpapers.wiki/grade-07-science-2nd-term-test-paper-2019-sinhala-medium-southern-province/",
+      "pdf": "grade_07/Science/term_unknown/science-07.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 6,
+    "subject": "Science",
+    "category": "stem",
+    "question": "වායුගෝලය ¥ෂණයට හේතුවන වායුමය දුෂකයක් වන්නේ",
+    "choices": [
+      "සිමෙන්ති කුඩු",
+      "කාබන් මොනොක්සයිඩ්",
+      "¥විලි",
+      "ඊයම් අංශු"
+    ],
+    "answer": 2,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": null,
+      "year": null,
+      "region": null,
+      "source": "https://pastpapers.wiki/grade-07-science-2nd-term-test-paper-2019-sinhala-medium-southern-province/",
+      "pdf": "grade_07/Science/term_unknown/science-07.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 7,
+    "subject": "Science",
+    "category": "stem",
+    "question": "තල දර්පනයක් ඉදිරියේ තැබූ ඉංග්‍රීසි කැපිටල් අකුරු හතරක් පහත දැක්වේ. මේවායින් කුමන අක්‍ෂරය ඊට වෙනස් වූ ප්‍රතිබිම්බයක් දර්පනය තුළින් ප්‍රදර්ශනය කරන්නේද?",
+    "choices": [
+      "A",
+      "T",
+      "O",
+      "P"
+    ],
+    "answer": 4,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": null,
+      "year": null,
+      "region": null,
+      "source": "https://pastpapers.wiki/grade-07-science-2nd-term-test-paper-2019-sinhala-medium-southern-province/",
+      "pdf": "grade_07/Science/term_unknown/science-07.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 8,
+    "subject": "Science",
+    "category": "stem",
+    "question": "තිරයකට ගතහැකි යටිකුරු ප්‍රතිබිම්බ ලබාගත හැක්කේ පහත සඳහන් කුමන ප්‍රකාශ උපකරණයෙන්ද?",
+    "choices": [
+      "තල දර්පනය",
+      "උත්තල දර්පනය",
+      "අවතල දර්පනය",
+      "වීදුරු තහඩුව"
+    ],
+    "answer": 3,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": null,
+      "year": null,
+      "region": null,
+      "source": "https://pastpapers.wiki/grade-07-science-2nd-term-test-paper-2019-sinhala-medium-southern-province/",
+      "pdf": "grade_07/Science/term_unknown/science-07.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 9,
+    "subject": "Science",
+    "category": "stem",
+    "question": "පුෂ්පයක දික්කඩ රූපයක් මෙහි දැක්වේ. එම රූපයේ X අක්ෂරයෙන් දක්වා ඇත්තේ",
+    "choices": [
+      "කලංකයයි.",
+      "කීලයයි.",
+      "ඩිම්බකෝෂයයි.",
+      "ඩිම්බයයි."
+    ],
+    "answer": 4,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": null,
+      "year": null,
+      "region": null,
+      "source": "https://pastpapers.wiki/grade-07-science-2nd-term-test-paper-2019-sinhala-medium-southern-province/",
+      "pdf": "grade_07/Science/term_unknown/science-07.pdf",
+      "needs_context": true
+    }
+  },
+  {
+    "q_no": 10,
+    "subject": "Science",
+    "category": "stem",
+    "question": "පහත සංකේතයෙන් දැක්වෙන්නේ",
+    "choices": [
+      "වියළි කෝෂයකි.",
+      "ඩයෝඩයකි.",
+      "ධාරිත්‍රකයකි.",
+      "ඇමීටරයකි."
+    ],
+    "answer": 3,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": null,
+      "year": null,
+      "region": null,
+      "source": "https://pastpapers.wiki/grade-07-science-2nd-term-test-paper-2019-sinhala-medium-southern-province/",
+      "pdf": "grade_07/Science/term_unknown/science-07.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 11,
+    "subject": "Science",
+    "category": "stem",
+    "question": "ජලයේ වඩාත් හොඳින් දියවන ද්‍රව්‍යයකි.",
+    "choices": [
+      "නිල් කුඩු",
+      "සීනි",
+      "කහ කුඩු",
+      "පොල්තෙල් විද්‍යාව සියලුම හිමිකම් ඇවිරිණි"
+    ],
+    "answer": 2,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": null,
+      "year": null,
+      "region": null,
+      "source": "https://pastpapers.wiki/grade-07-science-2nd-term-test-paper-2019-sinhala-medium-southern-province/",
+      "pdf": "grade_07/Science/term_unknown/science-07.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 12,
+    "subject": "Science",
+    "category": "stem",
+    "question": "ඉහත රූප වලින් දක්වා ඇති බීජ හා ඵල ව්‍යාප්ත වන්නේ",
+    "choices": [
+      "ජලය මගිනි.",
+      "සුළඟ මගිනි.",
+      "ස්පෝටනය මගිනි.",
+      "සතුන් මගිනි."
+    ],
+    "answer": 2,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": null,
+      "year": null,
+      "region": null,
+      "source": "https://pastpapers.wiki/grade-07-science-2nd-term-test-paper-2019-sinhala-medium-southern-province/",
+      "pdf": "grade_07/Science/term_unknown/science-07.pdf",
+      "needs_context": true
+    }
+  },
+  {
+    "q_no": 13,
+    "subject": "Science",
+    "category": "stem",
+    "question": "පටල කම්පනයෙන් පමණක් ශබ්දය නිපදවන උපකරණ ඇති පිළිතුර තෝරන්න.",
+    "choices": [
+      "බෙරය, තබ්ලාව, බටනලාව.",
+      "හොරණෑව, බටනලාව, මැන්ඩලීනය",
+      "රබාන, ගැටබෙරය, තම්මැට්ටම",
+      "වයලීනය, සිතාරය, ගිටාරය."
+    ],
+    "answer": 3,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": null,
+      "year": null,
+      "region": null,
+      "source": "https://pastpapers.wiki/grade-07-science-2nd-term-test-paper-2019-sinhala-medium-southern-province/",
+      "pdf": "grade_07/Science/term_unknown/science-07.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 14,
+    "subject": "Science",
+    "category": "stem",
+    "question": "ද්වීබීජ පත්‍රී ශාකයකි.",
+    "choices": [
+      "මඩු",
+      "උණ",
+      "කිතුල්",
+      "පැපොල්"
+    ],
+    "answer": 4,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": null,
+      "year": null,
+      "region": null,
+      "source": "https://pastpapers.wiki/grade-07-science-2nd-term-test-paper-2019-sinhala-medium-southern-province/",
+      "pdf": "grade_07/Science/term_unknown/science-07.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 15,
+    "subject": "Science",
+    "category": "stem",
+    "question": "ප්‍රතිබිම්බ පහක් ලබා ගැනීමට තල දර්පන දෙකක් ආනතව තැබිය යුතු කෝණය කුමක්ද?",
+    "choices": [
+      "45ඣී",
+      "60ඣී",
+      "72ඣී",
+      "90ඣී"
+    ],
+    "answer": 2,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": null,
+      "year": null,
+      "region": null,
+      "source": "https://pastpapers.wiki/grade-07-science-2nd-term-test-paper-2019-sinhala-medium-southern-province/",
+      "pdf": "grade_07/Science/term_unknown/science-07.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 16,
+    "subject": "Science",
+    "category": "stem",
+    "question": "පෘථිවියේ ඇලුමීනියම් ලෝහය හා නිකල් ලෝහය ඇත්තේ පිළිවෙලින්",
+    "choices": [
+      "කබොලේ හා හරයේ ය.",
+      "කබොලේ හා ප්‍රාවරණයේ ය.",
+      "ප්‍රාවරණයේ හා හරයේ ය.",
+      "හරයේ හා කබොලේ ය."
+    ],
+    "answer": 1,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": null,
+      "year": null,
+      "region": null,
+      "source": "https://pastpapers.wiki/grade-07-science-2nd-term-test-paper-2019-sinhala-medium-southern-province/",
+      "pdf": "grade_07/Science/term_unknown/science-07.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 17,
+    "subject": "Science",
+    "category": "stem",
+    "question": "තැම්බූ බිත්තරයක් කටුව සහිතව හරස් අතට කැපූ විට පෘථිවි අභ්‍යන්තරයේ ව්‍යුහයට අනුරූප ආකෘතියක් ලෙස සැලකිය හැකිය. එහිදී බිත්තරයේ කහමදය අනුරූප වන්නේ පෘථිවියේ",
+    "choices": [
+      "කබොලට ය.",
+      "ප්‍රාවරණයට ය.",
+      "හරයට ය.",
+      "ඉහත කිසිවක් නොවේ."
+    ],
+    "answer": 3,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": null,
+      "year": null,
+      "region": null,
+      "source": "https://pastpapers.wiki/grade-07-science-2nd-term-test-paper-2019-sinhala-medium-southern-province/",
+      "pdf": "grade_07/Science/term_unknown/science-07.pdf",
+      "needs_context": true
+    }
+  },
+  {
+    "q_no": 18,
+    "subject": "Science",
+    "category": "stem",
+    "question": "වයින් කිරීම මගින් ක්‍රියාකරන සෙල්ලම් කාරයක ගබඩා වී ඇති ශක්ති ආකාරය කුමක්ද?",
+    "choices": [
+      "රසායනික ශක්තියයි.",
+      "චාලක ශක්තියයි.",
+      "විභව ශක්තියයි.",
+      "විද්‍යුත් ශක්තියයි."
+    ],
+    "answer": 3,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": null,
+      "year": null,
+      "region": null,
+      "source": "https://pastpapers.wiki/grade-07-science-2nd-term-test-paper-2019-sinhala-medium-southern-province/",
+      "pdf": "grade_07/Science/term_unknown/science-07.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 19,
+    "subject": "Science",
+    "category": "stem",
+    "question": "උත්තරාලෝකය හා දක්‍ෂිණාලෝකය නම් දර්ශන හට ගන්නේ කුමන ගෝලයේ ද?",
+    "choices": [
+      "මධ්‍ය ගෝලය",
+      "ස්තර ගෝලය",
+      "තාප ගෝලය",
+      "බහිර් ගෝලය"
+    ],
+    "answer": 3,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": null,
+      "year": null,
+      "region": null,
+      "source": "https://pastpapers.wiki/grade-07-science-2nd-term-test-paper-2019-sinhala-medium-southern-province/",
+      "pdf": "grade_07/Science/term_unknown/science-07.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 20,
+    "subject": "Science",
+    "category": "stem",
+    "question": "ආලෝක අන්වීක්‍ෂයේ ප්‍රාචීරය මගින්",
+    "choices": [
+      "කදාව වේදිකාව මත රඳවා තබා ගැනීමට උපකාරී වේ.",
+      "ප්‍රභවයෙන් ලැබෙන ආලෝකය වේදිකාව වෙතට යොමු කරයි.",
+      "කදාව සහ අවනෙත අතර දුර වෙනස් කරයි.",
+      "ආලෝක ප්‍රමාණය පාලනය කරයි."
+    ],
+    "answer": 4,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": null,
+      "year": null,
+      "region": null,
+      "source": "https://pastpapers.wiki/grade-07-science-2nd-term-test-paper-2019-sinhala-medium-southern-province/",
+      "pdf": "grade_07/Science/term_unknown/science-07.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 21,
+    "subject": "Science",
+    "category": "stem",
+    "question": "මෙම රූපයෙන් පෙන්වා ඇත්තේ",
+    "choices": [
+      "ශාක පත්‍රයක යටි අපිචර්මීය පටකයයි.",
+      "හෘත් පේශී පටකයයි.",
+      "රුධිර පටකයයි.",
+      "ලූණු සිවියේ සෛලයි."
+    ],
+    "answer": 1,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": null,
+      "year": null,
+      "region": null,
+      "source": "https://pastpapers.wiki/grade-07-science-2nd-term-test-paper-2019-sinhala-medium-southern-province/",
+      "pdf": "grade_07/Science/term_unknown/science-07.pdf",
+      "needs_context": true
+    }
+  },
+  {
+    "q_no": 22,
+    "subject": "Science",
+    "category": "stem",
+    "question": "රසායනික ශක්තිය ර් ඣ තාප ශක්තිය ඉහත ශක්ති පරිණාමනය හා හොඳින් ගැලපෙන්නේ",
+    "choices": [
+      "දහනය වන ඉටිපන්දමයි.",
+      "දල්වන ලද විදුලිපන්දමයි.",
+      "රත්කළ විදුලි ඉස්ත්‍රික්කයයි.",
+      "බයිසිකල් ඩයිනමෝවයි."
+    ],
+    "answer": 1,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": null,
+      "year": null,
+      "region": null,
+      "source": "https://pastpapers.wiki/grade-07-science-2nd-term-test-paper-2019-sinhala-medium-southern-province/",
+      "pdf": "grade_07/Science/term_unknown/science-07.pdf",
+      "needs_context": true
+    }
+  },
+  {
+    "q_no": 23,
+    "subject": "Science",
+    "category": "stem",
+    "question": "පහත සඳහන් නගර අතුරෙන් උන්නතාංශය අඩු නගරය හා වායුගෝලීය පීඩනය අඩු නගරය පිළිවෙලින් දැක්වෙන වරණය කුමක්ද? a - කොළඹ b - මහනුවර c - නුවරඑළිය.",
+    "choices": [
+      "a හා b",
+      "a හා c",
+      "b හා c",
+      "c හා a"
+    ],
+    "answer": 2,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": null,
+      "year": null,
+      "region": null,
+      "source": "https://pastpapers.wiki/grade-07-science-2nd-term-test-paper-2019-sinhala-medium-southern-province/",
+      "pdf": "grade_07/Science/term_unknown/science-07.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 24,
+    "subject": "Science",
+    "category": "stem",
+    "question": "අපෘෂ්ඨවංශී සතුන් පමණක් දක්නට ලැබෙන පිළිතුර කුමක්ද?",
+    "choices": [
+      "මුහුදු ලිහිණියා, සමනළයා, ගෙම්බා",
+      "ඉස්සා, ඉබ්බා, මුහුදු අශ්වයා",
+      "මුහුදු ලිහිණියා, ගෙම්බා, කබරගොයා",
+      "කූඩැල්ලා, සමනළයා, ගොලුබෙල්ලා"
+    ],
+    "answer": 4,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": null,
+      "year": null,
+      "region": null,
+      "source": "https://pastpapers.wiki/grade-07-science-2nd-term-test-paper-2019-sinhala-medium-southern-province/",
+      "pdf": "grade_07/Science/term_unknown/science-07.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 25,
+    "subject": "Science",
+    "category": "stem",
+    "question": "අන්වීක්‍ෂය සම්බන්ධ ප්‍රකාශ තුනක් පහත දැක්වේ. a - අවනෙත වස්තුවට සමීප කාචයයි. b - දළ සීරුමාරුව මගින් දේහ නළය චලනය කළ හැකිය. c - අවනෙත ලෙස අවතල කාච යොදා ගනී. මේවායින් සත්‍ය වන්නේ",
+    "choices": [
+      "a හා b",
+      "a හා c",
+      "b හා c",
+      "a, b හා c සියල්ලම"
+    ],
+    "answer": 1,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": null,
+      "year": null,
+      "region": null,
+      "source": "https://pastpapers.wiki/grade-07-science-2nd-term-test-paper-2019-sinhala-medium-southern-province/",
+      "pdf": "grade_07/Science/term_unknown/science-07.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 1,
+    "subject": "Catholicism",
+    "category": "humanities",
+    "question": "\"ප්‍රොෆෙටෙස්\" යන්නෙහි අර්ථය වන්නේ",
+    "choices": [
+      "දෙවියන් වහන්සේ වෙනුවෙන් කථා කරන තැනැත්තා ය.",
+      "දෙවියන් වහන්සේ අප සමඟය.",
+      "දෙවියන් වහන්සේ කැඳවන සේක.",
+      "දෙවියන් වහන්සේ අප ගලවන සේක."
+    ],
+    "answer": 1,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "1",
+      "year": 2018,
+      "region": "North Western Province",
+      "source": "https://pastpapers.wiki/grade-07-catholic-1st-term-test-paper-2018-sinhala-medium-north-western-province/",
+      "pdf": "grade_07/Catholicism/term_1/grade-07-catholic-1st-term-test-paper-2018-sinhala-medium-north-western-province.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 2,
+    "subject": "Catholicism",
+    "category": "humanities",
+    "question": "දේශක දිවැසිවරයෙකු වන්නේ",
+    "choices": [
+      "එළියා ය.",
+      "යෙසායා ය.",
+      "ජෙරමියා ය.",
+      "එසකියෙල් ය."
+    ],
+    "answer": 1,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "1",
+      "year": 2018,
+      "region": "North Western Province",
+      "source": "https://pastpapers.wiki/grade-07-catholic-1st-term-test-paper-2018-sinhala-medium-north-western-province/",
+      "pdf": "grade_07/Catholicism/term_1/grade-07-catholic-1st-term-test-paper-2018-sinhala-medium-north-western-province.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 4,
+    "subject": "Catholicism",
+    "category": "humanities",
+    "question": "නියං සමයක දී දිව්‍ය සංරක්‍ෂණය අත්දුටු දිවැසිවරයා වන්නේ",
+    "choices": [
+      "එළීෂා දිවැසිවරයා ය.",
+      "නාතාන් දිවැසිවරයා ය.",
+      "එළියා දිවැසිවරයා ය.",
+      "හොසියා දිවැසිවරයා ය."
+    ],
+    "answer": 3,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "1",
+      "year": 2018,
+      "region": "North Western Province",
+      "source": "https://pastpapers.wiki/grade-07-catholic-1st-term-test-paper-2018-sinhala-medium-north-western-province/",
+      "pdf": "grade_07/Catholicism/term_1/grade-07-catholic-1st-term-test-paper-2018-sinhala-medium-north-western-province.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 5,
+    "subject": "Catholicism",
+    "category": "humanities",
+    "question": "‘දෙවියන් වහන්සේ ගලවන සේක.’ යන නමෙහි අර්ථය ඇති දිවැසිවරයා වන්නේ",
+    "choices": [
+      "ජෙරමියා දිවැසිවරයා ය.",
+      "යෙසායා දිවැසිවරයා ය.",
+      "එසකියෙල් දිවැසිවරයා ය.",
+      "ආමොස් දිවැසිවරයා ය."
+    ],
+    "answer": 2,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "1",
+      "year": 2018,
+      "region": "North Western Province",
+      "source": "https://pastpapers.wiki/grade-07-catholic-1st-term-test-paper-2018-sinhala-medium-north-western-province/",
+      "pdf": "grade_07/Catholicism/term_1/grade-07-catholic-1st-term-test-paper-2018-sinhala-medium-north-western-province.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 6,
+    "subject": "Catholicism",
+    "category": "humanities",
+    "question": "ජෙරමියා දිවැසිවරයාගේ පියාගේ නාමය වන්නේ",
+    "choices": [
+      "ආමෝස් ය.",
+      "බූසී ය.",
+      "හිල්කියා ය.",
+      "සෙකරියස් ය."
+    ],
+    "answer": 3,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "1",
+      "year": 2018,
+      "region": "North Western Province",
+      "source": "https://pastpapers.wiki/grade-07-catholic-1st-term-test-paper-2018-sinhala-medium-north-western-province/",
+      "pdf": "grade_07/Catholicism/term_1/grade-07-catholic-1st-term-test-paper-2018-sinhala-medium-north-western-province.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 8,
+    "subject": "Catholicism",
+    "category": "humanities",
+    "question": "\"මම නුඹට බොහෝ දරු සම්පත් දෙමි. නුඹෙන් ................. උපදවන්නෙමි; නුඹෙන් .................. පහළ වන්නාහ.",
+    "choices": [
+      "රජවරු, ජාතීන්.",
+      "ජාතීන්, රජවරු.",
+      "දරු සම්පත්, දිවැසිවරු.",
+      "සෙනඟ, රජවරු"
+    ],
+    "answer": 2,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "1",
+      "year": 2018,
+      "region": "North Western Province",
+      "source": "https://pastpapers.wiki/grade-07-catholic-1st-term-test-paper-2018-sinhala-medium-north-western-province/",
+      "pdf": "grade_07/Catholicism/term_1/grade-07-catholic-1st-term-test-paper-2018-sinhala-medium-north-western-province.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 9,
+    "subject": "Catholicism",
+    "category": "humanities",
+    "question": "දෙවියන් වහන්සේ ආබ්‍රහම්තුමා සමඟ ඇති කරගත් ගිවිසුමේ බාහිර සලකුණ වන්නේ",
+    "choices": [
+      "පූජා කිරීමයි.",
+      "කැප කිරීමයි.",
+      "චර්මෙඡ්දනයයි.",
+      "දේදුන්නයි."
+    ],
+    "answer": 3,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "1",
+      "year": 2018,
+      "region": "North Western Province",
+      "source": "https://pastpapers.wiki/grade-07-catholic-1st-term-test-paper-2018-sinhala-medium-north-western-province/",
+      "pdf": "grade_07/Catholicism/term_1/grade-07-catholic-1st-term-test-paper-2018-sinhala-medium-north-western-province.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 2,
+    "subject": "Catholicism",
+    "category": "humanities",
+    "question": "විජයග්‍රහණයේ අප ස්වාමි¥වගේ මංගල්‍ය සමරනු ලබන්නේ",
+    "choices": [
+      "ඔක්තෝම්බර් 07",
+      "නොවැම්බර් 07",
+      "දෙසැම්බර් 10",
+      "මැයි 05"
+    ],
+    "answer": 1,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "3",
+      "year": 2018,
+      "region": "North Western Province",
+      "source": "https://pastpapers.wiki/grade-07-catholic-3rd-term-test-paper-2018-sinhala-medium-north-western-province/",
+      "pdf": "grade_07/Catholicism/term_3/grade-07-catholic-3rd-term-test-paper-2018-sinhala-medium-north-western-province.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 3,
+    "subject": "Catholicism",
+    "category": "humanities",
+    "question": "ප්‍රසාද ස්නාපන පිළිවෙතේ වැදගත් ම අවස්ථාව වන්නේ",
+    "choices": [
+      "සාන්තුවර පිහිට ඇයදීම.",
+      "දරුවාගේ හිස මත අත තබා යැදීම.",
+      "හිස මත ජලය වත්කරමින් ප්‍රසාද ස්නාපනය කිරීම.",
+      "ක්‍රිස්මා තෛලයෙන් ආලේප කිරීම."
+    ],
+    "answer": 3,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "3",
+      "year": 2018,
+      "region": "North Western Province",
+      "source": "https://pastpapers.wiki/grade-07-catholic-3rd-term-test-paper-2018-sinhala-medium-north-western-province/",
+      "pdf": "grade_07/Catholicism/term_3/grade-07-catholic-3rd-term-test-paper-2018-sinhala-medium-north-western-province.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 4,
+    "subject": "Catholicism",
+    "category": "humanities",
+    "question": "ඊසාක් යන්නෙහි අර්ථය වන්නේ",
+    "choices": [
+      "සිනාසීමයි.",
+      "ආශිර්වාදයයි.",
+      "දෙවියන් වහන්සේ ගළවන සේක යන්නයි.",
+      "දෙවියන් වහන්සේගේ මිත්‍රයා යන්නයි."
+    ],
+    "answer": 1,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "3",
+      "year": 2018,
+      "region": "North Western Province",
+      "source": "https://pastpapers.wiki/grade-07-catholic-3rd-term-test-paper-2018-sinhala-medium-north-western-province/",
+      "pdf": "grade_07/Catholicism/term_3/grade-07-catholic-3rd-term-test-paper-2018-sinhala-medium-north-western-province.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 5,
+    "subject": "Catholicism",
+    "category": "humanities",
+    "question": "ක්‍රිස්තුන් වහන්සේගේ දුක්ප්‍රාප්තිය සිහි කරනු ලබන පාද නමස්කාරයේ ස්ථාන",
+    "choices": [
+      "12 කි.",
+      "9 කි.",
+      "13 කි.",
+      "14 කි."
+    ],
+    "answer": 4,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "3",
+      "year": 2018,
+      "region": "North Western Province",
+      "source": "https://pastpapers.wiki/grade-07-catholic-3rd-term-test-paper-2018-sinhala-medium-north-western-province/",
+      "pdf": "grade_07/Catholicism/term_3/grade-07-catholic-3rd-term-test-paper-2018-sinhala-medium-north-western-province.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 6,
+    "subject": "Catholicism",
+    "category": "humanities",
+    "question": "වර්තමානයේ අප භාවිතා කරන ජපමාල බැතිය හඳුන්වා දුන්නේ",
+    "choices": [
+      "II වන ජුවාම් පාවුළු ශුද්ධෝත්තම පියතුමා",
+      "V වන පියුස් ශුද්ධෝත්තම පියතුමා",
+      "සාන්ත ඩොමිනික් ගුස්මාන් පියතුමා",
+      "XI වන ක්ලෙමන්ට් ශුද්ධෝත්තම පියතුමා"
+    ],
+    "answer": 3,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "3",
+      "year": 2018,
+      "region": "North Western Province",
+      "source": "https://pastpapers.wiki/grade-07-catholic-3rd-term-test-paper-2018-sinhala-medium-north-western-province/",
+      "pdf": "grade_07/Catholicism/term_3/grade-07-catholic-3rd-term-test-paper-2018-sinhala-medium-north-western-province.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 7,
+    "subject": "Catholicism",
+    "category": "humanities",
+    "question": "යාම යැදුම තුළ අනිවාර්යයෙන්ම භාවිතා වන්නේ",
+    "choices": [
+      "ප්‍රේම ගීය.",
+      "ගිීතාවලියේ ගීතිකාය.",
+      "කිතුබැති ගීතිකාය.",
+      "දේව ප්‍රශංසාය. කතෝලික ධර්මය"
+    ],
+    "answer": 2,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "3",
+      "year": 2018,
+      "region": "North Western Province",
+      "source": "https://pastpapers.wiki/grade-07-catholic-3rd-term-test-paper-2018-sinhala-medium-north-western-province/",
+      "pdf": "grade_07/Catholicism/term_3/grade-07-catholic-3rd-term-test-paper-2018-sinhala-medium-north-western-province.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 8,
+    "subject": "Catholicism",
+    "category": "humanities",
+    "question": "ආබ්‍රහම් යන්නෙහි අර්ථය වන්නේ",
+    "choices": [
+      "ජාතීන්ගේ පියාණෝය.",
+      "උතුම් පියාණෝය.",
+      "විශ්වයේ පියාණෝය.",
+      "ගැලවීමේ පියාණෝය."
+    ],
+    "answer": 1,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "3",
+      "year": 2018,
+      "region": "North Western Province",
+      "source": "https://pastpapers.wiki/grade-07-catholic-3rd-term-test-paper-2018-sinhala-medium-north-western-province/",
+      "pdf": "grade_07/Catholicism/term_3/grade-07-catholic-3rd-term-test-paper-2018-sinhala-medium-north-western-province.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 9,
+    "subject": "Catholicism",
+    "category": "humanities",
+    "question": "පූජකවරය දානය කරනු ලබන්නේ",
+    "choices": [
+      "පියතුමාය.",
+      "කාදිනල් හිමිපාණෝය.",
+      "පාප් වහන්සේය.",
+      "රදගුරු හිමිපාණෝය."
+    ],
+    "answer": 4,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "3",
+      "year": 2018,
+      "region": "North Western Province",
+      "source": "https://pastpapers.wiki/grade-07-catholic-3rd-term-test-paper-2018-sinhala-medium-north-western-province/",
+      "pdf": "grade_07/Catholicism/term_3/grade-07-catholic-3rd-term-test-paper-2018-sinhala-medium-north-western-province.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 10,
+    "subject": "Catholicism",
+    "category": "humanities",
+    "question": "ජේසුස් වහන්සේ රේගුපොළේදී තෝරාගත් ශ්‍රාවකයා වන්නේ",
+    "choices": [
+      "ශු. ජුවාම් තුමාය.",
+      "ශු. ජාකොබ් තුමාය.",
+      "ශු. මතෙව් තුමාය.",
+      "ශු. ස්තේපන් තුමාය."
+    ],
+    "answer": 3,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "3",
+      "year": 2018,
+      "region": "North Western Province",
+      "source": "https://pastpapers.wiki/grade-07-catholic-3rd-term-test-paper-2018-sinhala-medium-north-western-province/",
+      "pdf": "grade_07/Catholicism/term_3/grade-07-catholic-3rd-term-test-paper-2018-sinhala-medium-north-western-province.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 1,
+    "subject": "Christianity",
+    "category": "humanities",
+    "question": "ශුද්ධාත්මයාණන් වහන්සේ විසින් ජේසුස් වහන්සේව පාළුකරයට පැමිණවූ අවස්ථාවේ උන්වහන්සේ පාළුකරයේ ගත කළ දින ගණන",
+    "choices": [
+      "14 කි.",
+      "07 කි.",
+      "40 කි.",
+      "10 කි."
+    ],
+    "answer": 3,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "2",
+      "year": 2019,
+      "region": "North Central Province",
+      "source": "https://pastpapers.wiki/grade-07-christianity-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-central-province/",
+      "pdf": "grade_07/Christianity/term_2/grade-07-christianity-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-central-p-b20960ce.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 2,
+    "subject": "Christianity",
+    "category": "humanities",
+    "question": "එදා ජුදෙව් සමාජය තුළ දේවමාළිගයට යාමට අවසර ලත් පිරිසක් වන්නේ",
+    "choices": [
+      "පරිසිවරුන් ය.",
+      "අයකැමියන් ය.",
+      "කාන්තාවන් ය.",
+      "රෝගීන් ය."
+    ],
+    "answer": 1,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "2",
+      "year": 2019,
+      "region": "North Central Province",
+      "source": "https://pastpapers.wiki/grade-07-christianity-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-central-province/",
+      "pdf": "grade_07/Christianity/term_2/grade-07-christianity-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-central-p-b20960ce.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 3,
+    "subject": "Christianity",
+    "category": "humanities",
+    "question": "අන්තිම රාත්‍රී භෝජනය අවස්ථාවේ ජේසුස් වහන්සේ ශ්‍රාවකයන්ට ලබා දුන් රොටී යනු උන්වහන්සේගේ",
+    "choices": [
+      "රුධීරය යි.",
+      "ශරීරය යි.",
+      "ඇලය යි.",
+      "කඳුළු යි."
+    ],
+    "answer": 2,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "2",
+      "year": 2019,
+      "region": "North Central Province",
+      "source": "https://pastpapers.wiki/grade-07-christianity-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-central-province/",
+      "pdf": "grade_07/Christianity/term_2/grade-07-christianity-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-central-p-b20960ce.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 4,
+    "subject": "Christianity",
+    "category": "humanities",
+    "question": "ගෙත්සෙමනේ යාච්ඤාව අවස්ථාවේ ජේසුස් වහන්සේ සමඟ සිටි ශ්‍රාවකයන් තිදෙනා වන්නේ",
+    "choices": [
+      "පේදුරු, ජාකොබ්, ජොහාන් ය.",
+      "ජොහාන්, ඇන්ඩෘ, ජාකොබ් ය.",
+      "පේදුරු, තද්දෙවුස්, ජාකොබ් ය.",
+      "ජාකොබ්, ඇන්ඩෘ, සීමොන් ය."
+    ],
+    "answer": 1,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "2",
+      "year": 2019,
+      "region": "North Central Province",
+      "source": "https://pastpapers.wiki/grade-07-christianity-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-central-province/",
+      "pdf": "grade_07/Christianity/term_2/grade-07-christianity-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-central-p-b20960ce.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 5,
+    "subject": "Christianity",
+    "category": "humanities",
+    "question": "ජේසුස් වහන්සේගේ උත්ථානය විශ්වාස කිරීමට මැලි වූ ශ්‍රාවකයා වන්නේ",
+    "choices": [
+      "පේදුරු ය.",
+      "තෝමස් ය.",
+      "අල්පේවුස් ය.",
+      "මාක් ය."
+    ],
+    "answer": 2,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "2",
+      "year": 2019,
+      "region": "North Central Province",
+      "source": "https://pastpapers.wiki/grade-07-christianity-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-central-province/",
+      "pdf": "grade_07/Christianity/term_2/grade-07-christianity-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-central-p-b20960ce.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 6,
+    "subject": "Christianity",
+    "category": "humanities",
+    "question": "පෙන්තකොස්ත දිනයේ පේදුරුතුමාගේ දේශනයෙන් පසු ස්වාමින් වහන්සේ පිළිගත් සංඛ්‍යාව වන්නේ",
+    "choices": [
+      "3000 කි.",
+      "4000 කි.",
+      "5000 කි.",
+      "6000 කි."
+    ],
+    "answer": 1,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "2",
+      "year": 2019,
+      "region": "North Central Province",
+      "source": "https://pastpapers.wiki/grade-07-christianity-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-central-province/",
+      "pdf": "grade_07/Christianity/term_2/grade-07-christianity-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-central-p-b20960ce.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 7,
+    "subject": "Christianity",
+    "category": "humanities",
+    "question": "ශුද්ධාත්මයාණන් වහන්සේගේ ආගමනය සිදුවූයේ",
+    "choices": [
+      "ගෙත්සෙමනෙ උයනේ දී ය.",
+      "බෙත්ලෙහෙමේ දී ය.",
+      "ජෙරුසලමේ දී ය.",
+      "එන්ගෙයේ දී ය."
+    ],
+    "answer": 3,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "2",
+      "year": 2019,
+      "region": "North Central Province",
+      "source": "https://pastpapers.wiki/grade-07-christianity-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-central-province/",
+      "pdf": "grade_07/Christianity/term_2/grade-07-christianity-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-central-p-b20960ce.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 8,
+    "subject": "Christianity",
+    "category": "humanities",
+    "question": "පෙන්තකොස්ත දා ‘‘ගිනි වැනි දිව්’’ යන්නෙන් අදහස් කරන්නේ",
+    "choices": [
+      "නිර්භයව සාක්ෂි දැරීම සඳහා අවශ්‍ය බලය දෙවියන් වහන්සේ ලබා දුන් බව ය.",
+      "නිර්භයව සාක්ෂි දැරීම ය.",
+      "නිර්භය විය යුතු බව ය.",
+      "ගිනි වැනි ජීවිත බව ය. 07"
+    ],
+    "answer": 1,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "2",
+      "year": 2019,
+      "region": "North Central Province",
+      "source": "https://pastpapers.wiki/grade-07-christianity-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-central-province/",
+      "pdf": "grade_07/Christianity/term_2/grade-07-christianity-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-central-p-b20960ce.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 9,
+    "subject": "Christianity",
+    "category": "humanities",
+    "question": "පේදුරු සහ ජොහාන් තුමා ප්‍රථමයෙන්ම කළ සුව කිරීම වන්නේ",
+    "choices": [
+      "කුදු ස්ත්‍රිය සුව කිරීම යි.",
+      "අන්ධයකු සුව කිරීම යි.",
+      "උපන්දා සිට කොර වූ පුද්ගලයා සුවපත් කිරීම ය.",
+      "ලේ වතුර වීමේ රෝගියකු සුව කිරීම යි."
+    ],
+    "answer": 3,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "2",
+      "year": 2019,
+      "region": "North Central Province",
+      "source": "https://pastpapers.wiki/grade-07-christianity-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-central-province/",
+      "pdf": "grade_07/Christianity/term_2/grade-07-christianity-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-central-p-b20960ce.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 10,
+    "subject": "Christianity",
+    "category": "humanities",
+    "question": "මුල් කිතුනු සභාවේ පදනම වූයේ කුමක්ද?",
+    "choices": [
+      "යාච්ඤාව යි.",
+      "දේව මාළිගය යි.",
+      "ශ්‍රාවකයෝ ය.",
+      "ගොඩනැඟිල්ල යි. "
+    ],
+    "answer": 1,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "2",
+      "year": 2019,
+      "region": "North Central Province",
+      "source": "https://pastpapers.wiki/grade-07-christianity-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-central-province/",
+      "pdf": "grade_07/Christianity/term_2/grade-07-christianity-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-central-p-b20960ce.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 1,
+    "subject": "Christianity",
+    "category": "humanities",
+    "question": "‘‘අහසේ කුරුල්ලන් දෙස බලන්න. උන් වපුරන්නේවත් කපන්නේවත් අටුකොටුවල රැස්කරන්නේවත් නැත’’ මෙම බයිබල් වදන තුළින් අපට පැහැදිලි වන්නේ",
+    "choices": [
+      "දේව මැවිල්ලේ අලංකාරය පිළිබඳවයි",
+      "දේව මැවිල්ල තුළ ඇති දේව රැකවරණය පිළිබඳවයි.",
+      "දේව මැවිල්ල තුළ සතුන්ට වැදගත් තැනක් හිමිවන බවයි.",
+      "දේව මැවිල්ලේ අහසේ කුරුල්ලන් විශේෂ තැනක් ගන්නා බවයි."
+    ],
+    "answer": 4,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "3",
+      "year": 2021,
+      "region": "Western Province",
+      "source": "https://pastpapers.wiki/western-province-grade-07-christianity-third-term-paper-2021-sinhala-medium/",
+      "pdf": "grade_07/Christianity/term_3/g7-christ-sm.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 3,
+    "subject": "Christianity",
+    "category": "humanities",
+    "question": "ආමොස් දිවැසිවරයා 4.යෙසායා දිවැසිවරයා 3. අපගේ ජීවිතවලට පැමිණෙන පරීක්ෂා හා ගැටලු ජයගැනීම සඳහා අප ක්‍රියා කළ යුත්තේ",
+    "choices": [
+      "ජීවිත ගැටලු එන විට දේව වචනය තුළින් ඒවාට සාර්ථක ලෙස මුහුණ දීම",
+      "එක එල්ලේම පරීක්ෂාවන් ප්‍රතික්ෂේප නොකිරීම",
+      "පරික්ෂා පැමිණෙන විට විසඳුම් සොයා යාම",
+      "අපගේ අලසකම පරීක්ෂාවට ලක්වීමට පහසු මාර්ගයක් බව තේරුම් ගැනීම"
+    ],
+    "answer": 2,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "3",
+      "year": 2021,
+      "region": "Western Province",
+      "source": "https://pastpapers.wiki/western-province-grade-07-christianity-third-term-paper-2021-sinhala-medium/",
+      "pdf": "grade_07/Christianity/term_3/g7-christ-sm.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 7,
+    "subject": "Christianity",
+    "category": "humanities",
+    "question": "l%sia;shdks O¾uh 1,2 2 තෙවන වාර ඇගයීම Mz;L ,Wjpkjpg;gPL Year End Evaluation - 2021 Grade (Subject) Western Province6 | P a g",
+    "choices": [
+      "උන්වහන්සේට පීඩා කළ අය උදෙසා කමාව අයදීමෙන්",
+      "උන්වහන්සේගේ මව වූ මරියතුමිය ප්‍රේමකළ ශ්‍රාවකයාට භාර කිරීමෙන්",
+      "මෙහෙවර සාර්ථකව නිම කිරීමෙන්",
+      "සියල්ලන්ගේ පාපය උදෙසා ජීවිතය පූජා කිරීමෙන් 7."
+    ],
+    "answer": 2,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "3",
+      "year": 2021,
+      "region": "Western Province",
+      "source": "https://pastpapers.wiki/western-province-grade-07-christianity-third-term-paper-2021-sinhala-medium/",
+      "pdf": "grade_07/Christianity/term_3/g7-christ-sm.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 8,
+    "subject": "Christianity",
+    "category": "humanities",
+    "question": "පහත සඳහන් සිදුවීම් අතුරින් පෙන්තකොස්ත දින සිදු වූ සිදුවීමක් නොවන්නේ",
+    "choices": [
+      "සැඩ සුළඟක් හමන්නාක් වැනි හැඬක් ඇති වීම.",
+      "තද වර්ෂාවක් ඇතිවීම",
+      "ගිනි දලු වැනි දිව් රැස්ව සිටි අය මත පිහිටනු ලැබීම",
+      "අන්‍ය භාෂා වලින් කතා කිරීම"
+    ],
+    "answer": 2,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "3",
+      "year": 2021,
+      "region": "Western Province",
+      "source": "https://pastpapers.wiki/western-province-grade-07-christianity-third-term-paper-2021-sinhala-medium/",
+      "pdf": "grade_07/Christianity/term_3/g7-christ-sm.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 12,
+    "subject": "Christianity",
+    "category": "humanities",
+    "question": "දෙවිඳුන් අපට ලබාදුන් හැකියාවන් නිසි ලෙස පරිහරණය කරමින් අප කළ යුතු වන්නේ",
+    "choices": [
+      "අන් අයගේ ජීවිත සවිමත් කිරීම",
+      "අවශ්‍ය වූ විට ඉදිරිපත් කිරීම",
+      "අපගේ පෞද්ගලික පරිහරණයට පමණක් භාවිතා කිරීම",
+      "හැකියාවන් සඟවා තබා ගැනීම"
+    ],
+    "answer": 1,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "3",
+      "year": 2021,
+      "region": "Western Province",
+      "source": "https://pastpapers.wiki/western-province-grade-07-christianity-third-term-paper-2021-sinhala-medium/",
+      "pdf": "grade_07/Christianity/term_3/g7-christ-sm.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 13,
+    "subject": "Christianity",
+    "category": "humanities",
+    "question": "සමාජයේ අවශ්‍යතා ඉදිරියේ කිතුනු අප ක්‍රියා කළ යුත්තේ",
+    "choices": [
+      "මිත්‍රකම්වලට විශේෂ සැලකිල්ලක් දැක්වීම",
+      "තරාතිරම් අනුව සැලකීම",
+      "ප්‍රති උපකාර බලාපොරොත්තු නොවීම",
+      "වාසිදායක තත්වයන් ගැන සැලකිලිමත් වීම Grade (Subject) Western Province7 | P a g"
+    ],
+    "answer": 3,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "3",
+      "year": 2021,
+      "region": "Western Province",
+      "source": "https://pastpapers.wiki/western-province-grade-07-christianity-third-term-paper-2021-sinhala-medium/",
+      "pdf": "grade_07/Christianity/term_3/g7-christ-sm.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 16,
+    "subject": "Christianity",
+    "category": "humanities",
+    "question": "ශුද්ධ බයිබලයේ පරිවර්තනය සම්බන්ධයෙන් ජෝන් වයික්ලීෆ් පූජකතුමා කළ සේවයකි.",
+    "choices": [
+      "පැරණී ගිවිසුම ලතින් බසට පරිවර්තනය කිරීම",
+      "ලතින් බයිබලය ඉංග්‍රීසි බසට පරිවර්තනය කිරීම",
+      "ශුද්ධ බයිබලය ඉංග්‍රීසි බසට පරිවර්තනය කිරීම",
+      "ශුද්ධ බයිබලය ජර්මන් බසට පරිවර්තනය කිරීම"
+    ],
+    "answer": 2,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "3",
+      "year": 2021,
+      "region": "Western Province",
+      "source": "https://pastpapers.wiki/western-province-grade-07-christianity-third-term-paper-2021-sinhala-medium/",
+      "pdf": "grade_07/Christianity/term_3/g7-christ-sm.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 1,
+    "subject": "Islam",
+    "category": "humanities",
+    "question": "තව්හීද් යන්නෙහි අදහස",
+    "choices": [
+      "ඒකීයත්වය",
+      "දූතභාවය",
+      "පරලොව",
+      "එක්කෙනෙකි"
+    ],
+    "answer": 1,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "2",
+      "year": 2020,
+      "region": "Southern Province",
+      "source": "https://pastpapers.wiki/grade-07-islam-2nd-term-test-paper-2020-sinhala-medium-southern-province/",
+      "pdf": "grade_07/Islam/term_2/grade-07-islam-2nd-term-test-paper-2020-sinhala-medium-southern-province.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 2,
+    "subject": "Islam",
+    "category": "humanities",
+    "question": "ඊමාන් මුෆස්සල් යනු",
+    "choices": [
+      "කෙටිඊමාන්",
+      "විස්තරාත්මක ඊමාන්",
+      "සු`ඵ ඊමාන්",
+      "පැහැදිලි ඊමාන්"
+    ],
+    "answer": 2,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "2",
+      "year": 2020,
+      "region": "Southern Province",
+      "source": "https://pastpapers.wiki/grade-07-islam-2nd-term-test-paper-2020-sinhala-medium-southern-province/",
+      "pdf": "grade_07/Islam/term_2/grade-07-islam-2nd-term-test-paper-2020-sinhala-medium-southern-province.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 3,
+    "subject": "Islam",
+    "category": "humanities",
+    "question": "අල්ලාහ්ට වාජිබ් වූ ගුණාංග අතරින් “ඉල්මුන්” යනු",
+    "choices": [
+      "බලය",
+      "පැනුම",
+      "සවන්දීම",
+      "දැනුම"
+    ],
+    "answer": 4,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "2",
+      "year": 2020,
+      "region": "Southern Province",
+      "source": "https://pastpapers.wiki/grade-07-islam-2nd-term-test-paper-2020-sinhala-medium-southern-province/",
+      "pdf": "grade_07/Islam/term_2/grade-07-islam-2nd-term-test-paper-2020-sinhala-medium-southern-province.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 4,
+    "subject": "Islam",
+    "category": "humanities",
+    "question": "ප්‍රානය අත්පත් කරගන්නා මලක්වරයා",
+    "choices": [
+      "ඉස්රාෆීල් (අලෛ)",
+      "ජිබ්රිල් (අලෛ)",
+      "ඉස්රාඊල් (අලෛ)",
+      "රකීබ් (අලෛ)"
+    ],
+    "answer": 3,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "2",
+      "year": 2020,
+      "region": "Southern Province",
+      "source": "https://pastpapers.wiki/grade-07-islam-2nd-term-test-paper-2020-sinhala-medium-southern-province/",
+      "pdf": "grade_07/Islam/term_2/grade-07-islam-2nd-term-test-paper-2020-sinhala-medium-southern-province.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 5,
+    "subject": "Islam",
+    "category": "humanities",
+    "question": "සවුම්ධාරීන් ඇතු`ඵවන ස්වර්ගයේ දොරටුව වන්නේ",
+    "choices": [
+      "ෆිර්දවුස්",
+      "අද්න්",
+      "රෛයාන්",
+      "සලාම්"
+    ],
+    "answer": 3,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "2",
+      "year": 2020,
+      "region": "Southern Province",
+      "source": "https://pastpapers.wiki/grade-07-islam-2nd-term-test-paper-2020-sinhala-medium-southern-province/",
+      "pdf": "grade_07/Islam/term_2/grade-07-islam-2nd-term-test-paper-2020-sinhala-medium-southern-province.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 7,
+    "subject": "Islam",
+    "category": "humanities",
+    "question": "ආගම් සහ සුහුෆ් පහල වු නබි වරයා",
+    "choices": [
+      "ආදම් (අලෛ)තුමා",
+      "මුසා (අලෛ)තුමා",
+      "ඊසා(අලෛ)තුමා",
+      "ඉබ්රාහීම්(අලෛ)"
+    ],
+    "answer": 2,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "2",
+      "year": 2020,
+      "region": "Southern Province",
+      "source": "https://pastpapers.wiki/grade-07-islam-2nd-term-test-paper-2020-sinhala-medium-southern-province/",
+      "pdf": "grade_07/Islam/term_2/grade-07-islam-2nd-term-test-paper-2020-sinhala-medium-southern-province.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 8,
+    "subject": "Islam",
+    "category": "humanities",
+    "question": "අල්අකූර්ආන්හි ප්‍රධාන මූලාශ්‍රය අතරින් දෙවැනි මූලාශ්‍රය",
+    "choices": [
+      "අල්අකූර්ආන්",
+      "අල්හදීස්",
+      "අල්ඉජ්මා",
+      "අල්කියාස්"
+    ],
+    "answer": 2,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "2",
+      "year": 2020,
+      "region": "Southern Province",
+      "source": "https://pastpapers.wiki/grade-07-islam-2nd-term-test-paper-2020-sinhala-medium-southern-province/",
+      "pdf": "grade_07/Islam/term_2/grade-07-islam-2nd-term-test-paper-2020-sinhala-medium-southern-province.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 9,
+    "subject": "Islam",
+    "category": "humanities",
+    "question": "අල්අකූර්ආන්හි පළමුවෙන්ම පහළ වූ සුරාව",
+    "choices": [
+      "සුරා කද්ර්",
+      "සුරාඅලක්",
+      "සුරාෆලක්",
+      "සුරාෆාතිහා"
+    ],
+    "answer": 2,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "2",
+      "year": 2020,
+      "region": "Southern Province",
+      "source": "https://pastpapers.wiki/grade-07-islam-2nd-term-test-paper-2020-sinhala-medium-southern-province/",
+      "pdf": "grade_07/Islam/term_2/grade-07-islam-2nd-term-test-paper-2020-sinhala-medium-southern-province.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 10,
+    "subject": "Islam",
+    "category": "humanities",
+    "question": "ඉස්ලාමීය ඉතිහාසයේ ප්‍රථමයෙන් ෂහීද් වූ කාන්තාව",
+    "choices": [
+      "සුමෛයා (රලි)",
+      "ආයිෂා (රලි)",
+      "කදීජා (රලි)",
+      "ෆාතිමා (රලි) ඉස්ලාම් ධර්මය"
+    ],
+    "answer": 1,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "2",
+      "year": 2020,
+      "region": "Southern Province",
+      "source": "https://pastpapers.wiki/grade-07-islam-2nd-term-test-paper-2020-sinhala-medium-southern-province/",
+      "pdf": "grade_07/Islam/term_2/grade-07-islam-2nd-term-test-paper-2020-sinhala-medium-southern-province.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 11,
+    "subject": "Islam",
+    "category": "humanities",
+    "question": "පිරිමින් ගැහැණුන්ගේ ඇඳුම සහ ගැහැණුන් පිරිමින්ගේ ඇඳුම ඇ`දීම",
+    "choices": [
+      "හලාල්",
+      "මුබාහ්",
+      "හරාම්",
+      "මක්රූහ්"
+    ],
+    "answer": 3,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "2",
+      "year": 2020,
+      "region": "Southern Province",
+      "source": "https://pastpapers.wiki/grade-07-islam-2nd-term-test-paper-2020-sinhala-medium-southern-province/",
+      "pdf": "grade_07/Islam/term_2/grade-07-islam-2nd-term-test-paper-2020-sinhala-medium-southern-province.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 12,
+    "subject": "Islam",
+    "category": "humanities",
+    "question": "නුහ් නබිතුමාගේ නැව අවසන් වරට ගොඩවූ කන්ද",
+    "choices": [
+      "උහද්",
+      "ජබලුන් නූර්",
+      "ජුදි",
+      "ජබලුර් රහ්මා"
+    ],
+    "answer": 3,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "2",
+      "year": 2020,
+      "region": "Southern Province",
+      "source": "https://pastpapers.wiki/grade-07-islam-2nd-term-test-paper-2020-sinhala-medium-southern-province/",
+      "pdf": "grade_07/Islam/term_2/grade-07-islam-2nd-term-test-paper-2020-sinhala-medium-southern-province.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 13,
+    "subject": "Islam",
+    "category": "humanities",
+    "question": "ඉස්ලාම් ආගම පිළිගත් හේතු නිසා කාන්තාරයේ පොලව මත දමා වේදනාවන්ට ලක් වූ සහාබි",
+    "choices": [
+      "අම්මාර් (රලි)",
+      "යාසිර් (රලි)",
+      "සුමෛයා (රලි)",
+      "බිලාල් (රලි)"
+    ],
+    "answer": 4,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "2",
+      "year": 2020,
+      "region": "Southern Province",
+      "source": "https://pastpapers.wiki/grade-07-islam-2nd-term-test-paper-2020-sinhala-medium-southern-province/",
+      "pdf": "grade_07/Islam/term_2/grade-07-islam-2nd-term-test-paper-2020-sinhala-medium-southern-province.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 14,
+    "subject": "Islam",
+    "category": "humanities",
+    "question": "The Hundred (ද හන්ඩ්‍රඩ්) යන ග්‍රන්ථයෙහි කතුවරයා",
+    "choices": [
+      "විල්ලියම් මූර්",
+      "මයිකල් එච් හාර්ට්",
+      "කීත්මෝර්",
+      "ජේම්ස් ජීන්ස්"
+    ],
+    "answer": 2,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "2",
+      "year": 2020,
+      "region": "Southern Province",
+      "source": "https://pastpapers.wiki/grade-07-islam-2nd-term-test-paper-2020-sinhala-medium-southern-province/",
+      "pdf": "grade_07/Islam/term_2/grade-07-islam-2nd-term-test-paper-2020-sinhala-medium-southern-province.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 15,
+    "subject": "Islam",
+    "category": "humanities",
+    "question": "“සත්‍ය වශයෙන් මු:මින්වරුන් ජයග්‍රහණය වූහ” යනු",
+    "choices": [
+      "අල්අකූර්ආන් වැකියකි",
+      "හදීස් වදනකි",
+      "ඉමාම්වරුන්ගේ වදනවේ",
+      "ආලිම්වරුන්ගේ වදනවේ"
+    ],
+    "answer": 1,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "2",
+      "year": 2020,
+      "region": "Southern Province",
+      "source": "https://pastpapers.wiki/grade-07-islam-2nd-term-test-paper-2020-sinhala-medium-southern-province/",
+      "pdf": "grade_07/Islam/term_2/grade-07-islam-2nd-term-test-paper-2020-sinhala-medium-southern-province.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 16,
+    "subject": "Islam",
+    "category": "humanities",
+    "question": "“ඔවුන් දෙදෙනා රෛහාන් පුෂ්පයන්” ලෙසද, ස්වර්ගවාසී තරුණයින්ගේ නායකයා යනුවෙන් නබි(සල්)තුමා ප්‍රකාශ කළේ",
+    "choices": [
+      "අලි(රලි),උමර් (රලි)",
+      "අබුබක්කර් (රලි), උමර්(රලි)",
+      "කාසිම්, අබ්දුල්ලාහ්",
+      "හසන්(රලි),හුසෛන්(රලි)"
+    ],
+    "answer": 4,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "2",
+      "year": 2020,
+      "region": "Southern Province",
+      "source": "https://pastpapers.wiki/grade-07-islam-2nd-term-test-paper-2020-sinhala-medium-southern-province/",
+      "pdf": "grade_07/Islam/term_2/grade-07-islam-2nd-term-test-paper-2020-sinhala-medium-southern-province.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 17,
+    "subject": "Islam",
+    "category": "humanities",
+    "question": "උම්මහාතුල් මු:මිනින්වරුන් යනු",
+    "choices": [
+      "මු:මින්වරුන්ගේ මෑණිවරුන්",
+      "මු:මින්වරුන්ගේ නායකයන්",
+      "මුස්ලිම් වූ කාන්තාවන්",
+      "නබිවරුන්ගේ මෑණිවරුන්"
+    ],
+    "answer": 1,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "2",
+      "year": 2020,
+      "region": "Southern Province",
+      "source": "https://pastpapers.wiki/grade-07-islam-2nd-term-test-paper-2020-sinhala-medium-southern-province/",
+      "pdf": "grade_07/Islam/term_2/grade-07-islam-2nd-term-test-paper-2020-sinhala-medium-southern-province.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 18,
+    "subject": "Islam",
+    "category": "humanities",
+    "question": "නබි(සල්) තුමාගේ බිරිඳ සහ උමර් (රලි)තුමාගේ දියණිය වූ කාන්තාව",
+    "choices": [
+      "ආයිෂා(රලි)",
+      "ෆාතිමා(රලි)",
+      "කදීජා(රලි)",
+      "හෆ්සා(රලි)"
+    ],
+    "answer": 4,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "2",
+      "year": 2020,
+      "region": "Southern Province",
+      "source": "https://pastpapers.wiki/grade-07-islam-2nd-term-test-paper-2020-sinhala-medium-southern-province/",
+      "pdf": "grade_07/Islam/term_2/grade-07-islam-2nd-term-test-paper-2020-sinhala-medium-southern-province.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 19,
+    "subject": "Islam",
+    "category": "humanities",
+    "question": "මක්කාවේ සිට පැමිණි මුස්ලිම්වරුන්ව පිළිගත් මදීනා වැසියන්",
+    "choices": [
+      "අන්සාරිවරුන්",
+      "අහ්ලුල්බෛත්",
+      "මුහාජිර්වරුන්",
+      "අහ්ලුල්මදීනා"
+    ],
+    "answer": 1,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "2",
+      "year": 2020,
+      "region": "Southern Province",
+      "source": "https://pastpapers.wiki/grade-07-islam-2nd-term-test-paper-2020-sinhala-medium-southern-province/",
+      "pdf": "grade_07/Islam/term_2/grade-07-islam-2nd-term-test-paper-2020-sinhala-medium-southern-province.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 20,
+    "subject": "Islam",
+    "category": "humanities",
+    "question": "හින්ද් නම් ස්වාභාවික නම සඳහන් වූ සහාබි කාන්තාව",
+    "choices": [
+      "හෆ්සා(රලි)",
+      "උම්මුසල්මා(රලි)",
+      "කදීජා(රලි)",
+      "උම්මුකුල්සුම්(රලි)"
+    ],
+    "answer": 4,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "2",
+      "year": 2020,
+      "region": "Southern Province",
+      "source": "https://pastpapers.wiki/grade-07-islam-2nd-term-test-paper-2020-sinhala-medium-southern-province/",
+      "pdf": "grade_07/Islam/term_2/grade-07-islam-2nd-term-test-paper-2020-sinhala-medium-southern-province.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 7,
+    "subject": "Sinhala Language and Literature",
+    "category": "language",
+    "question": "සෑම පදයක ම මහප්‍රාණ අක්ෂර පමණක් ඇතුළත් වරණය තෝරන්න.",
+    "choices": [
+      "ශ්‍රේෂ්ඨ, විශිෂ්ට, ප්‍රවීණ, මධුර",
+      "ආරක්ෂක, භාවිතය, අර්ථය, ආරූඪ",
+      "පාඨශාලාව, ප්‍රතිඵල, වර්ධනය, සම්භාෂණ",
+      "අභය, මුඛය, නරඹන, ශ්‍රද්ධාව"
+    ],
+    "answer": 3,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "3",
+      "year": 2020,
+      "region": "Southern Province",
+      "source": "https://pastpapers.wiki/grade-07-sinhala-3rd-term-test-paper-2020-sinhala-medium-southern-province/",
+      "pdf": "grade_07/Sinhala Language and Literature/term_3/grade-07-sinhala-3rd-term-test-paper-2020-sinhala-medium-southern-province.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 8,
+    "subject": "Sinhala Language and Literature",
+    "category": "language",
+    "question": "සෑම පදයක ම මූර්ධජ අක්ෂර ඇතුළත් වරණය කුමක් ද?",
+    "choices": [
+      "ණය ගැති, පිළිවෙළ, පුරාණ, පාෂාණ",
+      "මතය, භාෂාව, ළහිරු, සහිත",
+      "රත්මල, විශේෂය, සංකේතය, පහන",
+      "අවසර, විවේක, සවස, දසන්"
+    ],
+    "answer": 1,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "3",
+      "year": 2020,
+      "region": "Southern Province",
+      "source": "https://pastpapers.wiki/grade-07-sinhala-3rd-term-test-paper-2020-sinhala-medium-southern-province/",
+      "pdf": "grade_07/Sinhala Language and Literature/term_3/grade-07-sinhala-3rd-term-test-paper-2020-sinhala-medium-southern-province.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 11,
+    "subject": "Sinhala Language and Literature",
+    "category": "language",
+    "question": "\"ප්‍රාකාරය \" යන පදයට සුදුසු සමාන පදය සහිත වරණය තෝරන්න.",
+    "choices": [
+      "නිවස",
+      "තාප්පය",
+      "පව්ව",
+      "අහස"
+    ],
+    "answer": 2,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "3",
+      "year": 2020,
+      "region": "Southern Province",
+      "source": "https://pastpapers.wiki/grade-07-sinhala-3rd-term-test-paper-2020-sinhala-medium-southern-province/",
+      "pdf": "grade_07/Sinhala Language and Literature/term_3/grade-07-sinhala-3rd-term-test-paper-2020-sinhala-medium-southern-province.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 12,
+    "subject": "Sinhala Language and Literature",
+    "category": "language",
+    "question": "මිශ්‍ර ක්‍රියාවක් හා පූර්වක් ක්‍රියාවක් සහිත වරණය තෝරන්න.",
+    "choices": [
+      "හඬවයි, නටමින්",
+      "බලයි, පැන",
+      "නටමින් , බලා",
+      "කර, කවමින"
+    ],
+    "answer": 3,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "3",
+      "year": 2020,
+      "region": "Southern Province",
+      "source": "https://pastpapers.wiki/grade-07-sinhala-3rd-term-test-paper-2020-sinhala-medium-southern-province/",
+      "pdf": "grade_07/Sinhala Language and Literature/term_3/grade-07-sinhala-3rd-term-test-paper-2020-sinhala-medium-southern-province.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 13,
+    "subject": "Sinhala Language and Literature",
+    "category": "language",
+    "question": "ප්‍රථම පුරුෂ නාම පද පමණක් ඇතුළත් වරණය තෝරන්න.",
+    "choices": [
+      "ගෙවිලිය, අම්බරුවෝ ,වෛද්‍යවරයා, ඔහු",
+      "ළමයා, සොයුරා, අපි, තෝ",
+      "තෙපි, ඇය, ඔහු, නුඹ",
+      "සේවකයා, මම, කුරුල්ලා, ඔහු පහත සඳහන් උක්ත පද අනුක්ත පද බවට හරවා හිස්තැන්හි ලියන්න. උක්ත පද"
+    ],
+    "answer": 1,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "3",
+      "year": 2020,
+      "region": "Southern Province",
+      "source": "https://pastpapers.wiki/grade-07-sinhala-3rd-term-test-paper-2020-sinhala-medium-southern-province/",
+      "pdf": "grade_07/Sinhala Language and Literature/term_3/grade-07-sinhala-3rd-term-test-paper-2020-sinhala-medium-southern-province.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 1,
+    "subject": "Citizenship Education",
+    "category": "social_science",
+    "question": "පාසලෙන් ඉටුවන මහඟු සේවයක් වන්නේ",
+    "choices": [
+      "දැනුම වර්ධනය කිරීම.",
+      "සාක්‍ෂරතාවය ලබා දීම.",
+      "සමාජයට යහපත් පුරවැසියන් දායාද කිරීම.",
+      "ජනතාවට සේවය කිරීම."
+    ],
+    "answer": 3,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": null,
+      "year": null,
+      "region": null,
+      "source": "https://pastpapers.wiki/grade-07-civics-3rd-term-test-paper-2020-sinhala-medium-southern-province/",
+      "pdf": "grade_07/Citizenship Education/term_unknown/g7-civic.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 2,
+    "subject": "Citizenship Education",
+    "category": "social_science",
+    "question": "රාජ්‍ය ලාංඡනයේ සිංහයා වටා ඇති පලා පෙතිවලින් නිරූපණය වන්නේ",
+    "choices": [
+      "පාරිශුද්ධ බව ය.",
+      "පරිපූර්ණ බව ය.",
+      "සෞභාග්‍යය ය.",
+      "සදාකාලික පැවැත්ම ය."
+    ],
+    "answer": 1,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": null,
+      "year": null,
+      "region": null,
+      "source": "https://pastpapers.wiki/grade-07-civics-3rd-term-test-paper-2020-sinhala-medium-southern-province/",
+      "pdf": "grade_07/Citizenship Education/term_unknown/g7-civic.pdf",
+      "needs_context": true
+    }
+  },
+  {
+    "q_no": 3,
+    "subject": "Citizenship Education",
+    "category": "social_science",
+    "question": "පොදු සමාජයේ පැවැත්ම සදහා පුරවැසියන්ට පැවරෙන කාර්යයන් ඉටු කිරීමට ඇති බැඳීම.",
+    "choices": [
+      "අයිතිවාසිකම් නම් වේ.",
+      "යුතුකම් නම් වේ.",
+      "වගකීම් නම් වේ.",
+      "හිමිකම් නම් වේ."
+    ],
+    "answer": 2,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": null,
+      "year": null,
+      "region": null,
+      "source": "https://pastpapers.wiki/grade-07-civics-3rd-term-test-paper-2020-sinhala-medium-southern-province/",
+      "pdf": "grade_07/Citizenship Education/term_unknown/g7-civic.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 4,
+    "subject": "Citizenship Education",
+    "category": "social_science",
+    "question": "ජාතික කොඩිය එසවීමේ දී නොකළ යුතු දේ ඇතුළත් පිළිතුර තෝරන්න.",
+    "choices": [
+      "සිංහයා උඩු යටිකුරු කර ප්‍රදර්ශනය කිරීම.",
+      "ඔසවා අවසන් වනතුරු සීරුවෙන් සිටීම.",
+      "ඔසවන විට මගුල් බෙර වැයීම හා ශංඛ නාද පැවැත්වීම.",
+      "පැහැදිලිව පෙනෙන ස්ථානයක ඔසවා තැබීම."
+    ],
+    "answer": 1,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": null,
+      "year": null,
+      "region": null,
+      "source": "https://pastpapers.wiki/grade-07-civics-3rd-term-test-paper-2020-sinhala-medium-southern-province/",
+      "pdf": "grade_07/Citizenship Education/term_unknown/g7-civic.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 5,
+    "subject": "Citizenship Education",
+    "category": "social_science",
+    "question": "පුරවැසියන්ගේ යහපත උදෙසා ඉටු කරන සියලුම කාර්යයන් හා සම්බන්ධ රැකියා සියල්ලම.",
+    "choices": [
+      "ජීවන මාර්ග යි.",
+      "වැඩ ලෝකය යි.",
+      "ශ්‍රම අභිමානය යි.",
+      "ආර්ථිකය යි."
+    ],
+    "answer": 2,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": null,
+      "year": null,
+      "region": null,
+      "source": "https://pastpapers.wiki/grade-07-civics-3rd-term-test-paper-2020-sinhala-medium-southern-province/",
+      "pdf": "grade_07/Citizenship Education/term_unknown/g7-civic.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 6,
+    "subject": "Citizenship Education",
+    "category": "social_science",
+    "question": "පරම්පරාවෙන් පරම්පරාවට සංස්කෘතිය පවරා දීම සිදු කරන මූලිකම ඒකකය වන්නේ",
+    "choices": [
+      "ආගමික ස්ථාන.",
+      "පාසල.",
+      "සමිති සමාගම්.",
+      "පවුල."
+    ],
+    "answer": 4,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": null,
+      "year": null,
+      "region": null,
+      "source": "https://pastpapers.wiki/grade-07-civics-3rd-term-test-paper-2020-sinhala-medium-southern-province/",
+      "pdf": "grade_07/Citizenship Education/term_unknown/g7-civic.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 1,
+    "subject": "Eastern Music",
+    "category": "humanities",
+    "question": "ස ග රි ස, රි ම ග රි, .................. රටාවේ හිස්තැනට සුදුසු ස්වර පාදය වන්නේ",
+    "choices": [
+      "ග ම ප ග",
+      "ග ප ම ග",
+      "ග ප ග ම",
+      "ග ම ග ප"
+    ],
+    "answer": 2,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "2",
+      "year": 2019,
+      "region": "Southern Province",
+      "source": "https://pastpapers.wiki/grade-07-oriental-music-2nd-term-test-paper-2019-sinhala-medium-southern-province/",
+      "pdf": "grade_07/Eastern Music/term_2/sm_g7_mus_iii-ppans_t2_2019.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 2,
+    "subject": "Eastern Music",
+    "category": "humanities",
+    "question": "‘රි, ග, ම /, ධ, නි’ ස්වර හඳුන්වනු ලබන්නේ",
+    "choices": [
+      "ප්‍රකෘති ස්වර වශයෙන්",
+      "විකෘති ස්වර වශයෙන්",
+      "කෝමල ස්වර වශයෙන්",
+      "ශුද්ධ ස්වර වශයෙන්"
+    ],
+    "answer": 2,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "2",
+      "year": 2019,
+      "region": "Southern Province",
+      "source": "https://pastpapers.wiki/grade-07-oriental-music-2nd-term-test-paper-2019-sinhala-medium-southern-province/",
+      "pdf": "grade_07/Eastern Music/term_2/sm_g7_mus_iii-ppans_t2_2019.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 3,
+    "subject": "Eastern Music",
+    "category": "humanities",
+    "question": "මාත්‍රා හතර බැගින් බෙදෙන ගී පාදය තෝරන්න.",
+    "choices": [
+      "සුවඳ පද්ම ඕලු ආදි.....",
+      "සසර වසන තුරු......",
+      "මොනවද මුත්තේ මොකද කරන්නේ...",
+      "නිල් අහස් තලේ....."
+    ],
+    "answer": 3,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "2",
+      "year": 2019,
+      "region": "Southern Province",
+      "source": "https://pastpapers.wiki/grade-07-oriental-music-2nd-term-test-paper-2019-sinhala-medium-southern-province/",
+      "pdf": "grade_07/Eastern Music/term_2/sm_g7_mus_iii-ppans_t2_2019.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 6,
+    "subject": "Eastern Music",
+    "category": "humanities",
+    "question": "‘‘මං වගේ පේ`ඩි කතක් මනා.....’’ යන ගීතය",
+    "choices": [
+      "රබන් ගීයකි.",
+      "කෝලම් ගීයකි.",
+      "නූර්ති ගීයකි.",
+      "උපදේශාත්මක ගීයකි."
+    ],
+    "answer": 2,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "2",
+      "year": 2019,
+      "region": "Southern Province",
+      "source": "https://pastpapers.wiki/grade-07-oriental-music-2nd-term-test-paper-2019-sinhala-medium-southern-province/",
+      "pdf": "grade_07/Eastern Music/term_2/sm_g7_mus_iii-ppans_t2_2019.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 7,
+    "subject": "Eastern Music",
+    "category": "humanities",
+    "question": "සරල ස්වර පුවරු වාදනයේදී ‘ස,රි,ග,ම’ යන ස්වර සඳහා පිළිවෙලින් 1, 2, 3, 4 යන ඇඟිලි භාවිත කළේ නම් 4, 3, 4, 2, 1, 2, 1 වශයෙන් ඇඟිලි භාවිත කරමින් වාදනය කළ විට වාදනය වන ස්වර වන්නේ",
+    "choices": [
+      "ම,ග,ම,ස,රි,ස,රි",
+      "ම,ග,ම,රි,ස,රි,ස",
+      "ස,රි,ම,ග,රි,ස,රි",
+      "ග,ම,ග,රිස,රි,ස"
+    ],
+    "answer": 2,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "2",
+      "year": 2019,
+      "region": "Southern Province",
+      "source": "https://pastpapers.wiki/grade-07-oriental-music-2nd-term-test-paper-2019-sinhala-medium-southern-province/",
+      "pdf": "grade_07/Eastern Music/term_2/sm_g7_mus_iii-ppans_t2_2019.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 8,
+    "subject": "Eastern Music",
+    "category": "humanities",
+    "question": "‘‘දන්න වංහුං අප කන්නසාමි’’ හා ‘‘අඹ දඹ නාරං කෙසෙල් දෙල්’’ යන ගීත අයත් ගී වර්ගය වනුයේ",
+    "choices": [
+      "සරල ගීත",
+      "ස්වර ස්ථාපන ගීත",
+      "උපදේශාත්මක ගීත",
+      "නූර්ති ගීත KOg; gjpg;GupikAilaJ සියලුම හිමිකම් ඇවිරිණි"
+    ],
+    "answer": 4,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "2",
+      "year": 2019,
+      "region": "Southern Province",
+      "source": "https://pastpapers.wiki/grade-07-oriental-music-2nd-term-test-paper-2019-sinhala-medium-southern-province/",
+      "pdf": "grade_07/Eastern Music/term_2/sm_g7_mus_iii-ppans_t2_2019.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 9,
+    "subject": "Eastern Music",
+    "category": "humanities",
+    "question": "‘‘අතට වෙරළු ඇහිඳ ගෙනේ...’’ කවි පාදය ගායනයේදී මාත්‍රා බෙදනුයේ",
+    "choices": [
+      "1 2 3 4 1 2 3 4 වශයෙනි.",
+      "1 2 3 1 2 3 වශයෙනි.",
+      "1 2 1 2 3 වශයෙනි.",
+      "1 2 3 1 2 3 4 වශයෙනි."
+    ],
+    "answer": 1,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "2",
+      "year": 2019,
+      "region": "Southern Province",
+      "source": "https://pastpapers.wiki/grade-07-oriental-music-2nd-term-test-paper-2019-sinhala-medium-southern-province/",
+      "pdf": "grade_07/Eastern Music/term_2/sm_g7_mus_iii-ppans_t2_2019.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 10,
+    "subject": "Eastern Music",
+    "category": "humanities",
+    "question": "ස ස ග රි රි ම ග ග ප ම ධ ප යන ස්වර පාදය හා ගැළපෙන ස්වර ස්ථාපන ගී පාදය තෝරන්න.",
+    "choices": [
+      "ඈත ඇදී යළි මෑතට පාවේ.",
+      "පුංචි තාරකා පුංචි තාරකා",
+      "බැතිනා සිරිපා කරුණා කරනා",
+      "ඈත හිමේ ගිරි මුදුණේ සිසිල මැවෙනවා ක ක"
+    ],
+    "answer": 3,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "2",
+      "year": 2019,
+      "region": "Southern Province",
+      "source": "https://pastpapers.wiki/grade-07-oriental-music-2nd-term-test-paper-2019-sinhala-medium-southern-province/",
+      "pdf": "grade_07/Eastern Music/term_2/sm_g7_mus_iii-ppans_t2_2019.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 2,
+    "subject": "Eastern Music",
+    "category": "humanities",
+    "question": "සප්තකයක ඇති අචල ස්වර පිළිවෙලින් වන්නේ",
+    "choices": [
+      "සච්ජය හා මධ්‍යමය",
+      "මධ්‍යමය හා පංචමය",
+      "සච්ජය හා පංචමය",
+      "රිෂභය හා ධෛවතය"
+    ],
+    "answer": 3,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "2",
+      "year": 2019,
+      "region": "North Western Province",
+      "source": "https://pastpapers.wiki/grade-07-oriental-music-2nd-term-test-paper-2019-sinhala-medium-north-western-province/",
+      "pdf": "grade_07/Eastern Music/term_2/grade-07-oriental-music-2nd-term-test-paper-2019-sinhala-medium-north-western-province.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 4,
+    "subject": "Eastern Music",
+    "category": "humanities",
+    "question": "‘‘ ’’ ‘‘ ’’ යන ආඝාත නිපදවිය හැකි භාණ්ඩය වන්නේ",
+    "choices": [
+      "යක්බෙරය",
+      "රබාන",
+      "තාලම්පට",
+      "තබ්ලාව"
+    ],
+    "answer": 3,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "2",
+      "year": 2019,
+      "region": "North Western Province",
+      "source": "https://pastpapers.wiki/grade-07-oriental-music-2nd-term-test-paper-2019-sinhala-medium-north-western-province/",
+      "pdf": "grade_07/Eastern Music/term_2/grade-07-oriental-music-2nd-term-test-paper-2019-sinhala-medium-north-western-province.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 5,
+    "subject": "Eastern Music",
+    "category": "humanities",
+    "question": "සුෂිර වාද්‍ය භාණ්ඩයක් නොවන්නේ මින් කුමක් ද?",
+    "choices": [
+      "මෙලෝඩිකාව",
+      "මවුත්ඕගනය",
+      "රෙකෝඩර් ෆ්ලුට්",
+      "ග්ලොකන් ස්පීල්"
+    ],
+    "answer": 4,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "2",
+      "year": 2019,
+      "region": "North Western Province",
+      "source": "https://pastpapers.wiki/grade-07-oriental-music-2nd-term-test-paper-2019-sinhala-medium-north-western-province/",
+      "pdf": "grade_07/Eastern Music/term_2/grade-07-oriental-music-2nd-term-test-paper-2019-sinhala-medium-north-western-province.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 6,
+    "subject": "Eastern Music",
+    "category": "humanities",
+    "question": "උපදේශාත්මක ගීතයක් වන්නේ මින් කුමන ගීතය ද?",
+    "choices": [
+      "නොමග නොයන් පුතේ",
+      "රත්නදීප ජන්ම භූමි",
+      "ලෝකෙන් උතුම් රට",
+      "අඹ දඹ නාරං කෙසෙල් දෙල්"
+    ],
+    "answer": 1,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "2",
+      "year": 2019,
+      "region": "North Western Province",
+      "source": "https://pastpapers.wiki/grade-07-oriental-music-2nd-term-test-paper-2019-sinhala-medium-north-western-province/",
+      "pdf": "grade_07/Eastern Music/term_2/grade-07-oriental-music-2nd-term-test-paper-2019-sinhala-medium-north-western-province.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 7,
+    "subject": "Eastern Music",
+    "category": "humanities",
+    "question": "‘‘ගැමි ගී’’ වර්ගයට අයත් ගී විශේෂයකි",
+    "choices": [
+      "දේශාභිමානී ගී",
+      "දරු නැළවිලි ගී",
+      "සරල ගී",
+      "ළමා ගී"
+    ],
+    "answer": 2,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "2",
+      "year": 2019,
+      "region": "North Western Province",
+      "source": "https://pastpapers.wiki/grade-07-oriental-music-2nd-term-test-paper-2019-sinhala-medium-north-western-province/",
+      "pdf": "grade_07/Eastern Music/term_2/grade-07-oriental-music-2nd-term-test-paper-2019-sinhala-medium-north-western-province.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 8,
+    "subject": "Eastern Music",
+    "category": "humanities",
+    "question": "පහතරට නර්තන සම්ප්‍රදාය ආභාෂයෙන් පෝෂණය වී ඇති රංග ශෛලියකි",
+    "choices": [
+      "නූර්ති",
+      "නාඩගම්",
+      "කෝළම්",
+      "සොකරි"
+    ],
+    "answer": 3,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "2",
+      "year": 2019,
+      "region": "North Western Province",
+      "source": "https://pastpapers.wiki/grade-07-oriental-music-2nd-term-test-paper-2019-sinhala-medium-north-western-province/",
+      "pdf": "grade_07/Eastern Music/term_2/grade-07-oriental-music-2nd-term-test-paper-2019-sinhala-medium-north-western-province.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 10,
+    "subject": "Eastern Music",
+    "category": "humanities",
+    "question": "‘‘තෙලෙන් බැද්දත් කොබෙයියා කිරෙන් බැද්දත් කොබෙයියා’’ යන පද්‍ය වාදනය කිරීමට උචිත භාණ්ඩයකි",
+    "choices": [
+      "රබාන",
+      "තාලම්පට",
+      "හොරණෑව",
+      "සර්පිනාව පෙරදිග සංගීතය"
+    ],
+    "answer": 1,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "2",
+      "year": 2019,
+      "region": "North Western Province",
+      "source": "https://pastpapers.wiki/grade-07-oriental-music-2nd-term-test-paper-2019-sinhala-medium-north-western-province/",
+      "pdf": "grade_07/Eastern Music/term_2/grade-07-oriental-music-2nd-term-test-paper-2019-sinhala-medium-north-western-province.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 1,
+    "subject": "Eastern Music",
+    "category": "humanities",
+    "question": "මන්ද්‍ර මධ්‍ය උච්ච යන සප්තක තුනටම අයත් ස්වර පිළිවෙළින් සඳහන් වන පිළිතුර කුමක් ද?",
+    "choices": [
+      "නි රි ස",
+      "ග ප ස",
+      "ප ම රි",
+      "ස; ප ධ"
+    ],
+    "answer": 3,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "3",
+      "year": 2020,
+      "region": "Southern Province",
+      "source": "https://pastpapers.wiki/grade-07-oriental-music-3rd-term-test-paper-2020-sinhala-medium-southern-province/",
+      "pdf": "grade_07/Eastern Music/term_3/grade-07-oriental-music-3rd-term-test-paper-2020-sinhala-medium-southern-province.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 2,
+    "subject": "Eastern Music",
+    "category": "humanities",
+    "question": "ස්වර සප්තකයට අයත් ප්‍රකෘති හා විකෘති ස්වර සංඛ්‍යාව කොපමණ ද?",
+    "choices": [
+      "ප්‍රකෘති ස්වර 8 යි විකෘති ස්වර 4 යි",
+      "ප්‍රකෘති ස්වර 7 යි විකෘති ස්වර 5 යි",
+      "ප්‍රකෘති ස්වර 6 යි විකෘති ස්වර 6 යි",
+      "ප්‍රකෘති ස්වර 5 යි විකෘති ස්වර 7 යි"
+    ],
+    "answer": 2,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "3",
+      "year": 2020,
+      "region": "Southern Province",
+      "source": "https://pastpapers.wiki/grade-07-oriental-music-3rd-term-test-paper-2020-sinhala-medium-southern-province/",
+      "pdf": "grade_07/Eastern Music/term_3/grade-07-oriental-music-3rd-term-test-paper-2020-sinhala-medium-southern-province.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 3,
+    "subject": "Eastern Music",
+    "category": "humanities",
+    "question": "සරිගම, රිගමප, ගමපධ ආදි වශයෙන් යෙදෙන ස්වර අභ්‍යාස ඇතුළත් ස්වර ස්ථාපන ගීතය වන්නේ",
+    "choices": [
+      "බැතිනා සිරිපා කරුණා කරනා",
+      "ඈත ඇදී යළි මෑතට පාවේ.",
+      "කඳු කඳු නැගෙනා වෙරළෙහි හැපෙනා",
+      "මුණි සිරිපා පාදේ සමනල මුදුනේ"
+    ],
+    "answer": 4,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "3",
+      "year": 2020,
+      "region": "Southern Province",
+      "source": "https://pastpapers.wiki/grade-07-oriental-music-3rd-term-test-paper-2020-sinhala-medium-southern-province/",
+      "pdf": "grade_07/Eastern Music/term_3/grade-07-oriental-music-3rd-term-test-paper-2020-sinhala-medium-southern-province.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 4,
+    "subject": "Eastern Music",
+    "category": "humanities",
+    "question": "විදුලි ඕගනයක ගීතයක් වාදනයේ දී තාලයේ ලය නැතහොත් වේගය ක්‍රියාත්මක කිරීම සඳහා භාවිතා කරනු ලබන ස්වීචය නම් කරනු ලබන්නේ",
+    "choices": [
+      "Tempo",
+      "Style",
+      "Voice",
+      "Tone"
+    ],
+    "answer": 1,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "3",
+      "year": 2020,
+      "region": "Southern Province",
+      "source": "https://pastpapers.wiki/grade-07-oriental-music-3rd-term-test-paper-2020-sinhala-medium-southern-province/",
+      "pdf": "grade_07/Eastern Music/term_3/grade-07-oriental-music-3rd-term-test-paper-2020-sinhala-medium-southern-province.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 5,
+    "subject": "Eastern Music",
+    "category": "humanities",
+    "question": "තාලම්පටින් නිකුත්වන තෙයි යන ධ්වනිය හඳුන්වන සංකේතය වන්නේ",
+    "choices": [
+      "^",
+      "/",
+      "0",
+      "x"
+    ],
+    "answer": 2,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "3",
+      "year": 2020,
+      "region": "Southern Province",
+      "source": "https://pastpapers.wiki/grade-07-oriental-music-3rd-term-test-paper-2020-sinhala-medium-southern-province/",
+      "pdf": "grade_07/Eastern Music/term_3/grade-07-oriental-music-3rd-term-test-paper-2020-sinhala-medium-southern-province.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 6,
+    "subject": "Eastern Music",
+    "category": "humanities",
+    "question": "තාලයේ කුඩාම ඒකකය වන්නේ",
+    "choices": [
+      "ආවර්ථය යි",
+      "විභාගය යි",
+      "මාත්‍රාව යි",
+      "ඨෙකාව යි /"
+    ],
+    "answer": 3,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "3",
+      "year": 2020,
+      "region": "Southern Province",
+      "source": "https://pastpapers.wiki/grade-07-oriental-music-3rd-term-test-paper-2020-sinhala-medium-southern-province/",
+      "pdf": "grade_07/Eastern Music/term_3/grade-07-oriental-music-3rd-term-test-paper-2020-sinhala-medium-southern-province.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 7,
+    "subject": "Eastern Music",
+    "category": "humanities",
+    "question": "තීව්‍ර මධ්‍යමය (ම ) හැ`දින්වීම සඳහා බටහිර සංගීතයේ දී භාවිතා කරනු ලබන සංකේතය වන්නේ, # b #",
+    "choices": [
+      "F",
+      "F",
+      "F",
+      "G"
+    ],
+    "answer": 1,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "3",
+      "year": 2020,
+      "region": "Southern Province",
+      "source": "https://pastpapers.wiki/grade-07-oriental-music-3rd-term-test-paper-2020-sinhala-medium-southern-province/",
+      "pdf": "grade_07/Eastern Music/term_3/grade-07-oriental-music-3rd-term-test-paper-2020-sinhala-medium-southern-province.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 8,
+    "subject": "Eastern Music",
+    "category": "humanities",
+    "question": "‘දකුණ නැගෙනහිර බටහිර උතුරද යන දේශාභිමානී ගිතය ගයන ගායකයා වන්නේ",
+    "choices": [
+      "ආනන්ද සමරකෝන් මහතා",
+      "W.D.අමරදේව මහතා",
+      "සුනිල් එදිරිසිංහ මහතා",
+      "සුනිල් ශාන්ත මහතා පෙරදිග සංගීතය"
+    ],
+    "answer": 4,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "3",
+      "year": 2020,
+      "region": "Southern Province",
+      "source": "https://pastpapers.wiki/grade-07-oriental-music-3rd-term-test-paper-2020-sinhala-medium-southern-province/",
+      "pdf": "grade_07/Eastern Music/term_3/grade-07-oriental-music-3rd-term-test-paper-2020-sinhala-medium-southern-province.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 9,
+    "subject": "Eastern Music",
+    "category": "humanities",
+    "question": "නුර්ති නිෂ්පාදකවරයෙකු නොවන්නේ",
+    "choices": [
+      "සී දොන් බස්තියන් මහතා",
+      "නීති`ඥ ජෝන් ද සිල්වා මහතා",
+      "නීති`ඥ චාල්ස් ඩයස් මහතා",
+      "දයානන්ද ගුණවර්ධන මහතා"
+    ],
+    "answer": 4,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "3",
+      "year": 2020,
+      "region": "Southern Province",
+      "source": "https://pastpapers.wiki/grade-07-oriental-music-3rd-term-test-paper-2020-sinhala-medium-southern-province/",
+      "pdf": "grade_07/Eastern Music/term_3/grade-07-oriental-music-3rd-term-test-paper-2020-sinhala-medium-southern-province.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 10,
+    "subject": "Eastern Music",
+    "category": "humanities",
+    "question": "‘‘සසරිරි| ගරිස- | රිරිමම | ප---’’ මෙම ස්වර පාදයට අයත් ගීත පාදය තෝරන්න.",
+    "choices": [
+      "පොත පත කියවා නුවණ ලබා",
+      "සිරි සාර අති ශාන්ත",
+      "පුංචි තාරකා",
+      "හෝ හෝ ගා රැල්ල බිදෙනවා"
+    ],
+    "answer": 1,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "3",
+      "year": 2020,
+      "region": "Southern Province",
+      "source": "https://pastpapers.wiki/grade-07-oriental-music-3rd-term-test-paper-2020-sinhala-medium-southern-province/",
+      "pdf": "grade_07/Eastern Music/term_3/grade-07-oriental-music-3rd-term-test-paper-2020-sinhala-medium-southern-province.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 2,
+    "subject": "Drama and Theatre",
+    "category": "humanities",
+    "question": "ආහාර්ය අභිනයට අයත් වේ.",
+    "choices": [
+      "රංග වස්ත්‍රාභරණ, සංගීතය, පසුතල නිර්මාණ",
+      "නළුවා, පසුතල නිර්මාණ, රංගභූමිය",
+      "සංවාද, සංගීතය, ආලෝකකරණය",
+      "වේෂභූෂණ, රංග භූමිය, අංග රචනය"
+    ],
+    "answer": 1,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": null,
+      "year": null,
+      "region": null,
+      "source": "https://pastpapers.wiki/grade-07-drama-1st-term-test-paper-2019-sinhala-medium-north-western-province/",
+      "pdf": "grade_07/Drama and Theatre/term_unknown/drama-7.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 3,
+    "subject": "Drama and Theatre",
+    "category": "humanities",
+    "question": "“අමර ගියා දිව්‍ය ලෝකේ” නාට්‍ය පිටපත රචනා කරන ලද්දේ",
+    "choices": [
+      "සෝමලතා සුභසිංහ",
+      "එදිරිවීර සරච්චන්ද්‍ර",
+      "පාලිත ලොකුපෝතාගම",
+      "නන්දන අලගෙවත්ත"
+    ],
+    "answer": 2,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": null,
+      "year": null,
+      "region": null,
+      "source": "https://pastpapers.wiki/grade-07-drama-1st-term-test-paper-2019-sinhala-medium-north-western-province/",
+      "pdf": "grade_07/Drama and Theatre/term_unknown/drama-7.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 4,
+    "subject": "Drama and Theatre",
+    "category": "humanities",
+    "question": "නාට්‍ය පිටපතක් ඇත්තේ",
+    "choices": [
+      "කියවා රස විඳීම සඳහා ය.",
+      "අධ්‍යක්ෂවරයාගේ පහසුව සඳහා ය.",
+      "ජීවමාන නළු නිළියන් යොදාගෙන වේදිකාවක් මත රඟ දැක්වීම සඳහා ය.",
+      "තේරුම් ගැනීමට අපහසු තැන් පැහැදිලි කර ගැනීම සඳහා ය."
+    ],
+    "answer": 3,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": null,
+      "year": null,
+      "region": null,
+      "source": "https://pastpapers.wiki/grade-07-drama-1st-term-test-paper-2019-sinhala-medium-north-western-province/",
+      "pdf": "grade_07/Drama and Theatre/term_unknown/drama-7.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 5,
+    "subject": "Drama and Theatre",
+    "category": "humanities",
+    "question": "පංති කාමරයේදී අහඹු ලෙස පෙර සූදානමක් නොමැතිව චරිතයක් නිරූපණය කිරීමට අවස්ථාව ලබා දුන්නේ නම් එය හඳුන්වන්නේ",
+    "choices": [
+      "අභිරූපනයක් ලෙස යි",
+      "චරිත නිරූපනයක් ලෙස යි",
+      "ක්‍ෂණික නිරූපනයක් ලෙස යි",
+      "සමාරෝපය ලෙස යි නොගැළපෙන පිළිතුර යටින් ඉරක් අඳින්න. l\u0003"
+    ],
+    "answer": 2,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": null,
+      "year": null,
+      "region": null,
+      "source": "https://pastpapers.wiki/grade-07-drama-1st-term-test-paper-2019-sinhala-medium-north-western-province/",
+      "pdf": "grade_07/Drama and Theatre/term_unknown/drama-7.pdf",
+      "needs_context": true
+    }
+  },
+  {
+    "q_no": 6,
+    "subject": "Drama and Theatre",
+    "category": "humanities",
+    "question": "අනුශාංගික කලාව",
+    "choices": [
+      "ශෛලියට අනුව වෙනස් නොවේ.",
+      "ආලෝකකරණය, අංග රචනය, සංගීතය ආදියෙන් යුක්ත වේ.",
+      "නළුවාගේ රංගනයට උපකාරී වේ.",
+      "වේදිකාවට බැහැරින් ගෙන එනු ලබන දෑ වේ."
+    ],
+    "answer": 1,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": null,
+      "year": null,
+      "region": null,
+      "source": "https://pastpapers.wiki/grade-07-drama-1st-term-test-paper-2019-sinhala-medium-north-western-province/",
+      "pdf": "grade_07/Drama and Theatre/term_unknown/drama-7.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 8,
+    "subject": "Drama and Theatre",
+    "category": "humanities",
+    "question": "ඔබ නාට්‍යමය සංවාදයක් උච්චාරණය කිරීමේදි සැලකිලිමත් විය යුතු කරුණු වන්නේ",
+    "choices": [
+      "රූප ස්වභාවය",
+      "නැවතීම්",
+      "විරාම",
+      "ප්‍රශ්නාර්ථ"
+    ],
+    "answer": 1,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": null,
+      "year": null,
+      "region": null,
+      "source": "https://pastpapers.wiki/grade-07-drama-1st-term-test-paper-2019-sinhala-medium-north-western-province/",
+      "pdf": "grade_07/Drama and Theatre/term_unknown/drama-7.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 9,
+    "subject": "Drama and Theatre",
+    "category": "humanities",
+    "question": "කතාන්දරයක ලක්‍ෂණ වේ.",
+    "choices": [
+      "මුල, මැද, අග සහිතව ගොතා තිබීම",
+      "රූප මනසේ මවා ගත හැකි වීම",
+      "විවිධ චරිත දක්නට ලැබීම",
+      "සංවාද බහුලව යොදා ගැනීම . (ල. 2 x 10 = 20)"
+    ],
+    "answer": 4,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": null,
+      "year": null,
+      "region": null,
+      "source": "https://pastpapers.wiki/grade-07-drama-1st-term-test-paper-2019-sinhala-medium-north-western-province/",
+      "pdf": "grade_07/Drama and Theatre/term_unknown/drama-7.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 1,
+    "subject": "Drama and Theatre",
+    "category": "humanities",
+    "question": "නූර්ති ගීයක් ඇතුලත් අක්‍ෂරය වන්නේ",
+    "choices": [
+      "A",
+      "D",
+      "E",
+      "C"
+    ],
+    "answer": 3,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "3",
+      "year": 2022,
+      "region": "North Western Province",
+      "source": "https://pastpapers.wiki/2022-grade-07-drama-3rd-term-test-paper-with-answers-north-western-province/",
+      "pdf": "grade_07/Drama and Theatre/term_3/2022-grade-07-drama-3rd-term-test-paper-with-answers-north-western-province.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 2,
+    "subject": "Drama and Theatre",
+    "category": "humanities",
+    "question": "කැළණි වෙහෙර ඉදිවූ ආකාරය පිළිබඳව කියවෙන පද්‍ය වන්නේ",
+    "choices": [
+      "E",
+      "A",
+      "C",
+      "B"
+    ],
+    "answer": 2,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "3",
+      "year": 2022,
+      "region": "North Western Province",
+      "source": "https://pastpapers.wiki/2022-grade-07-drama-3rd-term-test-paper-with-answers-north-western-province/",
+      "pdf": "grade_07/Drama and Theatre/term_3/2022-grade-07-drama-3rd-term-test-paper-with-answers-north-western-province.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 3,
+    "subject": "Drama and Theatre",
+    "category": "humanities",
+    "question": "ඉතිහාසයේ සිදුවීමක් පිළිබඳව ජනප්‍රිය ගීතයක් වන්නේ",
+    "choices": [
+      "C",
+      "E",
+      "A",
+      "D"
+    ],
+    "answer": 1,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "3",
+      "year": 2022,
+      "region": "North Western Province",
+      "source": "https://pastpapers.wiki/2022-grade-07-drama-3rd-term-test-paper-with-answers-north-western-province/",
+      "pdf": "grade_07/Drama and Theatre/term_3/2022-grade-07-drama-3rd-term-test-paper-with-answers-north-western-province.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 4,
+    "subject": "Drama and Theatre",
+    "category": "humanities",
+    "question": "සිරිත් මල්දමේ කවියක් ඇති අක්‍ෂරය වන්නේ",
+    "choices": [
+      "E",
+      "D",
+      "A",
+      "B"
+    ],
+    "answer": 4,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "3",
+      "year": 2022,
+      "region": "North Western Province",
+      "source": "https://pastpapers.wiki/2022-grade-07-drama-3rd-term-test-paper-with-answers-north-western-province/",
+      "pdf": "grade_07/Drama and Theatre/term_3/2022-grade-07-drama-3rd-term-test-paper-with-answers-north-western-province.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 5,
+    "subject": "Drama and Theatre",
+    "category": "humanities",
+    "question": "රාජසිංහ රජු පිළිබඳව කියවෙන පද්‍ය වන්නේ",
+    "choices": [
+      "D",
+      "E",
+      "C",
+      "A"
+    ],
+    "answer": 1,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "3",
+      "year": 2022,
+      "region": "North Western Province",
+      "source": "https://pastpapers.wiki/2022-grade-07-drama-3rd-term-test-paper-with-answers-north-western-province/",
+      "pdf": "grade_07/Drama and Theatre/term_3/2022-grade-07-drama-3rd-term-test-paper-with-answers-north-western-province.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 6,
+    "subject": "Drama and Theatre",
+    "category": "humanities",
+    "question": "‘‘නම් පොත’’ භාවිතයෙන් වර්ධනය කරගත හැකි රංගන හැකියා වන්නේ",
+    "choices": [
+      "පෙළ රචනයයි.",
+      "කතන්දර ගෙතීමයි.",
+      "රිද්මයානුකූල නර්තනයයි.",
+      "උච්චාරණ හැකියාවයි."
+    ],
+    "answer": 4,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "3",
+      "year": 2022,
+      "region": "North Western Province",
+      "source": "https://pastpapers.wiki/2022-grade-07-drama-3rd-term-test-paper-with-answers-north-western-province/",
+      "pdf": "grade_07/Drama and Theatre/term_3/2022-grade-07-drama-3rd-term-test-paper-with-answers-north-western-province.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 7,
+    "subject": "Drama and Theatre",
+    "category": "humanities",
+    "question": "නාට්‍යයේ තේමාව යනුවෙන් අදහස් වන්නේ",
+    "choices": [
+      "කතා වස්තුවයි.",
+      "නාට්‍ය ජවනිකාවයි.",
+      "ප්‍රධාන අදහසයි.",
+      "නාටේ‍යා්චිත අවස්ථාවයි."
+    ],
+    "answer": 3,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "3",
+      "year": 2022,
+      "region": "North Western Province",
+      "source": "https://pastpapers.wiki/2022-grade-07-drama-3rd-term-test-paper-with-answers-north-western-province/",
+      "pdf": "grade_07/Drama and Theatre/term_3/2022-grade-07-drama-3rd-term-test-paper-with-answers-north-western-province.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 8,
+    "subject": "Drama and Theatre",
+    "category": "humanities",
+    "question": "‘‘ සබය’’ රංග භූමිය වූ නාට්‍ය විශේෂය වන්නේ",
+    "choices": [
+      "කෝළම්",
+      "නාඩගම්",
+      "සොකරි",
+      "නූර්ති"
+    ],
+    "answer": 1,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "3",
+      "year": 2022,
+      "region": "North Western Province",
+      "source": "https://pastpapers.wiki/2022-grade-07-drama-3rd-term-test-paper-with-answers-north-western-province/",
+      "pdf": "grade_07/Drama and Theatre/term_3/2022-grade-07-drama-3rd-term-test-paper-with-answers-north-western-province.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 9,
+    "subject": "Drama and Theatre",
+    "category": "humanities",
+    "question": "‘‘අමර ගියා දිව්‍ය ලෝකේ’’ නාට්‍යයේ දැකිය නොහැකි චරිතයක් වන්නේ",
+    "choices": [
+      "අම්මා",
+      "දොස්තර මාමා",
+      "චාමර",
+      "ටොමියා Page 01 of 02 7 නාට්‍ය හා රංග කලාව I, II"
+    ],
+    "answer": 3,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "3",
+      "year": 2022,
+      "region": "North Western Province",
+      "source": "https://pastpapers.wiki/2022-grade-07-drama-3rd-term-test-paper-with-answers-north-western-province/",
+      "pdf": "grade_07/Drama and Theatre/term_3/2022-grade-07-drama-3rd-term-test-paper-with-answers-north-western-province.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 10,
+    "subject": "Drama and Theatre",
+    "category": "humanities",
+    "question": "නාට්‍යයක ‘‘මකුට’’ ලෙස හඳුන්වන්නේ",
+    "choices": [
+      "රංගාභරණ",
+      "අංග රචනා",
+      "රංග භාණ්ඩ",
+      "හිස් පළදනා"
+    ],
+    "answer": 4,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "3",
+      "year": 2022,
+      "region": "North Western Province",
+      "source": "https://pastpapers.wiki/2022-grade-07-drama-3rd-term-test-paper-with-answers-north-western-province/",
+      "pdf": "grade_07/Drama and Theatre/term_3/2022-grade-07-drama-3rd-term-test-paper-with-answers-north-western-province.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 1,
+    "subject": "Eastern Music",
+    "category": "humanities",
+    "question": "සප්තකයට අයත් සියලු ම ස්වර ප්‍රකෘති , විකෘති වශයෙන් කීයද?",
+    "choices": [
+      "2 කි.",
+      "5 කි.",
+      "7 කි.",
+      "12 කි."
+    ],
+    "answer": 4,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "1",
+      "year": 2019,
+      "region": "North Western Province",
+      "source": "https://pastpapers.wiki/grade-07-oriental-music-1st-term-test-paper-2019-sinhala-medium-north-western-province/",
+      "pdf": "grade_07/Eastern Music/term_1/grade-07-oriental-music-1st-term-test-paper-2019-sinhala-medium-north-western-province.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 2,
+    "subject": "Eastern Music",
+    "category": "humanities",
+    "question": "සඩ්ජය හා පංචමය ස්වර හඳුන්වනු ලබන්නේ",
+    "choices": [
+      "චල ස්වර නමිනි",
+      "අචල ස්වර නමිනි",
+      "ශුද්ධ ස්වර නමිනි",
+      "විකෘති ස්වර නමිනි"
+    ],
+    "answer": 2,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "1",
+      "year": 2019,
+      "region": "North Western Province",
+      "source": "https://pastpapers.wiki/grade-07-oriental-music-1st-term-test-paper-2019-sinhala-medium-north-western-province/",
+      "pdf": "grade_07/Eastern Music/term_1/grade-07-oriental-music-1st-term-test-paper-2019-sinhala-medium-north-western-province.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 3,
+    "subject": "Eastern Music",
+    "category": "humanities",
+    "question": "ස්වර සප්තක 7 ක් පමණ යොදා ඇති යතුරු පුවරු සහිත සංගීත භාණ්ඩයකි.",
+    "choices": [
+      "හාර්මෝනියම්",
+      "මෙලෝඩිකා",
+      "පියානෝව",
+      "එකෝඩියන"
+    ],
+    "answer": 3,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "1",
+      "year": 2019,
+      "region": "North Western Province",
+      "source": "https://pastpapers.wiki/grade-07-oriental-music-1st-term-test-paper-2019-sinhala-medium-north-western-province/",
+      "pdf": "grade_07/Eastern Music/term_1/grade-07-oriental-music-1st-term-test-paper-2019-sinhala-medium-north-western-province.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 4,
+    "subject": "Eastern Music",
+    "category": "humanities",
+    "question": "බටහිර සංගීතයේ E Flat (E )යන සංකේතයෙන් දැක්වෙන පෙරදිග සංගීතයේ ස්වරය කුමක් ද?",
+    "choices": [
+      "ග",
+      "ග",
+      "ග",
+      "ග"
+    ],
+    "answer": 3,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "1",
+      "year": 2019,
+      "region": "North Western Province",
+      "source": "https://pastpapers.wiki/grade-07-oriental-music-1st-term-test-paper-2019-sinhala-medium-north-western-province/",
+      "pdf": "grade_07/Eastern Music/term_1/grade-07-oriental-music-1st-term-test-paper-2019-sinhala-medium-north-western-province.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 5,
+    "subject": "Eastern Music",
+    "category": "humanities",
+    "question": "මන්ද්‍ර ස්වර හැඳින්වීම සඳහා",
+    "choices": [
+      "ස්වරයට උඩින් තිතක් තබයි.",
+      "ස්වරයට යටින් ඉරක් අඳියි.",
+      "ස්වරයට යටින් ඉරක් හා තිතක් තබයි.",
+      "ස්වරයට යටින් තිතක් තබයි."
+    ],
+    "answer": 4,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "1",
+      "year": 2019,
+      "region": "North Western Province",
+      "source": "https://pastpapers.wiki/grade-07-oriental-music-1st-term-test-paper-2019-sinhala-medium-north-western-province/",
+      "pdf": "grade_07/Eastern Music/term_1/grade-07-oriental-music-1st-term-test-paper-2019-sinhala-medium-north-western-province.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 6,
+    "subject": "Eastern Music",
+    "category": "humanities",
+    "question": "\"බැතිනා සිරිපා ..................\" යන ශුද්ධ ස්වර සහිත ගී පාදය",
+    "choices": [
+      "ළමා ගීතයකි",
+      "බැති ගීතයකි",
+      "ස්වරස්ථාපන ගීතයකි",
+      "කෙළි ගීතයකි"
+    ],
+    "answer": 3,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "1",
+      "year": 2019,
+      "region": "North Western Province",
+      "source": "https://pastpapers.wiki/grade-07-oriental-music-1st-term-test-paper-2019-sinhala-medium-north-western-province/",
+      "pdf": "grade_07/Eastern Music/term_1/grade-07-oriental-music-1st-term-test-paper-2019-sinhala-medium-north-western-province.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 7,
+    "subject": "Eastern Music",
+    "category": "humanities",
+    "question": "දාදරා තාලය වාදනය සඳහා සුදුසු තාල වාද්‍ය භාණ්ඩය වන්නේ",
+    "choices": [
+      "රබාන",
+      "තාලම් පට",
+      "තබ්ලාව",
+      "බෙරය"
+    ],
+    "answer": 3,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "1",
+      "year": 2019,
+      "region": "North Western Province",
+      "source": "https://pastpapers.wiki/grade-07-oriental-music-1st-term-test-paper-2019-sinhala-medium-north-western-province/",
+      "pdf": "grade_07/Eastern Music/term_1/grade-07-oriental-music-1st-term-test-paper-2019-sinhala-medium-north-western-province.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 8,
+    "subject": "Eastern Music",
+    "category": "humanities",
+    "question": "\"මොනවද මුත්තේ මොකද කරන්නේ\" යන ළමා ගී පාදයේ මාත්‍රා බෙදෙන්නේ",
+    "choices": [
+      "මාත්‍රා 2/4 ලෙසය",
+      "මාත්‍රා 4/4 ලෙසය",
+      "මාත්‍රා 3/3 ලෙසය",
+      "මාත්‍රා 2/3 ලෙසය"
+    ],
+    "answer": 2,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "1",
+      "year": 2019,
+      "region": "North Western Province",
+      "source": "https://pastpapers.wiki/grade-07-oriental-music-1st-term-test-paper-2019-sinhala-medium-north-western-province/",
+      "pdf": "grade_07/Eastern Music/term_1/grade-07-oriental-music-1st-term-test-paper-2019-sinhala-medium-north-western-province.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 9,
+    "subject": "Eastern Music",
+    "category": "humanities",
+    "question": "තාලම් පටින් නිකුත්වන ධ්වනි හඳුන්වන්නේ",
+    "choices": [
+      "තිත්, තෙයි",
+      "ලඝු, ගුරු",
+      "විලම්භ, මධ්‍ය",
+      "සම්, ඛලි"
+    ],
+    "answer": 1,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "1",
+      "year": 2019,
+      "region": "North Western Province",
+      "source": "https://pastpapers.wiki/grade-07-oriental-music-1st-term-test-paper-2019-sinhala-medium-north-western-province/",
+      "pdf": "grade_07/Eastern Music/term_1/grade-07-oriental-music-1st-term-test-paper-2019-sinhala-medium-north-western-province.pdf",
+      "needs_context": false
+    }
+  },
+  {
+    "q_no": 10,
+    "subject": "Eastern Music",
+    "category": "humanities",
+    "question": "තනි තිතේ ප්‍රභේද තුන පිළිවෙලින් දැක්වෙන පිළිතුර කුමක් ද?",
+    "choices": [
+      "සුළු, මැදුම්, මහ",
+      "මැදුම්, සුළු, මහ",
+      "මහ, සුළු, මැදුම්",
+      "සුළු, මහ, මැදුම් l"
+    ],
+    "answer": 1,
+    "metadata": {
+      "difficulty": null,
+      "grade": 7,
+      "type": "extracted_pdf",
+      "term": "1",
+      "year": 2019,
+      "region": "North Western Province",
+      "source": "https://pastpapers.wiki/grade-07-oriental-music-1st-term-test-paper-2019-sinhala-medium-north-western-province/",
+      "pdf": "grade_07/Eastern Music/term_1/grade-07-oriental-music-1st-term-test-paper-2019-sinhala-medium-north-western-province.pdf",
+      "needs_context": false
+    }
+  }
+]

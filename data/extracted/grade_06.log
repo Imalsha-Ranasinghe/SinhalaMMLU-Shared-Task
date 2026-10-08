@@ -1,0 +1,797 @@
+extractor: gemma-4-31b-it at https://generativelanguage.googleapis.com/v1beta/openai/
+97 papers, 524 skipped, 251 model calls, 42 not cached yet
+[retry 1] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTE
+[retry 1] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTE
+[rate limited] waiting 20s: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billi
+[rate limited] waiting 20s: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billi
+[rate limited] waiting 20s: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billi
+[rate limited] waiting 20s: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billi
+[retry 2] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTE
+[rate limited] waiting 40s: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billi
+[rate limited] waiting 40s: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billi
+[rate limited] waiting 60s: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billi
+[rate limited] waiting 40s: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billi
+[rate limited] waiting 40s: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billi
+  1/42 done, 0 failed, 124s  (2019_Science_answer_grade-06-science-3rd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province.pdf)
+[retry 3] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTE
+[rate limited] waiting 60s: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billi
+[rate limited] waiting 80s: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billi
+[rate limited] waiting 60s: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billi
+[rate limited] waiting 60s: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billi
+  2/42 done, 0 failed, 157s  (2019_Unknown_answer_grade-06-islam-1st-term-test-paper-with-answers-2019-sinhala-medium-north-western-province.pdf)
+[rate limited] waiting 80s: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billi
+[rate limited] waiting 20s: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billi
+[retry 2] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTE
+  3/42 done, 0 failed, 192s  (2019_Health_answer_grade-06-health-and-physical-education-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province.pdf)
+  4/42 done, 0 failed, 195s  (2019_Science_answer_grade-06-science-3rd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province.pdf)
+[retry 1] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTE
+[retry 1] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTE
+[rate limited] waiting 80s: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billi
+  5/42 done, 0 failed, 224s  (2024_Civic_answer_north-western-province-2024-grade-06-civic-education-second-term-sinhala-medium-paper-with-answers-past-papers-wiki.pdf)
+[rate limited] waiting 40s: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billi
+[rate limited] waiting 80s: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billi
+[rate limited] waiting 100s: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billi
+[retry 3] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTE
+[retry 4] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTE
+[retry 5] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTE
+[retry 5] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTE
+  6/42 done, 0 failed, 330s  (2023_Art_answer_southern-province-2023-art-second-term-sinhala-medium-paper-with-answers-past-paper-wiki.pdf)
+[retry 5] InternalServerError: Error code: 503 - [{'error': {'code': 503, 'message': 'This model is currently experiencing high dem
+[giving up] RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this
+  7/42 done, 1 failed, 332s  (2019_Science_answer_grade-06-science-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province.pdf)
+[rate limited] waiting 20s: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billi
+  8/42 done, 1 failed, 342s  (2019_Buddhism_answer_grade-06-buddhism-3rd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province.pdf)
+[rate limited] waiting 20s: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billi
+[giving up] RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this
+  9/42 done, 2 failed, 349s  (2019_Science_answer_grade-06-science-2nd-term-test-paper-with-answers-2019-sinhala-medium-southern-province.pdf)
+[rate limited] waiting 20s: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billi
+[retry 5] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTE
+[giving up] RateLimitError: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this
+  10/42 done, 3 failed, 360s  (2019_Art_answer_grade-06-art-1st-term-test-paper-with-answers-2019-sinhala-medium-north-western-province.pdf)
+[retry 1] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTE
+[giving up] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTERNAL'}}]
+  11/42 done, 4 failed, 428s  (2019_Science_answer_grade-06-science-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province.pdf)
+[retry 2] InternalServerError: Error code: 503 - [{'error': {'code': 503, 'message': 'This model is currently experiencing high dem
+[retry 3] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTE
+  12/42 done, 4 failed, 463s  (2024_Art_answer_art-sm-6.pdf)
+[retry 2] APIConnectionError: Connection error.
+[retry 3] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTE
+[retry 2] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTE
+[retry 3] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTE
+[giving up] APIConnectionError: Connection error.
+  13/42 done, 5 failed, 605s  (2024_Art_answer_north-western-province-2024-grade-06-art-second-term-sinhala-medium-paper-with-answers-past-papers-wiki.pdf)
+[retry 1] APIConnectionError: Connection error.
+  14/42 done, 5 failed, 678s  (2025_Civic_answer_north-western-province-2025-grade-06-civic-education-second-term-sinhala-medium-paper-with-answers-past-paper-wiki.pdf)
+[retry 1] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTE
+[retry 2] APIConnectionError: Connection error.
+[retry 1] APIConnectionError: Connection error.
+[retry 2] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTE
+[retry 4] APIConnectionError: Connection error.
+[retry 1] APIConnectionError: Connection error.
+  15/42 done, 5 failed, 777s  (2025_Civic_answer_north-western-province-2025-grade-06-civic-education-second-term-sinhala-medium-paper-with-answers-past-paper-wiki.pdf)
+[retry 4] APIConnectionError: Connection error.
+[retry 5] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTE
+[giving up] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTERNAL'}}]
+  16/42 done, 6 failed, 853s  (2024_Health_answer_north-western-province-2024-grade-06-health-second-term-sinhala-medium-paper-with-answers-past-papers-wiki.pdf)
+[retry 1] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTE
+[retry 2] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTE
+[retry 4] APIConnectionError: Connection error.
+[retry 3] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTE
+[retry 4] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTE
+[retry 5] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTE
+[giving up] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTERNAL'}}]
+  17/42 done, 7 failed, 942s  (2025_Dancing_answer_north-western-province-2025-grade-06-dancing-second-term-sinhala-medium-paper-with-answers-past-papers-wiki.pdf)
+[retry 5] InternalServerError: Error code: 503 - [{'error': {'code': 503, 'message': 'This model is currently experiencing high dem
+[retry 1] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTE
+[retry 2] APIConnectionError: Connection error.
+[retry 2] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTE
+[retry 3] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTE
+[retry 3] APIConnectionError: Connection error.
+[retry 4] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTE
+[retry 4] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTE
+[retry 1] InternalServerError: Error code: 503 - [{'error': {'code': 503, 'message': 'This model is currently experiencing high dem
+[retry 2] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTE
+[retry 3] APIConnectionError: Connection error.
+[retry 3] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTE
+[retry 4] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTE
+[retry 5] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTE
+[retry 2] APIConnectionError: Connection error.
+[retry 3] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTE
+[retry 5] APIConnectionError: Connection error.
+[retry 4] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTE
+[giving up] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTERNAL'}}]
+  18/42 done, 8 failed, 1097s  (2024_Unknown_answer_catholic-sm-6.pdf)
+[retry 1] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTE
+[retry 5] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTE
+[retry 2] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTE
+[retry 3] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTE
+[retry 5] InternalServerError: Error code: 503 - [{'error': {'code': 503, 'message': 'This model is currently experiencing high dem
+[giving up] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTERNAL'}}]
+  19/42 done, 9 failed, 1158s  (2023_Unknown_answer_2023-grade-06-catholicism-2nd-term-test-paper-with-answers-north-western-province.pdf)
+[giving up] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTERNAL'}}]
+  20/42 done, 10 failed, 1159s  (2023_Dancing_answer_southern-province-2023-dancing-second-term-sinhala-medium-paper-with-answers-past-paper-wiki.pdf)
+[retry 1] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTE
+[giving up] APIConnectionError: Connection error.
+  21/42 done, 11 failed, 1272s  (2024_Drama_answer_north-western-province-2024-grade-06-drama-second-term-sinhala-medium-paper-with-answers-past-papers-wiki.pdf)
+[retry 1] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTE
+[retry 2] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTE
+[retry 3] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTE
+[retry 3] APIConnectionError: Connection error.
+[retry 4] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTE
+[retry 5] APIConnectionError: Connection error.
+[giving up] APIConnectionError: Connection error.
+  22/42 done, 12 failed, 1379s  (2024_Buddhism_answer_north-western-province-2024-grade-06-buddhism-second-term-sinhala-medium-paper-with-answers-past-papers-wiki.pdf)
+[retry 4] APIConnectionError: Connection error.
+[retry 1] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTE
+[retry 4] APIConnectionError: Connection error.
+[retry 1] APIConnectionError: Connection error.
+[retry 2] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTE
+[retry 2] APIConnectionError: Connection error.
+[retry 3] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTE
+[retry 3] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTE
+[retry 4] APIConnectionError: Connection error.
+[retry 5] APIConnectionError: Connection error.
+[giving up] APIConnectionError: Connection error.
+  23/42 done, 13 failed, 1681s  (2025_Drama_answer_north-western-province-2025-grade-06-drama-second-term-sinhala-medium-paper-with-answers-past-papers-wiki.pdf)
+[retry 2] APIConnectionError: Connection error.
+[retry 5] APIConnectionError: Connection error.
+[retry 5] APIConnectionError: Connection error.
+[retry 3] InternalServerError: Error code: 503 - [{'error': {'code': 503, 'message': 'This model is currently experiencing high dem
+[giving up] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTERNAL'}}]
+  24/42 done, 14 failed, 1758s  (2024_Dancing_answer_dansing-sm-2.pdf)
+[retry 4] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTE
+[retry 5] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTE
+[retry 4] APIConnectionError: Connection error.
+[retry 4] APIConnectionError: Connection error.
+[retry 5] InternalServerError: Error code: 503 - [{'error': {'code': 503, 'message': 'This model is currently experiencing high dem
+[retry 5] InternalServerError: Error code: 503 - [{'error': {'code': 503, 'message': 'This model is currently experiencing high dem
+[retry 5] APIConnectionError: Connection error.
+[giving up] APIConnectionError: Connection error.
+  25/42 done, 15 failed, 1930s  (2023_Civic_answer_southern-province-2023-civic-education-second-term-sinhala-medium-paper-with-answers-past-paper-wiki.pdf)
+[retry 1] APIConnectionError: Connection error.
+[giving up] APIConnectionError: Connection error.
+  26/42 done, 16 failed, 2016s  (2023_Drama_answer_6-drama-sm-2.pdf)
+[retry 1] APIConnectionError: Connection error.
+[giving up] APIConnectionError: Connection error.
+  27/42 done, 17 failed, 2104s  (2023_Health_answer_southern-province-2023-health-second-term-sinhala-medium-paper-with-answers-past-paper-wiki.pdf)
+[retry 2] InternalServerError: Error code: 503 - [{'error': {'code': 503, 'message': 'This model is currently experiencing high dem
+[giving up] APIConnectionError: Connection error.
+  28/42 done, 18 failed, 2170s  (2023_Dancing_answer_2023-grade-06-dancing-2nd-term-test-paper-with-answers-north-western-province.pdf)
+[giving up] APIConnectionError: Connection error.
+  29/42 done, 19 failed, 2204s  (2024_Geography_answer_north-western-province-2024-grade-06-geography-second-term-sinhala-medium-paper-with-answers-past-papers-wiki.pdf)
+[giving up] APIConnectionError: Connection error.
+  30/42 done, 20 failed, 2226s  (2023_Geography_answer_southern-province-2023-geography-second-term-sinhala-medium-paper-with-answers-past-paper-wiki.pdf)
+[retry 2] APIConnectionError: Connection error.
+[retry 3] InternalServerError: Error code: 503 - [{'error': {'code': 503, 'message': 'This model is currently experiencing high dem
+[retry 4] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTE
+[retry 5] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTE
+[retry 3] APIConnectionError: Connection error.
+[giving up] APIConnectionError: Connection error.
+  31/42 done, 21 failed, 2690s  (2024_Sinhala_answer_north-western-province-2024-grade-06-sinhala-language-second-term-paper-with-answers-past-papers-wiki.pdf)
+[retry 4] APIConnectionError: Connection error.
+[retry 5] APIConnectionError: Connection error.
+[giving up] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTERNAL'}}]
+  32/42 done, 22 failed, 3074s  (2024_Science_answer_north-western-province-2024-grade-06-science-second-term-sinhala-medium-paper-with-answers-past-papers-wiki.pdf)
+[retry 1] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTE
+[retry 1] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTE
+[retry 1] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTE
+[rate limited] waiting 20s: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billi
+[retry 1] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTE
+[retry 2] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTE
+[retry 2] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTE
+[retry 1] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTE
+[retry 2] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTE
+[retry 2] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTE
+  33/42 done, 22 failed, 3153s  (2025_Music_answer_north-western-province-2025-grade-06-eastern-music-second-term-sinhala-medium-paper-with-answers-past-papers-wiki.pdf)
+[rate limited] waiting 40s: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billi
+[retry 3] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTE
+[rate limited] waiting 40s: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billi
+[retry 3] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTE
+[retry 1] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTE
+  34/42 done, 22 failed, 3198s  (2023_Science_answer_6-science-sm-2.pdf)
+[retry 4] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTE
+[retry 2] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTE
+[retry 4] InternalServerError: Error code: 503 - [{'error': {'code': 503, 'message': 'This model is currently experiencing high dem
+[retry 3] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTE
+[retry 5] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTE
+[retry 4] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTE
+[retry 5] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTE
+[giving up] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTERNAL'}}]
+  35/42 done, 23 failed, 3271s  (2023_Science_answer_2023-grade-06-science-2nd-term-test-paper-with-answers-north-western-province.pdf)
+  36/42 done, 23 failed, 3341s  (2022_Buddhism_answer_2022-grade-06-buddhism-3rd-term-test-paper-with-answers-north-western-province.pdf)
+  37/42 done, 23 failed, 3378s  (2019_Sinhala_answer_grade-06-sinhala-literature-2nd-term-test-paper-with-answers-2019-north-central-province.pdf)
+[retry 1] APIConnectionError: Connection error.
+[retry 2] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTE
+[retry 3] InternalServerError: Error code: 503 - [{'error': {'code': 503, 'message': 'This model is currently experiencing high dem
+[retry 3] APIConnectionError: Connection error.
+[retry 4] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTE
+[retry 5] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTE
+[retry 1] APIConnectionError: Connection error.
+[retry 2] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTE
+[retry 5] APIConnectionError: Connection error.
+[giving up] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTERNAL'}}]
+  38/42 done, 24 failed, 3548s  (2023_Science_answer_2023-grade-06-science-2nd-term-test-paper-with-answers-north-western-province.pdf)
+[giving up] APIConnectionError: Connection error.
+  39/42 done, 25 failed, 3581s  (2022_Health_answer_health-sm-11.pdf)
+[retry 4] APIConnectionError: Connection error.
+[giving up] APIConnectionError: Connection error.
+  40/42 done, 26 failed, 3826s  (2020_Civic_answer_grade-6-civic-education-paper.pdf)
+[retry 3] APIConnectionError: Connection error.
+[retry 4] InternalServerError: Error code: 500 - [{'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTE
+[retry 5] APIConnectionError: Connection error.
+[retry 5] APIConnectionError: Connection error.
+[giving up] APIConnectionError: Connection error.
+  41/42 done, 27 failed, 4418s  (2023_History_answer_6-history-sm-2.pdf)
+[giving up] APIConnectionError: Connection error.
+  42/42 done, 28 failed, 4471s  (2023_Sinhala_answer_6-sinhala-language-sm.pdf)
+{
+  "date": "2026-10-08",
+  "extractor_model": "gemma-4-31b-it",
+  "papers": 97,
+  "skipped": {
+    "2018_Buddhism_paper_grade-06-buddhism-1st-term-test-paper-2018-sinhala-medium-western-province.pdf": "no answers",
+    "2018_Unknown_paper_grade-06-christianity-1st-term-test-paper-2018-sinhala-medium-western-province.pdf": "no answers",
+    "2018_Unknown_paper_grade-06-christianity-1st-term-test-paper-2018-sinhala-medium-sabaragamuwa-province.pdf": "no answers",
+    "2019_Unknown_answer_grade-06-christianity-1st-term-test-paper-with-answers-2019-sinhala-medium-north-western-province.pdf": "Dev Set source",
+    "2019_Unknown_answer_grade-06-catholicism-1st-term-test-paper-with-answers-2019-sinhala-medium-north-western-province.pdf": "Dev Set source",
+    "2019_Civic_answer_grade-06-civic-education-1st-term-test-paper-with-answers-2019-sinhala-medium-north-western-province.pdf": "Dev Set source",
+    "2019_English_answer_grade-06-english-1st-term-test-paper-with-answers-2019-north-western-province.pdf": "not a Dev Set subject (english)",
+    "2019_Geography_answer_grade-06-geography-1st-term-test-paper-with-answers-2019-sinhala-medium-north-western-province.pdf": "Dev Set source",
+    "2018_History_paper_grade-06-history-1st-term-test-paper-2018-sinhala-medium-western-province.pdf": "no answers",
+    "2018_History_paper_grade-06-history-1st-term-test-paper-2018-sinhala-medium-sabaragamuwa-province.pdf": "no answers",
+    "2019_History_answer_grade-06-history-1st-term-test-paper-with-answers-2019-sinhala-medium-north-western-province.pdf": "Dev Set source",
+    "2019_Mathematics_answer_grade-06-mathematics-1st-term-test-paper-with-answers-2019-sinhala-medium-north-western-province.pdf": "not a Dev Set subject (mathematics)",
+    "2018_Mathematics_answer_grade-06-mathematics-1st-term-test-paper-with-answers-2018-sinhala-medium-sabaragamuwa-province.pdf": "not a Dev Set subject (mathematics)",
+    "2018_Unknown_paper_grade-06-tamil-1st-term-test-paper-2018-sinhala-medium-sabaragamuwa-province.pdf": "no answers",
+    "2019_Unknown_answer_grade-06-tamil-1st-term-test-paper-with-answers-2019-sinhala-medium-north-western-province.pdf": "not a Dev Set subject (tamil)",
+    "2019_Art_answer_grade-06-art-2nd-term-test-paper-with-answers-2019-sinhala-medium-southern-province.pdf": "Dev Set source",
+    "2018_Buddhism_paper_grade-06-buddhism-2nd-term-test-paper-2018-sinhala-medium-western-province.pdf": "no answers",
+    "2019_Buddhism_answer_grade-06-buddhism-2nd-term-test-paper-with-answers-2019-sinhala-medium-southern-province.pdf": "Dev Set source",
+    "2019_Buddhism_answer_grade-06-buddhism-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province.pdf": "Dev Set source",
+    "2018_Unknown_paper_grade-06-christianity-2nd-term-test-paper-2018-sinhala-medium-western-province.pdf": "no answers",
+    "2019_Unknown_answer_grade-06-christianity-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province.pdf": "Dev Set source",
+    "2019_Unknown_answer_grade-06-catholicism-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province.pdf": "Dev Set source",
+    "2018_Unknown_answer_grade-06-catholicism-2nd-term-test-paper-with-answers-2018-sinhala-medium-north-western-province.pdf": "Dev Set source",
+    "2018_Civic_paper_grade-06-civic-education-2nd-term-test-paper-2018-sinhala-medium-kelaniya-zone.pdf": "no answers",
+    "2019_Civic_answer_grade-06-civic-education-2nd-term-test-paper-2019-sinhala-medium-north-western-province.pdf": "Dev Set source",
+    "2019_Drama_paper_grade-06-drama-2nd-term-test-paper-2019-sinhala-medium-southern-province.pdf": "no answers",
+    "2019_Drama_answer_grade-06-drama-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province.pdf": "Dev Set source",
+    "2019_Dancing_answer_grade-06-dancing-2nd-term-test-paper-with-answers-2019-sinhala-medium-southern-province.pdf": "Dev Set source",
+    "2019_Dancing_answer_grade-06-dancing-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province.pdf": "Dev Set source",
+    "2019_English_answer_grade-06-english-2nd-term-test-paper-with-answers-2019-north-western-province.pdf": "not a Dev Set subject (english)",
+    "2019_English_answer_grade-06-english-2nd-term-test-paper-with-answers-2019-southern-province.pdf": "not a Dev Set subject (english)",
+    "2019_Geography_answer_grade-06-geography-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province.pdf": "Dev Set source",
+    "2018_History_paper_grade-06-history-2nd-term-test-paper-2018-sinhala-medium-western-province.pdf": "no answers",
+    "2019_History_answer_grade-06-history-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province.pdf": "Dev Set source",
+    "2019_Health_answer_grade-06-health-and-physical-education-2nd-term-test-paper-with-answers-2019-sinhala-medium-southern-province.pdf": "Dev Set source",
+    "2019_ICT_answer_grade-06-information-and-communication-technology-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-western-pro.pdf": "not a Dev Set subject (ict)",
+    "2019_Unknown_answer_grade-06-islam-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province.pdf": "Dev Set source",
+    "2019_Music_answer_grade-06-music-2nd-term-test-paper-with-answers-2019-sinhala-medium-southern-province.pdf": "Dev Set source",
+    "2018_Mathematics_paper_grade-06-mathematics-2nd-term-test-paper-2018-sinhala-medium-western-province.pdf": "no answers",
+    "2019_Mathematics_answer_grade-06-mathematics-2nd-term-test-paper-with-answers-2019-sinhala-medium-southern-province.pdf": "not a Dev Set subject (mathematics)",
+    "2018_Mathematics_answer_grade-06-mathematics-2nd-term-test-paper-with-answers-2018-sinhala-medium-north-western-province.pdf": "not a Dev Set subject (mathematics)",
+    "2019_Mathematics_answer_grade-06-mathematics-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province.pdf": "not a Dev Set subject (mathematics)",
+    "2019_Science_answer_grade-06-science-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province.pdf": "Dev Set source",
+    "2018_Art_paper_grade-06-art-3rd-term-test-paper-2018-sinhala-medium-southern-province-2.pdf": "no answers",
+    "2020_Art_answer_grade-06-art-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province.pdf": "Dev Set source",
+    "2018_Buddhism_paper_grade-06-buddhism-3rd-term-test-paper-2018-sinhala-medium-southern-province.pdf": "no answers",
+    "2019_Buddhism_answer_grade-06-buddhism-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province.pdf": "Dev Set source",
+    "2020_Buddhism_answer_grade-06-buddhism-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province.pdf": "Dev Set source",
+    "2019_Unknown_answer_grade-06-christianity-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province.pdf": "Dev Set source",
+    "2019_Unknown_answer_grade-06-christianity-3rd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province.pdf": "Dev Set source",
+    "2020_Civic_answer_grade-06-civic-education-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province.pdf": "Dev Set source",
+    "2018_Drama_paper_grade-06-drama-3rd-term-test-paper-2018-sinhala-medium-southern-province.pdf": "no answers",
+    "2019_Drama_answer_grade-06-drama-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province.pdf": "Dev Set source",
+    "2020_Drama_answer_grade-06-drama-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province.pdf": "Dev Set source",
+    "2019_Drama_answer_grade-06-drama-3rd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province.pdf": "Dev Set source",
+    "2018_Dancing_paper_grade-06-dancing-3rd-term-test-paper-2018-sinhala-medium-southern-province.pdf": "no answers",
+    "2019_Dancing_answer_grade-06-dancing-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province.pdf": "Dev Set source",
+    "2019_Dancing_answer_grade-06-dancing-3rd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province.pdf": "Dev Set source",
+    "2019_English_answer_grade-06-english-3rd-term-test-paper-with-answers-2019-central-province.pdf": "not a Dev Set subject (english)",
+    "2020_English_answer_grade-06-english-3rd-term-test-paper-with-answers-2020-southern-province.pdf": "not a Dev Set subject (english)",
+    "2019_English_answer_grade-06-english-3rd-term-test-paper-with-answers-2019-north-western-province.pdf": "not a Dev Set subject (english)",
+    "2018_Geography_paper_grade-06-geography-3rd-term-test-paper-2018-sinhala-medium-southern-province.pdf": "no answers",
+    "2020_Geography_answer_grade-06-geography-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province.pdf": "Dev Set source",
+    "2018_History_paper_grade-06-history-3rd-term-test-paper-2018-sinhala-medium-southern-province.pdf": "no answers",
+    "2019_History_answer_grade-06-history-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province.pdf": "Dev Set source",
+    "2020_History_answer_grade-06-history-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province.pdf": "Dev Set source",
+    "2019_History_answer_grade-06-history-3rd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province.pdf": "Dev Set source",
+    "2019_Health_answer_grade-06-health-and-physical-education-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province.pdf": "Dev Set source",
+    "2020_Unknown_answer_grade-06-islam-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province.pdf": "Dev Set source",
+    "2019_ICT_answer_grade-06-information-and-communication-technology-3rd-term-test-paper-with-answers-2019-sinhala-medium-north-western-pro.pdf": "not a Dev Set subject (ict)",
+    "2018_Music_paper_grade-06-music-3rd-term-test-paper-2018-sinhala-medium-southern-province.pdf": "no answers",
+    "2019_Music_answer_grade-06-music-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province.pdf": "Dev Set source",
+    "2020_Music_answer_grade-06-music-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province.pdf": "Dev Set source",
+    "2019_Mathematics_answer_grade-06-mathematics-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province.pdf": "not a Dev Set subject (mathematics)",
+    "2020_Mathematics_answer_grade-06-mathematics-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province.pdf": "not a Dev Set subject (mathematics)",
+    "2019_Mathematics_answer_grade-06-mathematics-3rd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province.pdf": "not a Dev Set subject (mathematics)",
+    "2020_Sinhala_answer_grade-06-sinhala-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province.pdf": "Dev Set source",
+    "2018_Science_paper_grade-06-science-3rd-term-test-paper-2018-sinhala-medium-southern-province.pdf": "no answers",
+    "2020_Science_answer_grade-06-science-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province.pdf": "Dev Set source",
+    "2020_Unknown_answer_grade-06-tamil-3rd-term-test-paper-with-answers-2020-sinhala-medium-southern-province.pdf": "not a Dev Set subject (tamil)",
+    "2019_Unknown_answer_grade-06-tamil-3rd-term-test-paper-with-answers-2019-sinhala-medium-central-province.pdf": "not a Dev Set subject (tamil)",
+    "2019_Unknown_answer_grade-06-tamil-3rd-term-test-paper-with-answers-2019-sinhala-medium-north-western-province.pdf": "not a Dev Set subject (tamil)",
+    "2024_Unknown_paper_north-western-province-2024-grade-06-catholicism-second-term-sinhala-medium-paper-past-papers-wiki.pdf": "no answers",
+    "2024_ICT_answer_north-western-province-2024-grade-06-ict-second-term-sinhala-medium-paper-with-answers-past-papers-wiki.pdf": "not a Dev Set subject (ict)",
+    "unknown_Unknown_paper_TGr10RB_2NL.pdf": "no answers",
+    "unknown_Music_paper_eGr06OM%20Western%20Music.pdf": "no answers",
+    "2024_Art_paper_north-western-province-2024-grade-06-art-sm-3rd-term-test.pdf": "no answers",
+    "2024_Art_paper_southern-20242025-art-paper.pdf": "no answers",
+    "2024_Buddhism_paper_north-western-province-2024-grade-06-buddhism-sm-3rd-term-test.pdf": "no answers",
+    "2024_Buddhism_paper_southern-20242025-buddhism-paper.pdf": "no answers",
+    "2023_Buddhism_answer_6-buddhism-sm.pdf": "Dev Set source",
+    "2024_Buddhism_paper_6-buddishm-sm.pdf": "no answers",
+    "2024_Unknown_paper_north-western-province-2024-grade-06-christianity-sm-3rd-term-test.pdf": "no answers",
+    "2024_Unknown_paper_southern-20242025-christianity-paper.pdf": "no answers",
+    "2024_Unknown_paper_6-chrisitianaty-sm.pdf": "no answers",
+    "2018_Unknown_paper_grade-06-christianity-1st-term-test-paper-2018-north-western-province.pdf": "no answers",
+    "2022_Unknown_paper_2022-grade-06-christianity-3rd-term-test-paper-sinhala-medium.pdf": "no answers",
+    "2022_Unknown_answer_2022-grade-06-christianity-3rd-term-test-paper-with-answers-north-western-province.pdf": "Dev Set source",
+    "2022_Unknown_paper_2022-grade-06-christianity-2nd-term-test-paper-sinhala-medium.pdf": "no answers",
+    "2024_History_paper_g6-history-sm.pdf": "no answers",
+    "2024_Civic_paper_g6-civic-sm.pdf": "no answers",
+    "2024_Sinhala_paper_g6-2nd-language-sinhala.pdf": "no answers",
+    "2024_Science_paper_g6-science-sm.pdf": "no answers",
+    "2024_Unknown_paper_catholic-2nd-term-2024.pdf": "no answers",
+    "2024_Unknown_paper_catholic-1st-term-2024.pdf": "no answers",
+    "2024_Unknown_paper_southern-20242025-catholic-paper.pdf": "no answers",
+    "2023_Drama_paper_southern-province-2023-drama-and-theatre-second-term-sinhala-medium-paper-past-paper-wiki.pdf": "no answers",
+    "2024_Drama_paper_north-western-province-2024-grade-06-drama-sm-3rd-term-test.pdf": "no answers",
+    "2024_Drama_paper_southern-20242025-drama-paper.pdf": "no answers",
+    "2023_Drama_answer_2023-grade-06-drama-2nd-term-test-paper-with-answers-north-western-province.pdf": "Dev Set source",
+    "2019_Civic_paper_civics-1st-term-2019.pdf": "no answers",
+    "2020_Civic_paper_civics-1st-term-2020.pdf": "no answers",
+    "2025_ICT_answer_north-western-province-2025-grade-06-ict-second-term-sinhala-medium-paper-with-answers-past-papers-wiki.pdf": "not a Dev Set subject (ict)",
+    "2024_Drama_paper_6-drama-sm.pdf": "no answers",
+    "2019_Drama_paper_grade-06-drama-2nd-term-test-paper-2019-sinhala-medium-north-central-province.pdf": "no answers",
+    "2019_Dancing_paper_dancing-1st-term-2019.pdf": "no answers",
+    "2020_Dancing_paper_dancing-1st-term-2020.pdf": "no answers",
+    "2024_Dancing_paper_southern-20242025-dancing-paper.pdf": "no answers",
+    "2023_Dancing_answer_6-dancing-sm-2.pdf": "Dev Set source",
+    "2019_Dancing_paper_grade-06-dancing-2nd-term-test-paper-2019-sinhala-medium-north-central-province.pdf": "no answers",
+    "2024_English_answer_north-western-province-2024-grade-06-english-second-term-paper-with-answers-past-paper-wiki.pdf": "not a Dev Set subject (english language)",
+    "2023_English_answer_southern-province-2023-english-language-second-term-paper-with-answers-past-paper-wiki.pdf": "not a Dev Set subject (english language)",
+    "2022_English_paper_southern-province-2022-english-language-second-term-paper-past-paper-wiki.pdf": "no answers",
+    "2023_English_paper_english-1st-term-2023.pdf": "no answers",
+    "2024_English_paper_english-1st-term-2024.pdf": "no answers",
+    "2024_English_paper_north-western-province-2024-grade-06-english-language-3rd-term-test.pdf": "no answers",
+    "2024_English_paper_southern-20242025-english-paper.pdf": "no answers",
+    "2022_English_answer_english-18.pdf": "not a Dev Set subject (english)",
+    "2024_English_answer_english-13.pdf": "not a Dev Set subject (english)",
+    "2024_English_paper_6-english-s.pdf": "no answers",
+    "2024_History_paper_history-1st-term-2024.pdf": "no answers",
+    "2024_History_paper_north-western-province-2024-grade-06-history-sm-3rd-term-test.pdf": "no answers",
+    "2024_History_paper_southern-20242025-history-paper.pdf": "no answers",
+    "2019_History_paper_grade-06-history-2nd-term-test-paper-2019-sinhala-medium-north-central-province.pdf": "no answers",
+    "2022_Health_paper_health-1st-term-2022.pdf": "no answers",
+    "2023_Unknown_paper_southern-province-2023-islam-second-term-sinhala-medium-paper-past-paper-wiki.pdf": "no answers",
+    "2019_Unknown_paper_islam-1st-term-2019.pdf": "no answers",
+    "2024_Unknown_paper_islam-1st-term-2024.pdf": "no answers",
+    "2024_Unknown_paper_north-western-province-2024-grade-06-islam-sm-3rd-term-test.pdf": "no answers",
+    "2024_Unknown_paper_southern-20242025-islam-paper.pdf": "no answers",
+    "2024_Unknown_answer_islam-tm-5.pdf": "not a Sinhala-medium term test",
+    "2024_Unknown_paper_6-islam-sm.pdf": "no answers",
+    "2018_History_paper_grade-06-history-1st-term-test-paper-2018-north-western-province.pdf": "no answers",
+    "2024_Mathematics_answer_north-western-province-2024-grade-06-mathematics-second-term-sinhala-medium-paper-with-answers-past-papers-wiki.pdf": "not a Dev Set subject (mathematics)",
+    "2025_Mathematics_answer_north-western-province-2025-grade-06-mathematics-second-term-sinhala-medium-paper-with-answers-past-paper-wiki.pdf": "not a Dev Set subject (mathematics)",
+    "2023_Mathematics_answer_southern-province-2023-mathematics-second-term-sinhala-medium-paper-with-answers-past-paper-wiki.pdf": "not a Dev Set subject (mathematics)",
+    "2019_Mathematics_paper_maths-1st-term-2019.pdf": "no answers",
+    "2024_Mathematics_paper_maths-1st-term-2024.pdf": "no answers",
+    "2020_Sinhala_paper_sinhala-1st-term-2020.pdf": "no answers",
+    "2024_Sinhala_paper_sinhala-1st-term-2024.pdf": "no answers",
+    "2024_Sinhala_paper_north-western-province-2024-grade-06-sinhala-3rd-term-test.pdf": "no answers",
+    "2024_Sinhala_paper_southern-20242025-sinhala-paper.pdf": "no answers",
+    "2024_Sinhala_paper_6-sinhala-s.pdf": "no answers",
+    "2019_Music_answer_grade-06-music-1st-term-test-paper-with-answers-2019-sinhala-medium-north-western-province.pdf": "Dev Set source",
+    "2023_Science_paper_southern-province-2023-science-second-term-sinhala-medium-paper-past-paper-wiki.pdf": "no answers",
+    "2020_Science_paper_science-1st-term-2020.pdf": "no answers",
+    "2024_Science_paper_science-1st-term-2024.pdf": "no answers",
+    "2022_Unknown_paper_tamil-1st-term-2022.pdf": "no answers",
+    "2024_Unknown_answer_tamil-7.pdf": "not a Dev Set subject (tamil)",
+    "2023_Unknown_answer_2023-grade-06-second-language-tamil-2nd-term-test-paper-with-answers-north-western-province.pdf": "not a Dev Set subject (second language tamil)",
+    "2022_Unknown_paper_2022-grade-06-tamil-3rd-term-test-paper.pdf": "no answers",
+    "2022_Unknown_answer_2022-grade-06-tamil-3rd-term-test-paper-with-answers-north-western-province.pdf": "not a Dev Set subject (tamil)",
+    "2022_Unknown_paper_2022-grade-06-tamil-2nd-term-test-paper.pdf": "no answers",
+    "2023_Unknown_paper_2023-grade-06-tamil-1st-term-test-paper-jaffna-hindu-college.pdf": "no answers",
+    "2024_Science_paper_6-science-s.pdf": "no answers",
+    "2024_Unknown_paper_6-2nd-language-tamil-s.pdf": "no answers",
+    "2024_Unknown_paper_6-maths-sin-s.pdf": "no answers",
+    "2019_Buddhism_paper_grade-06-buddhism-2nd-term-test-paper-2019-sinhala-medium-north-central-province.pdf": "no answers",
+    "2023_ICT_paper_grade-06-ict-1st-term-test-paper-2023-sinhala-medium-royal-college.pdf": "no answers",
+    "2022_ICT_paper_grade-06-ict-1st-term-test-paper-2022-sinhala-medium-j-r-jayawardhana-college.pdf": "no answers",
+    "2023_Music_paper_southern-province-2023-oriental-music-second-term-sinhala-medium-paper-past-paper-wiki.pdf": "no answers",
+    "2020_Music_paper_eastern-music-1st-term-2020.pdf": "no answers",
+    "2024_Music_paper_music-2nd-term-2024.pdf": "no answers",
+    "2024_Music_paper_southern-20242025-eastern-music-paper.pdf": "no answers",
+    "2023_Music_answer_6-music-sm.pdf": "Dev Set source",
+    "2019_Music_paper_grade-06-music-2nd-term-test-paper-2019-sinhala-medium-north-central-province.pdf": "no answers",
+    "2024_Unknown_paper_grade-06-maths-central.pdf": "no answers",
+    "2018_Unknown_paper_grade-06-maths-1st-term-test-paper-2018-north-western-province.pdf": "no answers",
+    "2023_Unknown_answer_6-maths-sm-2.pdf": "not a Dev Set subject (maths)",
+    "2023_Unknown_answer_2023-grade-06-maths-2nd-term-test-paper-with-answers-north-western-province.pdf": "not a Dev Set subject (maths)",
+    "2020_Mathematics_answer_grade-6.pdf": "not a Dev Set subject (mathematics)",
+    "2024_Mathematics_paper_southern-20242025-maths-paper.pdf": "no answers",
+    "2023_Unknown_paper_maths-third-term-test-paper-2023-in-sinhala-medium-4.pdf": "no answers",
+    "2022_Mathematics_answer_2022-grade-06-mathematics-3rd-term-test-paper-with-answers-north-western-province.pdf": "not a Dev Set subject (mathematics)",
+    "2021_Mathematics_paper_sm-g6-maths-2021-wp-3rd.pdf": "no answers",
+    "2019_Mathematics_paper_2019-g6-maths.pdf": "no answers",
+    "2018_Mathematics_paper_2018-g6-maths.pdf": "no answers",
+    "2025_Science_paper_science-first-term-test-paper-2025-in-sinhala-medium.pdf": "no answers",
+    "2018_Science_paper_grade-06-science-1st-term-test-paper-2018-north-western-province.pdf": "no answers",
+    "2024_Science_paper_southern-20242025-science-paper.pdf": "no answers",
+    "2023_Science_paper_science-third-term-test-paper-2023-in-sinhala-medium-3.pdf": "no answers",
+    "2022_Science_paper_2022-grade-06-science-3rd-term-test-paper-sinhala-medium.pdf": "no answers",
+    "2022_Science_paper_2022-grade-06-science-3rd-term-test-paper-north-western-province.pdf": "no answers",
+    "2021_Science_paper_2021-3rd-science-g6-sm.pdf": "no answers",
+    "2019_Science_paper_2019-g6-science.pdf": "no answers",
+    "2018_Science_paper_2018-g6-science.pdf": "no answers",
+    "2025_History_paper_history-first-term-test-paper-2025-in-sinhala-medium-3.pdf": "no answers",
+    "2023_History_answer_2023-grade-06-history-2nd-term-test-paper-with-answers-north-western-province.pdf": "Dev Set source",
+    "2020_History_answer_grade-6-histroy-paper.pdf": "Dev Set source",
+    "2023_History_paper_history-third-term-test-paper-2023-in-sinhala-medium-4.pdf": "no answers",
+    "2022_History_paper_2022-grade-06-history-3rd-term-test-paper-sinhala-medium.pdf": "no answers",
+    "2022_History_answer_2022-grade-06-history-3rd-term-test-paper-with-answers-north-western-province.pdf": "Dev Set source",
+    "2019_History_paper_2019-g6-history.pdf": "no answers",
+    "2018_History_paper_2018-g6-history.pdf": "no answers",
+    "2025_Buddhism_paper_buddhism-first-term-test-paper-2025-in-sinhala-medium-2.pdf": "no answers",
+    "2020_Buddhism_answer_grade-6-buddhism-paper.pdf": "Dev Set source",
+    "2023_Buddhism_paper_buddhism-third-term-test-paper-2023-in-sinhala-medium-4.pdf": "no answers",
+    "2021_Buddhism_paper_g6-buddhism-sm.pdf": "no answers",
+    "2019_Buddhism_paper_2019-g6-buddhism.pdf": "no answers",
+    "2018_Buddhism_paper_2018-g6-buddhism.pdf": "no answers",
+    "2025_Unknown_paper_catholic-first-term-test-paper-2025-in-sinhala-medium.pdf": "no answers",
+    "2023_Unknown_paper_catholic-third-term-test-paper-2023-in-sinhala-medium-3.pdf": "no answers",
+    "2022_Unknown_answer_2022-grade-06-catholicism-3rd-term-test-paper-with-answers-north-western-province.pdf": "Dev Set source",
+    "2021_Unknown_paper_2021-3rd-catholic-sm-g6.pdf": "no answers",
+    "2019_Unknown_paper_2019-g6-catholic.pdf": "no answers",
+    "2018_Unknown_paper_2018-g6-catholic.pdf": "no answers",
+    "2025_Unknown_paper_christianity-first-term-test-paper-2025-in-sinhala-medium.pdf": "no answers",
+    "2023_Unknown_paper_christianity-third-term-test-paper-2023-in-sinhala-medium-4.pdf": "no answers",
+    "2025_Unknown_paper_islam-first-term-test-paper-2025-in-sinhala-medium-2.pdf": "no answers",
+    "2019_Unknown_paper_grade-06-islam-2nd-term-test-paper-2019-southern-province.pdf": "no answers",
+    "2023_Unknown_paper_islam-third-term-test-paper-2023-in-sinhala-medium-4.pdf": "no answers",
+    "2022_Unknown_answer_2022-grade-06-islam-3rd-term-test-paper-with-answers-north-western-province.pdf": "Dev Set source",
+    "2021_Unknown_paper_2021-3rd-islam-g6.pdf": "no answers",
+    "2019_Unknown_paper_2019-g6-islam.pdf": "no answers",
+    "2018_Unknown_paper_2018-g6-islam.pdf": "no answers",
+    "2025_Sinhala_paper_sinhala-first-term-test-paper-2025-3.pdf": "no answers",
+    "2018_Sinhala_paper_grade-06-sinhala-1st-term-test-paper-2018-north-western-province.pdf": "no answers",
+    "2023_Sinhala_answer_2023-grade-06-sinhala-2nd-term-test-paper-with-answers-north-western-province.pdf": "Dev Set source",
+    "2020_Sinhala_answer_grade-6-sinhala-paper.pdf": "Dev Set source",
+    "2023_Sinhala_paper_sinhala-third-term-test-paper-2023-4.pdf": "no answers",
+    "2022_Sinhala_answer_2022-grade-06-sinhala-3rd-term-test-paper-with-answers-north-western-province.pdf": "Dev Set source",
+    "2021_Sinhala_paper_06-sinhala-2021-wp-3rd.pdf": "no answers",
+    "2019_Sinhala_paper_2019-g6-sinhala.pdf": "no answers",
+    "2018_Sinhala_paper_2018-g6-sinhala.pdf": "no answers",
+    "2025_Geography_paper_geography-first-term-test-paper-2025-in-sinhala-medium-3.pdf": "no answers",
+    "2018_Geography_paper_grade-06-geography-1st-term-test-paper-2018-north-western-province.pdf": "no answers",
+    "2023_Geography_answer_6-geography-sm-2.pdf": "Dev Set source",
+    "2020_Geography_answer_grade-6-geography-paper.pdf": "Dev Set source",
+    "2024_Geography_paper_southern-20242025-geography-paper.pdf": "no answers",
+    "2023_Geography_paper_geography-third-term-test-paper-2023-in-sinhala-medium-4.pdf": "no answers",
+    "2022_Geography_paper_2022-grade-06-geography-3rd-term-test-paper-sinhala-medium.pdf": "no answers",
+    "2022_Geography_answer_2022-grade-06-geography-3rd-term-test-paper-with-answers-north-western-province.pdf": "Dev Set source",
+    "2019_Geography_paper_2019-g6-geography.pdf": "no answers",
+    "2018_Geography_paper_2018-g6-geography.pdf": "no answers",
+    "2025_Civic_paper_civic-education-first-term-test-paper-2025-in-sinhala-medium-2.pdf": "no answers",
+    "2018_Civic_paper_grade-06-civic-education-1st-term-test-paper-2018-north-western-province.pdf": "no answers",
+    "2023_Civic_answer_6-civic-sm-2.pdf": "Dev Set source",
+    "2023_Civic_answer_2023-grade-06-civic-education-2nd-term-test-paper-with-answers-north-western-province.pdf": "Dev Set source",
+    "2024_Civic_paper_north-western-province-2024-grade-06-civic-education-sm-3rd-term-test.pdf": "no answers",
+    "2024_Civic_paper_southern-20242025-civics-paper.pdf": "no answers",
+    "2023_Civic_paper_civic-education-third-term-test-paper-2023-in-sinhala-medium-4.pdf": "no answers",
+    "2022_Civic_answer_2022-grade-06-civic-education-3rd-term-test-paper-with-answers-north-western-province.pdf": "Dev Set source",
+    "2019_Civic_paper_2019-g6-civic.pdf": "no answers",
+    "2018_Civic_paper_2018-g6-civic.pdf": "no answers",
+    "2023_Sinhala_paper_2023-grade-06-second-language-sinhala-1st-term-test-paper.pdf": "no answers",
+    "2024_Unknown_paper_second-language-tamil-2nd-term-2024.pdf": "no answers",
+    "2023_Unknown_paper_southern-province-2023-second-language-tamil-second-term-paper-past-paper-wiki.pdf": "no answers",
+    "2024_Unknown_paper_southern-20242025-second-language-tamil-paper.pdf": "no answers",
+    "2023_Unknown_paper_second-language-tamil-third-term-test-paper-2023-in-sinhala-medium-3.pdf": "no answers",
+    "2023_Music_paper_eastern-music-third-term-test-paper-2023-in-sinhala-medium-4.pdf": "no answers",
+    "2022_Music_answer_2022-grade-06-music-3rd-term-test-paper-with-answers-north-western-province.pdf": "Dev Set source",
+    "2023_Art_answer_2023-grade-06-art-2nd-term-test-paper-with-answers-north-western-province.pdf": "Dev Set source",
+    "2020_Art_answer_grade-6-art-paper.pdf": "Dev Set source",
+    "2019_Art_answer_grade-06-art-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-central-province.pdf": "Dev Set source",
+    "2023_Art_paper_art-third-term-test-paper-2023-in-sinhala-medium-3.pdf": "no answers",
+    "2022_Art_paper_2022-grade-06-art-3rd-term-test-paper-sinhala-medium.pdf": "no answers",
+    "2022_Art_answer_2022-grade-06-art-3rd-term-test-paper-with-answers-north-western-province.pdf": "Dev Set source",
+    "2019_Art_paper_2019-g6-art.pdf": "no answers",
+    "2018_Art_paper_2018-g6-art.pdf": "no answers",
+    "2018_Dancing_paper_grade-06-dancing-1st-term-test-paper-2018-north-western-province.pdf": "no answers",
+    "2023_Dancing_paper_dancing-third-term-test-paper-2023-in-sinhala-medium.pdf": "no answers",
+    "2022_Dancing_paper_2022-grade-06-dancing-3rd-term-test-paper-sinhala-medium.pdf": "no answers",
+    "2022_Dancing_answer_2022-grade-06-dancing-3rd-term-test-paper-with-answers-north-western-province.pdf": "Dev Set source",
+    "2019_Dancing_paper_2019-g6-dancing.pdf": "no answers",
+    "2018_Dancing_paper_2018-g6-dancing.pdf": "no answers",
+    "2018_Drama_paper_grade-06-drama-1st-term-test-paper-2018-north-western-province.pdf": "no answers",
+    "2020_Drama_answer_grade-6-drana-paper.pdf": "Dev Set source",
+    "2023_Drama_paper_drama-third-term-test-paper-2023-in-sinhala-medium-2.pdf": "no answers",
+    "2022_Drama_paper_2022-grade-06-drama-3rd-term-test-paper-sinhala-medium.pdf": "no answers",
+    "2022_Drama_answer_2022-grade-06-drama-3rd-term-test-paper-with-answers-north-western-province.pdf": "Dev Set source",
+    "2019_Drama_paper_2019-g6-drama.pdf": "no answers",
+    "2018_Drama_paper_2018-g6-drama.pdf": "no answers",
+    "2024_ICT_paper_north-western-province-2024-grade-06-ict-sm-3rd-term-test.pdf": "no answers",
+    "2018_Health_paper_grade-06-health-1st-term-test-paper-2018-north-western-province.pdf": "no answers",
+    "2023_Health_answer_6-health-sm.pdf": "Dev Set source",
+    "2023_Health_answer_2023-grade-06-health-2nd-term-test-paper-with-answers-north-western-province.pdf": "Dev Set source",
+    "2020_Health_answer_grade-6-health.pdf": "Dev Set source",
+    "2019_Health_answer_grade-06-health-2nd-term-test-paper-with-answers-2019-sinhala-medium-north-central-province.pdf": "Dev Set source",
+    "2024_Health_paper_north-western-province-2024-grade-06-health-sm-3rd-term-test.pdf": "no answers",
+    "2024_Health_paper_southern-20242025-health-paper.pdf": "no answers",
+    "2023_Health_paper_health-third-term-test-paper-2023-in-sinhala-medium-4.pdf": "no answers",
+    "2022_Health_paper_2022-grade-06-health-3rd-term-test-paper-sinhala-medium.pdf": "no answers",
+    "2019_Health_paper_2019-g6-health.pdf": "no answers",
+    "2018_Health_paper_2018-g6-health.pdf": "no answers",
+    "2020_Unknown_paper_pts-1st-term-2020.pdf": "no answers",
+    "2019_Unknown_paper_pts-1st-term-2019.pdf": "no answers",
+    "2024_Unknown_paper_pts-2nd-term-2024.pdf": "no answers",
+    "2018_Unknown_paper_grade-06-pts-2nd-term-test-paper-2018.pdf": "no answers",
+    "2024_Unknown_paper_pts-3rd-term-2024.pdf": "no answers",
+    "2024_Unknown_paper_north-western-province-2024-grade-06-pts-sm-3rd-term-test.pdf": "no answers",
+    "2023_Unknown_paper_pts-third-term-test-paper-2023-in-sinhala-medium-4.pdf": "no answers",
+    "2024_Music_paper_north-western-province-2024-grade-06-western-music-second-term-paper-past-paper-wiki.pdf": "no answers",
+    "2025_Music_answer_north-western-province-2025-grade-06-western-music-second-term-paper-with-answers-past-paper-wiki.pdf": "not a Dev Set subject (western music)",
+    "unknown_Mathematics_paper_grade-06-mathematics-first-term-module-sinhala-medium-past-paper-wiki.pdf": "no answers",
+    "unknown_Mathematics_paper_grade-06-mathematics-first-term-further-learning-module-sinhala-medium-past-paper-wiki.pdf": "no answers",
+    "2026_Mathematics_paper_grade-06-maths-first-term-sinhala-medium-teachers-guide-past-paper-wiki.pdf": "no answers",
+    "unknown_Mathematics_answer_6-sthaniya-agaya.pdf": "not a Dev Set subject (mathematics)",
+    "unknown_Mathematics_answer_6-purna-sankaya-matha-ganitha-karma.pdf": "not a Dev Set subject (mathematics)",
+    "unknown_Mathematics_answer_6-sankaya-rekawa.pdf": "not a Dev Set subject (mathematics)",
+    "2023_English_paper_2023-grade-06-maths-1st-term-test-paper-jaffna-hindu-college.pdf": "no answers",
+    "2023_Unknown_paper_2023-grade-06-maths-1st-term-test-paper-jaffna-hindu-college-2.pdf": "no answers",
+    "unknown_Mathematics_paper_grade-06-mathematics-3rd-term-test-1.pdf": "no answers",
+    "unknown_Mathematics_answer_grade-06-mathematics-3rd-term-test-1-answers.pdf": "answers file without its paper",
+    "unknown_Unknown_paper_grade-06-3rd-term-test-paper-1.pdf": "no answers",
+    "2020_Mathematics_paper_grade-06-mathematics-revision-book-2020.pdf": "no answers",
+    "unknown_Mathematics_paper_06-auae_a%c2%a6aua%c2%a6%c2%bdaaea%c2%a6%c2%a6-a%c2%a6a%c2%a6%c2%bdaaea%c2%a6a%c2%a6%c2%a6-3-acaaa%c2%a6a%c2%a6%c2%a6-a%.pdf": "no answers",
+    "unknown_Mathematics_paper_6-maths-m-paper-04.pdf": "no answers",
+    "2022_Mathematics_paper_6-maths-unit-01.pdf": "no answers",
+    "unknown_Mathematics_paper_maths-06-grade_compressed.pdf": "no answers",
+    "unknown_Science_paper_grade-06-science-first-term-module-sinhala-medium-past-paper-wiki-2.pdf": "no answers",
+    "unknown_Science_paper_grade-06-science-first-term-further-learning-module-sinhala-medium-past-paper-wiki.pdf": "no answers",
+    "unknown_Science_paper_unit-01-jaiwa-lokaye-asiriya.pdf": "no answers",
+    "unknown_Science_paper_unit-01-jaiwa-lokaye-asiriya-b.pdf": "no answers",
+    "unknown_Science_paper_unit-04-edineda-jivithayedi-shakthiya.pdf": "no answers",
+    "unknown_Science_paper_unit-05-alokaya-ha-penima.pdf": "no answers",
+    "unknown_Science_paper_unit-06-shabdaya-h-asima.pdf": "no answers",
+    "unknown_Science_paper_unit-07-chumbaka.pdf": "no answers",
+    "unknown_Science_paper_unit-08-01-viduliya.pdf": "no answers",
+    "unknown_Science_paper_g-6-08-02-viduliya.pdf": "no answers",
+    "unknown_Science_paper_g-6-08-03-viduliya.pdf": "no answers",
+    "unknown_Science_paper_g-6-09-thapaya-ehi-balapema.pdf": "no answers",
+    "unknown_Science_paper_g-6-10-ahara-ha-bedunu-anthar-kriya.pdf": "no answers",
+    "unknown_Science_paper_6-%e0%b7%81%e0%b7%8a_%e0%b6%bb%e0%b7%9a%e0%b6%ab%e0%b7%92%e0%b6%ba-%e0%b7%80%e0%b7%92%e0%b6%af%e0%b7%8a_%e0%b6%ba%e0%b7%.pdf": "no answers",
+    "unknown_Science_paper_6-auae_a%c2%a6aua%c2%a6%c2%bdaaea%c2%a6%c2%a6-acaaea%c2%a6ae_a%c2%a6%c2%a6aaac-10-a%c2%a6aea%c2%a6ua%c2%a6ua%c2%a6%c2%a6.pdf": "no answers",
+    "unknown_Science_paper_6-science-revision.pdf": "no answers",
+    "unknown_Science_paper_null-2-1.pdf": "no answers",
+    "unknown_Science_paper_g6-1st-science.pdf": "no answers",
+    "unknown_Science_paper_g-06-3rd-kelaniya.pdf": "no answers",
+    "2023_Science_paper_2023-grade-06-science-1st-term-test-paper-jaffna-hindu-college.pdf": "no answers",
+    "2023_Science_paper_2023-grade-06-science-1st-term-test-paper-jaffna-hindu-college-2.pdf": "no answers",
+    "unknown_Science_paper_06-%e0%b7%81%e0%b7%8a_%e0%b6%bb%e0%b7%9a%e0%b6%ab%e0%b7%92%e0%b6%ba-%e0%b7%80%e0%b7%92%e0%b6%af%e0%b7%8a_%e0%b6%ba%e0%b7.pdf": "no answers",
+    "unknown_Science_paper_6-science-m-paper-04.pdf": "no answers",
+    "unknown_Science_paper_6-science-revision-2.pdf": "no answers",
+    "unknown_Science_paper_science-06-grade-01_compressed.pdf": "no answers",
+    "unknown_Science_paper_grade-06-science-workbook-1st-term-galle-education-zone.pdf": "same file as another row",
+    "unknown_Science_paper_grade-06-science-workbook-nalanada-college-project.pdf": "no answers",
+    "unknown_Science_paper_grade-06-science-workbook-2nd-term-galle-education-zone.pdf": "no answers",
+    "unknown_Science_paper_grade-06-science-workbook-3rd-term-galle-education-zone.pdf": "no answers",
+    "unknown_Science_paper_grade-06-science-workbook-mathugama-education-zone.pdf": "no answers",
+    "unknown_History_paper_ithihasaya-hedinvima-grade-06-history-lesson-01.pdf": "no answers",
+    "unknown_History_paper_aadi-minisa-grade-06-history-lesson-02.pdf": "no answers",
+    "unknown_History_paper_lokaye-perani-shishtachara-grade-06-history-lesson-03.pdf": "no answers",
+    "unknown_History_paper_ape-abitha-rajawaru-dathusena-rajathuma-grade-06-history-lesson-05.pdf": "no answers",
+    "unknown_History_paper_ape-abitha-rajawaru-mahasen-rajathuma-grade-06-history-lesson-05.pdf": "no answers",
+    "unknown_History_paper_ape-abitha-rajawaru-dutugemunu-rajathuma-grade-06-history-lesson-05.pdf": "no answers",
+    "unknown_History_paper_ape-abitha-rajawaru-wasaba-rajathuma-grade-06-history-lesson-05.pdf": "no answers",
+    "unknown_History_paper_ape-abitha-rajawaru-pandukabaya-rajathuma-grade-06-history-lesson-05.pdf": "no answers",
+    "unknown_History_paper_ape-abitha-rajawaru-dewanampiyathissa-rajathuma-grade-06-history-lesson-05.pdf": "no answers",
+    "unknown_History_paper_grade-06-history-path-to-success-study-pack.pdf": "no answers",
+    "2023_History_paper_2023-grade-06-history-1st-term-test-paper-jaffna-hindu-college.pdf": "no answers",
+    "unknown_History_paper_history-06-grade_compressed.pdf": "no answers",
+    "unknown_English_paper_grade-06-study-pack-english.pdf": "no answers",
+    "2023_English_paper_2023-grade-06-english-language1st-term-test-paper-jaffna-hindu-college.pdf": "no answers",
+    "2018_English_paper_grade-06-english-1st-term-test-paper-2018-north-western-province.pdf": "same file as another row",
+    "2023_English_answer_6-english-sm.pdf": "not a Dev Set subject (english)",
+    "2020_English_answer_grade-6-english-paper.pdf": "not a Dev Set subject (english)",
+    "2019_English_paper_grade-06-english-language-2nd-term-test-paper-2019-north-central-province.pdf": "no answers",
+    "2023_English_paper_english-third-term-test-paper-2023-4.pdf": "no answers",
+    "2022_English_paper_2022-grade-06-english-listening-and-speaking-3rd-term-test-paper-north-western-province.pdf": "no answers",
+    "2022_English_answer_2022-grade-06-english-3rd-term-test-paper-with-answers-north-western-province.pdf": "not a Dev Set subject (english)",
+    "2021_English_paper_2021-3rd-english-g6.pdf": "no answers",
+    "2021_English_paper_2021-3rdterm-g06-english-speakingtest.pdf": "no answers",
+    "2021_English_paper_2021-3rdterm-g6-9-english-listeningtest.pdf": "no answers",
+    "2019_English_paper_2019-g6-english.pdf": "no answers",
+    "2018_English_paper_2018-g6-english.pdf": "no answers",
+    "unknown_Buddhism_paper_grade-06-buddhism-first-term-module-sinhala-medium-past-paper-wiki.pdf": "no answers",
+    "2026_Buddhism_paper_grade-06-buddhism-first-term-sinhala-medium-teachers-guide-new-past-paper-wiki.pdf": "no answers",
+    "unknown_Buddhism_paper_1-3.pdf": "no answers",
+    "unknown_Buddhism_paper_2-5.pdf": "no answers",
+    "unknown_Buddhism_paper_3-5.pdf": "no answers",
+    "unknown_Buddhism_paper_4-6.pdf": "no answers",
+    "unknown_Buddhism_paper_5-5.pdf": "no answers",
+    "unknown_Buddhism_paper_6-7.pdf": "no answers",
+    "unknown_Buddhism_paper_7-7.pdf": "no answers",
+    "unknown_Buddhism_paper_9-6.pdf": "no answers",
+    "unknown_Buddhism_paper_10-9.pdf": "no answers",
+    "unknown_Buddhism_paper_11-5.pdf": "no answers",
+    "unknown_Buddhism_paper_12-5.pdf": "no answers",
+    "unknown_Buddhism_paper_13-5.pdf": "no answers",
+    "unknown_Buddhism_paper_14-5.pdf": "no answers",
+    "unknown_Buddhism_paper_15-5.pdf": "no answers",
+    "unknown_Buddhism_paper_16-5.pdf": "no answers",
+    "unknown_Buddhism_paper_17-5.pdf": "no answers",
+    "unknown_Buddhism_paper_18-5.pdf": "no answers",
+    "unknown_Buddhism_paper_19-5.pdf": "no answers",
+    "unknown_Buddhism_paper_20-5.pdf": "no answers",
+    "unknown_Buddhism_paper_21-5.pdf": "no answers",
+    "unknown_Buddhism_paper_grade-06-study-pack-buddhism.pdf": "no answers",
+    "unknown_Buddhism_paper_buddhism-06-grade_compressed.pdf": "no answers",
+    "unknown_Unknown_paper_grade-06-study-pack-catholic.pdf": "no answers",
+    "unknown_Unknown_paper_grade-06-study-pack-catholic-2.pdf": "no answers",
+    "2021_Unknown_paper_g6-christ-sm.pdf": "no answers",
+    "2019_Unknown_paper_2019-g6-christianity.pdf": "no answers",
+    "2018_Unknown_paper_2018-g6-christianity.pdf": "no answers",
+    "unknown_Sinhala_paper_grade-06-sinhala-language-and-literature-first-term-module-1-2-3-past-paper-wiki.pdf": "no answers",
+    "2026_Sinhala_paper_grade-06-sinhala-language-and-literature-first-term-teachers-guide-past-paper-wiki.pdf": "no answers",
+    "2022_Sinhala_paper_6-sinhala-unit-01.pdf": "no answers",
+    "unknown_Sinhala_paper_6-akshara-malawa-ha-pili.pdf": "no answers",
+    "unknown_Sinhala_paper_6-%e0%b7%81%e0%b7%8a_%e0%b6%bb%e0%b7%9a%e0%b6%ab%e0%b7%92%e0%b6%ba-%e0%b7%83%e0%b7%92%e0%b6%82%e0%b7%84%e0%b6%bd-7-%e0%b.pdf": "no answers",
+    "unknown_Sinhala_paper_grade-06-sinhala-unit-17-maxim-gorky.pdf": "no answers",
+    "unknown_Sinhala_paper_grade-06-sinhala-unit-17-martin-wickramasinghe.pdf": "no answers",
+    "unknown_Sinhala_paper_grade-06-sinhala-unit-17-rabindranath-tagore.pdf": "no answers",
+    "unknown_Sinhala_paper_06-%e0%b7%81%e0%b7%8a_%e0%b6%bb%e0%b7%9a%e0%b6%ab%e0%b7%92%e0%b6%ba-%e0%b7%83%e0%b7%92%e0%b6%82%e0%b7%84%e0%b6%bd-1-%e0%.pdf": "no answers",
+    "unknown_Sinhala_answer_grade-06-sinhala-3rd-term-test-1-answers.pdf": "answers file without its paper",
+    "unknown_Sinhala_paper_6-sinhala-m-paper-03.pdf": "no answers",
+    "unknown_Sinhala_paper_sinhala-06-grade_compressed.pdf": "no answers",
+    "2019_Unknown_paper_2019-g6-tamil.pdf": "no answers",
+    "2018_Unknown_paper_2018-g6-tamil.pdf": "no answers",
+    "unknown_Geography_paper_grade-06-geography-first-term-module-sinhala-medium-past-paper-wiki.pdf": "no answers",
+    "unknown_Geography_paper_thama-niwasa-awata-watapitawa-yahapathwa-pawathwagenima-grade-06-geography-lesson-03.pdf": "no answers",
+    "unknown_Geography_paper_grade-06-geography-path-to-success-study-pack.pdf": "no answers",
+    "2023_English_paper_2023-grade-06-geography-1st-term-test-paper-jaffna-hindu-college.pdf": "no answers",
+    "2023_Geography_paper_2023-grade-06-geography-1st-term-test-paper-jaffna-hindu-college-2.pdf": "no answers",
+    "unknown_Geography_paper_geagraphy-6_compressed.pdf": "no answers",
+    "unknown_Civic_paper_grade-06-civic-education-first-term-module-sinhala-medium-past-paper-wiki.pdf": "no answers",
+    "2026_Civic_paper_grade-06-civic-education-first-term-sinhala-medium-teachers-guide-past-paper-wiki.pdf": "no answers",
+    "unknown_Civic_paper_grade-06-civic-education-path-to-success-study-pack.pdf": "no answers",
+    "2023_English_paper_2023-grade-06-civics-education-1st-term-test-paper-jaffna-hindu-college.pdf": "no answers",
+    "2023_Civic_paper_2023-grade-06-civic-education-1st-term-test-paper-jaffna-hindu-college.pdf": "no answers",
+    "unknown_Civic_paper_civic-edu-06-grade_compressed.pdf": "no answers",
+    "unknown_Sinhala_paper_grade-06-second-language-sinhala-first-term-module-past-paper-wiki.pdf": "no answers",
+    "2022_Unknown_paper_grade-06-second-language-tamil-2nd-term-test-paper-2022-kaluthara-zone.pdf": "no answers",
+    "2019_Unknown_paper_grade-06-second-language-tamil-2nd-term-test-paper-2019-royal-college.pdf": "no answers",
+    "2024_Sinhala_paper_southern-20242025-second-language-sinhala-paper.pdf": "no answers",
+    "unknown_Music_paper_grade-06-study-pack-music.pdf": "no answers",
+    "2018_Music_paper_grade-06-music-1st-term-test-paper-2018-north-western-province.pdf": "no answers",
+    "2023_Music_paper_2023-grade-06-music-1st-term-test-paper-jaffna-hindu-college.pdf": "no answers",
+    "unknown_Music_paper_music-06-grade_compressed.pdf": "no answers",
+    "unknown_Music_paper_grade-06-western-music-first-term-module-past-paper-wiki.pdf": "no answers",
+    "2024_Music_paper_western-music-1st-term-2024.pdf": "no answers",
+    "2022_Music_paper_western-music-2nd-term-2022.pdf": "no answers",
+    "2024_Music_paper_western-music-2nd-term-2024-2.pdf": "no answers",
+    "2024_Music_paper_north-western-province-2024-grade-06-western-music-3rd-term-test.pdf": "no answers",
+    "2023_Music_paper_western-music-third-term-test-paper-2023-3.pdf": "no answers",
+    "2019_Music_paper_2019-g6-western-music.pdf": "no answers",
+    "2018_Sinhala_paper_2018-g6-western-music-sinhala.pdf": "no answers",
+    "unknown_Art_paper_grade-06-art-first-term-module-sinhala-medium-past-paper-wiki.pdf": "no answers",
+    "unknown_Art_paper_grade-06-study-pack-art.pdf": "no answers",
+    "2023_Art_paper_2023-grade-06-art-1st-term-test-paper-jaffna-hindu-college.pdf": "no answers",
+    "unknown_Art_paper_art-06-grade_compressed.pdf": "no answers",
+    "unknown_Dancing_paper_grade-06-dancing-first-term-further-learning-module-sinhala-medium-past-paper-wiki.pdf": "no answers",
+    "unknown_Dancing_paper_grade-06-study-pack-dancing.pdf": "no answers",
+    "unknown_Dancing_paper_06-wasara-pdf-1.pdf": "no answers",
+    "unknown_Drama_paper_grade-06-drama-first-term-module-sinhala-medium-past-paper-wiki.pdf": "no answers",
+    "unknown_Drama_paper_grade-06-study-pack-drama.pdf": "no answers",
+    "2023_Drama_paper_2023-grade-06-drama-1st-term-test-paper-jaffna-hindu-college.pdf": "no answers",
+    "unknown_Drama_paper_drama-theatre-06-grade_compressed.pdf": "no answers",
+    "2026_ICT_paper_grade-06-ict-first-term-sinhala-medium-teachers-guide-past-paper-wiki.pdf": "no answers",
+    "2023_English_paper_2023-grade-06-ict-1st-term-test-paper-jaffna-hindu-college.pdf": "no answers",
+    "2023_ICT_paper_2023-grade-06-ict-1st-term-test-paper-jaffna-hindu-college-2.pdf": "no answers",
+    "2022_ICT_paper_2022-grade-06-ict-3rd-term-test-paper-north-western-province.pdf": "no answers",
+    "unknown_ICT_paper_ict-06-grade_compressed.pdf": "no answers",
+    "unknown_Unknown_paper_grade-06-information-and-communication-technology-workbook-sinhala-medium-new-syllabus.pdf": "no answers",
+    "unknown_Health_paper_grade-06-health-first-term-module-sinhala-medium-past-paper-wiki.pdf": "no answers",
+    "unknown_Health_paper_let-us-improve-personality-through-posture-grade-06-health-lesson-03-1.pdf": "no answers",
+    "unknown_Health_paper_let-us-improve-personality-through-posture-grade-06-health-lesson-03-2.pdf": "no answers",
+    "unknown_Health_paper_let-us-enjoy-our-leisure-through-recreational-games-grade-06-health-lesson-04.pdf": "no answers",
+    "unknown_Health_paper_let-us-respect-rules-regulations-and-ethics-in-sports-grade-06-health-lesson-06.pdf": "no answers",
+    "unknown_Health_paper_let-us-improve-fitness-for-a-balanced-life-grade-06-health-lesson-09-1.pdf": "no answers",
+    "unknown_Health_paper_let-us-improve-fitness-for-a-balanced-life-grade-06-health-lesson-09-2.pdf": "no answers",
+    "2023_English_paper_2023-grade-06-health-1st-term-test-paper-jaffna-hindu-college.pdf": "no answers",
+    "2023_Health_paper_2023-grade-06-health-1st-term-test-paper-jaffna-hindu-college-2.pdf": "no answers",
+    "unknown_Health_paper_health-06_compressed.pdf": "no answers",
+    "unknown_Unknown_paper_6-pts-1st.pdf": "no answers",
+    "unknown_Unknown_paper_6-pts-2nd.pdf": "no answers",
+    "unknown_Unknown_paper_6-pts-3rd.pdf": "no answers",
+    "2023_Unknown_paper_2023-grade-06-pts-1st-term-test-paper-jaffna-hindu-college.pdf": "no answers",
+    "2019_Unknown_paper_grade-06-pts-2nd-term-test-paper-2019-richmond-college.pdf": "no answers",
+    "2022_Unknown_paper_2022-grade-06-pts-3rd-term-test-paper-sinhala-medium.pdf": "no answers",
+    "unknown_Unknown_paper_prayogika-thakshnika-kusalatha-06-grade_compressed.pdf": "no answers",
+    "2022_Unknown_answer_maths-sm-12.pdf": "not a Dev Set subject (maths)",
+    "2022_Unknown_paper_2022-grade-06-pts-2nd-term-test-paper-sinhala-medium.pdf": "no answers",
+    "2019_Unknown_paper_grade-06-christianity-2nd-term-test-paper-2019-richmond-college.pdf": "no answers",
+    "2020_Unknown_paper_grade-06-christianity-1st-term-test-paper-2020-richmond-college.pdf": "no answers",
+    "2022_Unknown_paper_2022-grade-06-islam-2nd-term-test-paper-sinhala-medium.pdf": "no answers",
+    "unknown_Unknown_paper_grade-06-electrical-electronic-technology-module-sinhala-medium-past-paper-wiki.pdf": "no answers",
+    "2022_Sinhala_paper_2022-grade-06-sinhala-3rd-term-test-paper.pdf": "no answers",
+    "2022_Sinhala_paper_2022-grade-06-sinhala-2nd-term-test-paper.pdf": "no answers",
+    "2023_Unknown_paper_2023-grade-06-saivaneri-1st-term-test-paper-jaffna-hindu-college.pdf": "no answers",
+    "2024_Unknown_answer_maths-sm-6.pdf": "not a Dev Set subject (maths)",
+    "2022_Unknown_paper_2022-grade-06-maths-2nd-term-test-paper-sinhala-medium.pdf": "no answers",
+    "2022_Science_paper_2022-grade-06-science-2nd-term-test-paper-sinhala-medium.pdf": "no answers",
+    "2022_History_paper_2022-grade-06-history-2nd-term-test-paper-sinhala-medium.pdf": "no answers",
+    "2022_Geography_paper_2022-grade-06-geography-2nd-term-test-paper-sinhala-medium.pdf": "no answers",
+    "2022_Civic_paper_2022-grade-06-civic-education-2nd-term-test-paper-sinhala-medium.pdf": "no answers",
+    "2022_Art_paper_2022-grade-06-art-2nd-term-test-paper-sinhala-medium.pdf": "no answers",
+    "2022_Dancing_paper_2022-grade-06-dancing-2nd-term-test-paper-sinhala-medium.pdf": "no answers",
+    "2022_Drama_paper_2022-grade-06-drama-2nd-term-test-paper-sinhala-medium.pdf": "no answers",
+    "2022_Health_paper_2022-grade-06-health-2nd-term-test-paper-sinhala-medium.pdf": "no answers",
+    "unknown_Unknown_paper_grade-06-tamil-language-and-literature-first-term-module-past-paper-wiki.pdf": "no answers",
+    "unknown_Unknown_paper_grade-06-second-language-tamil-first-term-module-past-paper-wiki.pdf": "no answers",
+    "unknown_Unknown_paper_grade-06-appreciation-of-tamil-first-term-module-past-paper-wiki.pdf": "no answers",
+    "unknown_English_paper_grade-06-appreciation-of-english-literature-first-term-module-past-paper-wiki.pdf": "no answers",
+    "unknown_ICT_paper_grade-06-ict-first-term-further-learning-module-sinhala-medium-past-paper-wiki-2.pdf": "no answers",
+    "2026_English_paper_grade-06-appreciation-of-english-literature-first-term-teachers-guide-past-paper-wiki.pdf": "no answers",
+    "2026_Sinhala_paper_grade-06-sinhala-literature-first-term-teachers-guide-past-paper-wiki.pdf": "no answers",
+    "2026_Unknown_paper_grade-06-technology-for-life-first-term-sinhala-medium-teachers-guide-past-paper-wiki.pdf": "no answers",
+    "2026_Unknown_paper_grade-06-tea-industry-sinhala-medium-teachers-guide-past-paper-wiki.pdf": "no answers",
+    "2022_English_paper_2022-grade-06-english-2nd-term-test-paper.pdf": "no answers",
+    "unknown_Sinhala_paper_6-nama-pada-ha-ehi-prabeda.pdf": "no answers",
+    "unknown_Sinhala_paper_grade-6-drama-all.pdf": "no answers",
+    "unknown_Sinhala_paper_grade-06-2nd-term.pdf": "no answers",
+    "unknown_Sinhala_paper_grade-06-1st-term.pdf": "no answers",
+    "unknown_Unknown_paper_grade-06-technology-for-life-first-term-module-sinhala-medium-past-paper-wiki.pdf": "no answers",
+    "unknown_Unknown_paper_grade-06-entrepreneurship-and-financial-literacy-first-term-module-sinhala-medium-past-paper-wiki.pdf": "no answers",
+    "unknown_Unknown_paper_grade-06-aquatic-resources-module-sinhala-medium-past-paper-wiki.pdf": "no answers",
+    "unknown_Unknown_paper_grade-06-coconut-industry-module-sinhala-medium-past-paper-wiki.pdf": "no answers",
+    "unknown_Unknown_paper_grade-06-gem-and-jewellery-module-sinhala-medium-past-paper-wiki.pdf": "no answers",
+    "unknown_Unknown_paper_grade-06-tea-industry-module-sinhala-medium-past-paper-wiki.pdf": "no answers",
+    "2026_Unknown_paper_grade-06-aquatic-resources-sinhala-medium-teachers-guide-past-paper-wiki.pdf": "no answers",
+    "2026_Unknown_paper_grade-06-coconut-industry-sinhala-medium-teachers-guide-past-paper-wiki.pdf": "no answers",
+    "2026_Unknown_paper_grade-06-electrical-electronic-technology-sinhala-medium-teachers-guide-past-paper-wiki.pdf": "no answers",
+    "unknown_History_paper_grade-06-history-first-term-module-sinhala-medium-past-paper-wiki.pdf": "no answers",
+    "unknown_History_paper_grade-06-history-first-term-further-learning-module-sinhala-medium-past-paper-wiki.pdf": "no answers"
+  },
+  "mcq_parsed": 353,
+  "mcq_rejected": {
+    "not 4-5 options": 97,
+    "needs a figure": 42,
+    "answer words match no single option": 4,
+    "no close match in the text layer": 14,
+    "all/none of the above": 2,
+    "no answer in the paper's key": 96,
+    "duplicate options": 3
+  },
+  "mcq_dropped": {
+    "near_duplicate": 10,
+    "too_close_to_dev": 51,
+    "too_close_to_dev_with_options": 4
+  },
+  "mcq_final": 288,
+  "by_subject_grade": {
+    "Arts g6": 10,
+    "Buddhism g6": 32,
+    "Catholicism g6": 13,
+    "Christianity g6": 5,
+    "Civics g6": 13,
+    "Eastern music g6": 8,
+    "Geography g6": 7,
+    "Health and Physical Science g6": 10,
+    "History g6": 17,
+    "Islam g6": 5,
+    "Sinhala language and literature g6": 76,
+    "dancing g6": 15,
+    "drama and Theatre g6": 19,
+    "science g6": 58
+  },
+  "answer_position": {
+    "1": 72,
+    "2": 72,
+    "3": 77,
+    "4": 67,
+    "5": 0
+  },
+  "answer_is_longest_option": 0.326
+}
