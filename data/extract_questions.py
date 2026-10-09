@@ -9,11 +9,12 @@ Usage (from the repo root, after data/collect_papers.py):
     python data/extract_questions.py --limit 20              # try on a few first
     python data/extract_questions.py --pdf some_paper.pdf    # one file, prints what it found
 
-Output in data/extracted/:
+Output in data/extracted/grade_XX/ (one folder per grade, e.g. grade_10/):
     questions_grade_10.json   questions with an answer, same format as the Dev Set files
     no_answer_grade_10.json   questions whose answer key couldn't be found (not for training)
     report.csv                one row per PDF: status, #questions, #answers
     needs_ocr.csv             scanned PDFs (no text layer, or an unreadable OCR layer)
+Use --grade 12 to (re)process one grade; other grades' folders are left untouched.
 """
 
 import argparse
@@ -500,6 +501,7 @@ def main():
     ap.add_argument("--out", type=Path, default=here / "extracted")
     ap.add_argument("--dev", type=Path, default=here.parent / "Dev Set", help="drop questions that are in the Dev Set")
     ap.add_argument("--limit", type=int, help="only process the first N PDFs")
+    ap.add_argument("--grade", type=int, help="only process this grade (default: every grade in --papers)")
     ap.add_argument("--pdf", type=Path, help="process a single PDF and print the questions")
     ap.add_argument("--to-four", action="store_true",
                     help="convert 5-option (A/L) questions to 4 options by removing one wrong option")
@@ -516,6 +518,8 @@ def main():
         return
 
     papers = load_papers(args.papers)
+    if args.grade:
+        papers = [p for p in papers if p["local_path"].startswith(f"grade_{args.grade:02d}/")]
     if not papers:
         raise SystemExit(f"No PDFs found in {args.papers}. Run data/collect_papers.py first "
                          "(it downloads into data/raw_papers/grade_XX/<Subject>/...).")
@@ -575,17 +579,24 @@ def main():
             seen.add(k)
             (with_ans if q["answer"] else no_ans)[q["metadata"]["grade"]].append(q)
 
-    for grade in sorted(set(with_ans) | set(no_ans)):
-        json.dump(with_ans[grade], open(args.out / f"questions_grade_{grade}.json", "w", encoding="utf-8"),
+    # One folder per grade: extracted/grade_10/{questions_grade_10.json, no_answer_grade_10.json,
+    # report.csv, needs_ocr.csv}. PDF paths start with their grade folder (grade_10/...).
+    pdf_grade = {meta["local_path"]: int(meta["grade"]) for meta, *_ in results if str(meta.get("grade", "")).isdigit()}
+    grade_of = lambda row: pdf_grade.get(row["pdf"], 0)
+    for grade in sorted(set(with_ans) | set(no_ans) | {grade_of(r) for r in report}):
+        d = args.out / f"grade_{grade:02d}"
+        d.mkdir(parents=True, exist_ok=True)
+        json.dump(with_ans[grade], open(d / f"questions_grade_{grade}.json", "w", encoding="utf-8"),
                   ensure_ascii=False, indent=2)
-        json.dump(no_ans[grade], open(args.out / f"no_answer_grade_{grade}.json", "w", encoding="utf-8"),
+        json.dump(no_ans[grade], open(d / f"no_answer_grade_{grade}.json", "w", encoding="utf-8"),
                   ensure_ascii=False, indent=2)
-    for name, rows in (("report.csv", report), ("needs_ocr.csv", needs_ocr)):
-        if rows:
-            with open(args.out / name, "w", newline="", encoding="utf-8-sig") as f:
-                w = csv.DictWriter(f, fieldnames=list(rows[0]))
-                w.writeheader()
-                w.writerows(rows)
+        for name, rows in (("report.csv", report), ("needs_ocr.csv", needs_ocr)):
+            rows = [r for r in rows if grade_of(r) == grade]
+            if rows:
+                with open(d / name, "w", newline="", encoding="utf-8-sig") as f:
+                    w = csv.DictWriter(f, fieldnames=list(rows[0]))
+                    w.writeheader()
+                    w.writerows(rows)
 
     statuses = Counter(r["status"] for r in report)
     total_ans = sum(len(v) for v in with_ans.values())

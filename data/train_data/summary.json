@@ -1,0 +1,77 @@
+{
+  "splits": {
+    "train": 9432,
+    "val": 497,
+    "test (Dev Set)": 1851
+  },
+  "filtering": {
+    "extracted (with answers)": 11257,
+    "dropped: overlaps a Dev Set question": 114,
+    "dropped: needs figure/table/passage": 1093,
+    "dropped: same paper as Dev Set": 117,
+    "dropped: duplicate across papers/grades": 4,
+    "converted 5 -> 4 options": 2923
+  },
+  "train_by_grade": {
+    "6": 270,
+    "7": 43,
+    "8": 198,
+    "9": 526,
+    "10": 1995,
+    "11": 3643,
+    "12": 1037,
+    "13": 1720
+  },
+  "train_by_subject": {
+    "Science": 684,
+    "Communication and Media Studies": 684,
+    "Christianity": 618,
+    "Drama and Theatre": 613,
+    "Home Economics": 543,
+    "Health and Physical Science": 530,
+    "Buddhism": 513,
+    "Business and Accounting Studies": 461,
+    "Sinhala Language and Literature": 460,
+    "Catholicism": 406,
+    "Citizenship Education": 382,
+    "Dancing": 366,
+    "Agriculture and Food Technology": 353,
+    "Islam": 334,
+    "Design and Construction Technology": 326,
+    "Biology": 314,
+    "History": 314,
+    "Buddhist Civilization": 304,
+    "Entrepreneurship Studies": 270,
+    "Eastern Music": 219,
+    "Arts": 191,
+    "Political Science": 150,
+    "Physics": 150,
+    "Geography": 85,
+    "Economics": 80,
+    "Biosystems Technology": 73,
+    "History of Sri Lanka": 9
+  },
+  "test_by_subject": {
+    "Science": 164,
+    "Buddhism": 162,
+    "Sinhala Language and Literature": 155,
+    "History": 151,
+    "Eastern Music": 143,
+    "Catholicism": 132,
+    "Christianity": 130,
+    "Health and Physical Science": 130,
+    "Drama and Theatre": 128,
+    "Citizenship Education": 123,
+    "Geography": 117,
+    "Dancing": 108,
+    "Islam": 108,
+    "Arts": 100
+  },
+  "subjects_in_test_but_not_train": [],
+  "answer_distribution_train": {
+    "1": 2241,
+    "2": 2534,
+    "3": 2542,
+    "4": 2115
+  }
+}

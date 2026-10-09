@@ -27,8 +27,10 @@ def main():
     ap.add_argument("--grade", type=int, default=10)
     args = ap.parse_args()
 
-    name = "no_answer" if args.no_answer else "questions"
-    path = here / f"{name}_grade_{args.grade}.json"
+    name = f"{'no_answer' if args.no_answer else 'questions'}_grade_{args.grade}.json"
+    path = here / f"grade_{args.grade:02d}" / name
+    if not path.exists():
+        path = here / name                 # older flat layout
     if not path.exists():
         raise SystemExit(f"{path} not found. Run data/extract_questions.py first.")
     qs = json.load(open(path, encoding="utf-8"))

@@ -226,3 +226,101 @@ def make_val_accuracy_callback(scorer, val_df, save_dir, batch_size=64):
             print(msg)
 
     return ValAccuracy()
+
+
+LORA_TARGETS = r"^(?!.*vision).*\.(q_proj|k_proj|v_proj|o_proj|gate_proj|up_proj|down_proj)$"
+
+
+def train_lora(model, tok, train_df, val_df, out_dir, *, ckpt_dir=None, r=16, alpha=None, dropout=0.05,
+               targets=LORA_TARGETS, lr=1e-4, epochs=1, batch_size=8, grad_accum=2, max_len=512,
+               aug_shuffles=1, seed=42, dtype=None, load_in_4bit=True, scorer_tokens=8000, extra_args=None,
+               max_minutes=None):
+    """LoRA fine-tuning on (question, answer) pairs, keeping the epoch with the best val accuracy.
+
+    Returns (model with the best adapter active, val history, best val accuracy).
+    If out_dir already holds a finished run, it is loaded instead of training again. With ckpt_dir,
+    a checkpoint is saved every epoch and an interrupted run resumes from it.
+    max_minutes: stop training early when time runs out (e.g. Kaggle's 12-hour limit); the best
+    adapter so far is kept, and if no epoch finished, the adapter is scored and saved as it is.
+    """
+    import json
+    import math
+    from pathlib import Path
+
+    from peft import LoraConfig, PeftModel, get_peft_model, prepare_model_for_kbit_training
+    from transformers import TrainingArguments
+
+    from .prompting import shuffle_augment
+
+    out_dir = Path(out_dir)
+    done_file = out_dir / "training_complete.json"
+    if done_file.exists():
+        saved = json.loads(done_file.read_text())
+        print(f"Already trained: loading the best adapter from {out_dir}")
+        return PeftModel.from_pretrained(model, str(out_dir)), saved["history"], saved["best"]
+
+    torch.manual_seed(seed)
+    if load_in_4bit:
+        model = prepare_model_for_kbit_training(model, use_gradient_checkpointing=True)
+    model.config.use_cache = False
+    model = get_peft_model(model, LoraConfig(
+        r=r, lora_alpha=alpha or 2 * r, lora_dropout=dropout, target_modules=targets, task_type="CAUSAL_LM",
+    ))
+    model.print_trainable_parameters()
+
+    examples = build_train_examples(tok, shuffle_augment(train_df, aug_shuffles, seed=seed), max_len=max_len)
+    steps = math.ceil(len(examples) / (batch_size * grad_accum)) * epochs
+    print(f"{len(examples)} training examples, {steps} optimizer steps")
+
+    settings = dict(
+        output_dir=str(ckpt_dir or out_dir / "_tmp"),
+        per_device_train_batch_size=batch_size,
+        gradient_accumulation_steps=grad_accum,
+        num_train_epochs=epochs,
+        learning_rate=lr,
+        lr_scheduler_type="cosine",
+        warmup_steps=max(1, int(0.05 * steps)),
+        logging_steps=10,
+        save_strategy="epoch" if ckpt_dir else "no",
+        save_total_limit=1,
+        bf16=dtype == torch.bfloat16, fp16=dtype == torch.float16,
+        gradient_checkpointing=True,
+        gradient_checkpointing_kwargs={"use_reentrant": False},
+        remove_unused_columns=False,
+        report_to="none",
+        seed=seed,
+    )
+    args = TrainingArguments(**{**settings, **(extra_args or {})})   # extra_args override the defaults
+    scorer = ChoiceScorer(model, tok, max_tokens_per_batch=scorer_tokens)
+    val_cb = make_val_accuracy_callback(scorer, val_df, out_dir)
+    callbacks = [val_cb]
+    if max_minutes:
+        import time
+        from transformers import TrainerCallback
+
+        deadline = time.time() + max_minutes * 60
+
+        class TimeLimit(TrainerCallback):
+            def on_step_end(self, args, state, control, **kw):
+                if time.time() > deadline and not control.should_training_stop:
+                    print(f"Time budget ({max_minutes:.0f} min) reached at epoch {state.epoch:.2f}: stopping early")
+                    control.should_training_stop = True
+
+        callbacks.append(TimeLimit())
+    trainer = make_trainer_class()(
+        model=model, args=args, train_dataset=examples, data_collator=Collator(tok.pad_token_id), callbacks=callbacks,
+    )
+    resume = bool(ckpt_dir) and any(Path(ckpt_dir).glob("checkpoint-*"))
+    if resume:
+        print("Resuming from the last saved epoch in", ckpt_dir)
+    trainer.train(resume_from_checkpoint=True if resume else None)
+    if val_cb.best < 0:                    # stopped before the first epoch ended: score and keep what we have
+        val_cb.on_epoch_end(args, trainer.state, trainer.control, model=model)
+    tok.save_pretrained(out_dir)
+
+    # The model in memory is from the last epoch; switch to the best epoch's adapter.
+    model.load_adapter(str(out_dir), adapter_name="best")
+    model.set_adapter("best")
+    model.config.use_cache = True
+    done_file.write_text(json.dumps({"history": val_cb.history, "best": val_cb.best}))
+    return model, val_cb.history, val_cb.best

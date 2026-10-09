@@ -95,3 +95,25 @@ def save_jsonl(df: pd.DataFrame, path):
 def load_jsonl(path) -> pd.DataFrame:
     with open(path, encoding="utf-8") as f:
         return pd.DataFrame([json.loads(line) for line in f if line.strip()])
+
+
+def oversample(df: pd.DataFrame, subjects=None, subject_factor=1.0, max_grade=None, grade_factor=1.0, seed=42):
+    """Repeat rows to give some data more weight in training.
+
+    subjects/subject_factor: e.g. the subjects that appear in the test set, x1.5.
+    max_grade/grade_factor:  e.g. grades <= 9 (closest to the grade 6-8 test set), x2.
+    Factors multiply; fractional parts are sampled at random.
+    """
+    import random
+    rng = random.Random(seed)
+    out = []
+    for r in df.to_dict(orient="records"):
+        f = 1.0
+        if subjects is not None and r["subject"] in subjects:
+            f *= subject_factor
+        if max_grade is not None and r.get("grade") is not None and r["grade"] <= max_grade:
+            f *= grade_factor
+        n = int(f) + (rng.random() < f - int(f))
+        for k in range(n):
+            out.append({**r, "id": r["id"] if k == 0 else f"{r['id']}#rep{k}"})
+    return pd.DataFrame(out).sample(frac=1, random_state=seed).reset_index(drop=True)
